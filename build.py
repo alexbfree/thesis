@@ -8,9 +8,11 @@ from jinja2 import Environment, FileSystemLoader
 from shutil import copy
 from distutils import dir_util
 import frontmatter
+import glob
 
 WEBSITE_PATH = "./out/website/"
 OUT_PATH = "./out"
+SRC_PATH = "./src"
 
 # Builds the entire thesis
 def buildThesis(format):
@@ -25,10 +27,21 @@ def buildThesis(format):
     filename = "thesis.{}".format(format)
 
     # define args now
+    args = ["pandoc", "src/index.md"]
 
-    args = ["pandoc", "src/index.md", "src/chapter-01.md", "src/chapter-02.md", "src/chapter-03.md", "src/chapter-04.md", "src/chapter-05.md", "src/chapter-06.md", "src/chapter-07.md", "src/chapter-08.md", "src/bibliography.md", "-s", "--toc", "--toc-depth=2", "--filter=pandoc-citeproc", "--self-contained", "--number-sections", "--output={}{}".format(outputPath, filename)]
 
-    # Add for pdf
+    # Add chapters dynamically based on a pattern, count the chapters and them add in sequence based on number (not on filename order in the list)
+    pattern = "chapter-[0-9]*.md"
+
+    for i in range(len(glob.glob("{}/{}".format(SRC_PATH, pattern)))):
+        args.append("src/chapter-{}.md".format(i+1))
+
+
+    # Finish the bulk of arguments
+    args.append("src/bibliography.md") # this always comes last after the chapters
+    args.extend(["-s", "--toc", "--toc-depth=2", "--filter=pandoc-citeproc", "--self-contained", "--number-sections", "--output={}{}".format(outputPath, filename)])
+
+    # Add for pdf (avoid latex pdfs)
 
     if format == "pdf":
         args.append("-t")
@@ -49,10 +62,10 @@ def buildChapter(chapterNumber, format):
     subprocess.run(["mkdir", "-p", outputPath])
 
     # Define filename
-    filename = "chapter-0{}.{}".format(chapterNumber, format)
+    filename = "chapter-{}.{}".format(chapterNumber, format)
 
     # define pandoc args
-    args = ["pandoc", "src/index.md", "src/chapter-0{}.md".format(chapterNumber), "src/bibliography.md" , "--output={}{}".format(outputPath,filename), "-s", "--toc", "--filter=pandoc-citeproc", "--self-contained", "--number-sections"]
+    args = ["pandoc", "src/index.md", "src/chapter-{}.md".format(chapterNumber), "src/bibliography.md" , "--output={}{}".format(outputPath,filename), "-s", "--toc", "--filter=pandoc-citeproc", "--self-contained", "--number-sections"]
 
     # Append the args for offsetting the section number (chapter number minus 1)
     args.append("--number-offset={}".format(int(chapterNumber) - 1))
@@ -102,9 +115,9 @@ def buildCoversheet(outputPath):
 
     for i in range(1,9):
         item = {}
-        item["file"] = "chapter-0{}".format(i)
+        item["file"] = "chapter-{}".format(i)
 
-        title = soup.find("h1", id="chapter-0{}".format(i)).contents # Nab the h1 element with the chapter title
+        title = soup.find("h1", id="chapter-{}".format(i)).contents # Nab the h1 element with the chapter title
         item["title"] = "{}{}".format(title[0],title[1])
 
         items.append(item)
@@ -120,15 +133,15 @@ def buildWebsite():
     # Check for and create the folder
     subprocess.run(["mkdir", "-p", WEBSITE_PATH])
 
-    # # Build the various copies of the thesis
-    # buildThesis("html")
-    # buildThesis("odt")
-    # buildThesis("docx")
-    #
-    # # Build chapters separately. It's nice to break things up for people.
-    # buildChapters("html")
-    # buildChapters("odt")
-    # buildChapters("docx")
+    # Build the various copies of the thesis
+    buildThesis("html")
+    buildThesis("odt")
+    buildThesis("docx")
+
+    # Build chapters separately. It's nice to break things up for people.
+    buildChapters("html")
+    buildChapters("odt")
+    buildChapters("docx")
 
     # Copy files (note: is there a better way to do this?)
     copy("./src/web.css", WEBSITE_PATH)
@@ -141,7 +154,6 @@ def buildWebsite():
     buildCoversheet(WEBSITE_PATH)
 
 
-
 # Main function to check arguments
 def main(argv):
     if argv[1] == "chapter":
@@ -152,6 +164,8 @@ def main(argv):
         buildChapters(argv[2])
     elif argv[1] == "website":
         buildWebsite()
+    elif argv[1] == "list":
+        getListOfAllChapters()
 
 
 
