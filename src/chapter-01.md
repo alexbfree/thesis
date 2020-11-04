@@ -1,4 +1,4 @@
-Chapter Headings are h1 {#also-put-an-id-for-linking
+Chapter Headings are h1 {#chapter-1}
 =======================
 
 Start writing! :-)
