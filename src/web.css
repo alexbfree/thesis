@@ -1,0 +1,145 @@
+body {
+  margin: 12em;
+  font-size: 16pt;
+  font-family: sans-serif;
+}
+
+p, li{
+  line-height: 1.65;
+}
+
+.centre {
+  text-align: center;
+}
+
+.margins-top {
+  margin-top: 5em;
+}
+
+.margins-bottom {
+  margin-bottom: 5em;
+}
+
+.author{
+  text-align: center;
+  font-size: 24pt;
+}
+
+
+#header {
+  text-align: center;
+}
+
+#header h1 {
+  margin-bottom: 1em;
+}
+
+h1 {
+text-align: center;
+margin-top: 3em;
+margin-bottom: 3em;
+}
+
+table {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 2em;
+  margin-bottom: 2em;
+  border-style: solid;
+  border-color: white;
+}
+
+td, th {
+  padding: 1em;
+  border: 1px solid;
+  border-color: white;
+  }
+
+th {
+  background-color: #d1dbbc;
+}
+
+td {
+  background-color: #ecf0f1;
+}
+
+
+/* Make blockquotes readable, from https://css-tricks.com/snippets/css/simple-and-nice-blockquote-styling/ */
+blockquote {
+  background: #f9f9f9;
+  border-left: 10px solid #ccc;
+  margin: 1.5em 10px;
+  padding: 0.5em 10px;
+  quotes: "\201C""\201D""\2018""\2019";
+}
+blockquote:before {
+  color: #ccc;
+  content: open-quote;
+  font-size: 4em;
+  line-height: 0.1em;
+  margin-right: 0.25em;
+  vertical-align: -0.4em;
+}
+blockquote p {
+  display: inline;
+}
+
+code {
+  background: #ECECEC;
+  color: #D24D27;
+  padding: 0.1em;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+}
+
+
+figcaption, p.caption {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  font-style: italic;
+
+}
+
+@media print {
+  @page {
+    size: A4;
+
+    @bottom-right {
+      content: counter(page)
+    }
+  }
+
+  body {
+    margin: 2cm;
+    font-size: 12pt;
+  }
+
+  h1 {
+  text-align: center;
+  margin-top: 3em;
+  margin-bottom: 3em;
+  font-size: 14pt;
+
+  page-break-before: always;
+  }
+
+  h2,h3,h4,h5{
+    text-align: left;
+    font-size: 12pt;
+  }
+
+  h2, h3 {
+    font-weight: bold;
+  }
+
+  h3 {
+    font-style: italic;
+  }
+}
