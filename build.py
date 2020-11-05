@@ -144,7 +144,7 @@ def buildWebsite():
     buildChapters("docx")
 
     # Copy files (note: is there a better way to do this?)
-    copy("./src/web.css", WEBSITE_PATH)
+    copy("./src/styles.css", WEBSITE_PATH)
 
     dir_util.copy_tree("{}/html/".format(OUT_PATH), WEBSITE_PATH+"html/")
     dir_util.copy_tree("{}/odt/".format(OUT_PATH), WEBSITE_PATH+"odt/")
