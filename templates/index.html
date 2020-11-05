@@ -2,79 +2,98 @@
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
-    <link rel="stylesheet" href="https://unpkg.com/purecss@1.0.0/build/pure-min.css" integrity="sha384-nn4HPE8lTHyVtfCBi5yW9d20FjT8BJwUXyWZT9InLYax14RDjBj46LmSztkmNP9w" crossorigin="anonymous">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://unpkg.com/purecss@2.0.3/build/pure-min.css" integrity="sha384-4ZPLezkTZTsojWFhpdFembdzFudphhoOzIunR1wH6g1WQDzCAiPvDyitaK67mp0+" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://unpkg.com/purecss@2.0.3/build/buttons-min.css">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
     <link rel="stylesheet" href="web.css">
     <title>{{ thesis_title }} | {{ thesis_author }}</title>
   </head>
   <body>
-    <div id="header">
 
-    <h1>{{ thesis_title }}</h1>
-    <h2 class="author">{{ thesis_author }}</h2>
+    <div class="pure-g">
+      <div class="pure-u-1 pure-u-sm-1">
+        <div id="header">
 
+        <h1>{{ thesis_title }}</h1>
+        <h2 class="author">{{ thesis_author }}</h2>
+
+        </div>
+      </div>
     </div>
 
-    <div class="download-links margins-top">
-      <p class="centre">
-        <a class="pure-button pure-button-primary" href="./html/thesis.html"><i class="fab fa-html5"></i> Read Online</a> <a class="pure-button pure-button-primary" href="./docx/thesis.docx"><i class="fas fa-file-word"></i> Download</a>
-      </p>
-      <p class="centre">
-        <a href="https://gitlab.com/mrshll1001/thesis" class="pure-button"><i class="fab fa-gitlab"></i> Source</a>
-      </p>
+    <div class="pure-g">
+      <div class="pure-u-1 pure-u-sm-1">
+        <div class="download-links margins-top">
+          <p class="centre">
+            <a class="pure-button pure-button-primary" href="./html/thesis.html"><i class="fab fa-html5"></i> Read Online</a> <a class="pure-button pure-button-primary" href="./docx/thesis.docx"><i class="fas fa-file-word"></i> Download</a>
+          </p>
+          <p class="centre">
+            <a href="{{ thesis_source }}" class="pure-button"><i class="fab fa-gitlab"></i> Source</a>
+          </p>
+        </div>
+      </div>
     </div>
 
-    <h2>Last Updated <span id="last_updated_date">{{ last_updated }}</span></h2>
-    <p>If this date looks off, try doing a hard refresh with Ctrl &#43; R (not F5).</p>
-
-
-    <div id="git_logs">
-      <table class="pure-table">
-        <thead>
-          <tr>
-            <th>Web</th>
-            <th>OpenDocument</th>
-            <th>Word</th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr>
-            <td>
-              <a href="./html/thesis.html">Thesis</a>
-            </td>
-
-            <td>
-              <a href="./odt/thesis.odt">thesis.odt</a>
-            </td>
-
-            <td>
-              <a href="./docx/thesis.docx">thesis.docx</a>
-            </td>
-
-          </tr>
-
-          {% for item in items %}
-          <tr>
-            <td>
-              <a href="./html/{{item.file}}.html">{{item.title}}</a>
-            </td>
-
-            <td>
-              <a href="./odt/{{item.file}}.odt">{{item.file}}.odt</a>
-            </td>
-
-            <td>
-              <a href="./docx/{{item.file}}.docx">{{item.file}}.docx</a>
-            </td>
-
-          </tr>
-          {% endfor %}
-
-
-        </tbody>
-      </table>
+    <div class="pure-g">
+      <div class="pure-u-1 pure-u-sm-1">
+        <h2>Last Updated <span id="last_updated_date">{{ last_updated }}</span></h2>
+        <p>
+          If this date looks off, try doing a hard refresh with Ctrl &#43; R (not F5).
+        </p>
+      </div>
     </div>
 
+
+    <div class="pure-g">
+      <div class="pure-u-1 pure-u-sm-1">
+        <div id="table">
+          <table class="pure-table">
+            <thead>
+              <tr>
+                <th>Web</th>
+                <th>OpenDocument</th>
+                <th>Word</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>
+                  <a href="./html/thesis.html">Thesis</a>
+                </td>
+
+                <td>
+                  <a href="./odt/thesis.odt">thesis.odt</a>
+                </td>
+
+                <td>
+                  <a href="./docx/thesis.docx">thesis.docx</a>
+                </td>
+
+              </tr>
+
+              {% for item in items %}
+              <tr>
+                <td>
+                  <a href="./html/{{item.file}}.html">{{item.title}}</a>
+                </td>
+
+                <td>
+                  <a href="./odt/{{item.file}}.odt">{{item.file}}.odt</a>
+                </td>
+
+                <td>
+                  <a href="./docx/{{item.file}}.docx">{{item.file}}.docx</a>
+                </td>
+
+              </tr>
+              {% endfor %}
+            </tbody>
+          </table>
+
+        </div>
+      </div>
+    </div>
 
 
   </body>

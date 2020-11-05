@@ -1,5 +1,5 @@
 body {
-  margin: 12em;
+  margin: 2.5em;
   font-size: 16pt;
   font-family: sans-serif;
 }
@@ -105,6 +105,29 @@ figcaption, p.caption {
   text-align: center;
   font-style: italic;
 
+}
+
+/* Pure doesn't contain a container, so nab the bootstrap rules */
+.container {
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
+@media (min-width: 768px) {
+  .container {
+    width: 750px;
+  }
+}
+@media (min-width: 992px) {
+  .container {
+    width: 970px;
+  }
+}
+@media (min-width: 1200px) {
+  .container {
+    width: 1170px;
+  }
 }
 
 @media print {
