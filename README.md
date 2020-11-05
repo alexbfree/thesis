@@ -7,13 +7,19 @@ A simple build script for managing a thesis in markdown. You *must* have Pandoc 
 2. In the repo run `pip3 install -r requirements.txt` to gather the python requirements for the build script
 
 ## Use
-Write in the `src` folder, in markdown. Name your chapters with the format `chapter-X.md`. You can then run `build.py` to build for various formats. You can build by either entire thesis + format or chapter + format. Since you're using pandoc under the hood it will therefore accept all formats pandoc can convert to from markdown. PDF rendering is done via HTML5 as LaTeX doesn't like SVG files naturally; this may change with an update and custom latex templates. You can then build the thesis using `build.py chapter X $FORMAT`
+Write in the `src` folder, in markdown. Name your chapters with the format `chapter-X.md`. You can then run `build.py` to build for various formats. You can build by either entire thesis + format or chapter + format. e.g. `./build.py chapter 1 html` produces a HTML rendering of Chapter 1, `./build.py chapter 6 odt` will give you an OpenDocument file of Chapter 6.
 
-e.g. `./build.py chapter 1 html` produces a HTML rendering of Chapter 1, `./build.py chapter 6 odt` will give you an OpenDocument file of Chapter 6.
+The two main commands:
 
-There are two special options:
+* `build.py chapter X $FORMAT` builds `src/chapter-X.md` in `$FORMAT`
+* `build.py thesis $FORMAT` builds the whole thesis in `$FORMAT`
+
+There are two additional commands:
   + `build.py chapters $FORMAT` generates every chapter individually in the given format.
-  + `build.py website` generates a website with coversheet. Example output at: [thesis.mrshll.uk](https://thesis.mrshll.uk)
+  + `build.py website` generates a website with coversheet. Example output at: [thesis.mrshll.uk](https://thesis.mrshll.uk). This produces html, odt, and docx versions of each chapter as well as the entire thesis. It takes about a minute to run.
+
+
+Since you're using pandoc under the hood it will accept all formats pandoc can convert to from markdown. PDF rendering is done via HTML5 as LaTeX doesn't like SVG files naturally; this may change with an update and custom latex templates. 
 
 Use `src/index.md` to set the variables for your thesis and build scripts. The build script uses precisely one extra variable which is `thesis-source` and this should take a url to a git repo where you'll be storing your thesis. Check out the [pandoc documentation](https://pandoc.org/MANUAL.html) for additional variables.
 
