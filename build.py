@@ -168,6 +168,9 @@ def buildWebsite():
     subprocess.run(["git","add","out/website/*.*"]);
     subprocess.run(["git","commit","-m","Auto-deploying website to github pages"]);
     subprocess.run(["git","subtree","push","--prefix","out/website","origin","gh-pages"]);
+    print("\nUnstashing any changes we stashed before commit...");
+    subprocess.run(["git","stash","pop"]);
+
 
 # Main function to check arguments
 def main(argv):
