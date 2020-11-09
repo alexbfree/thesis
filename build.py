@@ -158,6 +158,9 @@ def buildWebsite():
     # Generate cover sheet
     buildCoversheet(WEBSITE_PATH)
 
+    # deploy it to github pages
+    print("\nDeploying to github pages...")
+    subprocess.run(["git","subtree","push","--prefix","out/website","origin","gh-pages"]);
 
 # Main function to check arguments
 def main(argv):
