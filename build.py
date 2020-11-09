@@ -97,6 +97,7 @@ def buildCoversheet(outputPath):
     template = env.get_template("index.html")
 
     # Load index.md frontmatter and parse it to get title and author info
+
     config = frontmatter.load('./src/index.md')
 
     thesis_title = config['title']
@@ -117,11 +118,12 @@ def buildCoversheet(outputPath):
     html_file.close()
     soup = BeautifulSoup(html_content, 'html.parser') # Parse it
 
-    for i in range(1,9):
+    pattern = "chapter-[0-9]*.md"
+    for i in range(len(glob.glob("{}/{}".format(SRC_PATH, pattern)))):
         item = {}
-        item["file"] = "chapter-{}".format(i)
+        item["file"] = "chapter-{}".format(i+1)
 
-        title = soup.find("h1", id="chapter-{}".format(i)).contents # Nab the h1 element with the chapter title
+        title = soup.find("h1", id="chapter-{}".format(i+1)).contents # Nab the h1 element with the chapter title
         item["title"] = "{}{}".format(title[0],title[1])
 
         items.append(item)
@@ -170,6 +172,8 @@ def main(argv):
         buildWebsite()
     elif argv[1] == "list":
         getListOfAllChapters()
+    elif argv[1] == "coversheet":
+        buildCoversheet(WEBSITE_PATH)
 
 
 
