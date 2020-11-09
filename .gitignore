@@ -27,4 +27,8 @@
 *.fdb_latexmk
 *.fls
 *.bak
-/out
+/out/doc
+/out/docx
+/out/html
+/out/odt
+

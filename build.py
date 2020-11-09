@@ -117,7 +117,7 @@ def buildCoversheet(outputPath):
     html_file.close()
     soup = BeautifulSoup(html_content, 'html.parser') # Parse it
 
-    for i in range(1,9):
+    for i in [1]:
         item = {}
         item["file"] = "chapter-{}".format(i)
 
