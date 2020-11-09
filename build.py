@@ -82,9 +82,13 @@ def buildChapter(chapterNumber, format):
 
 # Iterates and builds all individual chapters as separate files.
 def buildChapters(format):
-    for i in range(1,9):
-        print("Building Chapter %s" % str(i))
-        buildChapter(str(i), format)
+
+    # Add chapters dynamically based on a pattern, count the chapters and them add in sequence based on number (not on filename order in the list)
+    pattern = "chapter-[0-9]*.md"
+
+    for i in range(len(glob.glob("{}/{}".format(SRC_PATH, pattern)))):
+        print("Building Chapter %s" % str(i+1))
+        buildChapter(str(i+1), format)
 
 # Builds the HTML coversheet for the thesis
 def buildCoversheet(outputPath):
