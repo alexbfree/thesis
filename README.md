@@ -36,3 +36,6 @@ The pages are *mostly* responsive insofar as they're pretty brutalist and rely o
 
 ## Tips for writing
 + Make sure to grab a copy of [BetterBibTeX](https://retorque.re/zotero-better-bibtex/installation/) for Zotero to handle generating nicer citation keys.
+
+## Acknowledgements
+This thesis repository structure re-uses the scripts and structural approach of [Matt Marshall](http://mrshll.uk/about#contact) and his repo at https://gitlab.com/mrshll1001/markdown-thesis - thanks Marshall!
