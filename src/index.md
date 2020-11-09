@@ -1,6 +1,6 @@
 ---
-title: Your-thesis-title
-author: Your-name
+title: The Power of Personal Data
+author: Alex Bowyer
 bibliography: src/thesis.bib
 
 css:
@@ -10,5 +10,5 @@ css:
 link-citations: true
 csl: src/harvard-newcastle-university.csl
 
-thesis-source: https://example.org/your-git-repo
+thesis-source: https://github.com/alexbfree/thesis
 ---
