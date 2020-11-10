@@ -9,6 +9,7 @@ from shutil import copy
 from distutils import dir_util
 import frontmatter
 import glob
+import argparse
 
 WEBSITE_PATH = "./out/website/"
 OUT_PATH = "./out"
@@ -167,16 +168,44 @@ def getChapterCount():
 
 # Main function to check arguments
 def main(argv):
-    if argv[1] == "chapter":
-        buildChapter(argv[2], argv[3])
-    elif argv[1] == "thesis":
-        buildThesis(argv[2])
-    elif argv[1] == "chapters":
-        buildChapters(argv[2])
-    elif argv[1] == "website":
+
+    # Define a top level parser for commands
+    parser = argparse.ArgumentParser(description="Markdown Thesis: Write your thesis in markdown and manage conversions into other formats")
+
+    # The command line options differ for each command so we create subparsers for each
+    subparsers = parser.add_subparsers(dest="subparser",help="Sub-command help")
+
+    # Parser for building individual chapters
+    chapter_parser = subparsers.add_parser("chapter", help="Builds an individual chapter in [format]")
+    chapter_parser.add_argument("chapter_number", type=int, help="The number of the chapter you want to build")
+    chapter_parser.add_argument("format", type=str, help="The format you want to build into e.g. html or docx")
+
+    # Parser for building the entire thesis or all chapters simultaneously
+    thesis_parser = subparsers.add_parser("thesis", help="Builds the entire thesis in an appropriate format")
+    thesis_parser.add_argument("format", type=str, help="The format you want to build into e.g. html or docx")
+
+    # Parser for building all chapters at once
+    chapters_parser = subparsers.add_parser("chapters", help="Builds all chapters in [format]")
+    chapters_parser.add_argument("format", type=str, help="The format you want to build into e.g. html or docx")
+
+    # Parser for building an entire website
+    website_parser = subparsers.add_parser("website", help="Generates a website including a frontpage and html, docx, and odt versions of each chapter and entire thesis")
+
+    # Run
+    args = parser.parse_args()
+    markdown_thesis(args)
+
+# Takes the result of args and passes it down to the relevant function
+def markdown_thesis(args):
+
+    if args.subparser == "thesis":
+        buildThesis(args.format)
+    elif args.subparser == "chapters":
+        buildChapters(args.format)
+    elif args.subparser == "website":
         buildWebsite()
-    elif argv[1] == "coversheet":
-        buildCoversheet(WEBSITE_PATH)
+    elif args.subparser == "chapter":
+        buildChapter(args.chapter_number, args.format)
 
 
 main(sys.argv)
