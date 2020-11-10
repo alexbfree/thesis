@@ -193,7 +193,10 @@ def main(argv):
     chapters_parser.add_argument("format", type=str, help="The format you want to build into e.g. html or docx")
 
     # Parser for building an entire website
-    website_parser = subparsers.add_parser("website", help="Generates a website including a frontpage and html, docx, and odt versions of each chapter and entire thesis")
+    website_parser = subparsers.add_parser("website", help="Generates a website including a coversheet and html, docx, and odt versions of each chapter and entire thesis")
+
+    # Parser for building the coversheet only
+    coversheet_parser = subparsers.add_parser("coversheet", help="Generates only the html coversheet for the website, useful for debugging")
 
     # Run
     args = parser.parse_args()
@@ -213,6 +216,10 @@ def markdown_thesis(args):
     elif args.subparser == "website":
         print ("Building website \n======\n")
         buildWebsite()
+
+    elif args.subparser == "coversheet":
+        print("Building coversheet \n======\n")
+        buildCoversheet(WEBSITE_PATH)
 
     elif args.subparser == "chapter":
         print("Building Chapter in {}\n======\n".format(args.format))
