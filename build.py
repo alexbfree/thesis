@@ -175,13 +175,8 @@ def main(argv):
         buildChapters(argv[2])
     elif argv[1] == "website":
         buildWebsite()
-    elif argv[1] == "list":
-        print(getChapterCount())
     elif argv[1] == "coversheet":
         buildCoversheet(WEBSITE_PATH)
-
-
-
 
 
 main(sys.argv)
