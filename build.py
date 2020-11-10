@@ -159,17 +159,17 @@ def buildWebsite():
     buildCoversheet(WEBSITE_PATH)
 
     # deploy it to github pages
-    print("\nStashing any changes so we don't commit them...");
-    subprocess.run(["git","stash"]);
-    print("\nAuto-deploying to github pages...")
-    subprocess.run(["git","add","out/website/html/*.*"]);
-    subprocess.run(["git","add","out/website/odt/*.*"]);
-    subprocess.run(["git","add","out/website/docx/*.*"]);
-    subprocess.run(["git","add","out/website/*.*"]);
-    subprocess.run(["git","commit","-m","Auto-deploying website to github pages"]);
-    subprocess.run(["git","subtree","push","--prefix","out/website","origin","gh-pages"]);
-    print("\nUnstashing any changes we stashed before commit...");
-    subprocess.run(["git","stash","pop"]);
+    #print("\nStashing any changes so we don't commit them...");
+    #subprocess.run(["git","stash"]);
+    #print("\nAuto-deploying to github pages...")
+    #subprocess.run(["git","add","out/website/html/*.*"]);
+    #subprocess.run(["git","add","out/website/odt/*.*"]);
+    #subprocess.run(["git","add","out/website/docx/*.*"]);
+    #subprocess.run(["git","add","out/website/*.*"]);
+    #subprocess.run(["git","commit","-m","Auto-deploying website to github pages"]);
+    #subprocess.run(["git","subtree","push","--prefix","out/website","origin","gh-pages"]);
+    #print("\nUnstashing any changes we stashed before commit...");
+    #subprocess.run(["git","stash","pop"]);
 
 
 # Main function to check arguments
