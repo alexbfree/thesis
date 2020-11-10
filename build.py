@@ -17,7 +17,7 @@ SRC_PATH = "./src"
 
 # Builds the entire thesis
 def buildThesis(format):
-
+    print("Building Thesis in {}".format(format))
     # Output path
     outputPath = "{}/{}/".format(OUT_PATH, format)
 
@@ -50,12 +50,12 @@ def buildThesis(format):
     # Build
     subprocess.run(args)
 
-    print("Thesis built under " + outputPath+filename)
+    print("\tThesis built under " + outputPath+filename)
 
 # Builds a single chapter
 
 def buildChapter(chapterNumber, format):
-
+    print("Building Chapter {} in {}".format(chapterNumber, format))
     outputPath = "{}/{}/".format(OUT_PATH, format)
 
     # Make the directory for the output if not exists
@@ -78,7 +78,7 @@ def buildChapter(chapterNumber, format):
     # Run the pandoc command
     subprocess.run(args)
 
-    print("Built %s" % outputPath+filename)
+    print("\tBuilt %s" % outputPath+filename)
 
 # Iterates and builds all individual chapters as separate files.
 def buildChapters(format):
@@ -86,11 +86,13 @@ def buildChapters(format):
     # Add chapters dynamically based on a pattern, count the chapters and them add in sequence based on number (not on filename order in the list)
 
     for i in range(getChapterCount()):
-        print("Building Chapter %s" % str(i+1))
+        # print("Building Chapter %s" % str(i+1))
         buildChapter(str(i+1), format)
 
 # Builds the HTML coversheet for the thesis
 def buildCoversheet(outputPath):
+    print("Building Coversheet")
+
     # Load the template
     env = Environment(loader=FileSystemLoader('templates'))
     template = env.get_template("index.html")
@@ -132,6 +134,8 @@ def buildCoversheet(outputPath):
     output = open(outputPath + "index.html", "w")
     output.write(template.render(thesis_title=thesis_title, thesis_author=thesis_author,last_updated=last_updated, items=items))
     output.close()
+
+    print("\tCoversheet built under ./out/website/index.html")
 
 # Builds the website along with cover page
 def buildWebsite():
@@ -199,14 +203,21 @@ def main(argv):
 def markdown_thesis(args):
 
     if args.subparser == "thesis":
+        print("Building Thesis in {}\n======\n".format(args.format))
         buildThesis(args.format)
+
     elif args.subparser == "chapters":
+        print("Building all chapters in {}\n======\n".format(args.format))
         buildChapters(args.format)
+
     elif args.subparser == "website":
+        print ("Building website \n======\n")
         buildWebsite()
+
     elif args.subparser == "chapter":
+        print("Building Chapter in {}\n======\n".format(args.format))
         buildChapter(args.chapter_number, args.format)
 
 
 main(sys.argv)
-print("\nEnd")
+print("\n=====\nEnd")
