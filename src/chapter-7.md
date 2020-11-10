@@ -8,7 +8,8 @@ Contribution
 ------------------------
 [Target X words]
 
-Probably needs a better title but in this section i essentially synthesise the whole thesis to make its specific contributions crystal clear
+Probably needs a better title but in this section i essentially synthesise the whole thesis to make its specific contributions crystal clear:
+
 - Understandings of people's thinking about data
 - Models for thinking about data, human-data interaction and data within relationships
 - Practical techniques for taking power - and their limitations
