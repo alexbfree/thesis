@@ -31,9 +31,8 @@ def buildThesis(format):
 
 
     # Add chapters dynamically based on a pattern, count the chapters and them add in sequence based on number (not on filename order in the list)
-    pattern = "chapter-[0-9]*.md"
 
-    for i in range(len(glob.glob("{}/{}".format(SRC_PATH, pattern)))):
+    for i in range(getChapterCount()):
         args.append("src/chapter-{}.md".format(i+1))
 
 
@@ -84,9 +83,8 @@ def buildChapter(chapterNumber, format):
 def buildChapters(format):
 
     # Add chapters dynamically based on a pattern, count the chapters and them add in sequence based on number (not on filename order in the list)
-    pattern = "chapter-[0-9]*.md"
 
-    for i in range(len(glob.glob("{}/{}".format(SRC_PATH, pattern)))):
+    for i in range(getChapterCount()):
         print("Building Chapter %s" % str(i+1))
         buildChapter(str(i+1), format)
 
@@ -118,8 +116,8 @@ def buildCoversheet(outputPath):
     html_file.close()
     soup = BeautifulSoup(html_content, 'html.parser') # Parse it
 
-    pattern = "chapter-[0-9]*.md"
-    for i in range(len(glob.glob("{}/{}".format(SRC_PATH, pattern)))):
+
+    for i in range(getChapterCount()):
         item = {}
         item["file"] = "chapter-{}".format(i+1)
 
@@ -159,6 +157,13 @@ def buildWebsite():
     # Generate cover sheet
     buildCoversheet(WEBSITE_PATH)
 
+# Returns a count of all chapters, used in loops to manipulate chapters dynamically
+def getChapterCount():
+    pattern = "chapter-[0-9]*.md"
+
+    return len(glob.glob("{}/{}".format(SRC_PATH, pattern)))
+
+
 
 # Main function to check arguments
 def main(argv):
@@ -171,7 +176,7 @@ def main(argv):
     elif argv[1] == "website":
         buildWebsite()
     elif argv[1] == "list":
-        getListOfAllChapters()
+        print(getChapterCount())
     elif argv[1] == "coversheet":
         buildCoversheet(WEBSITE_PATH)
 
