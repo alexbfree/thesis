@@ -27,7 +27,9 @@ Describe and show both the Family Civic Data cards used in 2017 study and the da
 
 ### Card Sorting Techniques
 [Target X words]
+
 Describe the card-sorting techniques used
+
 - the riskiness vs who-should-control-it corkboard technique used in 2017 study
 - card sorting done in 2018 study as warm up.
 

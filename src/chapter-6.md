@@ -30,7 +30,7 @@ This could become a more general section on "building data interfaces" incorpora
 ### The Power of Data holders
 [Target X words]
 
-Starting by looking at idea of shifting the locus of decision Making, linked into the context of chapter 5 (referencing models of power) then moving into the ways in which organisations maintain power today (closed databases - care side, removing the seams and limiting data access and use, non-interoperability etc - commercial side). What are the practical ways to challege this - web augmentation, GDPR-based relentless pressure>dashboards, etc.
+Starting by looking at idea of shifting the locus of decision Making, linked into the context of chapter 5 (referencing models of power) then moving into the ways in which organisations maintain power today (closed databases - care side, removing the seams and limiting data access and use, non-interoperability etc - commercial side). What are the practical ways to challenge this - web augmentation, GDPR-based relentless pressure>dashboards, etc.
 Personal data stores as solution - huge challenges of building and designing, need to model for everyday life, hard to codify life.
 
 Challenges of Meaning & Sensemaking & Caring
