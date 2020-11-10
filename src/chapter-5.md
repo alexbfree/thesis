@@ -6,8 +6,8 @@ Research Context and Approach
 -----------------------------
 [Target X words]
 
-without repeating 1.2, explain why the power imbalance has arisen  - shift to cloud, black box design, removal of seams, etc.
-- this will draw a lot on my presentations
+without repeating 1.2, explain why the power imbalance has arisen  - shift to cloud, black box design, removal of seams, etc. - this will draw a lot on my presentations
+
 Explain the approach - trying to understand as much of the picture as possible, of actually getting your data, trying to have conversations about it, trying to use it.
 
 Overview of Activities done
@@ -15,6 +15,7 @@ Overview of Activities done
 [Target X words]
 
 Explaining the various activities done:
+
 - 2016 mobile phone usefulness interviews
 - 2017 digital life sketch interviews
 - 2018-2020 my own GDPR Requests
@@ -39,10 +40,12 @@ Usability vs understandability, etc.
 ### How do people feel about their data?
 [Target X words]
 Not sure if this is exactly the right place for this, but need a place to bring in ideas around the different ways people think about data:
+
 - Data as property
 - Data as insights into a person
 - Data as part of oneself
 - Data as memories
+- Data as creative work
 - Data as a medium for communication and expression
 
 ### How do people feel about current capabilities?

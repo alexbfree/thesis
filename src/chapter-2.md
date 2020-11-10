@@ -32,6 +32,7 @@ Other relevant areas
 [Target X words]
 
 (not sure whether this should be a separate section or integrated to above sections)
+
  - Interaction Design
  - Meaning and Sensemaking
  - Reflection, Orienteering, Time, Context & Associativity
