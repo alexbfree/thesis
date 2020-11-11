@@ -3,6 +3,7 @@ Reclaiming Power in Practice {#chapter-6}
 [Target 7,500 words]
 
 This chapter will focus on the practicalities of trying to effect change, through the lenses of :
+
 - the work done with SILVER developing a health data interface
 - the exploration of shifting the locus of decision making (from chapter 5)
 - the work done with the BBC designing and prototyping personal data store interfaces and data models
