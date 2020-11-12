@@ -2,13 +2,15 @@ Literature Review {#chapter-2}
 =======================
 [Target 12,000 words]
 
-The Nature of Power
--------------------
+Barriers to Agency
+------------------
 [Target X words]
 
-- Foucault - normalising power
-- Bentham's Panopticon - structural power
-- Types of power - resource control, centrality etc.
+- The inevitability of being handled through data in the modern world.
+- The drive to make people consumers / ad watchers rather than free agents.
+- The difficulties in actually accessing and using your data
+- .... (more to research here)
+
 
 Human-centricity
 ----------------
@@ -17,22 +19,15 @@ Human-centricity
 - Ubicomp: Weiser > Rogers, Abowd. etc.
 - Human-Data Interaction > Mortier
 - MyData movement
+- Humane interfaces / better interaction design
 
-Paradigms for claiming Power
-----------------------------
+Increasing one's Agency through and over Data
+---------------------------------------------
 [Target X words]
 
-- Freedom of Information Requests, GDPR & other regulatory approaches
-- Vendor Relationship Management, Pull Computing, Personal Data Lockers
+- GDPR & other regulatory approaches
 - Dynamic Consent
 - Shared Decision Making (maybe this should come in Chapter 6 instead)
-
-Other relevant areas
---------------------
-[Target X words]
-
-(not sure whether this should be a separate section or integrated to above sections)
-
- - Interaction Design
- - Meaning and Sensemaking
- - Reflection, Orienteering, Time, Context & Associativity
+- Quantified Self, Personal Informatics and Reflection
+- Vendor Relationship Management, Pull Computing, Personal Data Stores
+- Meaning and Sensemaking, Orienteering, Time, Context & Associativity

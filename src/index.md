@@ -1,5 +1,5 @@
 ---
-title: The Power of Personal Data
+title: Acquiring Agency through Personal Data
 author: Alex Bowyer
 bibliography: src/thesis.bib
 

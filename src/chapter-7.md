@@ -1,8 +1,33 @@
 Discussion {#chapter-7}
 =======================
-[Target 10,000 words]
+[Target 8,000 words]
 
-In this chapter we bring together the findings of chapters 4&5 and the insights/learnings/ideas from Chapter 6, to answer the research question and conclude the thesis.
+In this chapter we bring together the findings of chapters 4 & 5 & 6, to answer the research question and conclude the thesis.
+
+### The Power of Data holders
+[Target X words]
+
+- Looking at gaining agency as shifting the locus of decision Making in a relationship.
+- Introduce and reference some models of power/data-power
+  - Foucault
+  - Zuboff
+  - Habermas
+  - power of Facebook/data serfs etc
+  - other models...
+- then moving into the ways in which organisations maintain power today
+  - Care side:
+    - closed databases
+    - non inclusive processes
+  - Commercial side:
+    - removing the seams
+    - lack of human contact
+    - limiting data access and use, non-interoperability etc
+- What are the practical ways to challenge this
+  - web augmentation,
+  - GDPR-based relentless pressure>dashboards,
+  - greater involvement in processes (though that is challenging)
+  - better data literacy and education
+  - Personal data stores as solution - huge challenges of building and designing, need to model for everyday life, hard to codify life.
 
 Contribution
 ------------------------

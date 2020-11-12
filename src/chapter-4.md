@@ -22,10 +22,6 @@ From CHI 2018 paper
 
 From CHI 2018 paper
 
-### Discussion
-[Target X words]
-
-From CHI 2018 paper (Or does this go into Chapter 7?)
 
 Exploring the Role of Data in the Support Worker Relationship - 2018 Workshops
 ---------------------
@@ -41,7 +37,15 @@ From CHI 2019 LBW paper and unpublished journal paper
 
 From CHI 2019 LBW paper and unpublished journal paper
 
-### Discussion
+Discussion
+----------
 [Target X words]
 
-From CHI 2019 LBW paper and unpublished journal paper (Or does this go into Chapter 7?)
+From CHI 2018 paper and From CHI 2019 LBW paper and unpublished journal paper. But also wider discussion with a greater focus on tying everything back to the research question and agency-increasing framing.
+
+include:
+
+### SILVER project
+[Target X words]
+
+What we did and didn't achieve in building a health data interface. Including critique of the project's positioning as "a staff data interface is the answer" and the challenges of building for a dynamically changing, messy, secretive, proprietary world of interconnected systems and changing standards.
