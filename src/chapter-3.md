@@ -5,7 +5,8 @@ Approach & Methods {#chapter-3}
 Research design
 ---------------
 [Target X words]
-- Explaining how we get from the research questions and literature topics to a set of methods.
+
+-  Explaining how we get from the research questions and literature topics to a set of methods.
 - other methodological research approaches I am building upon:
   - Boundary Objects [Star]
   - "Things to think with" [Brandt & Messeter]

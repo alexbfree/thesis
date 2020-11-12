@@ -23,7 +23,7 @@ The Research Question
 Sub-questions:
 
 - RQ1. CAPABILITY What awareness of and capabilities do people have over their personal data?
-- RQ2. BARRIERS What are the barriers to new data capabilities and how could they be challenged - What capabilities would increase individuals' control/agency?
+- RQ2. BARRIERS What are the barriers to new data capabilities and how could they be challenged - What capabilities could increase individuals' control/agency?
 - RQ3. DATA/LIFE What relationship do people have with data, what is the role of data in people's everyday lives
 - RQ4. DESIRES What relationship would people seek their data and how would they like to use it?
 
