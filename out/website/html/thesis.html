@@ -5,7 +5,7 @@
   <meta name="generator" content="pandoc" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
   <meta name="author" content="Alex Bowyer" />
-  <title>Acquiring Agency through Personal Data</title>
+  <title>Understanding and Designing Human Data Relations</title>
   <style>
     code{white-space: pre-wrap;}
     span.smallcaps{font-variant: small-caps;}
@@ -164,402 +164,229 @@ font-style: italic;
 </head>
 <body>
 <header id="title-block-header">
-<h1 class="title">Acquiring Agency through Personal Data</h1>
+<h1 class="title">Understanding and Designing Human Data Relations</h1>
 <p class="author">Alex Bowyer</p>
 </header>
 <nav id="TOC" role="doc-toc">
 <ul>
 <li><a href="#chapter-1"><span class="toc-section-number">1</span> Introduction</a>
 <ul>
-<li><a href="#personal-data-gathering-as-a-loss-of-agency"><span class="toc-section-number">1.1</span> Personal Data Gathering as a Loss of Agency</a></li>
-<li><a href="#what-we-need-dont-have"><span class="toc-section-number">1.2</span> What We Need &amp; Don’t Have</a></li>
-<li><a href="#the-research-question"><span class="toc-section-number">1.3</span> The Research Question</a></li>
-<li><a href="#my-approach"><span class="toc-section-number">1.4</span> My Approach</a></li>
-<li><a href="#thesis-structure"><span class="toc-section-number">1.5</span> Thesis Structure</a></li>
+<li><a href="#motivation"><span class="toc-section-number">1.1</span> Motivation</a></li>
+<li><a href="#problem"><span class="toc-section-number">1.2</span> Problem</a></li>
+<li><a href="#prior-work"><span class="toc-section-number">1.3</span> Prior Work</a></li>
+<li><a href="#the-research-question-my-approach"><span class="toc-section-number">1.4</span> The Research Question &amp; My Approach</a></li>
+<li><a href="#contribution"><span class="toc-section-number">1.5</span> Contribution</a></li>
+<li><a href="#thesis-structure"><span class="toc-section-number">1.6</span> Thesis Structure</a></li>
+<li><a href="#notes"><span class="toc-section-number">1.7</span> Notes</a></li>
 </ul></li>
 <li><a href="#chapter-2"><span class="toc-section-number">2</span> Literature Review</a>
 <ul>
-<li><a href="#barriers-to-agency"><span class="toc-section-number">2.1</span> Barriers to Agency</a></li>
-<li><a href="#human-centricity"><span class="toc-section-number">2.2</span> Human-centricity</a></li>
-<li><a href="#increasing-ones-agency-through-and-over-data"><span class="toc-section-number">2.3</span> Increasing one’s Agency through and over Data</a></li>
+<li><a href="#the-data-centric-world"><span class="toc-section-number">2.1</span> The Data-Centric World</a></li>
+<li><a href="#human-centric-design"><span class="toc-section-number">2.2</span> Human-Centric Design</a></li>
+<li><a href="#personal-data-interaction"><span class="toc-section-number">2.3</span> Personal Data Interaction</a></li>
+<li><a href="#research-gap"><span class="toc-section-number">2.4</span> Research Gap</a></li>
 </ul></li>
 <li><a href="#chapter-3"><span class="toc-section-number">3</span> Approach &amp; Methods</a>
 <ul>
-<li><a href="#research-design"><span class="toc-section-number">3.1</span> Research design</a></li>
-<li><a href="#methodology"><span class="toc-section-number">3.2</span> Methodology</a></li>
+<li><a href="#the-human-perspective-on-data-centricism"><span class="toc-section-number">3.1</span> 1. The Human Perspective on Data Centricism</a></li>
+<li><a href="#the-lived-experience-of-a-data-centric-world"><span class="toc-section-number">3.2</span> 2. The Lived Experience of A Data-Centric world</a></li>
+<li><a href="#uncovering-and-exploring-design-constraints-and-opportunities"><span class="toc-section-number">3.3</span> 3. Uncovering and Exploring Design Constraints and Opportunities</a></li>
+<li><a href="#research-through-design"><span class="toc-section-number">3.4</span> Research Through design</a></li>
+<li><a href="#rapid-prototyping"><span class="toc-section-number">3.5</span> Rapid prototyping</a></li>
+<li><a href="#structure-of-the-following-chapters."><span class="toc-section-number">3.6</span> Structure of the following chapters.</a></li>
 </ul></li>
-<li><a href="#chapter-4"><span class="toc-section-number">4</span> Human-Data Interaction in the Early Help Context</a>
-<ul>
-<li><a href="#research-context-rationale"><span class="toc-section-number">4.1</span> Research Context &amp; Rationale</a></li>
-<li><a href="#understanding-family-perspectives-on-data---2017-home-visits"><span class="toc-section-number">4.2</span> Understanding Family Perspectives on Data - 2017 Home Visits</a></li>
-<li><a href="#exploring-the-role-of-data-in-the-support-worker-relationship---2018-workshops"><span class="toc-section-number">4.3</span> Exploring the Role of Data in the Support Worker Relationship - 2018 Workshops</a></li>
-<li><a href="#discussion"><span class="toc-section-number">4.4</span> Discussion</a></li>
-</ul></li>
-<li><a href="#chapter-5"><span class="toc-section-number">5</span> Human-Data Interaction in Everyday Life</a>
-<ul>
-<li><a href="#research-context-and-approach"><span class="toc-section-number">5.1</span> Research Context and Approach</a></li>
-<li><a href="#overview-of-activities-done"><span class="toc-section-number">5.2</span> Overview of Activities done</a></li>
-<li><a href="#findings-2"><span class="toc-section-number">5.3</span> Findings</a></li>
-<li><a href="#discussion-1"><span class="toc-section-number">5.4</span> Discussion</a></li>
-</ul></li>
-<li><a href="#chapter-6"><span class="toc-section-number">6</span> Increasing Agency Through Web Augmentation</a>
-<ul>
-<li><a href="#research-context"><span class="toc-section-number">6.1</span> Research context</a></li>
-<li><a href="#what-was-done"><span class="toc-section-number">6.2</span> What was Done</a></li>
-<li><a href="#discussion-2"><span class="toc-section-number">6.3</span> Discussion</a></li>
-</ul></li>
-<li><a href="#chapter-7"><span class="toc-section-number">7</span> Discussion</a>
-<ul>
-<li><a href="#contribution"><span class="toc-section-number">7.1</span> Contribution</a></li>
-<li><a href="#answering-the-research-question"><span class="toc-section-number">7.2</span> Answering the Research Question</a></li>
-<li><a href="#conclusionfuture-work"><span class="toc-section-number">7.3</span> Conclusion/Future Work</a></li>
-</ul></li>
+<li><a href="#chapter-4"><span class="toc-section-number">4</span> The Human Perspective on Data and Data-Centrism</a></li>
+<li><a href="#chapter-5"><span class="toc-section-number">5</span> Living In A Data-Centric World</a></li>
+<li><a href="#chapter-6"><span class="toc-section-number">6</span> Human-Centricity: Design Constraints and Opportunities</a></li>
+<li><a href="#chapter-7"><span class="toc-section-number">7</span> Designing Better Human Data Relations</a></li>
 <li><a href="#bibliography">Bibliography</a></li>
 </ul>
 </nav>
 <h1 data-number="1" id="chapter-1"><span class="header-section-number">1</span> Introduction</h1>
-<p>[Target 7,000 words]</p>
-<h2 data-number="1.1" id="personal-data-gathering-as-a-loss-of-agency"><span class="header-section-number">1.1</span> Personal Data Gathering as a Loss of Agency</h2>
 <p>[Target X words]</p>
-<p>Explaining the current status quo - the inevitability of data collection, and the barriers to individuals and resulting loss of agency and of individual control in relationships with organisations and authorities, including both public sector (chapter 4) and commercial (chapter 5) perspectives.</p>
-<h2 data-number="1.2" id="what-we-need-dont-have"><span class="header-section-number">1.2</span> What We Need &amp; Don’t Have</h2>
+<h2 data-number="1.1" id="motivation"><span class="header-section-number">1.1</span> Motivation</h2>
 <p>[Target X words]</p>
-<p>Highlighting the things we can’t do today and some of the key ideas that would give us more capability - getting data in one place, finding things associatively, accessing data for our own ends, using different interfaces, reflection on whole of digital life, etc.</p>
-<h2 data-number="1.3" id="the-research-question"><span class="header-section-number">1.3</span> The Research Question</h2>
+<h2 data-number="1.2" id="problem"><span class="header-section-number">1.2</span> Problem</h2>
 <p>[Target X words]</p>
-<p><em>How could personal data be used to increase an individual’s control in their everyday lives?</em></p>
+<h2 data-number="1.3" id="prior-work"><span class="header-section-number">1.3</span> Prior Work</h2>
+<p>[Target X words]</p>
+<h2 data-number="1.4" id="the-research-question-my-approach"><span class="header-section-number">1.4</span> The Research Question &amp; My Approach</h2>
+<p>[Target X words]</p>
+<p><em>What role should people’s data play in their lives, and what capabilities do they need?</em></p>
 <p>Sub-questions:</p>
 <ul>
-<li>RQ1. CAPABILITY What awareness of and capabilities do people have over their personal data?</li>
-<li>RQ2. BARRIERS What are the barriers to new data capabilities and how could they be challenged - What capabilities could increase individuals’ control/agency?</li>
-<li>RQ3. DATA/LIFE What relationship do people have with data, what is the role of data in people’s everyday lives</li>
-<li>RQ4. DESIRES What relationship would people seek their data and how would they like to use it?</li>
+<li>RQ1: How do people understand and relate to data?</li>
+<li>RQ2: What role do people have in the world of data?</li>
+<li>RQ3: What role does does play in people’s lives</li>
+<li>RQ4: What would an ideal world of humans and data look like?</li>
+<li>RQ5:</li>
 </ul>
-<h2 data-number="1.4" id="my-approach"><span class="header-section-number">1.4</span> My Approach</h2>
+<h2 data-number="1.5" id="contribution"><span class="header-section-number">1.5</span> Contribution</h2>
 <p>[Target X words]</p>
-<p>Give an overview of the approach which is:</p>
-<ol type="1">
-<li>Connect people with data meaningfully.</li>
-<li>Understand their perspectives on their current and ideal relationship with that data and those that hold it.</li>
-<li>Design/prototype/co-design alternative data interactions and capabilities</li>
-<li>Critically review and assess perspectives upon these imagined alternatives.</li>
-</ol>
-<h2 data-number="1.5" id="thesis-structure"><span class="header-section-number">1.5</span> Thesis Structure</h2>
+<h2 data-number="1.6" id="thesis-structure"><span class="header-section-number">1.6</span> Thesis Structure</h2>
 <p>[Target X words]</p>
-<p>Explain the structure of the thesis.</p>
-<h3 data-number="1.5.1" id="notes"><span class="header-section-number">1.5.1</span> Notes</h3>
-<p>Does a very high level overview of studies need to go in here somewhere, if so does it need its own section or which one does it go in?</p>
+<h2 data-number="1.7" id="notes"><span class="header-section-number">1.7</span> Notes</h2>
+<ul>
+<li>Subsection headings are just placeholders for now, need to revise these.</li>
+</ul>
 <h1 data-number="2" id="chapter-2"><span class="header-section-number">2</span> Literature Review</h1>
-<p>[Target 12,000 words]</p>
-<h2 data-number="2.1" id="barriers-to-agency"><span class="header-section-number">2.1</span> Barriers to Agency</h2>
+<p>[Target X words]</p>
+<h2 data-number="2.1" id="the-data-centric-world"><span class="header-section-number">2.1</span> The Data-Centric World</h2>
 <p>[Target X words]</p>
 <ul>
-<li>The inevitability of being handled through data in the modern world.</li>
-<li>The drive to make people consumers / ad watchers rather than free agents.</li>
-<li>The difficulties in actually accessing and using your data</li>
-<li>…. (more to research here)</li>
+<li>The status quo - data is a part of everyday life. Services are data-centric</li>
+<li>Rise of cloud, globalisation, cost reduction has made it so</li>
+<li>World Economic forum and others - there is a power imbalance over data</li>
+<li>mention attempts to tackle data imbalance i.e. wikis, open data movements, etc - and the resistance the industry has given, closure of APIs, siloism, etc.</li>
+<li>GDPR - as the first attempt by governments to try and tackle this power imbalance, mention CCPA too.</li>
+<li>emergence of data dashboards</li>
+<li>seems GDPR rights not fully realised in practice. e.g. ad infrastructure breaks it.</li>
+<li>question is, how effective is GDPR , it is even the right approach - what is really needed to combat this power balance, how do people understand and relate to data and how do people understand their place in the world of data, what data is meaingful to people, what does effective access really mean.</li>
+<li>in essence, what is it like to live in a data centric world</li>
 </ul>
-<h2 data-number="2.2" id="human-centricity"><span class="header-section-number">2.2</span> Human-centricity</h2>
+<p>Notes: - Does the ‘what is data’ question need to partly addressed in the “data centric world” section or is it ok that that comes into chapter 4 more as a finding. - properly explain ‘data-ism’ and bring that in</p>
+<h2 data-number="2.2" id="human-centric-design"><span class="header-section-number">2.2</span> Human-Centric Design</h2>
 <p>[Target X words]</p>
 <ul>
-<li>Ubicomp: Weiser &gt; Rogers, Abowd. etc.</li>
-<li>Human-Data Interaction &gt; Mortier</li>
-<li>MyData movement</li>
-<li>Humane interfaces / better interaction design</li>
+<li>the three waves of HCI, from operators of machines to users to experiences. recognition that digital systems are not solitary single purpose machines, its an ecosystem &gt; weiser and separating data from machine.</li>
+<li>human-data interaction, as a response to that, mortier et al, people need a relationship with data not just with machines</li>
+<li>following on to calm computing, context aware computing, engaged living, tech to the background</li>
+<li>tech sector thinkers ‘designing for the whole person’ (Harris, Tufecki, etc)</li>
+<li>Human Centric data economy, MyData movement</li>
+<li>framed as an emergent space, more work to be done to explore human centric design in practice, need to explore the barriers and possibilities</li>
 </ul>
-<h2 data-number="2.3" id="increasing-ones-agency-through-and-over-data"><span class="header-section-number">2.3</span> Increasing one’s Agency through and over Data</h2>
+<p>Notes:</p>
+<ul>
+<li>is there any design thinking from Digital Civics to come in here?</li>
+<li>possibly bring some things about the roles people play with data here? data subject for example</li>
+<li>consider some sort of diagram - triangle - humans, their data, their world.</li>
+</ul>
+<h2 data-number="2.3" id="personal-data-interaction"><span class="header-section-number">2.3</span> Personal Data Interaction</h2>
 <p>[Target X words]</p>
 <ul>
-<li>GDPR &amp; other regulatory approaches</li>
-<li>Dynamic Consent</li>
-<li>Shared Decision Making (maybe this should come in Chapter 6 instead)</li>
-<li>Quantified Self, Personal Informatics and Reflection</li>
-<li>Vendor Relationship Management, Pull Computing, Personal Data Stores</li>
-<li>Meaning and Sensemaking, Orienteering, Time, Context &amp; Associativity</li>
+<li>continuing from three waves of HCI and Weiser, but this time looking at it as from the tech design perspective</li>
+<li>introduce the Abowd angle of the shift from programming environments to programming <em>environments</em></li>
+<li>Personal information management systems and the history of PIM.</li>
+<li>referencing the HCI shift from work to ‘whole life’ experiences</li>
+<li>Quantified self</li>
+<li>Personal Informatics</li>
+<li>personal data lockers / data stores</li>
+<li>limited state of the art - cover technical perspective on what is happening in human-centric design space</li>
+<li>the limitations are the focus on viewing data, as a static thing, instead of looking at in the wider context of human life (as some of the theorists imply we need to do).</li>
+<li>there is a need to look beyond human data interaction, to design systems that focus outward on data in life. examining data’s role in life.</li>
 </ul>
+<p>Notes:</p>
+<ul>
+<li>This section is technology/interface focussed where human-centric design section is more framed around high level approaches to this design space.</li>
+<li></li>
+</ul>
+<h2 data-number="2.4" id="research-gap"><span class="header-section-number">2.4</span> Research Gap</h2>
+<p>[Target X words]</p>
+<ul>
+<li><p>my research aims to fit upon these three areas by:</p>
+<ul>
+<li><p>exploring how people understand and relate to data as they live in a data centric world, what is data to them and what mental models do people have around data (positioned as filling research gap around understanding and exploring existing in a data centric world). aim is to understand realities of data today and understand problems with data today.</p></li>
+<li><p>explore the roles people play with regard to data, looking at their life. in particular there is a need to look at relationships with organisations that hold and use data about people - examining data’s role in their lives and how data affects people in their lives (positioning this as a deeper exploration of human-centric thinking, applied to the world of data specifically). aim is to understand realities of relations today and understand problems with relations today.</p></li>
+<li><p>explore the possibilities for designing and building new data systems that would address the problems identified with data and with relations, what are the practical challenges and to explore the different methods of how they might be overcome.</p></li>
+</ul></li>
+</ul>
+<p>Frame the overall research question:</p>
+<p><em>What role should people’s data play in their lives, and what capabilities do they need?</em></p>
+<p>I will use largely qualitative methods as well as situational embedding and reflection informing design to explore these questions. My approaches are detailed more in the next chapter.</p>
 <h1 data-number="3" id="chapter-3"><span class="header-section-number">3</span> Approach &amp; Methods</h1>
-<p>[Target 15,000 words]</p>
-<h2 data-number="3.1" id="research-design"><span class="header-section-number">3.1</span> Research design</h2>
 <p>[Target X words]</p>
 <ul>
-<li>Explaining how we get from the research questions and literature topics to a set of methods.</li>
-<li>other methodological research approaches I am building upon:
-<ul>
-<li>Boundary Objects [Star]</li>
-<li>“Things to think with” [Brandt &amp; Messeter]</li>
-<li>Participatory co-design</li>
-<li>Home visits [Mannay]</li>
-</ul></li>
+<li>this PhD comprises a number of studies conducted between 2016 and 2021.</li>
+<li>there are three strands of enquiry:</li>
 </ul>
-<h2 data-number="3.2" id="methodology"><span class="header-section-number">3.2</span> Methodology</h2>
-<p>Explaining the methods used, how they relate to research goals.</p>
-<h3 data-number="3.2.1" id="practical-explorations-of-real-data-scenarios-rq1.-capability"><span class="header-section-number">3.2.1</span> Practical Explorations of real data scenarios [RQ1. CAPABILITY]</h3>
-<p>[Target X words]</p>
-<h4 data-number="3.2.1.1" id="gdpr-requests"><span class="header-section-number">3.2.1.1</span> GDPR Requests</h4>
-<p>[Target X words]</p>
-<p>Explain the use of GDPR requests to obtain real data, both my own and participants - as an exploration of processes and what is currently possible</p>
-<h4 data-number="3.2.1.2" id="storyboarding-cards"><span class="header-section-number">3.2.1.2</span> Storyboarding cards</h4>
-<p>[Target X words]</p>
-<p>Explain origins in filmmaking etc and later software design, then explain the technique used in the 2018 study (show the storyboard cards).</p>
-<h4 data-number="3.2.1.3" id="online-data-review"><span class="header-section-number">3.2.1.3</span> Online Data Review</h4>
-<p>[Target X words]</p>
-<p>Explain the spreadsheet based semi-quantitative approach developed and used in post-COVID 2020.</p>
-<h3 data-number="3.2.2" id="identifying-and-overcoming-data-barriers-rq2.-barriers"><span class="header-section-number">3.2.2</span> Identifying and overcoming data barriers [RQ2. BARRIERS]</h3>
-<h4 data-number="3.2.2.1" id="self-gdpr"><span class="header-section-number">3.2.2.1</span> Self GDPR</h4>
-<p>[Target X words]</p>
-<p>Explain own explorations with GDPR.</p>
-<h4 data-number="3.2.2.2" id="web-augmentation-and-disruption"><span class="header-section-number">3.2.2.2</span> Web augmentation and disruption</h4>
-<p>[Target X words]</p>
-<p>Explain work on web augmentation as a way to get data and/or build new capabilities.</p>
-<h4 data-number="3.2.2.3" id="prototyping-and-data-scripting-experiments"><span class="header-section-number">3.2.2.3</span> Prototyping and Data Scripting Experiments</h4>
-<p>[Target X words]</p>
-<p>Explain own explorations with using data from GDPR (saving detail for C5/6)</p>
-<h3 data-number="3.2.3" id="engaging-people-with-data-understanding-their-perspectives-rq3.-datalife"><span class="header-section-number">3.2.3</span> Engaging people with data, understanding their perspectives [RQ3. DATA/LIFE]</h3>
-<p>[Target X words]</p>
-<h4 data-number="3.2.3.1" id="data-cards-and-card-sorting-techniques"><span class="header-section-number">3.2.3.1</span> Data Cards and Card Sorting Techniques</h4>
-<p>[Target X words]</p>
-<p>Describe and show both the Family Civic Data cards used in 2017 study and the data cards developed at the BBC.</p>
-<p>Describe the card-sorting techniques used</p>
+<h2 data-number="3.1" id="the-human-perspective-on-data-centricism"><span class="header-section-number">3.1</span> 1. The Human Perspective on Data Centricism</h2>
+<p>The objective of this part of the research is to fain a rich understanding of what data IS to people as they live their lives in the modern world.</p>
+<p>Epistemiology:</p>
 <ul>
-<li>the riskiness vs who-should-control-it corkboard technique used in 2017 study</li>
-<li>card sorting done in 2018 study as warm up.</li>
+<li>Here and throughout this thesis, we take a subjectivist perspective, looking more at what people think than trying to discover a single objective truth.</li>
+<li>As Peirce’s pragmatic maxim says, the meaning of anything in the world is understood through the conception of its practical effects, and theories that are more successful at controlling and predicting our world can be considered closer to the truth.</li>
+<li>We take an inductive research approach, finding patterns and forming theories to explain them</li>
 </ul>
-<h4 data-number="3.2.3.2" id="sketch-interviewing"><span class="header-section-number">3.2.3.2</span> Sketch Interviewing</h4>
-<p>[Target X words]</p>
-<p>Describe technique used in late 2017 and in late 2019/pre-covid 2020. Reference Euijin Hwang’s thesis and wherever he got it from.</p>
-<h4 data-number="3.2.3.3" id="family-facts"><span class="header-section-number">3.2.3.3</span> Family Facts</h4>
-<p>[Target X words]</p>
+<p>Therefore the key approach to this research objective is to be able to meaningfully engage with people about the subject of data, and conduct considered conversations to uncover their points of view.</p>
+<p>(insert concentric circles diagram: Your Life &gt; Your Data &gt; )</p>
+<p>Using a general approach of leading people into the subject of data using meaningful representations or starting with things that they already know (the devices, software and companies in their own life) I found effective ways to engage with participants and then get them talking about their data.</p>
+<p>The interviews I conducted were divided into two strands: - exploring families’ data in a civic context, as it might be used in the provision of care or other state Services - exploring individual ‘digital life’ - the data that participants hold, use, or live with (or is held about them) by the companies they interact with.</p>
+<p>(do these need little subsections as in 2 below?)</p>
+<p>in the former case, I modelled data types and produced data cards and designed other activities to help stimulate discussion. In the latter, I used sketch interviewing as a technique. Then used standard qualitative interviewing as a technique (how much do I need to say about this?)</p>
+<h3 data-number="3.1.1" id="data-cards-and-card-sorting-techniques"><span class="header-section-number">3.1.1</span> Data Cards and Card Sorting Techniques</h3>
+<p>Describe and show Family Civic Data cards used in 2017 study Describe the card-sorting techniques used - the riskiness vs who-should-control-it corkboard technique used in 2017 study</p>
+<p>Describe why chose this - boundary objects (REF Star)/things to think with (REF Brandt and Messeter)</p>
+<h3 data-number="3.1.2" id="family-facts"><span class="header-section-number">3.1.2</span> Family facts</h3>
 <p>Describe the facts-on-poles technique used in 2017 study.</p>
-<h4 data-number="3.2.3.4" id="private-data-viewing"><span class="header-section-number">3.2.3.4</span> Private Data Viewing</h4>
-<p>[Target X words]</p>
-<p>This possibly should get cut - but I did develop the technique (privacy monitors etc)</p>
-<h3 data-number="3.2.4" id="designing-a-world-with-greater-agency-rq4.-desires"><span class="header-section-number">3.2.4</span> Designing a world with greater agency [RQ4. DESIRES]</h3>
-<h4 data-number="3.2.4.1" id="co-design-workshops"><span class="header-section-number">3.2.4.1</span> Co-Design workshops</h4>
-<p>[Target X words]</p>
-<p>Describe use of co-design workshops in family homes and in bigger groups.</p>
-<h4 data-number="3.2.4.2" id="qualitative-interviews"><span class="header-section-number">3.2.4.2</span> Qualitative interviews</h4>
-<p>[Target X words]</p>
-<p>Describe use of 1:1 interviews.</p>
-<h4 data-number="3.2.4.3" id="ideation-grids"><span class="header-section-number">3.2.4.3</span> Ideation Grids</h4>
-<p>[Target X words]</p>
-<p>Quick explainer and reference to Golembewski</p>
-<h4 data-number="3.2.4.4" id="sentence-ranking"><span class="header-section-number">3.2.4.4</span> Sentence Ranking</h4>
-<p>[Target X words]</p>
-<p>Describe sentence ranking exercises done in 2018 study</p>
-<h4 data-number="3.2.4.5" id="group-poster-making"><span class="header-section-number">3.2.4.5</span> Group Poster Making</h4>
-<p>[Target X words]</p>
-<p>Not sure if this really needs a section, but was used in 2018 study.</p>
-<h4 data-number="3.2.4.6" id="data-modelling-interface-prototyping"><span class="header-section-number">3.2.4.6</span> Data Modelling, Interface Prototyping</h4>
-<p>[Target X words]</p>
-<p>Explain the exploratory work I have done through SILVER &amp; BBC in developing interfaces as well as the work to model different levels of access / mental models of data.</p>
-<h3 data-number="3.2.5" id="notes-1"><span class="header-section-number">3.2.5</span> Notes</h3>
-<p>How to give overview of my involvements with study partners/placements (SILVER/councils/BBC…?)</p>
-<h1 data-number="4" id="chapter-4"><span class="header-section-number">4</span> Human-Data Interaction in the Early Help Context</h1>
-<p>[Target 15,000 words]</p>
-<h2 data-number="4.1" id="research-context-rationale"><span class="header-section-number">4.1</span> Research Context &amp; Rationale</h2>
-<p>[Target X words]</p>
-<p>Explaining the early help context and why it is relevant. Explaining my involvement with the SILVER project as both researcher and developer (or does this statement go somewhere else as declaration of interest?)</p>
-<h2 data-number="4.2" id="understanding-family-perspectives-on-data---2017-home-visits"><span class="header-section-number">4.2</span> Understanding Family Perspectives on Data - 2017 Home Visits</h2>
-<p>[Target X words]</p>
-<h3 data-number="4.2.1" id="the-study"><span class="header-section-number">4.2.1</span> The study</h3>
-<p>[Target X words]</p>
-<p>From CHI 2018 paper</p>
-<h3 data-number="4.2.2" id="findings"><span class="header-section-number">4.2.2</span> Findings</h3>
-<p>[Target X words]</p>
-<p>From CHI 2018 paper</p>
-<h2 data-number="4.3" id="exploring-the-role-of-data-in-the-support-worker-relationship---2018-workshops"><span class="header-section-number">4.3</span> Exploring the Role of Data in the Support Worker Relationship - 2018 Workshops</h2>
-<p>[Target X words]</p>
-<h3 data-number="4.3.1" id="the-study-1"><span class="header-section-number">4.3.1</span> The study</h3>
-<p>[Target X words]</p>
-<p>From CHI 2019 LBW paper and unpublished journal paper</p>
-<h3 data-number="4.3.2" id="findings-1"><span class="header-section-number">4.3.2</span> Findings</h3>
-<p>[Target X words]</p>
-<p>From CHI 2019 LBW paper and unpublished journal paper</p>
-<h2 data-number="4.4" id="discussion"><span class="header-section-number">4.4</span> Discussion</h2>
-<p>[Target X words]</p>
-<p>From CHI 2018 paper and From CHI 2019 LBW paper and unpublished journal paper. But also wider discussion with a greater focus on tying everything back to the research question and agency-increasing framing.</p>
-<p>include:</p>
-<h3 data-number="4.4.1" id="silver-project"><span class="header-section-number">4.4.1</span> SILVER project</h3>
-<p>[Target X words]</p>
-<p>What we did and didn’t achieve in building a health data interface. Including critique of the project’s positioning as “a staff data interface is the answer” and the challenges of building for a dynamically changing, messy, secretive, proprietary world of interconnected systems and changing standards.</p>
-<h1 data-number="5" id="chapter-5"><span class="header-section-number">5</span> Human-Data Interaction in Everyday Life</h1>
-<p>[Target 15,000 words]</p>
-<h2 data-number="5.1" id="research-context-and-approach"><span class="header-section-number">5.1</span> Research Context and Approach</h2>
-<p>[Target X words]</p>
-<p>without repeating 1.2, explain why people have become disempowered - shift to cloud, black box design, removal of seams, etc. - this will draw a lot on my presentations.</p>
-<p>Explain the approach - trying to understand as much of the picture as possible, of actually getting your data, trying to have conversations about it, trying to use it.</p>
-<h2 data-number="5.2" id="overview-of-activities-done"><span class="header-section-number">5.2</span> Overview of Activities done</h2>
-<p>[Target X words]</p>
-<p>Explaining the various activities done:</p>
+<h3 data-number="3.1.3" id="sketch-interviewing"><span class="header-section-number">3.1.3</span> Sketch Interviewing</h3>
+<p>Describe and show Sketch interviewing as used in the 2017 interviews and GDPR study.</p>
+<h3 data-number="3.1.4" id="studies-undertaken-towards-this-research-goal."><span class="header-section-number">3.1.4</span> Studies undertaken towards this research goal.</h3>
 <ul>
-<li>2016 mobile phone usefulness interviews</li>
-<li>2017 digital life sketch interviews</li>
-<li>2018-2020 my own GDPR Requests
-<ul>
-<li>including 2020 University GDPR request</li>
-<li>including experiments in what you can do with your data.</li>
-</ul></li>
-<li>2019-2020 GDPR Viewing Your Data study
-<ul>
-<li>including privacy policy analysis</li>
-<li>and the work with personaldata.io on mapping out Data</li>
-<li>including the lab chat I ran - use of visual stimulus</li>
-</ul></li>
+<li>4 x 2 hr family ‘home visits’ (REF Mannay)</li>
+<li>3 x 1hr ‘mobile phone/usefulness interviews’</li>
+<li>5 x 1.5 hr ‘digital life sketch interviews (2017)’</li>
+<li>11 x 1 hr ‘digital life interviews’ (2019)</li>
 </ul>
-<h2 data-number="5.3" id="findings-2"><span class="header-section-number">5.3</span> Findings</h2>
-<p>[Target X words]</p>
-<p>The analysis is still to be done here, but it will be something like:</p>
-<h3 data-number="5.3.1" id="what-can-we-currently-do"><span class="header-section-number">5.3.1</span> What can we currently do?</h3>
-<p>[Target X words]</p>
-<p>This section will bring together all the practical experiences and data on how much you can actually get back from data holders, what works and what doesn’t, etc. Usability vs understandability, etc.</p>
-<h3 data-number="5.3.2" id="how-do-people-feel-about-their-data"><span class="header-section-number">5.3.2</span> How do people feel about their data?</h3>
-<p>[Target X words] Not sure if this is exactly the right place for this, but need a place to bring in ideas around the different ways people think about data:</p>
+<h2 data-number="3.2" id="the-lived-experience-of-a-data-centric-world"><span class="header-section-number">3.2</span> 2. The Lived Experience of A Data-Centric world</h2>
+<p>follow same pattern as above.</p>
+<p>this time, importance of looking beyond the individual. looking at the way data exists and is used within relationships people have with organisations that hold data, within the data centric world.</p>
+<p>additional Epistemiologies we draw on here are foucault’s thinking that meaning comes from discourse, and Deweyan pragmatism, that the purpose of research is to find solutions to real world problems in a manner that the solutions are generalisable.</p>
+<p>here we move beyond people’s perspectives and thoughts to their actual lived experiences. our objective here is to understand the lived experience in a data centric world and how data can affect your life and relationships.</p>
+<p>building on the prior research around attempts to model and interact with data in a more whole life, systemic way, we step up and look at data from the ‘life’ level - where we can see that, given the fact that most data is not directly held by individuals but by organisations - its role in relationships is key.</p>
+<h3 data-number="3.2.1" id="early-help"><span class="header-section-number">3.2.1</span> Early help</h3>
 <ul>
-<li>Data as property</li>
-<li>Data as insights into a person</li>
-<li>Data as part of oneself</li>
-<li>Data as memories</li>
-<li>Data as creative work</li>
-<li>Data as a medium for communication and expression</li>
+<li>explain the early help context and how it is a good setting to explore data relations especially w.r.t to empowerment</li>
 </ul>
-<h3 data-number="5.3.3" id="how-do-people-feel-about-current-capabilities"><span class="header-section-number">5.3.3</span> How do people feel about current capabilities?</h3>
-<p>[Target X words]</p>
-<p>This section will bring together all the different perspectives on how people feel - what frustrates and excites, etc. Especially looking at what affects people’s trust, and sense of having power.</p>
-<h3 data-number="5.3.4" id="what-is-missing"><span class="header-section-number">5.3.4</span> What is missing?</h3>
-<p>[Target X words]</p>
-<p>This will bring together all the observations and desires for things you can’t currently do. Looking to the future</p>
-<h3 data-number="5.3.5" id="note"><span class="header-section-number">5.3.5</span> Note</h3>
-<p>Any findings from University GDPR interview will also incorporate into one of the above subsections</p>
-<h2 data-number="5.4" id="discussion-1"><span class="header-section-number">5.4</span> Discussion</h2>
-<p>[Target X words]</p>
-<p>General analysis of findings above. But also wider discussion with a greater focus on tying everything back to the research question and agency-increasing framing.</p>
-<h3 data-number="5.4.1" id="challenges-of-meaning-sensemaking-caring"><span class="header-section-number">5.4.1</span> Challenges of Meaning &amp; Sensemaking &amp; Caring</h3>
-<p>[Target X words]</p>
-<h4 data-number="5.4.1.1" id="finding-meaning-in-data"><span class="header-section-number">5.4.1.1</span> Finding Meaning in data</h4>
-<p>[Target X words]</p>
+<p>In order to fully explore this we conducted qualitative fieldwork with both sides of the early help relationship, exploring both current experiences of data use but also imagined future uses with different configurations that might be considered more human centric.</p>
+<h3 data-number="3.2.2" id="card-sorting"><span class="header-section-number">3.2.2</span> Card Sorting</h3>
+<h3 data-number="3.2.3" id="sentence-ranking"><span class="header-section-number">3.2.3</span> Sentence Ranking</h3>
+<h3 data-number="3.2.4" id="ideation-grids"><span class="header-section-number">3.2.4</span> Ideation Grids</h3>
+<h3 data-number="3.2.5" id="group-poster-design"><span class="header-section-number">3.2.5</span> Group Poster Design</h3>
+<h3 data-number="3.2.6" id="storyboarding-cards"><span class="header-section-number">3.2.6</span> Storyboarding Cards</h3>
+<p>(participatory design) Quick explainer and reference to Golembewski</p>
+<h3 data-number="3.2.7" id="gdpr"><span class="header-section-number">3.2.7</span> GDPR</h3>
 <ul>
-<li>Data &gt; Information &gt; Knowledge</li>
-<li>Answering questions</li>
-<li>Reflection &amp; goal setting</li>
-<li>Orienteering</li>
-<li>scripts analysing GDPR-retrieved Data</li>
-<li>Gmail API hacking</li>
+<li>explain the GDPR context and how this is also a way to explore practical experience of real data processes</li>
 </ul>
-<h4 data-number="5.4.1.2" id="our-lives-in-data"><span class="header-section-number">5.4.1.2</span> Our lives in data</h4>
-<p>[Target X words]</p>
+<h3 data-number="3.2.8" id="privacy-policy-interviews"><span class="header-section-number">3.2.8</span> Privacy Policy interviews</h3>
+<p>as a starting point, having identified companies in people’s lives I start with the objective reality of what those companies say they collect, and use that as a way in to meaningful data conversations with participants.</p>
+<h3 data-number="3.2.9" id="view-your-data-interviews"><span class="header-section-number">3.2.9</span> View Your Data interviews</h3>
+<p>then to explore a real world process, I took participants on a journey of discovery of requesting, accessing and viewing their own held data.</p>
+<h3 data-number="3.2.10" id="studies-undertaken-towards-this-research-goal.-1"><span class="header-section-number">3.2.10</span> Studies undertaken towards this research goal.</h3>
+<p>HDI in context of care study - 1 x 2h workshop with families (x participants) - 2 x 2h workshop with staff (x participants) - 1 x 2h workshop with staff and parents (x participants)</p>
+<p>GDPR study - 10 x 1h+ privacy policy discussion - guiding through email etc - 10 x 2h view your data discussion</p>
+<h2 data-number="3.3" id="uncovering-and-exploring-design-constraints-and-opportunities"><span class="header-section-number">3.3</span> 3. Uncovering and Exploring Design Constraints and Opportunities</h2>
+<p>Epistemiology: practical, pragmatism. What is possible. research through design.</p>
+<p>This research goal starts from a different perspective, looking from the designer / technologists perspective, to gain an empathetic understanding of the current status quo of data systems and then applying human-centric system to reconsider the design of these systems. The goal is to uncover the barriers and challenges that must be overcome through design of systems and processes, and exploring the possible avenues of design that could be exploited</p>
+<p>Here, research was conducted through embedding myself in projects aligned to the research objectives of building new data systems. Not empirical structured research but rather a process of acculturation to the world of building data systems and learning through participation and through research through design and through technical prototyping.</p>
+<h2 data-number="3.4" id="research-through-design"><span class="header-section-number">3.4</span> Research Through design</h2>
+<p>background on how this can be framed as research through design</p>
+<h2 data-number="3.5" id="rapid-prototyping"><span class="header-section-number">3.5</span> Rapid prototyping</h2>
+<p>background on how prototyping is used to explore new ideas - pivoting etc.</p>
+<h3 data-number="3.5.1" id="studies-undertaken-towards-this-research-goal"><span class="header-section-number">3.5.1</span> Studies undertaken towards this research goal</h3>
+<p>two major projects:</p>
 <ul>
-<li>How to not overwhelm people with Information</li>
-<li>the need to model things in the context of people’s everyday lives
-<ul>
-<li>bring in life modelling stuff (models &amp; prototypes) I did at BBC</li>
-<li>different mental models</li>
-</ul></li>
-<li>how to get people to care</li>
+<li>SILVER (ref early help as earlier)</li>
+<li>BBC R &amp; D/PDS</li>
 </ul>
-<h3 data-number="5.4.2" id="levels-of-access-to-data---gdpr-critique"><span class="header-section-number">5.4.2</span> Levels of Access to Data - GDPR critique</h3>
-<p>[Target X words]</p>
-<p>My analysis of the effectiveness of GDPR and how i position it as a better-than-it-was but not-good-enough level of access - introduce my model for access</p>
-<h1 data-number="6" id="chapter-6"><span class="header-section-number">6</span> Increasing Agency Through Web Augmentation</h1>
-<p>[Target 3,000 words]</p>
-<p>This is a short chapter describing the work I did with web augmentation as a means to challenge data-holder power.</p>
-<h2 data-number="6.1" id="research-context"><span class="header-section-number">6.1</span> Research context</h2>
-<p>[Target X words]</p>
+<p>two minor projects:</p>
 <ul>
-<li>Seams [Weiser] and how to overcome them.</li>
-<li>Web augmentation as a means to do that, without provider permission.</li>
-<li>Scraping / webcrawling.</li>
+<li>web augmentation</li>
+<li>experimenting with using own data and getting usable data with GDPR</li>
 </ul>
-<h2 data-number="6.2" id="what-was-done"><span class="header-section-number">6.2</span> What was Done</h2>
-<p>[Target X words]</p>
-<h3 data-number="6.2.1" id="just-eat-scenario"><span class="header-section-number">6.2.1</span> Just Eat scenario</h3>
-<ul>
-<li>Just Eat web augmentation to show how interfaces can be changed on user side</li>
-</ul>
-<h3 data-number="6.2.2" id="facebook-scenario"><span class="header-section-number">6.2.2</span> Facebook scenario</h3>
-<ul>
-<li>web augmentation to gather Facebook posts to view elsewhere (given Facebook restricts this)</li>
-</ul>
-<h2 data-number="6.3" id="discussion-2"><span class="header-section-number">6.3</span> Discussion</h2>
-<p>[Target X words]</p>
-<p>Discussing the implications of this technique, and its limitations, with reference to the overall research question and acquiring agency.</p>
-<h1 data-number="7" id="chapter-7"><span class="header-section-number">7</span> Discussion</h1>
-<p>[Target 8,000 words]</p>
-<p>In this chapter we bring together the findings of chapters 4 &amp; 5 &amp; 6, to answer the research question and conclude the thesis.</p>
-<h3 data-number="7.0.1" id="the-power-of-data-holders"><span class="header-section-number">7.0.1</span> The Power of Data holders</h3>
-<p>[Target X words]</p>
-<ul>
-<li>Looking at gaining agency as shifting the locus of decision Making in a relationship.</li>
-<li>Introduce and reference some models of power/data-power
-<ul>
-<li>Foucault</li>
-<li>Zuboff</li>
-<li>Habermas</li>
-<li>power of Facebook/data serfs etc</li>
-<li>other models…</li>
-</ul></li>
-<li>then moving into the ways in which organisations maintain power today
-<ul>
-<li>Care side:
-<ul>
-<li>closed databases</li>
-<li>non inclusive processes</li>
-</ul></li>
-<li>Commercial side:
-<ul>
-<li>removing the seams</li>
-<li>lack of human contact</li>
-<li>limiting data access and use, non-interoperability etc</li>
-</ul></li>
-</ul></li>
-<li>What are the practical ways to challenge this
-<ul>
-<li>web augmentation,</li>
-<li>GDPR-based relentless pressure&gt;dashboards,</li>
-<li>greater involvement in processes (though that is challenging)</li>
-<li>better data literacy and education</li>
-<li>Personal data stores as solution - huge challenges of building and designing, need to model for everyday life, hard to codify life.</li>
-</ul></li>
-</ul>
-<h2 data-number="7.1" id="contribution"><span class="header-section-number">7.1</span> Contribution</h2>
-<p>[Target X words]</p>
-<p>Probably needs a better title but in this section i essentially synthesise the whole thesis to make its specific contributions crystal clear:</p>
-<ul>
-<li>Understandings of people’s thinking about data</li>
-<li>Models for thinking about data, human-data interaction and data within relationships</li>
-<li>Practical techniques for taking power - and their limitations</li>
-</ul>
-<h2 data-number="7.2" id="answering-the-research-question"><span class="header-section-number">7.2</span> Answering the Research Question</h2>
-<p>[Target X words]</p>
-<p>In short, people need to see, understand, ask questions of their data, and use it, in the context of their own lives.</p>
-<h3 data-number="7.2.1" id="people-need-to-see-and-understand-their-data"><span class="header-section-number">7.2.1</span> People need to see and understand their data</h3>
-<p>[Target X words]</p>
-<ul>
-<li>Access</li>
-<li>Legibility</li>
-<li>Meaningfulness</li>
-<li>effectiveness</li>
-<li>Exploration, orienteering, Associativity</li>
-</ul>
-<h3 data-number="7.2.2" id="people-need-to-be-able-to-ask-questions-of-their-data"><span class="header-section-number">7.2.2</span> People need to be able to ask questions of their data</h3>
-<p>[Target X words]</p>
-<ul>
-<li>who/why/where/what/when</li>
-<li>provenance</li>
-<li>errors</li>
-<li>completeness</li>
-<li>Reflection - more complex questions</li>
-</ul>
-<h3 data-number="7.2.3" id="people-need-to-be-able-use-their-data-in-the-context-of-their-lives"><span class="header-section-number">7.2.3</span> People need to be able use their data in the context of their lives</h3>
-<p>[Target X words]</p>
-<ul>
-<li>Whose data is it</li>
-<li>Data as a usable resource for individuals (actually, as information, not data)</li>
-<li>Overcoming platform independence and silos</li>
-<li>Modelling the world and its challenges - mental models and fuzziness</li>
-</ul>
-<h2 data-number="7.3" id="conclusionfuture-work"><span class="header-section-number">7.3</span> Conclusion/Future Work</h2>
-<p>[Target X words]</p>
-<p>Wrapping up everything in a few simple paragraphs and making recommendations for the future (research wise, whereas c6 focussed more on the practical). Talk about positioning digital civics wise.</p>
+<h2 data-number="3.6" id="structure-of-the-following-chapters."><span class="header-section-number">3.6</span> Structure of the following chapters.</h2>
+<p>Findings from the first research goal, The Human Perspective on Data Centricism, are written up in chapter 4, Understanding data</p>
+<p>Findings from the second research goal, The Lived Experience of A Data-Centric world, are written up in chapter 5, understanding data relations.</p>
+<p>Findings from the third research goal, Uncovering and Exploring Design Constraints and Opportunities are written up in chapter 6, understanding design constraints and possibilities.</p>
+<p>In chapter 7, these findings are brought together to address the overall research question and suggest avenues for future research, design and development that can be applied to design better human data relations.</p>
+<h1 data-number="4" id="chapter-4"><span class="header-section-number">4</span> The Human Perspective on Data and Data-Centrism</h1>
+<p>[Target x words]</p>
+<h1 data-number="5" id="chapter-5"><span class="header-section-number">5</span> Living In A Data-Centric World</h1>
+<p>[Target x words]</p>
+<h1 data-number="6" id="chapter-6"><span class="header-section-number">6</span> Human-Centricity: Design Constraints and Opportunities</h1>
+<p>[Target x words]</p>
+<h1 data-number="7" id="chapter-7"><span class="header-section-number">7</span> Designing Better Human Data Relations</h1>
+<p>[Target x words]</p>
 <h1 class="unnumbered" id="bibliography">Bibliography</h1>
 </body>
 </html>

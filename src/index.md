@@ -1,5 +1,5 @@
 ---
-title: Acquiring Agency through Personal Data
+title: Understanding and Designing Human Data Relations
 author: Alex Bowyer
 bibliography: src/thesis.bib
 
