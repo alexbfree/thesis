@@ -52,8 +52,30 @@ def buildThesis(format):
 
     print("\tThesis built under " + outputPath+filename)
 
-# Builds a single chapter
+# Builds frontmatter.md into frontmatter.format (this is code duplication, there is a TODO item to get a buildFile function which can be used by each frontmatter and chapter build functions)
+def buildFrontmatter(format):
+    print("Building frontmatter in {}".format(format))
+    outputPath = "{}/{}/".format(OUT_PATH, format)
 
+    # Make the directory for the output if not exists
+    subprocess.run(["mkdir", "-p", outputPath])
+
+    # Define the output filename
+    outputFile = "frontmatter.{}".format(format)
+
+    args = ["pandoc", "src/index.md", "src/frontmatter.md", "src/bibliography.md", "--output={}{}".format(outputPath, outputFile), "-s", "--toc", "--filter=pandoc-citeproc", "--self-contained", "--number-sections"]
+
+    # Append the pdf args
+    if format == "pdf":
+        args.append("-t")
+        args.append("html5")
+
+    # Run the pandoc command
+    subprocess.run(args)
+
+    print("\tBuilt %s" % outputPath+outputFile)
+
+# Builds a single chapter
 def buildChapter(chapterNumber, format):
     print("Building Chapter {} in {}".format(chapterNumber, format))
     outputPath = "{}/{}/".format(OUT_PATH, format)
@@ -184,6 +206,10 @@ def main(argv):
     chapter_parser.add_argument("chapter_number", type=int, help="The number of the chapter you want to build")
     chapter_parser.add_argument("format", type=str, help="The format you want to build into e.g. html or docx")
 
+    # Parser for building the frontmatter
+    frontmatter_parser = subparsers.add_parser("frontmatter", help="Builds only frontmatter.md in [format]")
+    frontmatter_parser.add_argument("format", type=str, help="The format you want to build into e.g. html or docx")
+
     # Parser for building the entire thesis or all chapters simultaneously
     thesis_parser = subparsers.add_parser("thesis", help="Builds the entire thesis in an appropriate format")
     thesis_parser.add_argument("format", type=str, help="The format you want to build into e.g. html or docx")
@@ -217,6 +243,10 @@ def markdown_thesis(args):
     elif args.subparser == "chapter":
         print("Building Chapter in {}\n======\n".format(args.format))
         buildChapter(args.chapter_number, args.format)
+
+    elif args.subparser == "frontmatter":
+        print("Building frontmatter in {}\n======\n".format(args.format))
+        buildFrontmatter(args.format)
 
 
 main(sys.argv)
