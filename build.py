@@ -115,6 +115,7 @@ def buildCoversheet(outputPath):
     thesis_author = config['author']
     thesis_source = config['thesis-source']
     build_formats = config['website-build-formats']
+    download_button_format = config['download-button-format']
 
     # Get the last updated
     date = datetime.now()
@@ -144,7 +145,7 @@ def buildCoversheet(outputPath):
 
     # Write the file
     output = open(outputPath + "index.html", "w")
-    output.write(template.render(thesis_title=thesis_title, thesis_author=thesis_author,last_updated=last_updated, thesis_source=thesis_source, items=items, build_formats=build_formats))
+    output.write(template.render(thesis_title=thesis_title, thesis_author=thesis_author,last_updated=last_updated, thesis_source=thesis_source, items=items, build_formats=build_formats, download_button_format=download_button_format))
     output.close()
 
     print("\tCoversheet built under ./out/website/index.html")
