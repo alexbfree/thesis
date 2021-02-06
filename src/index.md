@@ -11,9 +11,8 @@ link-citations: true
 csl: src/harvard-newcastle-university.csl
 
 thesis-source: https://example.org/your-git-repo
+download-button-format: odt
 website-build-formats:
   - odt
   - docx
-  - pdf
-  - epub
 ---
