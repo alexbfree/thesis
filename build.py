@@ -54,7 +54,7 @@ def buildThesis(format):
 
 # Builds filename.md into filename.format; numberOffset may be set to change the section numbers
 def buildFile(filename, format, chapterNumber=None):
-    print("Building a file")
+    print("Building {} in {}".format(filename, format))
 
     # Define the output path where the file will be built, using the format argument and make the directory if it doesn't exist
     outputPath = "{}/{}/".format(OUT_PATH, format)
@@ -79,32 +79,16 @@ def buildFile(filename, format, chapterNumber=None):
     subprocess.run(args)
 
     print("\tBuilt {}{}".format(outputPath, outputFile))
+
 # Builds a single chapter
 def buildChapter(chapterNumber, format):
-    print("Building Chapter {} in {}".format(chapterNumber, format))
-    outputPath = "{}/{}/".format(OUT_PATH, format)
 
-    # Make the directory for the output if not exists
-    subprocess.run(["mkdir", "-p", outputPath])
+    # Get the filename to pass down
+    filename = "chapter-{}".format(chapterNumber)
 
-    # Define filename
-    filename = "chapter-{}.{}".format(chapterNumber, format)
+    # Run the buildFile command, pass down the chapterNumber to offset properly
+    buildFile(filename, format, chapterNumber)
 
-    # define pandoc args
-    args = ["pandoc", "src/index.md", "src/chapter-{}.md".format(chapterNumber), "src/bibliography.md" , "--output={}{}".format(outputPath,filename), "-s", "--toc", "--filter=pandoc-citeproc", "--self-contained", "--number-sections"]
-
-    # Append the args for offsetting the section number (chapter number minus 1)
-    args.append("--number-offset={}".format(int(chapterNumber) - 1))
-
-    # Append the pdf args
-    if format == "pdf":
-        args.append("-t")
-        args.append("html5")
-
-    # Run the pandoc command
-    subprocess.run(args)
-
-    print("\tBuilt %s" % outputPath+filename)
 
 # Iterates and builds all individual chapters as separate files.
 def buildChapters(format):
