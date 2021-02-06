@@ -52,29 +52,6 @@ def buildThesis(format):
 
     print("\tThesis built under " + outputPath+filename)
 
-# Builds frontmatter.md into frontmatter.format (this is code duplication, there is a TODO item to get a buildFile function which can be used by each frontmatter and chapter build functions)
-def buildFrontmatter(format):
-    print("Building frontmatter in {}".format(format))
-    outputPath = "{}/{}/".format(OUT_PATH, format)
-
-    # Make the directory for the output if not exists
-    subprocess.run(["mkdir", "-p", outputPath])
-
-    # Define the output filename
-    outputFile = "frontmatter.{}".format(format)
-
-    args = ["pandoc", "src/index.md", "src/frontmatter.md", "src/bibliography.md", "--output={}{}".format(outputPath, outputFile), "-s", "--toc", "--filter=pandoc-citeproc", "--self-contained", "--number-sections"]
-
-    # Append the pdf args
-    if format == "pdf":
-        args.append("-t")
-        args.append("html5")
-
-    # Run the pandoc command
-    subprocess.run(args)
-
-    print("\tBuilt %s" % outputPath+outputFile)
-
 # Builds filename.md into filename.format; numberOffset may be set to change the section numbers
 def buildFile(filename, format, chapterNumber=None):
     print("Building a file")
