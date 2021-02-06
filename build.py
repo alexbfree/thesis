@@ -75,6 +75,33 @@ def buildFrontmatter(format):
 
     print("\tBuilt %s" % outputPath+outputFile)
 
+# Builds filename.md into filename.format; numberOffset may be set to change the section numbers
+def buildFile(filename, format, chapterNumber=None):
+    print("Building a file")
+
+    # Define the output path where the file will be built, using the format argument and make the directory if it doesn't exist
+    outputPath = "{}/{}/".format(OUT_PATH, format)
+    subprocess.run(["mkdir", "-p", outputPath])
+
+    # Define the output filename
+    outputFile = "{}.{}".format(filename,format)
+
+    # Build the initial pandoc command to build the file
+    args = ["pandoc", "src/index.md", "src/{}.md".format(filename), "src/bibliography.md" , "--output={}{}".format(outputPath,outputFile), "-s", "--toc", "--filter=pandoc-citeproc", "--self-contained", "--number-sections"]
+
+    # Append the pdf args for if they try to build a PDF file
+    if format == "pdf":
+        args.append("-t")
+        args.append("html5")
+
+    # Append the args for offsetting the section number (chapter number minus 1)
+    if not chapterNumber == None:
+        args.append("--number-offset={}".format(int(chapterNumber) - 1))
+
+    # Run the pandoc command
+    subprocess.run(args)
+
+    print("\tBuilt {}{}".format(outputPath, outputFile))
 # Builds a single chapter
 def buildChapter(chapterNumber, format):
     print("Building Chapter {} in {}".format(chapterNumber, format))
@@ -246,7 +273,8 @@ def markdown_thesis(args):
 
     elif args.subparser == "frontmatter":
         print("Building frontmatter in {}\n======\n".format(args.format))
-        buildFrontmatter(args.format)
+        # buildFrontmatter(args.format)
+        buildFile("frontmatter", args.format)
 
 
 main(sys.argv)
