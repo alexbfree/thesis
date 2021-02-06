@@ -11,7 +11,7 @@ import frontmatter
 import glob
 import argparse
 
-WEBSITE_PATH = "./out/website/"
+WEBSITE_PATH = "./out/website"
 OUT_PATH = "./out"
 SRC_PATH = "./src"
 
@@ -114,6 +114,7 @@ def buildCoversheet(outputPath):
     thesis_title = config['title']
     thesis_author = config['author']
     thesis_source = config['thesis-source']
+    build_formats = config['website-build-formats']
 
     # Get the last updated
     date = datetime.now()
@@ -124,7 +125,8 @@ def buildCoversheet(outputPath):
 
     # To find the title the best way forward is to nab the title from the HTML file as that's easier to parse than Markdown
 
-    html_file = open('./out/html/thesis.html') # Open the thesis filel it's cheaper to parse the file once and nab the title in the loop
+    # Open the thesis file, it's cheaper to parse the file once and nab the title in the loop
+    html_file = open('./out/html/thesis.html')
 
     html_content = html_file.read()
     html_file.close()
@@ -142,7 +144,7 @@ def buildCoversheet(outputPath):
 
     # Write the file
     output = open(outputPath + "index.html", "w")
-    output.write(template.render(thesis_title=thesis_title, thesis_author=thesis_author,last_updated=last_updated, thesis_source=thesis_source, items=items))
+    output.write(template.render(thesis_title=thesis_title, thesis_author=thesis_author,last_updated=last_updated, thesis_source=thesis_source, items=items, build_formats=build_formats))
     output.close()
 
     print("\tCoversheet built under ./out/website/index.html")
@@ -152,25 +154,28 @@ def buildWebsite():
     # Check for and create the folder
     subprocess.run(["mkdir", "-p", WEBSITE_PATH])
 
-    # Build the various copies of the thesis
-    buildThesis("html")
-    buildThesis("odt")
-    buildThesis("docx")
+    # Load the config file
+    config = frontmatter.load('./src/index.md')
 
-    # Build chapters separately. It's nice to break things up for people.
-    buildChapters("html")
-    buildChapters("odt")
-    buildChapters("docx")
-
-    # Copy files (note: is there a better way to do this?)
+    # Copy the styles file
     copy("./src/styles.css", WEBSITE_PATH)
 
-    dir_util.copy_tree("{}/html/".format(OUT_PATH), WEBSITE_PATH+"html/")
-    dir_util.copy_tree("{}/odt/".format(OUT_PATH), WEBSITE_PATH+"odt/")
-    dir_util.copy_tree("{}/docx/".format(OUT_PATH), WEBSITE_PATH+"docx/")
+    # First build in HTML for the web, then loop over the format list and build for that
+    buildThesis("html")
+    buildChapters("html")
+    dir_util.copy_tree("{}/{}/".format(OUT_PATH, "html"), "{}/{}/".format(WEBSITE_PATH, "html") )
+
+    for format in config['website-build-formats']:
+        # Build the thesis + the individual chapters separately
+        buildThesis(format)
+        buildChapters(format)
+
+        # Move the new files over to the website directory
+        dir_util.copy_tree("{}/{}/".format(OUT_PATH, format), "{}/{}/".format(WEBSITE_PATH, format) )
+
 
     # Generate cover sheet
-    buildCoversheet(WEBSITE_PATH)
+    buildCoversheet("{}/".format(WEBSITE_PATH))
 
 # Returns a count of all chapters, used in loops to manipulate chapters dynamically
 def getChapterCount():
