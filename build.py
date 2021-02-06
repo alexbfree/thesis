@@ -164,12 +164,14 @@ def buildWebsite():
     # First build in HTML for the web, then loop over the format list and build for that
     buildThesis("html")
     buildChapters("html")
+    buildFile("frontmatter", "html")
     dir_util.copy_tree("{}/{}/".format(OUT_PATH, "html"), "{}/{}/".format(WEBSITE_PATH, "html") )
 
     for format in config['website-build-formats']:
         # Build the thesis + the individual chapters separately
         buildThesis(format)
         buildChapters(format)
+        buildFile("frontmatter", format)
 
         # Move the new files over to the website directory
         dir_util.copy_tree("{}/{}/".format(OUT_PATH, format), "{}/{}/".format(WEBSITE_PATH, format) )

@@ -59,6 +59,7 @@
             </thead>
 
             <tbody>
+
               <tr>
                 <td>
                   <a href="./html/thesis.html">Thesis</a>
@@ -70,6 +71,18 @@
                 </td>
                 {% endfor %}
 
+              </tr>
+
+              <tr>
+                <td>
+                  <a href="./html/frontmatter.html">Frontmatter</a>
+                </td>
+
+                {% for format in build_formats %}
+                <td>
+                  <a href="./{{format}}/frontmatter.{{format}}">frontmatter.{{format}}</a>
+                </td>
+                {% endfor %}
               </tr>
 
               {% for item in items %}
