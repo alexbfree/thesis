@@ -1,25 +1,20 @@
 Introduction{#chapter-1}
 =======================
-[Target X words]
+[Target 4,000 words]
 
-Motivation
+Motivation & Problem
 -------------------------------------------
-[Target X words]
+[Target 1,000 words]
 
 
-Problem
+Prior Work / Theoretical Frame
 -------------------------------------------
-[Target X words]
-
-
-Prior Work
--------------------------
-[Target X words]
+[Target 1,000 words]
 
 
 The Research Question & My Approach
 ---------------------
-[Target X words]
+[Target 1,000 words]
 
 *What role should people's data play in their lives, and what capabilities do they need?*
 
@@ -34,16 +29,13 @@ Sub-questions:
 
 Contribution
 -----------
-[Target X words]
-
+[Target 500 words]
 
 
 Thesis Structure
 ----------------
-[Target X words]
+[Target 500 words]
 
 
 Notes
 -----
-
-- Subsection headings are just placeholders for now, need to revise these.
