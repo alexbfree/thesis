@@ -1,6 +1,5 @@
 Literature Review {#chapter-2}
 =======================
-[Target 8,000 words]
 
 Data-Centrism
 -------------
@@ -27,9 +26,22 @@ As a result of data-ism, the collection of data about people has become an inevi
 Unfortunately, the large-scale systems which collect data about us now function as 'data traps'[@abiteboul2015] - where data about us is easily gathered but very hard to remove or even to access. This creates a lack of agency for the individuals living in this data-centric world. The World Economic Forum's "Rethinking Personal Data" project recognised the critical role that data - specifically personal data - data created by and about people - now holds, and identified that 'an asymmetry of power exists today [...] created by an imbalance in the amount of information about individuals held by industry and governments, and the lack of knowledge and ability of the same individuals to control the use of that information'[@WEF2011;@WEF2013;@WEF2014context;@WEF2014lens].
 
 ### Data Protection & GDPR
-[Target 550 words]
 
+Since as early as 1973, the need to protect individuals' rights over their data has been recognised[@USDOHEW1973]. The 37-nation organisation OECD in 1980 stated that
+"the right of individuals to access and challenge personal data is [...] the most important privacy protection safeguard" and issued recommendations that individuals should be given basic privacy rights, including the right to be informed whether data is stored about them, and the right to an intelligible copy of that data[@OECD1980].
 
+Over the subsequent decades, lawmakers began to enact laws to deliver these rights to individuals, notably the UK's Data Protection Act 1984 (which set up an independent body, the Data Protection Registrar (now the Information Commissioner's Office) with which organisations were required to register their usage of personal data), Ireland's Data Protection Act 1988 (which introduced the concept of a 'duty of care' for data collectors - that they are expected to avoid causing damage or distress to data subjects), the EU's Data Protection Directive in 1995 and the UK's Data Protection Act in 1998. However, such laws were generally found to be ineffective - in 2002 Simon Davies, director of Privacy International said that the UK's DPA was "almost useless in limiting the growth of surveillance"[@millar2002].
+
+It was only in 2018, when the EU's General Data Protection Regulation came into force, carrying with it significant designed-to-hurt fines for non-compliance, that individuals have been able to practically exercise their data rights to any meaningful degree. The GDPR can be seen as the first serious attempt to rebalance the aforementioned power imbalance between citizens and organisations that the World Economic Forum identified and is generally regarded as a landmark piece of legislation and a strong template for individual data protection. Around the world, companies have overhauled their privacy policies and updated their business practices to comply with the GDPR and other similar legislation, such as Japan's 2017 Act on the Protection of Personal Information, India's 2019 Personal Data Protection Bill and the 2020 California Consumer Protection Act. In the USA, there has been no national privacy law yet, but 'the GDPR's protections can be found - albeit in weaker, less prescriptive forms - in U.S. privacy laws and in Federal Trade Commission settlements with companies'[@hoofnagle2019].
+
+Also in 2018, the Cambridge Analytica scandal[@wikipedia2018cambAna] broke - the personal data of 87 million people, acquired from Facebook, was exploited with the apparent intent of influencing voting outcomes including the UK's 2016 Brexit referendum and the USA's 2017 election of Donald Trump. This combined with widespread public information campaigns about GDPR have led to a widespread awareness of personal data rights[@EUAFR2020] and at the time of writing in 2021, personal data protection laws and individual digital rights remain a rapidly evolving area.
+
+From the GDPR and its antecedents, a number of key terms have been established which I will adopt in this thesis, specifically [@ico2014;@GDPR2016]:
+
+- _Personal data_ means any information relating to an identifiable natural person - one who can be identified directly or indirectly by reference to an identifier such as a name, identification number or location or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that person.
+- The _data subject_ is the identified individual, living or deceased, who the personal data relates to.
+- A _data controller_ is the legal entity (company, public authority, agency, individual or other body) which collects or stores personal data about an individual and determines the means and purposes for which it is processed. Legal liability for data protection compliance rests with the data controller.
+- A _data processor_ is a legal entity which processes personal data on behalf of the data controller. In this context processing refers to the technical aspects of data such as storage and retrieval. Interpretation or decision making in relation to personal data must be done by the data controller.
 
 ### The Fight for Effective Data Access
 [Target 400 words]
