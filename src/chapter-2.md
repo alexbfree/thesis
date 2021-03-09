@@ -32,22 +32,38 @@ Since as early as 1973, the need to protect individuals' rights over their data 
 
 Over the subsequent decades, lawmakers began to enact laws to deliver these rights to individuals, notably the UK's Data Protection Act 1984 (which set up an independent body, the Data Protection Registrar (now the Information Commissioner's Office) with which organisations were required to register their usage of personal data), Ireland's Data Protection Act 1988 (which introduced the concept of a 'duty of care' for data collectors - that they are expected to avoid causing damage or distress to data subjects), the EU's Data Protection Directive in 1995 and the UK's Data Protection Act in 1998. However, such laws were generally found to be ineffective - in 2002 Simon Davies, director of Privacy International said that the UK's DPA was "almost useless in limiting the growth of surveillance"[@millar2002].
 
-It was only in 2018, when the EU's General Data Protection Regulation came into force, carrying with it significant designed-to-hurt fines for non-compliance, that individuals have been able to practically exercise their data rights to any meaningful degree. The GDPR can be seen as the first serious attempt to rebalance the aforementioned power imbalance between citizens and organisations that the World Economic Forum identified and is generally regarded as a landmark piece of legislation and a strong template for individual data protection. Around the world, companies have overhauled their privacy policies and updated their business practices to comply with the GDPR and other similar legislation, such as Japan's 2017 Act on the Protection of Personal Information, India's 2019 Personal Data Protection Bill and the 2020 California Consumer Protection Act. In the USA, there has been no national privacy law yet, but 'the GDPR's protections can be found - albeit in weaker, less prescriptive forms - in U.S. privacy laws and in Federal Trade Commission settlements with companies'[@hoofnagle2019].
+It was only in 2018, when the EU's General Data Protection Regulation (GDPR) came into force, carrying with it significant designed-to-hurt fines for non-compliance[@kelly2020;@zdnet2021], that individuals have been able to practically exercise their data rights to any meaningful degree[@atebits2020]. The GDPR -- which gives individuals key rights including rights to timely data access, explanation, erasure and correction[@ico2018] -- can be seen as the first serious attempt to rebalance the aforementioned power imbalance over data between citizens and organisations and is generally regarded as a landmark piece of legislation and a strong template for individual data protection. Around the world, companies have overhauled their privacy policies and updated their business practices to comply with the GDPR and other similar legislation, such as Japan's 2017 Act on the Protection of Personal Information, India's 2019 Personal Data Protection Bill and the 2020 California Consumer Protection Act. In the USA, there has been no national privacy law yet, but the GDPR's influence is being felt in court rulings[@hoofnagle2019].
 
-Also in 2018, the Cambridge Analytica scandal[@wikipedia2018cambAna] broke - the personal data of 87 million people, acquired from Facebook, was exploited with the apparent intent of influencing voting outcomes including the UK's 2016 Brexit referendum and the USA's 2017 election of Donald Trump. This combined with widespread public information campaigns about GDPR have led to a widespread awareness of personal data rights[@EUAFR2020] and at the time of writing in 2021, personal data protection laws and individual digital rights remain a rapidly evolving area.
+Also in 2018, the Cambridge Analytica scandal[@wikipedia2018cambAna] broke; the personal data of 87 million people, acquired from Facebook, was exploited with the apparent intent of influencing voting outcomes including the UK's 2016 Brexit referendum and the USA's 2017 election of Donald Trump. This combined with widespread public information campaigns about GDPR have led to a heightened awareness of personal data rights[@EUAFR2020] and at the time of writing in 2021, personal data protection laws and individual digital rights remain a rapidly evolving area.
 
 From the GDPR and its antecedents, a number of key terms have been established which I will adopt in this thesis, specifically [@ico2014;@GDPR2016]:
 
 - _Personal data_ means any information relating to an identifiable natural person - one who can be identified directly or indirectly by reference to an identifier such as a name, identification number or location or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that person.
 - The _data subject_ is the identified individual, living or deceased, who the personal data relates to.
-- A _data controller_ is the legal entity (company, public authority, agency, individual or other body) which collects or stores personal data about an individual and determines the means and purposes for which it is processed. Legal liability for data protection compliance rests with the data controller.
-- A _data processor_ is a legal entity which processes personal data on behalf of the data controller. In this context processing refers to the technical aspects of data such as storage and retrieval. Interpretation or decision making in relation to personal data must be done by the data controller.
+- A _data controller_ is the legal entity (company, public authority, agency, individual or other body) which collects or stores personal data about an individual and determines the means and purposes for which it is processed. Liability for data protection compliance rests with the data controller.
+- A _subject access request_ is the right to a copy of your personal data.
+- _Data portability_ is the right to receive a copy of all stored data about you, not just that which you provided, in an accessible and machine-readable format such as a CSV file, so that you can transport it to another service or make use of it.
 
-### The Fight for Effective Data Access
+### The Need for Practical and Effective Data Access
 [Target 400 words]
+
+Para 1 - to tackle the imbalance, need transparency, control, trust and value.
+Larsson, to assess value people need awareness
+
+Para 2 - effective access and what it entails
+
+Para 3 - what is missing in terms of ability to use our data. distributed data - need for associativity, can't do that due to silos etc.
+time, timelines -
+the needs of filtering, data detail. etc.
+
+it's about finding meaning. there is today no interface that offers such functionality over our digital data.
 
 ### Research Gap: The Human Experience of Data
 [Target 400 words]
+
+so the gap is - what value and meaning fo people find of their data. what mental models do they have around data. what is data to them, what is their relationship to it (and what would they like it to be).
+what is data to people living in a data centric world?
+
 
 Personal Data Interaction
 -------------------------
