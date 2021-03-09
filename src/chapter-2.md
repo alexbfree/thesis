@@ -45,25 +45,28 @@ From the GDPR and its antecedents, a number of key terms have been established w
 - _Data portability_ is the right to receive a copy of all stored data about you, not just that which you provided, in an accessible and machine-readable format such as a CSV file, so that you can transport it to another service or make use of it.
 
 ### The Need for Practical and Effective Data Access
-[Target 400 words]
 
-Para 1 - to tackle the imbalance, need transparency, control, trust and value.
-Larsson, to assess value people need awareness
+The World Economic Forum called in 2011 for a balanced ecosystem around personal data, and identified _transparency_ as a key principle needed to achieve this: People need to know what data is captured, how it is captured, how it will be used and analysed and who has access to it. Additionally people must understand the _value_ created by the use of their data and the way in which they are compensated for this[@WEF2011]. It is almost impossible for people to assess that value, because they are unaware of most of their data[@spiekermann2017]. Having _awareness_ of your personal data is a critical first step, so that people might assess "to what extent the bargain is fair"[@larsson2018]. In this regard, the GDPR can be seen as an important step in the right direction, as it requires data controllers to document their data practices and to provide data copies.
 
-Para 2 - effective access and what it entails
+However, it is not sufficient simply to grant data subjects the technical or procedural capabilities to see the stored records about them. Access must be _effective_. Every individual must have the knowledge, skills and structures in place that enable them to achieve their objectives with their personal data data[@gurstein2003]. Gurstein later identified seven aspects that are necessary for access to be effective[@gurstein2011] and to avoid a 'data divide' of those who can harness their data and those who cannot:
 
-Para 3 - what is missing in terms of ability to use our data. distributed data - need for associativity, can't do that due to silos etc.
-time, timelines -
-the needs of filtering, data detail. etc.
+1. _Internet_: If data access is via Internet, then issues with affordability, bandwidth, network censorship, or disabilities limiting physical access to Internet devices or terminals would make access ineffective.
+2. _Computers and software_: Sufficiently powerful computers must be available, for a sufficient amount of time, with sufficiently capable software to perform necessary interpretation or actions.
+3. _Skills_: If technical skills or knowledge are required to use the software and/or to interpret, analyse or visualise the data, then access is ineffective.
+4. _Content and formatting_: The data should be in an appropriate language and format to allow use at various levels of linguistic and computer literacy
+5. _Sensemaking_: People need sufficient knowledge and skill to be able to interpret their data and extract meaningful information from it.
+6. _Advocacy_: People need support and training to make use of their data and representation if they are to use it at a wider community level.
+7. _Governance_: There must be financing and appropriate law or policy to support people's desired usage of their data.
 
-it's about finding meaning. there is today no interface that offers such functionality over our digital data.
+Unfortunately people's ability to derive value from their data, or to assess its value is limited; it is an asset over which we have little control. Our existing data 'resides in isolated silos kept apart by technical incompatibilities, semantic fuzziness, organizational barriers [and] privacy regulations'. This lack of effective data access is detrimental to trust, innovation and growth[@abiteboul2015].
+
+Beyond these operational concerns over effective access, there are practical limitations affecting people's ability to make use of their data. Where people are given interfaces their data,  access is typically via a list or feed combined with a search box. Studies have shown that people prefer to find information by _orienteering_ rather than search - associatively traversing related datapoints[@teevan2004; @karger2006]. Having our documents distributed across multiple platforms, applications and devices makes interrogation and orienteering hard[@krishnan2005]. Abowd and Mynatt highlight that in presenting information about people and their activities, everyday computing needs to address the facts that users activities rarely have a clear beginning or end, are often interrupted, are often concurrent with other activities; that _time_ is an important factor in finding and interpreting information; and that associative modelling of information is more useful than hierarchical models, because future usage goals cannot always be anticipated[@abowd2000]. Recognising these needs, Krishnan and Jones identify that an effective information access system should support giving historical context, _finding trends and patterns_, time-based contextual retrieval, automatic structuring and multiple perspectives of the information[@krishnan2005]. Shneiderman, in the context of considering the effectiveness of interactive information visualisations, identified the need to support seven types of information interaction: _overview_, _pan & zoom_, _focus_ (context & distortion), _detail on demand_, _filter_, _relate_, _history_ and _extract_[@shneiderman1996]. While any one of the capabilities mentioned in this paragraph does exist in data interfaces today, it is clear that no such general-purpose personal information access system exists with all or even most of those capabilities exists today. The development and state of the art in the field of Personal Information Management Systems is explored in section 2.2 below.
 
 ### Research Gap: The Human Experience of Data
-[Target 400 words]
 
-so the gap is - what value and meaning fo people find of their data. what mental models do they have around data. what is data to them, what is their relationship to it (and what would they like it to be).
-what is data to people living in a data centric world?
+In this section, I have described the establishment of the data-centric world in which we live today, the imbalance this creates between data subjects and data controllers, and what can be viewed as nascent attempts by governments to redress that imbalance through the creation of new laws. I have also outlined where research thinking has exceeded the practical data capabilities we have today, in identifying the many factors and capabilities that should be considered when it comes to giving people a meaningful relationship with their personal data.
 
+To date, people's relationship with their personal data and the information within it has barely been explored. What mental models to people have around data? What value does it carry to them and what meaningful place does it (or should it) hold in their life? What is it that makes data meaningful and what do people want from their data? What is it like to live in this data-centric world where your abilities over your data are limited by lack of access to data and a lack of suitable interfaces and technologies to properly manage your digital life? This is one aspect of the research gap this thesis will address - discovering the human experience of data.
 
 Personal Data Interaction
 -------------------------
