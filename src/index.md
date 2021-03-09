@@ -8,7 +8,7 @@ css:
  - src/styles.css
 
 link-citations: true
-csl: src/harvard-newcastle-university.csl
+csl: src/harvard-cite-them-right.csl
 
 thesis-source: https://github.com/alexbfree/thesis
 download-button-format: odt

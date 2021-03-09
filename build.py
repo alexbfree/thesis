@@ -142,6 +142,11 @@ def buildCoversheet(outputPath):
 
         items.append(item)
 
+    #biblio = {}
+    #biblio["file"] = "bibliography"
+    #biblio["title"] = soup.find("h1", id="bibliography").contents[]
+    #items.append(biblio)
+
     # Write the file
     output = open(outputPath + "index.html", "w")
     output.write(template.render(thesis_title=thesis_title, thesis_author=thesis_author,last_updated=last_updated, thesis_source=thesis_source, items=items, build_formats=build_formats, download_button_format=download_button_format))
