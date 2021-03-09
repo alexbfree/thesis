@@ -26,7 +26,7 @@
       <div class="pure-u-1 pure-u-sm-1">
         <div class="download-links margins-top">
           <p class="centre">
-            <a class="pure-button pure-button-primary" href="./html/thesis.html"><i class="fab fa-html5"></i> Read Online</a> <a class="pure-button pure-button-primary" href="./docx/thesis.docx"><i class="fas fa-file-word"></i> Download</a>
+            <a class="pure-button pure-button-primary" href="./html/thesis.html"><i class="fab fa-html5"></i> Read Online</a> <a class="pure-button pure-button-primary" href="./{{download_button_format}}/thesis.{{download_button_format}}"><i class="fas fa-download"></i> Download</a>
           </p>
           <p class="centre">
             <a href="{{ thesis_source }}" class="pure-button"><i class="fab fa-gitlab"></i> Source</a>
@@ -47,29 +47,42 @@
 
     <div class="pure-g">
       <div class="pure-u-1 pure-u-sm-1">
-        <div id="table">
+        <div id="chapter-table">
           <table class="pure-table">
             <thead>
               <tr>
                 <th>Web</th>
-                <th>OpenDocument</th>
-                <th>Word</th>
+                {% for format in build_formats %}
+                <th>{{format}}</th>
+                {% endfor %}
               </tr>
             </thead>
+
             <tbody>
+
               <tr>
                 <td>
                   <a href="./html/thesis.html">Thesis</a>
                 </td>
 
+                {% for format in build_formats %}
                 <td>
-                  <a href="./odt/thesis.odt">thesis.odt</a>
+                  <a href="./{{format}}/thesis.{{format}}">thesis.{{format}}</a>
+                </td>
+                {% endfor %}
+
+              </tr>
+
+              <tr>
+                <td>
+                  <a href="./html/frontmatter.html">Frontmatter</a>
                 </td>
 
+                {% for format in build_formats %}
                 <td>
-                  <a href="./docx/thesis.docx">thesis.docx</a>
+                  <a href="./{{format}}/frontmatter.{{format}}">frontmatter.{{format}}</a>
                 </td>
-
+                {% endfor %}
               </tr>
 
               {% for item in items %}
@@ -78,13 +91,11 @@
                   <a href="./html/{{item.file}}.html">{{item.title}}</a>
                 </td>
 
+                {% for format in build_formats  %}
                 <td>
-                  <a href="./odt/{{item.file}}.odt">{{item.file}}.odt</a>
+                  <a href="./{{format}}/{{item.file}}.{{format}}">{{item.file}}.{{format}}</a>
                 </td>
-
-                <td>
-                  <a href="./docx/{{item.file}}.docx">{{item.file}}.docx</a>
-                </td>
+                {% endfor %}
 
               </tr>
               {% endfor %}
