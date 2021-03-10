@@ -72,11 +72,13 @@ Personal Data Interaction
 -------------------------
 [Target 2,500 words]
 
-### Computers as General Purpose Information Tools
+### 
 [Target 300 words]
 
+
+
 ### Personal Information Management
-[Target 600 words]
+[Target 700 words]
 
 ### Personal Informatics & The Quantified Self
 [Target 650 words]
