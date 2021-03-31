@@ -11,8 +11,9 @@ link-citations: true
 csl: src/harvard-cite-them-right.csl
 
 thesis-source: https://github.com/alexbfree/thesis
-download-button-format: odt
+download-button-format: docx
 website-build-formats:
-  - odt
   - docx
+  - pdf
+  - epub
 ---
