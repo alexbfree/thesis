@@ -9,4 +9,22 @@ To develop a research paradigm it is important to begin with reflecting upon you
 
 My established ontological stance, then, is that individuals construct concepts, and continually update them through sensory experience, action, social interaction and inductive reasoning in order to maintain a pragmatic knowledge that they can practically apply in society and in the world in order to pursue their own happiness and self-interest.
 
-Based upon this, we can now look to epistemology - how do
+Based upon this, we can now look to epistemology - how can knowledge be acquired? Having a constructivist rather than a positivist stance means that this is best done not through direct observation of the world and empirical testing of hypothesis, but though interacting and communicating with with individuals so that we can interpret how they view reality; this is known as an _interpretivist_ epistemology. Most of the techniques used will therefore be _qualitative_ (understanding perspectives and collecting non-numerical data) rather than _quantitative_ (measuring behaviours and collecting numerical data). The focus of my research is to acquire understanding of people's views and mental models around data and digital living, so that I can further these concepts in order to develop theories - powerful explanations that can be understood and benefitted from by ordinary people - to fill the knowledge gaps in existing research that I have identified. Given my strong focus on pragmatism and interpreting people's constructed social realities in terms of practical usefulness to them, I will not be deeply analysing their words through language analysis techniques like discourse analysis, but will instead focus on the social, interpersonal level - understanding how people navigate the world of data and change their understandings as they seek to achieve their goals in practice; how they are affected by the systems, relationships and society they exist within. It is this practical focus, recognising that within a society there are objective truths that will affect all individuals that means the methods used will not be solely qualitative, but rather a _mixed methods approach_ where I will adopt the most appropriate methods, usually qualitative but sometimes quantitative, as appropriate to the particular research context and question being explored.
+
+
+-> Participatory Design
+-> Participatory Action Research
+-> Action Research from the perspective of me developing ideas
+    ... importance of me forming interpretations and theories,
+    how will we know it is sound? because the interpetations will come from participants words and the theories will be informed by those
+    good evidence will be ideas that are suggested from many participants, perhaps even different contexts, or that resonate with my own experience and ideas. but each person's experience is unique and needs to be put in context - not about repeatability.
+        
+-> Reflexivity, value free is impossible.
+the role of the researcher - activist, correct an imbalance,"finding out is the means, change is the underlying aim"
+
+
+
+
+
+
+importance of interpretations
