@@ -137,8 +137,13 @@ def buildCoversheet(outputPath):
         item = {}
         item["file"] = "chapter-{}".format(i+1)
 
-        title = soup.find("h1", id="chapter-{}".format(i+1)).contents # Nab the h1 element with the chapter title
-        item["title"] = "{}{}".format(title[0],title[1])
+        title = ""
+        item["title"] = ""
+        
+        foundh1 = soup.find("h1", id="chapter-{}".format(i+1))
+        if foundh1 is not None:
+          title = foundh1.contents # Nab the h1 element with the chapter title
+          item["title"] = "{}{}".format(title[0],title[1])
 
         items.append(item)
 
