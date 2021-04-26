@@ -137,17 +137,28 @@ def buildCoversheet(outputPath):
         item = {}
         item["file"] = "chapter-{}".format(i+1)
 
-        title = ""
-        item["title"] = ""
-
-        foundh1 = soup.find("h1", id="chapter-{}".format(i+1))
-        if foundh1 is not None:
-          title = foundh1.contents # Nab the h1 element with the chapter title
-          item["title"] = "{}{}".format(title[0],title[1])
+        if i==0:
+            item["title"]="1 Introduction"
+        elif i==1:
+            item["title"]="2 Literature Review"
+        elif i==2:
+            item["title"]="3 Methodology"
+        elif i==3:
+            item["title"]="4 The Human Perspective on Data and Data-Centrism"
+        elif i==4:
+            item["title"]="5 Living in a Data-Centric World"
+        elif i==5:
+            item["title"]="6 Human Centricity: Design Constraints and Opportunities"
+        elif i==6:
+            item["title"]="7 Designing Better Human Data Relations"
         else:
-          print('error could not find title h1 with id \'chapter-{}\', beautiful soup returned: '.format(i+1))
-          print(foundh1)
+            item["title"] = ""
 
+        #foundh1 = soup.find("h1", id="chapter-{}".format(i+1))
+        #if foundh1 is not None:
+        #  title = foundh1.contents # Nab the h1 element with the chapter title
+        #      item["title"] = "{}{}".format(title[0]+1,title[1])
+        
         items.append(item)
 
     #biblio = {}
