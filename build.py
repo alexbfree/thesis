@@ -139,11 +139,14 @@ def buildCoversheet(outputPath):
 
         title = ""
         item["title"] = ""
-        
+
         foundh1 = soup.find("h1", id="chapter-{}".format(i+1))
         if foundh1 is not None:
           title = foundh1.contents # Nab the h1 element with the chapter title
           item["title"] = "{}{}".format(title[0],title[1])
+        else:
+          print('error could not find title h1 with id \'chapter-{}\', beautiful soup returned: '.format(i+1))
+          print(foundh1)
 
         items.append(item)
 
