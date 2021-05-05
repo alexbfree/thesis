@@ -43,21 +43,22 @@ seen in the software industry though _agile development_ [@fowler2001] which can
 
 ![Figure 3: My action research approach](./src/figs/fig3-my-action-research-approach.jpg)
 
-Figure 3 shows the cycle of action research, as I will apply it in this study. In each area of life that I identify as a setting for a research activity, I will first carry out initial background reading, experimentation or exploration to familiarise myself with the area, then I will design a research activity, then conduct that activity, analyse any data from that activity (or just reflect upon my experience), and then use these findings to update my overall understanding of the answer to my research questions. I will then go on to repeat this cycle, with the next study, but beginning with more developed theories or understandings than the previous.
+Figure 3 shows the cycle of action research, as I will apply it in this study. In each area of life or context that I identify as a setting for a research activity, I will first carry out initial background reading, experimentation or exploration to familiarise myself with the area, then I will design a research activity that helps to explore my research question in that area. After carrying out the planned activity (be it participatory, self-experimentation or embedded research) I will analyse any data from that activity (or just reflect upon my experience), and then use these findings to update my overall understanding of the answer to my research questions. I will then go on to repeat this cycle, with the next study, but beginning with more developed theories or understandings than the previous. In the case of embedded research activities these are likely to go on for several months alongside other activities, so analysis and learning will happen throughout, resulting in a continually updating current understanding that will form the baseline for later research activities. In the next section I will describe the three specific research objectives that will be targetted through the research activities.
 
+Research Objectives
+-------------------
 
+At the end of chapter 2, I introduced my research question, which is:
 
+**"What role should people's data play in their lives, what capabilities do they need, and how could these ideals be achieved?"**
 
+Corresponding to the three research gaps I am focusing on as identified in 2.1.5, 2.2.5 and 2.3.5 respectively, there are three distinct subquestions I will explore using the approach detailed above. Each of my research activities will be designed to advance my understanding and theories towards one of these three research objectives:
 
+### RQ1. What is the human experience of personal data?
 
+As established in section 2.1, personal data, and its collection and use by commercial and civic organisations, is an established and inevitable part of modern life, yet the concept of data is abstract and poorly understood. The first strand of research I will be advancing through this thesis is to establish a solid understanding of what mental models people have constructed about data. We need to understand what makes data meaningful to people, and given HDI's belief that everyone needs a relationship with their data, we need to understand what relationship people currently have with their data. What _is_ data to people? If we are to design new human data relations, we must begin by understanding people's current relationship to their data, the ways in which that relationship affects them, and their unmet desires for improving their relationship to their personal data. We need to find out what aspects of data cause positive emotions, what problems do people experience with their data, and what people want from their data.
 
+In order to approach this objective, we must take a participatory approach; gathering individual perspectives on data, and looking for patterns or trends in those perspectives, will be the primary means to advance this research objective.
+The first challenge here will be to find ways to sensitise participants to be able to conduct an informed and productive conversation about the topic of data, which to the layman may seem a dry, boring topic. This challenge will be addressed by leading participants into the subject of data using meaningful representations of data as stimulus for conversation, or starting with the individual's own life experience to discover the data in their life, which they are more likely to have opinions and emotions about, rather than talking about the subject in the abstract.
 
-
-
-
-
-
-
-
-
-importance of interpretations
+### RQ2. What role does data play in people's service relationships and how does its use affect the experience of those relationships?
