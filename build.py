@@ -144,13 +144,15 @@ def buildCoversheet(outputPath):
         elif i==2:
             item["title"]="3 Methodology"
         elif i==3:
-            item["title"]="4 The Human Perspective on Data and Data-Centrism"
+            item["title"]="4 Case Study One: Accessing and Using Civic Data in Early Help"
         elif i==4:
-            item["title"]="5 Living in a Data-Centric World"
+            item["title"]="5 Case Study Two: The Human Experience of GDPR"
         elif i==5:
-            item["title"]="6 Human Centricity: Design Constraints and Opportunities"
+            item["title"]="6 Bridge: An Understanding of Human Data Relations"
         elif i==6:
-            item["title"]="7 Designing Better Human Data Relations"
+            item["title"]="7 Case Study Three: Personal Data Interface Design & Development"
+        elif i==7:
+            item["title"]="8 Discussion: Designing Better Human Data Relations" #alt: Next Steps Towards a Human-Centric Future
         else:
             item["title"] = ""
 
@@ -158,7 +160,7 @@ def buildCoversheet(outputPath):
         #if foundh1 is not None:
         #  title = foundh1.contents # Nab the h1 element with the chapter title
         #      item["title"] = "{}{}".format(title[0]+1,title[1])
-        
+
         items.append(item)
 
     #biblio = {}

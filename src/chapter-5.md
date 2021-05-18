@@ -1,3 +1,3 @@
-Living In A Data-Centric World {#chapter-5}
+Case Study Two: The Human Experience of GDPR {#chapter-5}
 =======================
 [Target x words]

@@ -1,3 +1,3 @@
-Designing Better Human Data Relations {#chapter-7}
+Case Study Three: Personal Data Interface Design & Development {#chapter-7}
 =======================
 [Target x words]
