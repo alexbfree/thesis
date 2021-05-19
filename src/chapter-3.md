@@ -39,9 +39,9 @@ The mixed methods approach I will be adopting closely follows the discipline of 
 3. _embedded research activities_ -- where I will participate as an involved team member, in external organisations' projects that are trying to change the world in this space, so that I may learn about the challenges faced on the basis of the grounded experience of myself and others [@cheetham2018].
 
 Action research also carries with it the idea that research is done in cycles: you learn something, carry out some action in the world based on your learning, learn from what happened, and repeat. This has become an established approach in HCI research [@hayes2011] and the importance of collecting stakeholder feedback at regular intervals is also
-seen in the software industry though _agile development_ [@fowler2001] which can be seen as a practical implementation of action research. In startups, terms like 'fail fast' [@brown2015] and 'pivot' [@ries2011] illustrate the idea that it's crucial to test ideas on real people then adapt quickly based on how that goes. To me action research does not mean that you must test every single idea with an audience for it to be considered valid, but rather that user engagement is not a one-off, but a repeated component that affects the research path. Each new research activity will draw from your past learnings and theories and your acquired understanding so far, which will be further developed through its exposure to 'real life' in the process of participatory and embedded research activities.
+seen in the software industry though _agile development_ [@fowler2001] which can be seen as a practical implementation of action research. In startups, terms like 'fail fast' [@brown2015] and 'pivot' [@ries2011] illustrate the idea that it's crucial to test ideas on real people then adapt quickly based on how that goes. To me, action research does not mean that you must test every single idea with an audience for it to be considered valid, but rather that user engagement is not a one-off, but a repeated component that affects the research path. Each new research activity will draw from your past learnings and theories and your acquired understanding so far, which will be further developed through its exposure to 'real life' in the process of participatory and embedded research activities.
 
-![Figure 3: My action research approach](./src/figs/fig3-my-action-research-approach.jpg)
+![Figure 3: My action research approach](./src/figs/fig03-my-action-research-approach.jpg)
 
 Figure 3 shows the cycle of action research, as I will apply it in this study. In each area of life or context that I identify as a setting for a research activity, I will first carry out initial background reading, experimentation or exploration to familiarise myself with the area, then I will design a research activity that helps to explore my research question in that area. After carrying out the planned activity (be it participatory, self-experimentation or embedded research) I will analyse any data from that activity (or just reflect upon my experience), and then use these findings to update my overall understanding of the answer to my research questions. I will then go on to repeat this cycle, with the next study, but beginning with more developed theories or understandings than the previous. In the case of embedded research activities these are likely to go on for several months alongside other activities, so analysis and learning will happen throughout, resulting in a continually updating current understanding that will form the baseline for later research activities. In the next section I will describe the three specific research objectives that will be targetted through the research activities.
 
@@ -52,7 +52,7 @@ At the end of chapter 2, I introduced my research question, which is:
 
 **"What role should people's data play in their lives, what capabilities do they need, and how could these ideals be achieved?"**
 
-Corresponding to the three research gaps I am focusing on as identified in 2.1.5, 2.2.5 and 2.3.5 respectively, there are three distinct subquestions I will explore using the approach detailed above. Each of my research activities will be designed to advance my understanding and theories towards one of these three research objectives:
+Corresponding to the three research gaps I am focusing on as identified in 2.1.5, 2.2.5 and 2.3.5 respectively, there are three distinct subquestions I will explore using the approach detailed above. Each of my research activities will be designed to advance my understanding and theories towards at least one, sometimes more than one, of these three research objectives:
 
 ### Research Question 1 (RQ1): What is the human experience of personal data, and what do people want from their data?
 
@@ -77,10 +77,10 @@ As a software industry professional, and as a pragmatic digital civics researche
 This strand will be addressed in parallel to RQ1 and RQ2, so that practical discoveries may inform those research questions too. This also means that as new needs and desires emerge from RQ1 and RQ2, they can become "requirements" for the more technical design work of RQ3. As an approach, this will be action research in its purest sense - I will embed myself in projects working in the personal data space, as a developer and a researcher, so that I can gain deep field experience of the constraints and opportunities that affect the design of data interaction systems and processes. Unlike RQ1 and RQ2, this strand of research will be explored not through strictly configured study research engagements but rather through a process of acculturation to the world of building data systems and developing my own knowledge through design, technical prototyping and pushing the boundaries of the systems that do exist so that they may be better understood.
 Ultimately these insights should allow me to achieve greater expertise, backed by the empirical findings from RQ1 & RQ2, to allow me to draw conclusions about how I believe the discipline of human-centred data relations should proceed in its future research and development.
 
-Overview of Research Activities
--------------------------------
+Overview of Research Contexts and Activities
+--------------------------------------------
 
-![Figure 4: Studies and Contexts](./src/figs/fig4-studies-and-contexts.jpg)
+![Figure 4: Research Activities and Contexts](./src/figs/fig04-activities-and-contexts.jpg)
 
 As explained in the last section, the three sub-research questions RQ1, RQ2 and RQ3 have been addressed in parallel throughout this research. They can be considered as three parallel trajectories of research and learning, each informed by some or all of my research activities as they progress, in cycles of action research as described in section 3.2 above. Figure 4 shows these three parallel research objectives as downward arrows. Considered as three areas of understanding, RQ1 can be seen as understanding personal _data_, RQ2 as understanding data in _relationships_, and RQ3 as understanding how to reconfigure data interaction in _practice_. Figure 4 also illustrates how the three contexts of study and three major case studies, which I will explain below, contribute to advancing my understanding of each area - with the positioning of the box over an arrow indicating that it contributes to that area of understanding.
 
@@ -148,38 +148,86 @@ The embedded role I took in the SILVER project described in section 3.4.1.1 cont
 
 #### Reconfiguring Data Interfaces and Obtaining Data through Web Augmentation
 
-As a software developer I have been aware for a long time that one of the biggest challenges in building new data interfaces is to gain programmatic access to the necessary data. As part of the trend towards cloud-based services and data-centric business practices, it has become increasingly difficult to access all of the data held about users by service providers. Application Programming Interfaces (APIs) are a technical means for programmers to access a user's data so that third party applications may be built using that data. Unfortunately, as a result of commercial incentives to lock users in and keep data trapped [@abiteboul2015;@bowyer2018a], much of users' data can no longer be accessed via APIs. While GDPR data portability requests do open up a new route for the use of one's provider-collected data in third party applications, this is an awkward and time-consuming route for both users and developers. _Web augmentation_ provides a third possible technical avenue for obtaining data from online service providers. It relies on the fact that a users data is loaded to the user's local machine and displayed within their web browser everytime a website is used, and therefore it is possible to extract that data from the browser using a browser extension. Similarly, once loaded into the browser, a provider's webpage can be modified to display additional data or useful human-centric functionality that the provider failed to provide.
+As a software developer I have been aware for a long time that one of the biggest challenges in building new data interfaces is to gain programmatic access to the necessary data. As part of the trend towards cloud-based services and data-centric business practices, it has become increasingly difficult to access all of the data held about users by service providers. Application Programming Interfaces (APIs) are a technical means for programmers to access a user's data so that third party applications may be built using that data. Unfortunately, as a result of commercial incentives to lock users in and keep data trapped [@abiteboul2015;@bowyer2018a], much of users' data can no longer be accessed via APIs. While GDPR data portability requests do open up a new option for the use of one's provider-collected data in third party applications, this is an awkward and time-consuming route for both users and developers. _Web augmentation_ provides a third possible technical avenue for obtaining data from online service providers. It relies on the fact that a users data is loaded to the user's local machine and displayed within their web browser everytime a website is used, and therefore it is possible to extract that data from the browser using a browser extension. Similarly, once loaded into the browser, a provider's webpage can be modified to display additional data or useful human-centric functionality that the provider failed to provide.
 
-In order to better understand what is and is not possible using this technique, I participated from 2018 to 2020 as a part time web developer in a project which was using the web augmentation technique to improve the information given to users of Just Eat, a takeaway food ordering platform in the UK. While this particular use case does not concern personal data, the technology being used by the project were considered highly relevant, and the goals of the research project were also human-centric, and consistent with our own research goals - tackling power imbalance of service providers in order to better serve individual needs. This research project is not detailed within this thesis, and is not considered a primary study for this PhD, but is referenced within Chapter 7. The paper which published the study is [ADD REF goffe ET AL ], which is included in [ADD APPENDIX REFERENCE TO GOFFE ET AL PAPER HERE].
-
-#### Personal Data Locker Experiments
+In order to better understand what is and is not possible using this technique, I participated from 2018 to 2020 as a part time web developer in a project which was using the web augmentation technique to improve the information given to users of Just Eat, a takeaway food ordering platform in the UK. While this particular use case does not concern personal data, the technology being used by the project were considered highly relevant, and the goals of the research project were also human-centric, and consistent with our own research goals - tackling power imbalance of service providers in order to better serve individual needs. This research project is not detailed within this thesis, and is not considered a primary study for this PhD, but is referenced within Chapter 7. The paper which published the study is [ADD REF goffe ET AL], which is included in [ADD APPENDIX REFERENCE TO GOFFE ET AL PAPER HERE].
 
 #### CASE STUDY THREE: Research Internship with BBC R&D Cornmarket Project
 
-including research, market analysis, modelling and information architecture, UX/UCD design activities, hack week prototyping and supporting research activities.
+Within the personal data interface design context, I undertook my second embedded research activity within the PhD. For an eight month period (three months full time and five months part time) beginning in early summer of 2020, I was a research intern in the British Broadcasting Corporation's Research and Development department. The BBC has a public remit to carry out research and development in the broadcast, media and information space, including HDI [@bbcrd2017], and has over 200 researchers. I was assigned to a project codenamed Cornmarket, a collaboration between user experience designers, researchers and developers which aimed to explore a new role for the BBC in extending its public service role beyond broadcasting into personal data stewardship. The main task was to develop a prototype personal data locker into which people could store everyday data including TV and music media streaming data, health data, and financial data. This provided an excellent opportunity to put all of my learnings acquired thus far for all three RQs into practice, and further deepen my understanding of RQ3 - the barriers and opportunities to actually building new human-centric data interfaces in the real world. Throughout the internship I was able to explore the problem space from many different angles - sharing my own research expertise, doing competitor analysis and background research, information architecture, data modelling, user experience and user-centred design, technology prototyping and supporting participatory research activities. This embedded research provided numerous new insights and an opportunity to iterate and develop my theories and models with BBC colleagues.
+
+This case study is described in detail as Chapter 7 of this thesis.
 
 Methodologies Employed in Case Studies
 --------------------------------------
 
+In the previous section I introduced the three research contexts and the different case studies and research activities I carried out. In this section I will explain which methods were used in those studies and why they were chosen.
+
+The methods used in my research can be loosely grouped into five stages, though not every activity involved all stages:
+
+1. Sensitisation of Researcher and Participants
+2. Discussion and Exploration with Stimuli
+3. Participatory Co-Design of Possible Solutions
+4. Practical Data Experiments and Interaction Prototyping
+5. Analysis, Learning and Modelling
+
+I will now explain each of these stages, with examples from the different studies, as well as providing information about recruitment and ethics.
+
 ### Sensitisation
 
-including researcher sensitisation and participant sensitisation
-grey literature / privacy policies and self GDPR to find out what the data is
-difference between staff and families
-getting people into the data world (venn diagram) - family facts / walls of data
-sentence ranking. - comparison & validation of prior findings
+![Figure 5: "Family Facts" -- What is Data? ](./src/figs/fig05-family-facts.jpg)
+
+![Figure 6: Walls of Data -- Sensitising participants to the world of commercially-held data and GDPR](./src/figs/fig06-walls-of-data.jpg)
+
+![Figure 7: Sentence Ranking -- Bringing staff and families to a shared problem space](./src/figs/fig07-sentence-ranking.jpg)
+
+As I described in section 3.2, an important first step before any research activity is to sensitise myself as researcher to the research context, which means to become familiar with relevant issues, systems and practices and increase one's empathy for the participants. In the Understanding Family Civic Data study, this entailed a review of grey literature to identify the different types of civic data that councils stored, and conversations with colleagues and partner organisations within the SILVER project to deepen my understanding of Early Help. This same study served as researcher sensitisation for Case Study One, as through that study which introduced me to families that had had some contact with the care system, I was able to gain empathy for supported families and acquire some initial understandings of likely perspectives, before working with supported families directly; and through participation in fieldwork with support workers through the SILVER project I was able to gain empathy for the data needs of staff within the care service. In Case Study Two, my self-experiments with GDPR as well as researching privacy policies and GDPR rights provided me with similar sensitisation before engaging participants.
+
+When planning participatory research activities such as interviews or workshops, it is important to begin the session with an activity that will acclimatise participants both to the specific area of discussion, but also to the mindset of problem solving required for a constructive conversation. This goes beyond ice-breaking, to thinking about what the participants bring and lack at the start of the engagement. For example, in the Understanding Family Civic Data study, I felt that data would be a hard topic for families to engage with, so I designed the "Family Facts" activity shown in Figure 5. This required family members to consider simple facts about their lives (some provided, and some created by the family members) and discuss whether or not such a fact would be considered data, and additionally whether such a fact should be in the family's control or that of the authorities. This served a double purpose of teaching families that data is simply "information about you", while also getting them used to thinking critically about data ownership. The technique is discussed further in [@bowyer2018b].
+
+For Case Study Two, I wanted to get participants (and potential participants) to think more deeply about the data involved in their everyday lives, especially that stored by commercial service providers. So I put up a series of posters in the common room of my research lab which showed logos of companies that might store data, types of data that might be stored, information about GDPR rights, and possible uses that an individual might have for data they obtain from a GDPR request. Some of these posters are shown in Figure 6. These posters served both as a recruitment tool for the project and were also visited with participants at the start of each interview as a series of talking points to sensitise the participants.
+
+Sometimes sensitisation activities can also serve an additional purpose of bringing disparate participants to be "on the same page". An example of this is the "sentence ranking" exercise used at the start of all workshops in Case Study Two and shown in Figure 7. Here, a series of sentences were prepared containing opinions about civic data that had been observed from staff and families in earlier research, and participants were asked to rank these according to agreement and importance. This allowed me to validate whether previous findings held with these new participants, but also sensitised the participants to considering and discussing the civic data context and the problems experienced by families and staff. Since the sentences included both staff and family viewpoints, and the activity was carried out in all workshops regardless of whether staff, families or both were present, it served to establish a common set of "requirements" that would be in participants' minds as they began the subsequent co-design activity within each workshop.
 
 ### Discussion & Exploration
 
+![Figure 8: Family Civic Data Cards -- things to think with](./src/figs/fig08-data-cards.jpg)
+
+![Figure 9: Interviewing Families in the Home -- Card sorting with a family in their living room](./src/figs/fig09-home-visit.jpg)
+
+![Figure 10: Sketching Dialogue -- An example life sketch created by a participant and annotated during discussion](./src/figs/fig10-sketch-interview.png)
+
 ### Participatory Co-Design
+
+![Figure 11: Ideation Grids -- Combining random design ingredients to generate new ideas](./src/figs/fig11-ideation-grid.jpg)
+
+![Figure 12: Group poster design -- A participant-designed poster to advertise features of imagined data interface products](./src/figs/fig12-poster.jpg)
+
+![Figure 13: Storyboarding cards -- A mutually constructed narrative created through discussion from a palette of possible parent and staff actions](./src/figs/fig13-storyboarding-card-strip.jpg)
 
 ### Practice & Prototyping
 
+![Figure 14: Visual Design Mockup for Life Partitioning in a PDV -- A visual design mockup collaboratively created with BBC Research colleague Jasmine Cox](./src/figs/fig14-pdv-partititioning.png)
+
+![Figure 15: Prototype interface for GDPR Data Viewing -- A working prototype that I developed during a hack week at BBC R&D](./src/figs/fig15-prototype-gdpr-interface.png)
+
+![Figure 16: SILVER Health Data Viewing Interface -- A working health data viewing interface for Early Help support workers that I developed as part of the SILVER project](./src/figs/fig16-silver-data-interface.png)
+
 ### Analysis, Learning & Modelling
+
+![Figure 17: Thematic Analysis -- A screenshot of thematic coding of qualitative data using Quirkos for Case Study One](./src/figs/fig17-thematic-analysis.png)
+
+![Figure 18: Quantitative Analysis -- A screenshot of spreadsheet-based quantitative analysis of interview data from Case Study Two](./src/figs/fig18-quant-analysis.png)
+
+![Figure 19: A Model for Personal Data -- Developing a common model for personal data imported into a PDV a part of Case Study Three](./src/figs/fig19-life-modelling.jpg)
 
 ### Recruitment
 
+![Figure 20: Recruitment Poster -- Poster used to recruit participants for Understanding Family Civic Data study](./src/figs/fig20-recruitment-poster.png)
+
 ### Ethics
+
+[REFERENCE TO ETHICS FORMS IN APPENDIX]
 
 Thesis Structure
 ----------------
