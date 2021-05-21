@@ -23,12 +23,13 @@
 *.synctex.gz
 .DS_Store
 *.~lock*
-*.pdf
 *.fdb_latexmk
 *.fls
 *.bak
 /out/doc
 /out/docx
 /out/html
+/out/pdf
+/out/epub
 /out/odt
 
