@@ -270,7 +270,7 @@ Note that Case Study Three (Desiging Personal Data Interfaces) involved no parti
 ![Figure 20: Recruitment Poster -- Poster used to recruit participants for Understanding Family Civic Data study](./src/figs/fig20-recruitment-poster.png)
 
 | Research Activity | Engagement | Stage or Phase | Duration | Number of Participants | Recruitment Method |
-|---------|------------------------|------------|----------------|----------|------------------------|----------|
+|---------|------------------------|------------|----------------|----------|------------------------|
 | Smartphone Usefulness study | 3 x 1-on-1 interview | preliminary | 3 x 45 minutes | 3 adults | Convenience sample |
 | Digital Life Mapping study | 5 x 1-on-1 interview | preliminary | 5 x 2 hours | 5 adults | Convenience sample |
 | Main study (Guided GDPR) | 11 x 1-on-1 interview (Life Sketching) | 1 | 11 x 1 hour | 11 adults | Convenience sample |
