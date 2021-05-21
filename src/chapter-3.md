@@ -163,19 +163,19 @@ This case study is described in detail as Chapter 7 of this thesis.
 Methodologies Employed in Case Studies
 --------------------------------------
 
-In the previous section I introduced the three research contexts and the different case studies and research activities I carried out. In this section I will explain which methods were used in those studies and why they were chosen.
+In the previous sections I introduced my research approaches and the three research contexts and the different case studies and research activities I carried out. In this section I will explain which methods were used across those studies and why they were chosen.
 
 The methods used in my research can be loosely grouped into five stages, though not every activity involved all stages:
 
 1. Sensitisation of Researcher and Participants
 2. Discussion and Exploration with Stimuli
 3. Participatory Co-Design of Possible Solutions
-4. Practical Data Experiments and Interaction Prototyping
-5. Analysis, Learning and Modelling
+4. Practical Data Experiments, Interface Design and Prototyping
+5. Analysis, Modelling and Learning
 
-I will now explain each of these stages, with examples from the different studies, as well as providing information about recruitment and ethics.
+I will now explain each of these stages, with examples from the different studies, as well as providing information about recruitment, ethics and thesis structuring at the end of this section.
 
-### Sensitisation
+### Sensitisation of Researcher and Participants
 
 ![Figure 5: "Family Facts" -- What is Data? ](./src/figs/fig05-family-facts.jpg)
 
@@ -203,7 +203,7 @@ As discussed in 3.2, my research seeks to uncover individual perspectives and wo
 
 I wanted to go beyond 'just talking' to achieve a deeper and more detail-oriented conversation, and so in all of my interviews and group engagements I also ensured that suitable stimuli were created to seed and progress the discussion. Given the abstract nature of the topic of data, it does not always carry a clear meaning in people's everyday lives, so I needed to find a way to make the topic more vivid and real. Having sensitised myself to civic data as mentioned in the previous section, I constructed a taxonomy and lexicon for Family Civic Data, and created "Family Civic Data Cards" (shown in Figure 8) for use in activities and discussions. These serve as _boundary objects_ [@star1989;@star2010;@bowker2016] - representational artifacts that are understandable by people who come from different perspectives, providing a common vocabulary for discussion (as well as serving to enable co-experience, detailed above). Each card represents a different category of data, including a summary and meaningful examples to make them be easy to digest, yet still containing sufficient detail to stimulate thinking. The cards were designed to be bright, child-friendly and appealing to engage with. The tangibility of these artifacts was important too, they became _things to think with_ [@papert1980;@brandt2004] that could be used in discussions and in activities. Researchers have had success with the use of tangible objects to embody discussion concepts in order to stimulate and structure discussion, for example Coughlan's use of a dolls' house to explore attitudes to home energy use [@coughlan2013a] or more recently Xie's Data City which used AR-enhanced cardboard models to represent data-processing functions [@xie2021]. Many of these approaches have their roots in Dourish's concept of _embodied interaction_ [@dourish2001]. These cards were used throughout the Civic Data research in both sensitisation and _card sorting_ [@spencer2004] tasks, for example asking participants to position the cards on a pinboard according to perceptions about risk and ownership (see Figure 9), or sorting them into trays according to relative personal importance. The cards proved very effective at enabling a personal and detail oriented discussion: participants voluntarily opened up about sensitive topics (e.g. domestic violence or criminal records) raised by the cards because of their detached-but-relatable nature. The sketching dialogue technique [@hwang2021] used in the digital life context can also been as another application of this technique; by putting both participant and researcher's focus upon the page, rather than on each other, it can feel less invasive, more collaborative and makes it easier to focus on details (see figure 10). Of course the ultimate stimulus for discussion about data is to view the actual data itself. Exploring data together with participants to elicit opinions and insights is a well established technique [@coughlan2013b;@chung2016;@puussaar2017]. This is the technique used within Case Study Two, asking participants about the data they retrieved from GDPR requests. The spreadsheet-based approach mentioned above was another example of a stimulus for discussion, and it allowed the Zoom-based interviews to retain a "gathered around the table looking at things together" ambiance despite the remoteness necessitated by COVID-19 restrictions.
 
-### Participatory Co-Design
+### Participatory Co-Design of Possible Solutions
 
 ![Figure 11: Ideation Grids -- Combining random design ingredients to generate new ideas](./src/figs/fig11-ideation-grid.jpg)
 
@@ -217,7 +217,7 @@ After generating a wide range of ideas using the ideation decks, participants we
 
 For the final workshop of Case Study One, where both parents and staff were brought together to explore possibilities of shared data interaction within the support relationship, I used a Storyboarding activity. Drawing from the world of film production, storyboarding is a well-established technique in participatory design [@spinuzzi2005;@moraveji2007]. Usually it involves the participants drawing out a series of sketches in the form of a comic strip ‘telling the story’ of an interaction, encounter or activity. However as I wanted to focus on the interpersonal relations and process rather than the visual aspects of storytelling or interface design, I used a card-based approach to storyboarding, where participants selected actions from a palette of action cards representing different possible human or data interaction possibilities and annotated these with specific details. These cards are shown in Figure 13 and described in more detail in Chapter 4. The cards were designed with colour-coded borders to distinguish staff member actions (blue), parent actions (yellow) and shared actions (green), and participants demonstrated that they were confident to make their own decisions on their own action types, but to reach collaborative decisions on the shared actions.
 
-### Practice & Prototyping
+### Practical Data Experiments, Interface Design and Prototyping
 
 ![Figure 14: Visual Design Mockup for Life Partitioning in a PDV -- A visual design mockup collaboratively created with BBC Research colleague Jasmine Cox](./src/figs/fig14-pdv-partititioning.png)
 
@@ -300,9 +300,9 @@ All research activities referenced in this thesis were planned in advance, with 
 
 ### Thesis structure approach
 
-In writing up this thesis, I made a choice to foreground my three most major research activities as Case Studies, and not to detail the other activities carried out beyond the high level summaries included in this chapter. Case Study One and Two each span two research questions (RQ1 and RQ2 - see Figure 4 in section 3.4) as they explore both people's relationship with data, as well as looking at relationships people have that involve data. Case Study Three maps directly to RQ3, and is focused on designing human data relations in practice.
+In writing up this thesis, I made a choice to foreground my three most major research activities as Case Studies, and not to detail the other activities carried out beyond the high level summaries included in this chapter. Case Study One and Two each span two research questions (RQ1 and RQ2 - see Figure 4 in section 3.4) as they explore both people's relationship with data _and_ the relationships people have that involve data. Case Study Three maps directly to RQ3, and is focused on designing human data relations in practice.
 
-Because of the overlapping RQs in Case Study One and Two, I have structured the following chapters as follows:
+Because of the overlapping RQs in Case Study One and Two, I have structured the subsequent chapters as follows:
 
 * Chapter 4 details Case Study One in the context of both RQ1 & RQ2.
 * Chapter 5 details Case Study Two in the context of both RQ1 & RQ2.
