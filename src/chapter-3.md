@@ -250,7 +250,7 @@ As well as analysing participant data, an important aspect of pursuing answers t
 ### Recruitment
 
 | Research Activity | Engagement | Stage or Phase | Duration | Number of Participants | Recruitment Method |
-|---------|------------------------|------------|----------------|----------|------------------------|----------|
+|---------|------------------------|------------|----------------|----------|------------------------|
 | Understanding Family Civic Data study | 4 x Home-based Interview | preliminary | 4 x 2 hours | 7 adults and 6 children from 4 families | Posters and Visits to Local Community Centre |
 | Main study (Data Interaction in Early Help) | 1 x Group Design Workshop for Families | 1A | 1 x 2 hours | 8 adults and 9 children from 5 supported families | Selected by Local Authority Care Services |
 | Main study (Data Interaction in Early Help) | 2 x Group Design Workshop for Staff | 1B | 2 x 2 hours | 36 support workers & related staff | Selected by Local Authority Care Services |
