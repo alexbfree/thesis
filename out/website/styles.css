@@ -4,7 +4,11 @@ body {
   font-family: sans-serif;
 }
 
-p, li{
+p {
+  line-height: 1.65;
+}
+
+li{
   line-height: 1.65;
 }
 
