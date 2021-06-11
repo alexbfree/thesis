@@ -47,6 +47,9 @@ def buildThesis(format):
         args.append("-t")
         args.append("html5")
 
+    #print('command is:')
+    #print(args)
+
     # Build
     subprocess.run(args)
 
@@ -134,27 +137,28 @@ def buildCoversheet(outputPath):
 
 
     for i in range(getChapterCount()):
+        chap = i+1
         item = {}
-        item["file"] = "chapter-{}".format(i+1)
+        item["file"] = "chapter-{}".format(chap)
 
-        if i==0:
+        if chap==1:
             item["title"]="1 Introduction"
-        elif i==1:
+        elif chap==2:
             item["title"]="2 Literature Review"
-        elif i==2:
+        elif chap==3:
             item["title"]="3 Methodology"
-        elif i==3:
+        elif chap==4:
             item["title"]="4 Case Study One: Accessing and Using Civic Data in Early Help"
-        elif i==4:
+        elif chap==5:
             item["title"]="5 Case Study Two: The Human Experience of GDPR"
-        elif i==5:
+        elif chap==6:
             item["title"]="6 Bridge: An Understanding of Human Data Relations"
-        elif i==6:
+        elif chap==7:
             item["title"]="7 Case Study Three: Personal Data Interface Design & Development"
-        elif i==7:
+        elif chap==8:
             item["title"]="8 Discussion: Designing Better Human Data Relations" #alt: Next Steps Towards a Human-Centric Future
         else:
-            item["title"] = ""
+            item["title"] = "Chapter {}".format(chap)
 
         #foundh1 = soup.find("h1", id="chapter-{}".format(i+1))
         #if foundh1 is not None:
@@ -162,6 +166,9 @@ def buildCoversheet(outputPath):
         #      item["title"] = "{}{}".format(title[0]+1,title[1])
 
         items.append(item)
+
+    #print("\tItems array is:")
+    #print(items)
 
     #biblio = {}
     #biblio["file"] = "bibliography"

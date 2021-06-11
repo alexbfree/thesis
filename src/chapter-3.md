@@ -261,10 +261,10 @@ Table: Table 1 - Context One (Civic Data & Early Help): Participants involved in
 [^2]:
 One participant withdrew from the study after the first interview of the Guided GDPR study due to COVID-19. The other 10 participants took part in all three stages.
 
-Tables 1 and 2 summarises the participants involved in this research[^3]. In Case Study One, recruitment was initially attempted using posters placed in local libraries, as shown in Figure 20 below. When this approach was unsuccessful, participants were successfully recruited with the assistance of a local community centre [SHOULD I NAME IT?] which allowed me to visit a community social meeting and talk to residents about my study. This community was located in a low income area that was known to include a number of support families; in this way we were able to access for this informative study a population very similar to that which would reach through the local care authorities for the main study, avoiding some bureaucratic obstacles which were delaying recruitment through official channels.
+Tables 1 and 2 summarises the participants involved in this research[^4]. In Case Study One, recruitment was initially attempted using posters placed in local libraries, as shown in Figure 20 below. When this approach was unsuccessful, participants were successfully recruited with the assistance of a local community centre [SHOULD I NAME IT?] which allowed me to visit a community social meeting and talk to residents about my study. This community was located in a low income area that was known to include a number of support families; in this way we were able to access for this informative study a population very similar to that which would reach through the local care authorities for the main study, avoiding some bureaucratic obstacles which were delaying recruitment through official channels.
 For the main engagement of Case Study One, I was able to work with two local authorities, Newcastle City Council and North Tyneside Council, who were partners on the SILVER project, and provided suitable participants who were actively involved in their Early Help programmes. In the preliminary study and in the first families workshop of the main study (stage 1A), activities were designed to include children as active participants in the research, as is it was felt they would bring valuable contributions to the somewhat abstract creative co-design work and because it would be valuable to be able to observe intra-family conversations. The final combined workshop with staff (stage 2) however was designed to only include adult participants. This is because the focus on processes and on the care relationship itself was thought to be too boring and potentially sensitive for the children to participate.
 
-[^3]:
+[^4]:
 Note that Case Study Three (Desiging Personal Data Interfaces) involved no participants which is why it does not have its own table in this section.
 
 ![Figure 20: Recruitment Poster -- Poster used to recruit participants for Understanding Family Civic Data study](./src/figs/fig20-recruitment-poster.png)
@@ -281,9 +281,9 @@ Table: Table 2 - Context Two (Digital Life): Participants involved in digital li
 
 In Case Study Two, the digital life study, it was felt that no special population was needed, as the issues of living in a data-centric world would be likely to affect everyone equally. Therefore, a convenience sample (largely 20-40 year old postgraduate students from Newcastle University) was used. Care was taken to find an even split of male and female participants, but other than that no selection criteria was applied. The participants used for this study were thought likely to have a larger awareness of societal issues around personal data use, and greater familiarity with participatory co-design, than the average layperson, but this was considered an advantage as it would reduce the amount of sensitisation required.
 
-In all cases[^1] for both case studies, participants were compensated for their time with vouchers -- either online/offline shopping vouchers or in the case of the families workshop, vouchers for a family day out of the family's choice.
+In all cases[^3] for both case studies, participants were compensated for their time with vouchers -- either online/offline shopping vouchers or in the case of the families workshop, vouchers for a family day out of the family's choice.
 
-[^1]:
+[^3]:
 (with one exception - the staff workshops within Case Study Two. Because the participants were attending the workshops through their employers (the local authorities), we were not allowed to provide vouchers for participation.)
 
 ### Ethics
@@ -306,6 +306,6 @@ Because of the overlapping RQs in Case Study One and Two, I have structured the 
 
 * Chapter 4 details Case Study One in the context of both RQ1 & RQ2.
 * Chapter 5 details Case Study Two in the context of both RQ1 & RQ2.
-* Chapter 6 is a short 'bridge' chapter which separately unifies RQ1 findings and RQ2 findings, so that they can be referenced in general terms as an understanding of people's experience of data (RQ1) and of relationships that use data (RQ2) without needing specific details from the first two case studies and to avoid.
+* Chapter 6 is a short 'bridge' chapter which separately unifies RQ1 findings and RQ2 findings, so that they can be referenced in general terms as an understanding of people's experience of data (RQ1) and of relationships that use data (RQ2) without needing specific details from the first two case studies.
 * Chapter 7 details Case Study Three in the context of RQ3, and drawing on the unified RQ1 and RQ2 findings in Chapter 6.
 * Chapter 8 is the discussion chapter, covering all three research subquestions and the main research question.
