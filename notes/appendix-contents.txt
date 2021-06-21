@@ -1,8 +1,14 @@
 Appendix Contents
 
+c3
+
 - CHI 2018 paper (referenced in C3)
 - Report about smartphone usefulness (referenced in C3)
 - One pager about Digital Life Interview 2017 (TO WRITE) (referenced in C3)
 - Three pager about Findings from Self GDPR experiments (TO WRITE) (referenced in C3)
 - disruption paper (referenced in C3)
 - ETHICS
+
+c4
+
+- Table of data values for sentence rankings analysis. - this is in the HDICareJournal folder Excel sheet
