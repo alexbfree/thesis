@@ -14,7 +14,7 @@ In the UK, the social care system been shaped by a history of efforts, initially
 This shift towards using data mirrors the societal rise of data-centrism described in section 2.1, but was also being seen across the public sector; under increasing pressure to demonstrate performance and deliver measurable, consistent results, all human services (including social care, health care and education) have become adept in the collection and use of data about their clients or service users.
 The use of data by the state as a means to represent and think about families is considered problematic (REF Cornford et al., 2013, Neves and Casimira 2018). For instance, from the perspective of the state, such data may include both objective facts from families’ lives such as address or family inter-relationships, as well as potentially more subjective information such practitioners’ observations or numerically-quantified measurements of risk. The risk of inaccurate data or unfair judgement is compounded by the fact that the clients of such services typically have limited access to this data. Although in theory families retain the ability to interact with services (and have access rights to data) the practitioners and the organisations for which they work become de-facto _gatekeepers_ to the data about a family (REF). This is then played out in a policy context where data-driven approaches to family care are encouraged through policy and reports about improving quality of the sector (Bate and Bellis, 2018; Department for Education, 2018; Field, 2010; OFSTED, 2015).
 
-[^5]: The term 'troubled families', popularised by the TFP, has fallen in use, as it was considered to be negative and judgemental. A latter term 'vulnerable families' has also been criticised for being disempowering. Most councils now refer simply to 'families' or sometimes 'supported families', and the rest of this thesis adopts this convention.
+[^5]: The term 'troubled families', popularised by the TFP, has fallen from use, as it was considered to be negative and judgemental. A latter term 'vulnerable families' has also been criticised for being disempowering. Most councils now refer simply to 'families' or sometimes 'supported families', and the rest of this thesis adopts this convention.
 
 ### Current Practice: Early Help Case Records as a Source of Truth
 
@@ -79,7 +79,7 @@ Early research recruitment attempts revealed that data is seen as an abstract co
 
 These cards were then used as research stimuli (see 3.5.2) within a preliminary study in which I met with four families in their homes[^7] and conducted a variety of participatory design activities and design games in order to explore family attitudes to family civic data. This study has been published at CHI [@bowyer2018b] where its full findings are detailed, and these findings serve as researcher sensitisation to inform the main Case Study One. We found that once families had understood data as "stored information about their lives" they were able to very effectively engage and talk about it. The use of the games and the cards was very successful, keeping a light and playful environment and making the topic relatable. The topics on the cards served as a focal point that allowed families to talk freely about their own lives and views without feeling personally interrogated, as they were dissociated from the participants' lives.
 
-[^7]: The first interview was a 'trial run' with a couple selected by convenience sample, and conducted in a University meeting room at the participants request.
+[^7]: The first of these interviews was a 'trial run' with a couple selected by convenience sample, and conducted in a University meeting room not their home at the participants' request.
 
 ### What is the Family Perspective on Their Civic Data and its Use?
 
@@ -153,75 +153,65 @@ Having completed the sentence ranking sensitisation activity, participants went 
 Thematic Findings
 -----------------
 
-[Target 5,000 words]
+The transcribed corpus from audio recordings of workshops A, B and C (approximately 120,000 words) was divided by activity, group, and family or staff focus into 85 different source texts. Each text was thematically coded and analysed through four cycles of analysis using the Miles and Huberman approach (@huberman2002). During this reductive process, participant creations, activity outputs and ranking data were referenced to add additional context to the interpretation. In this section, the qualitative findings from the thematic analysis of transcripts of workshops A, B and C are presented. In 4.3.1 the three main themes and subthemes are introduced, then each theme is further detailed in sections 4.3.2 to 4.3.4. A list of all referenced participant quotes is included in [INSERT REF TO APPENDIX SECTION HERE].
 
 ### Themes & Subthemes
-[Target 500 words]
 
-Within our four themes, the phenomena detailed above can be crystallised into 38 practices concerning ways in which early help services could or should use family data, which we understand from participants to be current, emerging or imagined. These are detailed in Table 4:
+Given that our conversations with participants were framed as explorations of data use within the early help relationship, our findings are expressed as desirable best practices, some of which involved the proposed model of shared data interaction, within three core areas that participants see as beneficial to the early help relationship and ultimately to the family being supported: Giving a voice to the family (Theme 1), Earning trust through transparency (Theme 2), and Meaningful data interaction (Theme 3). From explicit and implicit statements from participants, contextual clues, and accumulated knowledge from being embedded in this context, we were able to identify whether the discussed best practices were commonly in use ("current"), only happening occasionally/partially ("emergent") or not yet occurring at all ("imagined"). Tables 5, 6 and 7 shows the subthemes within these themes, along with illustrative participant quotes, and indicates the current, emergent or imagined status for each subtheme. Structuring the themes in this way facilitates the functioning of these findings as constructive, actionable input for Early Help (or other social care) system and process designers.
 
-Table 4: Summary of identified current and envisioned data practices for Early Help services
-[TODO MAKE THIS INTO A TABLE AND ADD POWER QUOTES]
-[First, explain what the key themes are. Then for each, tell the reader what the theme and its subcomponents are and how they will be represented. This is the 'Tell' part. Then include a 'data structure' table - picking 'power quotes', the strongest quote for each subtheme. This is the 'Show' part.]
+Table: Table 5. Theme 1 - Meaningful Data Interaction for Families. Subthemes & Participant Quotes.
 
-#### Giving a Voice to the Family
+| Subtheme | Description & Quote | Status |
+|:--------|:-------------------------------------------|:------:|
+|Make Data More Understandable|To maximise understanding, simple summaries of the information within families' data should be available to both families and support workers. Visualisations should be used to ease comprehension, and information should be contextualised at different levels (individual, family, community).<br/><br/>_"There's so much data that's stored. For me, for a parent [I want] to understand that through a text or email but just in point form. […] The less written, the better for the parent. [What we need is] a small synopsis […] like a summary view."_ [Parent, SQ44]<br/><br/>_"Some families will go, ‘Well you know that information because it's all there somewhere.’ We're like, ‘Yes, but we don't want to trawl back to eight years ago.’ There's reams and reams and reams of it [data]."_ [Worker,SQ40]|Emergent|
+|Interact With Data Together|Support workers should work to actively counter the knowledge imbalance by informing families what their data says. They should make use of specific datapoints as talking points to aid planning conversations.<br/><br/>_"You could have a table, you’d look at where they are and where they could be. [You could say] ‘This is where you are now but if you [take these specific steps], even though you've got a criminal record, you could progress to this level."_ [Worker, SQ29]|Emergent / Imagined|
+|Direct and unified data access|Individuals should be able to directly access their civic data through a personal interface; this should be be a single, common place where all of an individual or family's data is brought together to give a complete and consistent overview to all parties with a need to know.<br/><br/>_"[I’m imagining an] online database of personal family info accessible [only] by people, practitioners that have permission […] I would say that it’s only who you want [to give access to, that can see it]. You would have your private code which you could hand out, like the doctors give you appointments."_ [Parent, FQ8]|Imagined|
+|Ongoing Data Access and Support|It is not sufficient simply to give access to data. Families should be able to access information in their own time and should be supported in understanding it. Most importantly they should be able to ask questions, challenge data records or start a conversation to discuss their data at will.<br/><br/>_"[The families would have] a little app which they can log into and read all their information - what's recorded about themselves, […] who we share the information with […]. If they're not happy […] they can fire off an email to us and let us know what they disagree with or if they want their information taken down or their consent."_ [Worker, SQ51]|Imagined|
 
-Review family data before contact.
-Treat people like family, not records.
+Table: Table 6. Theme 2 - Giving a Voice to the Family. Subthemes & Participant Quotes.
 
-Avoid judgements based solely on data.
-Record data visibly and get family sign-off.
-Explicitly involving families in processing their data.
+| Subtheme | Description & Quote | Status |
+|:--------|:-------------------------------------------|:------:|
+|People Not Records|Support workers must always treat people like individuals, that are more than a data record. They should review family data before contact, but must always engage at a human level too, avoiding making any judgements based solely on data.<br/><br/>Worker A: _"You should never make a judgement on data... that data could be wrong._<br/>Worker B: _"It takes individuality, working with that person as well, doesn’t it?"_ [SQ11]|Current / Emergent|
+|Review data together|Families should be explicitly invited to review, discuss, check, correct and approve data records. Data recording should be visible, and workers and families should check data together.<br/><br/>_"[The parent could] countersign. [The worker would] say, ‘I feel that we've talked about this today so I'm going to write that down. I'm going to show you. Can you sign and me sign if you're happy and I'm going to share this.’ That's a bit different [better]."_ [Parent, FQ12]|Emergent / Imagined|
+|Support Changing Lives|Recognising that families' lives are in constant flux, routine reviews of data should occur, and all systems and processes should treat data as fluid and flexible, not static unchanging facts. Feeds of recent changes should be available to both parties.<br/><br/>_"[There’s] this perception of something sticking with you even after you've potentially reformed. […] That's something that happened a long time ago and that judgement is still there but [you’d be wondering] ‘Okay, is it [true]?’"_ [Worker, SQ61]|Imagined|
+|Individual Data Contributions|Individuals should be able to create or contribute their own data to tell their own story and annotate particular datapoints with their own explanations.<br/><br/>Worker A:_"If you read information […] about me, you wouldn't expect to meet the person you meet."_<br/>Worker B: _"That's it. It's the same for everybody."_<br/>Worker A: _"[…] It just [has] basic things in most of the time, doesn't it […]. You're not a person [in the data record] are you really?"_<br/>Worker B: _"[I’d like it if you could] give your bit of personal data, your own story."_<br/>Worker A: _"Yes, because everybody makes mistakes and there's probably thousands of people out there who have got a criminal record and have never done anything since. [They're] getting judged by having one thing [but they should be able to write] 'Yes, I did this because of this situation but this is what I've done to make myself [better]...'"_ [FQ10]|Imagined|
+|Support Granular and Revocable Consent|Families should be invited to regularly review their choices regarding data collection, keeping and sharing. They should be given controls to manage access to their data and configure and change preferences at a fine-grained level.<br/><br/>Worker A: _"I don't know if there should be a regular..."_<br/>Worker B: _"...like an update, because things change in their life. […]"_<br/>Worker A: _"[Should] we then [have] reviews, every six weeks [or so ...], say to them, ‘Well let's just remind each other what share consent is for and about.’? […] Obviously it's got to be regularly done because […] circumstances change."_ [SQ63]|Imagined|
 
-Annotate own data with new information.
-Create or contribute own data.
-Regular reviews of data and consent with family.
-Workers and families checking data together (for accuracy).
-Make a ‘feed’ of family data changes available to both parties.
-Systems and processes support change.
-Families can initiate conversations about their data at any time.
-Enable families to manage access controls to their data.
-Families can get their data changed/corrected.
+Table: Table 7. Theme 3 - Earning Families' Trust Through Transparency. Subthemes & Participant Quotes.
 
-
-#### Earning Trust Through Data and Process Transparency
-
-Explain how data will be used and shared.
-Respect family and individual privacy.
-Avoid data mishandling and unexpected uses.
-Use a strength-based approach when referencing families’ data.
-
-Ensure that consent is never assumed.
-Show and maintain deep understanding of families’ lives, not just their data.
-Always seek a more complete picture.
-
-Be as open as possible with families about their data.
-Independent oversight of data handling for contentious issues.
-Promote an open data-sharing culture.
-
-#### Meaningful Data Interaction for Families
-
-No existing
-
-Actively inform families about their data.
-Make reference to data while talking to families.
-Make data summaries available to both parties.
-Use visualisations when presenting data to families.
-Address data at different levels (family, individual, community).
-
-Use families’ data together with them in a planning conversation.
-Proactively counter the knowledge imbalance.
-Make clear information available and support families in understanding it.
-Allow families to directly view their own current data.
-Provide individuals with personal data interface.
-Enable families to question data records.
-Single place for all family data access by all parties.
-
-
-
+| Subtheme | Description & Quote | Status |
+|:--------|:-------------------------------------------|:------:|
+|Respectful Data Handling|Support workers should treat families' data with the utmost respect, keeping it safe, ensuring it is not used beyond its intended purposes, shared without consent or put at risk. When talking to families about data, it is helpful to focus on positives and strengths and not use it as a means to criticise.<br/><br/>_"There was a time where I was at the doctors’ and they asked how many units of alcohol I drank, and I said, probably about three bottles a week, at the time, not any more but later on [the support worker] pulled me up on it and they had it down as three bottles a day. That could have caused an issue was anyone ever to ask."_ [Parent, CQ7]|Current|
+|Always Seek and Demonstrate Greater Understanding|Support workers should always assume that their understanding from data is incomplete and should seek to learn about individuals and build a more complete picture of their lives. By showing this effort and their growing understanding, they will engender trust.<br/><br/>_"You don't want to reduce them to this number in a database. You want to understand their actual experiences and support them in getting better."_ [Worker, SQ74]|Emergent|
+|Pro-actively challenge data-centric norms|Support workers and agencies can recognise that current systems and processes are data-centric and imbalanced, and can strive to change this through their actions: being as open as possible about how families' data will be handled, ensuring that proper oversight mechanisms exist for data handling especially in the sake of contentious issues, and that data is shared openly but consensually between authorities. <br/><br/>_"It hasn’t been explained property to this family that their information will be shared with other professionals. So, they’ve been left feeling really let down and probably quite angry about it. So, although that information does need to be shared, they [the support workers involved] ought to make the family properly aware that information will be shared."_ [Worker,SQ18]|Imagined|
 
 ### Theme 1: Meaningful Data Interaction for families
 [Target 1,500 words]
+[subthemes:
+
+(E) Make data more understandable
+- (E) Make data summaries available to both parties.
+- (E) Use visualisations when presenting data to families.
+- (E) Address data at different levels (family, individual, community).
+
+(E) Interact with Data Together
+- (E) Actively inform families what their data says.
+- (E) Make reference to data while talking to families.
+- (I) Use families’ data together with them in a planning conversation.
+- (I) Proactively counter the knowledge imbalance.
+
+(I) Direct and unified data access
+- (I) Allow families to directly view their own current data.
+- (I) Provide individuals with a personal data interface.
+- (I) Single place for all family data access by all parties.
+
+(I) Ongoing Data Access and Support
+- (I) Make clear information available and support families in understanding it.
+- (I) Enable families to question data records.
+- (I) Families can initiate conversations about their data at any time.
+
+]
 [Then (perhaps including saved back longer quotes that were too big for the table) explain each subtheme, similar to in past papers you've done, with reference to the table - what is this subtheme, why is it important, why did I include it, analyse what it shows. This is the 'Explain' part.]
 
 Our next key finding is that families need meaningful interaction with their data. Most discussions focussed not upon the mechanics of data interaction (screen layout etc), but upon the wider sociotechnical system around the data, including the interpersonal interactions and whether or not the individuals were able to access their data in a meaningful way. This helped us to clarify that considerations around data interaction need to focus on capability and intra-party perspectives. Meaningful data interaction can be key to addressing knowledge imbalances between care provider and client. Our thematic analysis identified four ways in which data interaction can be meaningful – families must (1) be kept aware and informed, they must (2) have effective access to understandable information, not just raw data, they must (3) be involved in direct data use, and they must (4) be able to freely interact with data at a time that suits them. These ingredients of meaningful interaction are explained and evidenced in the following paragraphs:
@@ -250,6 +240,33 @@ This theme of the family taking an empowered role in their information ecosystem
 
 ### Theme 2: Giving a Voice to the family
 [Target 1,500 words]
+
+[subthemes:
+(C) People not records
+ - (C) Review family data before contact.
+ - (C) Treat people like family, not records.
+ - (E) Avoid judgements based solely on data.
+
+(E) Review data together
+ - (E) Record data visibly and get family sign-off.
+ - (E) Explicitly involving families in processing their data.
+ - (I) Workers and families checking data together (for accuracy).
+ - (I) Families can get their data changed/corrected.
+
+(I) Support changing lives
+- (I) Regular reviews of data (and consent) with family.
+- (I) Make a ‘feed’ of family data changes available to both parties.
+- (I) Systems and processes support change.
+
+(I) Direct Data Interaction
+- (I) Annotate own data with new information.
+- (I) Create or contribute own data.
+
+(I) Support Granular and Revocable Consent
+- (I) Regular reviews of (data and) consent with family.
+- (I) Enable families to manage access controls to their data.
+]
+
 [Then (perhaps including saved back longer quotes that were too big for the table) explain each subtheme, similar to in past papers you've done, with reference to the table - what is this subtheme, why is it important, why did I include it, analyse what it shows. This is the 'Explain' part.]
 
 The purpose of an early help intervention is to obtain more information for a better understanding of the family’s situation and to make evidence-based plans and decisions to improve the situation, so seeking objective truth is clearly central. Reading the data and talking to the family form two possible sources of information. We uncovered benefits and dangers of relying solely on either source, as the following findings illustrate. It is clear that families’ civic data can provide support workers with information that enhances their understanding; over 80 comments from workers support the idea that reviewing a family’s data prior to meeting that family in person (the current practice) is beneficial, because the information provides useful background that will help them identify support needs. For example [FQ1A] and:
@@ -272,13 +289,13 @@ B: “So, you might agree [to data sharing] as a family now but after a break-up
 A: “Yes, or the kids reach a certain age and they might say, ‘Hang on a minute, I don’t want you looking at all my medical records.’” [Worker & Researcher, CQ16]
 This is important to prevent unwelcome surprises about how family data is handled [CQ2, CQ17], which can damage trust and hinder co-operation. It is clear that the support worker must always be seeking to form a completer and more up-to-date picture of the family. Several participants imagined ways how technology could support this, with the databases issuing notifications or update feeds for families and support workers showing significant events or data updates. Support workers currently get notified of police incidents, safeguarding concerns and hospital admissions, but including data across the care ecosystem could provide useful triggers for reviews or discussions [SQ64, SQ65].
 Many participants envisaged that rather than solely relying on dialogue with families, families might provide new data more directly, e.g. through a ‘family network app’ for information contributions, which could also increase their sense of data ownership:
-“It would [ask them] who they could name outside of their family to create a network. […] But it would collect more than that, [...] it would allow the family to be accountable for their data collection and making sure that it's accurate […] because we often go away and record it all on [our existing database] and it's our story rather than their story of how the events occurred.” [Worker, SQ36]
+“It would [ask them] who they could name outside of their family to create a network. […] But it would collect more than that, […] it would allow the family to be accountable for their data collection and making sure that it's accurate […] because we often go away and record it all on [our existing database] and it's our story rather than their story of how the events occurred.” [Worker, SQ36]
 Some participants noted that families are better placed than anyone else to identify inaccuracies or gaps in their civic data, and that more accurate data could be obtained through families providing corrections. This does not mean free editing of records (as, for example,  fears and/or self-interest could lead to families misrepresenting themselves in data (Bowyer et al., 2018)) but rather taking a role in reviewing, annotating, explaining, filling gaps [SQ57, SQ58] or requesting changes. This was imagined as a collaboration between workers and family members:
 “[There would be an] individual view where each person within the family would have their own section […] you could sit with them […] and go through the data that we have got which would enable them to change anything that they want taken out.” [Worker, SQ66]
 With new ways for self-expression, families could add context for support workers [FQ9, SQ55], unlocking new support topics [SQ56]. Another option arose at the intersection of relying on dialogue and having families contribute data, suggesting workers visibly recording data in front of families on a tablet or 2-in-1digital device and then asking them to ‘approve’ the accuracy [FQ12, SQ67]. Participants believed this would help to build trust between the support workers and families. The overriding sense from both groups is that families having the ability to annotate or explain their data would allow them to hold authorities to account, and empower them to tell their story and ‘show the real me’:
 A: “If you read information or anything about me, you wouldn't expect to meet the person you meet.”
 B: “That's it. It's the same for everybody.”
-A: [...] “it just [has] basic things in most of the time, doesn't it, especially Social Services and stuff like that. You're not a person [in the data record] are you really?” […]
+A: […] “it just [has] basic things in most of the time, doesn't it, especially Social Services and stuff like that. You're not a person [in the data record] are you really?” […]
 B: “[I’d like it if you could] give your bit of personal data, your own story.”
 A: “Yes, because everybody makes mistakes and there's probably thousands of people out there who have got a criminal record and have never done anything since. So how come they're getting judged by having one thing whereas if you [could write] "Yes, I did this because of this situation but this is what I've done to make myself [better]…" [Parents, FQ10]
 
@@ -304,6 +321,26 @@ We can see that giving families a role in the creation and stewardship of their 
 
 ### Theme 3: Earning Trust through Data and Process Transparency
 [Target 1,500 words]
+[
+subthemes:
+
+(C) Respectful Data Handling
+- (C) Explain how data will be used and shared.
+- (C) Respect family and individual privacy.
+- (C) Avoid data mishandling and unexpected uses.
+- (C) Use a strength-based approach when referencing families’ data.
+
+(E) Always Seek and Demonstrate Greater Understanding
+- (E) Ensure that consent is never assumed.
+- (E) Show and maintain deep understanding of families’ lives, not just their data.
+- (E) Always seek a more complete picture.
+
+(I) Pro-actively challenge data-centric norms
+- (I) Be as open as possible with families about their data.
+- (I) Independent oversight of data handling for contentious issues.
+- (I) Promote an open data-sharing culture.
+
+]
 [Then (perhaps including saved back longer quotes that were too big for the table) explain each subtheme, similar to in past papers you've done, with reference to the table - what is this subtheme, why is it important, why did I include it, analyse what it shows. This is the 'Explain' part.]
 
 COUPLE OF REFS THAT COULD BE ADDED ARE AT

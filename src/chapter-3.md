@@ -277,7 +277,7 @@ Note that Case Study Three (Desiging Personal Data Interfaces) involved no parti
 | Main study (Guided GDPR) | 10 x 1-on-1 interview (Privacy Policy Reviewing) | 2 | 10 x 1 hour | 10 adults | Continuation from previous stage[^2] |
 | Main study (Guided GDPR) | 10 x 1-on-1 interview (Viewing GDPR returned data) | 3 | 10 x 2 hours | 10 adults | Continuation from previous stage |
 
-Table: Table 2 - Context Two (Digital Life): Participants involved in digital life research activities leading into Case Study Two.
+Table: Table 2 - Context Two (Digital Life): Participants Involved in Digital Life Research Activities Leading into Case Study Two.
 
 In Case Study Two, the digital life study, it was felt that no special population was needed, as the issues of living in a data-centric world would be likely to affect everyone equally. Therefore, a convenience sample (largely 20-40 year old postgraduate students from Newcastle University) was used. Care was taken to find an even split of male and female participants, but other than that no selection criteria was applied. The participants used for this study were thought likely to have a larger awareness of societal issues around personal data use, and greater familiarity with participatory co-design, than the average layperson, but this was considered an advantage as it would reduce the amount of sensitisation required.
 
