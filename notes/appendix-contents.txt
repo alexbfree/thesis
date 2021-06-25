@@ -12,4 +12,5 @@ c3
 c4
 
 - Table of data values for sentence rankings analysis. - this is in the HDICareJournal folder Excel sheet
+- list of sentences Sn etc - from paper
 - list of quotes, SQnn etc - from the back of the paper.
