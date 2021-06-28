@@ -13,4 +13,13 @@ c4
 
 - Table of data values for sentence rankings analysis. - this is in the HDICareJournal folder Excel sheet
 - list of sentences Sn etc - from paper
-- list of quotes, SQnn etc - from the back of the paper.
+- list of quotes, SQnn etc - from the back of the paper. "Due to the size of the corpus, only those quotes referenced in the paper are included".
+
+
+quotes to added to what's in the paper
+
+SQ76
+_"[Families need to] feel they're being involved. […] [We need to be able to] sit together and say, 'Right, that's the information I'll allow you to share. I don't want that bit shared. But this bit, because it will help me and the family […]'. Say in this [scenario] family, she might have been married before and had domestic violence so she doesn't want that bit shared, that's in the past. So it's [only] certain up-to-date information about the family [that would be shared] because this [the family suggested by the data] isn't her family."_ [Parent, SQ76]
+
+SQ77
+Let's say dad was sexually abused when he was a child, I think that's important that we know that because dad could have mental health problems now which would be a result and we didn't know that and he didn't want to speak about it
