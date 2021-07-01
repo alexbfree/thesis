@@ -154,7 +154,7 @@ Having completed the sentence ranking sensitisation activity, participants went 
 Thematic Findings
 -----------------
 
-The transcribed corpus from audio recordings of workshops A, B and C (approximately 120,000 words) was divided by activity, group, and family or staff focus into 85 different source texts. Each text was thematically coded and analysed through four cycles of analysis using the Miles and Huberman approach (@huberman2002). During this reductive process, participant creations, activity outputs and ranking data were referenced to add additional context to the interpretation. In this section, the qualitative findings from the thematic analysis of transcripts of workshops A, B and C are presented. In 4.3.1 the three main themes and subthemes are introduced, then each theme is further detailed in sections 4.3.2 to 4.3.4, including participant quotes[^8].
+The transcribed corpus from audio recordings of workshops A, B and C (approximately 120,000 words) was divided by activity, group, and family or staff focus into 85 different source texts. Each text was thematically coded and the coded texts were analysed through four cycles of analysis using the Miles and Huberman approach (@huberman2002). During this reductive process, participant creations, activity outputs and ranking data were referenced to add additional context to the interpretation. In this section, the qualitative findings from the thematic analysis of transcripts of workshops A, B and C are presented. In 4.3.1 the three main themes and subthemes are introduced, then each theme is further detailed in sections 4.3.2 to 4.3.4, including participant quotes[^8].
 
 [^8]: The notation used for the quote references is as follows:
 
@@ -183,9 +183,9 @@ Table: Table 6. **Theme 2 - Giving a Voice to the Family**. Subthemes & Particip
 | Subtheme | Description & Quote | Status |
 |:--------|:-------------------------------------------|:------:|
 |People not Records|Support workers must always treat people like individuals, that are more than a data record. They should review family data before contact, but must always engage at a human level too, avoiding making any judgements based solely on data.<br/><br/>Worker A: _"You should never make a judgement on data... that data could be wrong._<br/>Worker B: _"It takes individuality, working with that person as well, doesn't it?"_ [SQ11]|Current / Emergent|
-|Review Data Together|Families should be explicitly invited to review, discuss, check, correct and approve data records. Data recording should be visible, and workers and families should check data together.<br/><br/>_"[The parent could] countersign. [The worker would] say, 'I feel that we've talked about this today so I'm going to write that down. I'm going to show you. Can you sign and me sign if you're happy and I'm going to share this.' That's a bit different [better]."_ [Parent, FQ12]|Emergent / Imagined|
+|Checking Data Together|Families should be explicitly invited to review, discuss, check, correct and approve data records. Data recording should be visible, and workers and families should check data together.<br/><br/>_"[The parent could] countersign. [The worker would] say, 'I feel that we've talked about this today so I'm going to write that down. I'm going to show you. Can you sign and me sign if you're happy and I'm going to share this.' That's a bit different [better]."_ [Parent, FQ12]|Emergent / Imagined|
 |Changing Lives Means Changing Data|Recognising that families' lives are in constant flux, routine reviews of data should occur, and they should be invited to regularly review their choices regarding data collection, keeping and sharing. All systems and processes should treat data as fluid and flexible, not static unchanging facts. Feeds of recent changes should be available to both parties.<br/><br/>_"[There's] this perception of something sticking with you even after you've potentially reformed. […] That's something that happened a long time ago and that judgement is still there but [you'd be wondering] 'Okay, is it [true]?'"_ [Worker, SQ61]|Imagined|
-|Family-sourced Data|Individuals should be able to create or contribute their own data to tell their own story and annotate particular datapoints with their own explanations.<br/><br/>Worker A:_"If you read information […] about me, you wouldn't expect to meet the person you meet."_<br/>Worker B: _"That's it. It's the same for everybody."_<br/>Worker A: _"[…] It just [has] basic things in most of the time, doesn't it […]. You're not a person [in the data record] are you really?"_<br/>Worker B: _"[I'd like it if you could] give your bit of personal data, your own story."_<br/>Worker A: _"Yes, because everybody makes mistakes and there's probably thousands of people out there who have got a criminal record and have never done anything since. [They're] getting judged by having one thing [but they should be able to write] 'Yes, I did this because of this situation but this is what I've done to make myself [better]...'"_ [FQ10]|Imagined|
+|Individual Agency & Family-sourced Data|Individuals should be able to create or contribute their own data to tell their own story and annotate particular datapoints with their own explanations.<br/><br/>Worker A:_"If you read information […] about me, you wouldn't expect to meet the person you meet."_<br/>Worker B: _"That's it. It's the same for everybody."_<br/>Worker A: _"[…] It just [has] basic things in most of the time, doesn't it […]. You're not a person [in the data record] are you really?"_<br/>Worker B: _"[I'd like it if you could] give your bit of personal data, your own story."_<br/>Worker A: _"Yes, because everybody makes mistakes and there's probably thousands of people out there who have got a criminal record and have never done anything since. [They're] getting judged by having one thing [but they should be able to write] 'Yes, I did this because of this situation but this is what I've done to make myself [better]...'"_ [FQ10]|Imagined|
 |Granular Access Controls|Families should be given controls to manage access to their data and configure and change preferences at a fine-grained level.<br/><br/>_"[Families need to] feel they're being involved. […] [We need to be able to] sit together and say, 'Right, that's the information I'll allow you to share. I don't want that bit shared. But this bit, because it will help me and the family […]'. Say in this [scenario] family, she might have been married before and had domestic violence so she doesn't want that bit shared, that's in the past. So it's [only] certain up-to-date information about the family [that would be shared] because this [the family suggested by the data] isn't her family."_ [Parent, SQ76]|Imagined|
 
 Table: Table 7. **Theme 3 - Earning Families' Trust Through Transparency**. Subthemes & Participant Quotes.
@@ -214,7 +214,7 @@ We noted that it is not clear who could or should do the skilled knowledge work 
 
 #### Interact With Data Together
 
-Directly using data together within a support conversation is seen as a key element of making data interaction meaningful for families. For support workers, the use of data can form "a way in" or conversation starter:
+Directly using data together within a support conversation is seen as a key element of making data interaction meaningful for families. For support workers, the use of data can form _'a way in'_ or conversation starter:
 
 _"[Showing the data could be] an ice breaker [with] a new case. So, 'We've got this information; can you tell me more about it?' That opens it up, like a can of worms and it all just comes out; you know what I mean? Then you're able to have that open and honest conversation with them to see what level of support that they need."_ [Worker, SQ28]
 
@@ -265,70 +265,53 @@ _"[There's] this perception of something sticking with you even after you've pot
 
 Many participants concluded that only _'relevant'_ information should be available, to those who _'need to know'_, but the wide range of opinions we saw expressed suggest that this is a highly subjective judgement that would be difficult to determine. A cut-off period before which workers should have no right to look was suggested [Parent, CQ15], but the sentence _'Officials should be able to see historical records about families'_ [S17] was contentious. Some workers feared any restriction in access might mean they miss important background on an individual's past, such as sexual abuse or mental health issues [Worker, SQ77]. The solution to this dilemma is unclear, but transparency about what is in the data would seem to be a critical ingredient (see 4.3.4).
 
-#### Review Data Together
-(E) Review data together
-(I) Families can get their data changed/corrected.
-(E) Record data visibly and get family sign-off.
-(I) Workers and families checking data together (for accuracy).
+#### Checking Data Together
 
-Another option arose at the intersection of relying on dialogue and having families contribute data, suggesting workers visibly recording data in front of families on a tablet or 2-in-1digital device and then asking them to _'approve'_ the accuracy [FQ12, SQ67]. Participants believed this would help to build trust between the support workers and families.
+The idea of families and support workers reviewing data **together** arose from many of our participants in workshops A and B, and this led us to explore this concept of 'shared data interaction' in more depth through the storyboarding exercise in workshop C. Families perceived value in having not just data representations (as in 4.3.2.2 above) but a data interface present within their care meeting, so they that they could see actual data and have it explained to them. One practice embodying the concept of transparency that is emerging in some care services is the use of '2-in-1' devices (laptop/tablet hybrids) within the care engagement so that workers can visibly record data in front of families and then ask them to _'approve'_ the accuracy on screen [FQ12, SQ67]. Participants believed this would help to build trust between the support workers and families; if a family begins to feel powerless, they may disengage [SQ35], but even minor involvement, such as this emergent practice of signing off approval of data records [FQ12] or an imagined process of checking & correcting data records together (see next section) could make families feel more empowered which could make the support relationship more productive.
 
-Families imagined going beyond verbal explanations and being able to visibly review records that their support workers were creating and signing them off [FQ3]. If a family begins to feel powerless, they may disengage [SQ35]. Even minor involvement, such as signing off approval of data records [FQ12], could make the support relationship more productive.
-
-(I) Support changing lives
-
-One reason for reviewing historical data and for requiring dialogue with the family to gain an up-to-date picture, is that the truth changes over time. People are not static, and families' lives are always changing given marriages, divorce, birth, death, house moves, etc... Inaction will cause data to become out-of-date, as it is inherently static – data does not change, but people do [SQ61, SQ63].  Accordingly, it is not just the content of the data, but the family's consent over what happens to that data that needs to be reviewed regularly:
-
-Worker: _"If [consent] has to be all or nothing I can't see that is ever going to work  […] most people will have something they don't want anyone else to know."_
-Researcher: _"So, you might agree [to data sharing] as a family now but after a break-up, what happens?"_
-Worker: _"Yes, or the kids reach a certain age and they might say, 'Hang on a minute, I don't want you looking at all my medical records.'"_ [CQ16]
-
-(I) Regular reviews of data and consent with family.
-
-This is important to prevent unwelcome surprises about how family data is handled [CQ2, CQ17], which can damage trust and hinder co-operation.
-
-(I) Make a 'feed' of family data changes available to both parties.
-
-Several participants imagined ways how technology could support this, with the databases issuing notifications or update feeds for families and support workers showing significant events or data updates. Support workers currently get notified of police incidents, safeguarding concerns and hospital admissions, but including data across the care ecosystem could provide useful triggers for reviews or discussions [SQ64, SQ65].
-
-(I) Give individuals agency
-
-When considering their relationship to their civic data, families (and support workers) imagined the family being able to act alone. This unlocked additional thinking, for example families helping to fill gaps in data [SQ57] or contribute new data that may not otherwise be recorded [SQ58]. Giving families the ability to contribute new data could be very empowering as it would allow them to _'tell their own story'_ [FQ10].
-This is vital because, not only because families' civic data will never be enough to adequately represent complex lived experience (Bowyer et al., 2018) and it is important to ensure the data is accurate: If something goes wrong, families must be able to do something about it. Without a cycle of feedback involving individuals as stakeholders having the ability to review and correct data, data will quickly become inaccurate (Pollock, 2011). A role in data reviewing, production and recording is empowering, as families are then able to hold information holders to account to ensure fair treatment, something that is currently very difficult to achieve.
-_"I think that [families] have got a right to know what is held about them and what is said about them."_ [Worker, SQ50]
-_"I just generally want to see [what is stored about me] just to know what people are saying and then obviously if it's wrong, I can correct them on it."_ [Parent, CQ14]
-
-(I) Family-sourced Data
-(I) Create or contribute own data.
-
-Many participants envisaged that rather than solely relying on dialogue with families, families might provide new data more directly, e.g. through a 'family network app' for information contributions, which could also increase their sense of data ownership:
-
-_"It would [ask them] who they could name outside of their family to create a network. […] But it would collect more than that, […] it would allow the family to be accountable for their data collection and making sure that it's accurate […] because we often go away and record it all on [our existing database] and it's our story rather than their story of how the events occurred."_ [Worker, SQ36]
-(I) Annotate own data with new information.
-
-Some participants noted that families are better placed than anyone else to identify inaccuracies or gaps in their civic data, and that more accurate data could be obtained through families providing corrections. This does not mean free editing of records (as, for example,  fears and/or self-interest could lead to families misrepresenting themselves in data (Bowyer et al., 2018)) but rather taking a role in reviewing, annotating, explaining, filling gaps [SQ57, SQ58] or requesting changes. This was imagined as a collaboration between workers and family members:
+Family participants imagined going beyond just seeing and getting verbal explanations of their data to being able to review their data and be asked for their approval of accuracy [FQ3]. Maintaining accurate data is important because that data is used to decide care plans and support strategies. Families are thought to be better placed than anyone else to identify inaccuracies or gaps in their civic data, and participants believe family corrections would increase data accuracy. This does not mean free editing of records (as, for example, as discovered in the earlier study (@bowyer2018b) fears and/or self-interest could lead to families misrepresenting themselves in data) but rather taking a role in reviewing, annotating, explaining, or requesting changes, through direct data-centred collaboration between involving workers and family members:
 
 _"[There would be an] individual view where each person within the family would have their own section […] you could sit with them […] and go through the data that we have got which would enable them to change anything that they want taken out."_ [Worker, SQ66]
-With new ways for self-expression, families could add context for support workers [FQ9, SQ55], unlocking new support topics [SQ56].
-The overriding sense from both groups is that families having the ability to annotate or explain their data would allow them to hold authorities to account, and empower them to tell their story and _'show the real me'_ as illustrated in [FQ10, shown in Table 7 above].
 
-(I) Granular Access Controls
+### Changing Lives Means Changing Data
 
-(I) Enable families to manage access controls to their data.
-Participants identified that it is important to consider that different individuals within the family would have different roles, access and summaries, in order to respect individual privacy [SQ52, SQ48]. This could extend beyond just giving consent to managing more fine-grained access controls:
+One reason for reviewing historical data and for requiring dialogue with the family to gain an up-to-date picture, is that the truth changes over time. People are not static, and families' lives are always changing; given marriages, divorce, birth, death, house moves and other changes, data can become out-of-date simply through inaction. Given this, asking consent once at the start was considered insufficient [S3]. Data is inherently static – it does not change, but people do [SQ61, SQ63]. This was the basis for participants' desired practice that not only the content of the data, but the family's consent over what happens to that data that both need to be reviewed regularly [CQ16]. A process of regular reviews around data use could prevent unwelcome surprises about how family data is handled [CQ2, CQ17] which could damage trust and hinder co-operation. Participants imagined data systems issuing notifications or update feeds for families and support workers showing significant events or data updates [SQ64]. Support workers currently get notified of police incidents, safeguarding concerns and hospital admissions, but alerts of data changes across the care ecosystem could provide useful triggers for reviews or discussions:
+
+_Worker A: "We would get a report through to say…"
+Worker B: "They've recorded something.”
+Worker A: "Yes. Then I suppose we would follow it up […] face to face."_ [SQ65]
+
+Regardless of the particular mechanism, it was ultimately felt that both data systems and support processes need to do a better job of supporting change.
+
+#### Individual Agency & Family-sourced Data
+
+The idea of families reviewing data has significance not just for how it can help within the support interaction, but because it can give families an independent role in their data ecosystem. Both families and support workers imagined the family being able to interact with their civic data on their own, something that is currently not possible. This is a vital step for empowerment: if something goes wrong, families must be able to discover this and must be able to do something about it. Without a cycle of feedback involving individuals as stakeholders having the ability to review and correct data, data will quickly become inaccurate (Pollock, 2011). Thinking about data interaction at home unlocked additional thinking, such as families helping to fill gaps in data [SQ57] or contribute new data that may not otherwise be recorded [SQ58]. Giving families the ability to contribute new data would empower them to _'tell their own story'_ [FQ10]. Many participants saw this as-yet-unavailable capability as expected common sense:
+
+_"I just generally want to see [what is stored about me] just to know what people are saying and then obviously if it's wrong, I can correct them on it."_ [Parent, CQ14]
+
+Rather than solely relying on dialogue, families could provide new data more directly, e.g. through a 'family network app', which could also increase their sense of data ownership:
+
+_"It would [ask them] who [professionals the family is involved with] they could name outside of their family to create a network. […] But it would collect more than that, […] it would allow the family to be accountable for their data collection and making sure that it's accurate […] because we often go away and record it all on [our existing database] and it's our story rather than their story of how the events occurred."_ [Worker, SQ36]
+
+With new ways for self-expression, families could add context for support workers [FQ9, SQ55], unlocking new support topics [SQ56]. The overriding sense from both groups was that families having the ability to annotate or explain their data would allow them to hold authorities to account, and empower them to tell their story and _'show the real me'_, as illustrated in [FQ10, shown in Table 7 above].
+
+#### Granular Access Controls
+
+Participants identified that it is important to consider that different individuals within the family would have different roles, access and summaries, in order to respect individual privacy [SQ52, SQ48]. Psychological harm could be caused through information leakage, for example an adopted child finding out their true parentage (@bowyer2018b). To avoid this, data should be managed carefully with consent being less binary and more fine-grained access controls being offered:
 
 Worker A: _"When a child turns 16, when they go to the doctors, is that confidential between me and my GP or can my parents see that?"_
 Worker B: _"I think it's confidential."_
 Worker A: _"Exactly. So in this interface, I [would be] able to see that – [as the] 16 year old - you as my support worker could also, but not my mother."_ [SQ53]
 
+Once such capabilities are established, this could enable much more careful and deliberate forms of data-sharing which could support the creation of a personal data ecosystem (see section 2.3.4) beyond, but centred upon, the individual family member, all the while remaining under that individual family member's control:
+
 _"[I'm imagining an] online database of personal family info accessible [only] by people, practitioners that have permission […] I would say that it's only who you want [to give access to, that can see it]. You would have your private code which you could hand out, like the doctors give you appointments."_ [Parent, FQ8]
 
-We can see that giving families a role in the creation and stewardship of their data-selves has great potential to unlock new capabilities and a sense of empowerment for families.
-
-close: Systems and processes support change.
+Looking at Theme 2 as a whole, we can see that giving families a role in the creation and stewardship of their data selves has great potential to unlock new capabilities and a sense of empowerment for families.
 
 ### Theme 3: Earning Trust through Transparency
 
+_"I think that [families] have got a right to know what is held about them and what is said about them."_ [Worker, SQ50]
 The findings above clearly suggest that in seeking best possible understanding, families must be engaged in a fact-centric way, which requires trust in the support worker and in the system - A good relationship with the support worker is critical [FQ1]. Our findings show that transparent and open data handling and decision-making processing are key and can allow support workers to earn the trust of supported families. The key topic of trust arose directly or indirectly in almost all participant conversations. Currently, families are typically unaware of what data is held about them and what discussions about them are being had. Even if the data itself would be considered uncontroversial, this lack of transparency and how data informs judgements can cause great worry to families:
 
 _"Some people that I've worked with, I think as soon as they know you're holding information about them they get really tight and [say], "What are you holding about me? […] They don't like people knowing what's going on in their lives."_ [Worker, SQ70]
@@ -347,7 +330,9 @@ _"Well my thing would be who is [my data] going to be shared with? Which authori
 
 Ultimately an open and respectful approach is not just rooted in decency but in practicality as a co-operative family is easier to support: _"Because if someone is feeling judged or stressed or angry or whatever, then they can stop the conversation"_ [Parent, CQ5]. It can also help with accountability and accuracy:
 
-_"There was a time where I was at the doctors' and they asked how many units of alcohol I drank, and I said, probably about three bottles a week, at the time, not any more but later on [the support worker] pulled me up on it and they had it down as three bottles a day. That could have caused an issue was anyone ever to ask."_ [Parent, CQ7]
+_"There was a time where I was at the doctors' and they asked how many units of alcohol I drank, and I said, probably about three bottles a week, at the time, not any more but later on [the support worker] pulled me up on it and they had it down [in the data record] as three bottles a day. That could have caused an issue was anyone ever to ask."_ [Parent, CQ7]
+
+
 
 (C) Explain how data will be used and shared.
 
