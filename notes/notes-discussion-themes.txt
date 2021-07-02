@@ -1,0 +1,42 @@
+Discussion themes: 
+The Value of Involving People With Their Data
+
+serving RQ1 - the human experience of data (2.1.5)
+
+power balance, antidote to data centrism (2.1.2)
+
+Effective Data Access Requires Human Interaction
+
+effective access (2.1.4)
+HDI legibility (2.3.2)
+
+Shifting the Locus Of Decision Making: Implications
+
+serving RQ2, data in relationships (2.2.5)
+sciotechnical level (2.3.3)
+accountability, crabtree and morier (2.3.3)
+HDI negotiability & agency -  (2.3.2)
+
+summation
+
+supporting the emergency of a human centred personal data ecosystem in civic context
+ultimate contributing to the research agency for human centricity in practice(2.3.5)
+
+
+
+@article{Neff2013,
+abstract = {Notes in Notes section},
+annote = {Much of what is called big data in the commercial realm relies on forms of consent that make it difficult for people to understand the true nature of the risks to their privacy and difficult or impossible for them to opt out. Within the health-care sector there is a powerful drive to use patients' protected health data for the analytics on the business of health care, such as to improve hospital efficiency and health costs savings. There are real privacy risks to patients posed by these processes, while privileging benefits to stakeholders other than the patient, and no options being offered to opt out of such analytic uses of their information. Such decisions in the design of data solutions do more than fail to put the patients' interests first. They fundamentally shift the relationship of power and control between patients, their health-care providers, and the insurers around the questions of data. If the conversation in health technology innovation does not address the questions of data for whom, when, and why, then it will be a failure of social justice and an abuse of the trust that people have placed in the institutions of health care."
+people imagine data in very different ways. Understanding this key fact about data helps us understand why so-called ‘‘big data'' solutions to health care are so dif- ficult to implement in practice. Doctors, patients, and health- care entrepreneurs all value data in very different ways},
+author = {Neff, Gina},
+doi = {10.1089/big.2013.0029},
+file = {:Users/b6069620/OneDrive - Newcastle University/papers/use of data in decision making and in care/big.2013.0029.pdf:pdf},
+issn = {2167-6461},
+journal = {Big Data},
+mendeley-groups = {OpenLab/!IJHCS 2019 Paper/use of data in care,OpenLab/!!!thesis/chapter 4},
+number = {3},
+pages = {117--123},
+title = {{Why Big Data Won't Cure Us}},
+volume = {1},
+year = {2013}
+}
