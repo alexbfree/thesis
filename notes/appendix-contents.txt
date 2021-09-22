@@ -16,6 +16,11 @@ c4
 - list of quotes, SQnn etc - from the back of the paper. "Due to the size of the corpus, only those quotes referenced in the paper are included".
 
 
+c5
+- GDPR request examples
+- blank spreadsheet examples
+
+
 quotes to added to what's in the paper
 
 FQ16
