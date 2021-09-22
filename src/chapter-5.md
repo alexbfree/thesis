@@ -147,22 +147,31 @@ These themes are detailed in 5.1, 5.2 and 5.3 respectively.
 
 Table: Table 12. **Theme 1 - Insufficient Transparency**. Subthemes & Participant Quotes.
 
-| Subtheme | Description & Quote | Status |
-|:--------|:-------------------------------------------|:------:|
+| Subtheme | Description | Quote |
+|:--------|:-------------------------|:------------------------|
+|Non-Compliance|Some providers failed to provide data on time or at all. Many participants found the data that was returned incomplete, and viewed this as non-compliance. Data holders' freedom to return incomplete data was seen as an expression of their power.|_"I am surprised at Google's unwillingness to provide me with all of the data ... they haven’t provided me with all of my data. And that's not legal."_ [P7]|
+|A Desire for Understanding|Participants want to see, know and understand the data held about them. There was particular interest to see data collected or inferred about them without their involvement, and to understand how data is used and shared. In the face of providers making decisions based on data and processes that they could not observe, participants felt powerless.|_"[Companies have more power] because they're making decisions about things and you don’t know how they're making those decisions."_ [P5]|
+|Inadequate Data Responses|Participants judged returned data to be lacking both in quantity, coverage and in the required context that would give it meaning. They felt that they did not receive good quality information, and that many questions remained unanswered. There was disappointment that, due to inadequate responses, GDPR did not confer any power to the individual, but recognition that it could still provide some insight into companies' approaches to data.|_"It's kind of disappointing because I would have hoped that this process would have levelled the user power versus the organisation power in a way that holds them accountable and [it doesn’t] seem to be doing that."_ [P1]|
 
-  Table: Table 13. **Theme 2 - Confusing Data**. Subthemes & Participant Quotes.
+Table: Table 13. **Theme 2 - Confusing Data**. Subthemes & Participant Quotes.
 
-| Subtheme | Description & Quote | Status |
-|:--------|:-------------------------------------------|:------:|
+| Subtheme | Description | Quote |
+|:--------|:-------------------------|:------------------------|
+|Data Formats and Usability|Participants anticipated receiving data in formats they could explore, visualise, mashup and play with, but in fact often received data that lacked explanations. Data was often arranged in ways that were more reflective of internal systems than being optimised for use or understanding. In some cases   |_"They did give me the data, but not how it fitted together. It’s like being given the bricks to a house, and then they’re like ‘Here’s your house’. It doesn’t really mean anything when it’s just bricks, if you don’t know how to put it together."_ [P5]|
+|The Search for Meaning and Value in Data|Participants found the large volumes of data that were sometimes returned overwhelming, and wanted summaries and breakdowns to understand it, as well as tools to help them make sense of and explore the (often technically formatted) data. Data that spanned a period of time was judged particularly meaningful as it could serve as a window into past memories and would allow for trends and changes over time to be observed.|_"[It's] almost too much […] for a normal person to be able to process and understand [...] It could do with a document detailing, like, 'this is what is in here'."_ [P1]|
+|The Practicality of Using-or Deleting–Your Data|Participants wanted to use returned data to better understand themselves, but given that returned data lacked visualisations and interpretations, they were unable to practically use data in this way. There was also a strong desire to delete held data, or restrict its use, though participants did not see a clear path to achieving this.|_"[Companies did not] tell me what they are doing with [my data].. And sometimes I think my willingness to give a company data might be quite intrinsically linked with what they’re gonna do with it."_ [P7]|
 
 Table: Table 14. **Theme 3 - Fragile Relationships**. Subthemes & Participant Quotes.
 
-| Subtheme | Description & Quote | Status |
-|:--------|:-------------------------------------------|:------:|
+| Subtheme | Description | Quote |
+|:--------|:-------------------------|:------------------------|
+|Power and Enforced Trust Through Data Holding|Participants feel that the sacrifice of (or the giving of permission to collect) personal data is a necessary cost in order to get the valued benefits of the services they want to use, something they are pressured to do and have no choice about. Such sacrifice is seen as the giving up of power, as participants lack access and control to that data. This amassing of data was sometimes seen as surveillance, and some saw great potential for misuse and abuse of it. |_"For me to have power over my data, I think is a fair and normal thing. But for a company to have power over [my] data means that it’s basically a proxy to have power over me."_ [P8]|
+|Accountability and Perceptions of Data Holders|Participants entered the study with varying impressions of providers, and wanted to assess data practices in order to hold them to account. Participants' various observations reveal a strong link between their perceptions of providers' data handling practices and the trust they hold in those same providers.|_"When I like the company already, I’m more willing to give them my data."_ [P2] |
+|Changed Perspectives Through Scrutiny|In general, the more that participants found out about data-centric practices through the process of scrutinizing privacy policies and making data access requests, the more they distrusted providers. Failure to explain or provide complete data was harmful to trust. Conversely, where providers were more transparent or participants did obtain interesting data insights, trust was increased.|_"If someone's not completely open with you, then you're like, 'What are you hiding?', which means you trust them less."_ [P4]|
 
 ### Theme 1: Many Companies are Evasive and People are “Still in the Dark”
 
-#### Compliance
+#### Non-Compliance
 
 Responses to GDPR requests were broadly unsatisfactory (cf. section 4). Cases where data was not returned on time, or at all, were clear breaches of the legislation. Participants saw the incompleteness of returned data as a further failure to comply. At the beginning of the study, participants were reminded of their GDPR legal rights (most were already aware to some degree, as expected for such participants [90]), and several participants referred to these rights when reflecting on their experiences. e.g., P5 used legal rights to gauge the quality of one of her responses:
 "I feel more concerned now, […] what they've given me seemed reasonable. But then comparing against what we asked them for, what I’m legally [entitled to], it's a fraction." –P5
@@ -176,7 +185,7 @@ Failures to comply led to reflections that “there needs to be more enforcement
 As seen in Table 4, participants shared a common desire to see, know and understand the data that is held about them. At the most basic level, participants hoped to learn whether the data collected and held about them by the organisations exceeded what was required for the running of their services. For example, P11 sought to learn what data is being collected on him when he purchases train tickets:
 “I’d be interested to understand what data they have […] Is it just the patterns of my spending on trains, or is it a bunch of other stuff that they’re using for advertising to me?" - P11
 In particular, participants were interested in data that they would not have been actively aware of. Participants felt that they were aware of the volunteered data (cf. Table 2) that they had deliberately provided; they sought awareness of data that had been collected or derived about them without their knowledge.
-"The bit that concerns me is where I don't know that data is being taken by companies. If I'm registering for a library or something, I know [what] data I'm giving to them, but what I don't know is all the other stuff that they're recording" – P9
+"The bit that concerns me is where I don't know what data is being taken by companies. If I'm registering for a library or something, I know [what] data I'm giving to them, but what I don't know is all the other stuff that they're recording" – P9
 Participants sought to understand the data in detail and whether it was used to infer further information or to affect decision-making of the data holder. P4 speculated whether data gathered by his smart home lighting might reveal the times at which he typically slept or watched television. P7 reported feeling “weird” about targeted advertisements relating to pregnancy that had most likely been delivered to her based on demographics. This lack of awareness translates to the data holder having greater power “because they’re making decisions about things and you don’t know how they’re making those decisions” (P5).
 Participants were also curious about the handling of their data and potential sharing between organisations. P4 chose to request data from a company that collated data from credit agencies in order to gain “a picture of what other companies can currently expose”. Others wanted to examine the nature of retention and deletion of data, such as P10, talking about dating app Bumble:
 “Since I found my partner […] I deleted my account and I’ve been wondering, ‘Are they still keeping my data at the back?’" –P10
