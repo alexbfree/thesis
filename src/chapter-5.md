@@ -254,27 +254,29 @@ P11 highlighted a problem with his Tesco shopping data that was not just a matte
 
 _"As a technical person, having a CSV of data is quite useful, potentially, but actually what can I do with that if it's Tesco's internal systems data?"_
 
-While on the face of it the findings of 5.4.3.1 and 5.4.3.2 might seem contradictory, what we can infer is that participants want *both* usable technical data *and* easy-to-read information summaries - and that those summaries should cover both the information within the data *and* the information *about* the data, what it means and how to use it.
-
+While on the face of it the findings of 5.4.3.1 and 5.4.3.2, and the conflicting demands for both more technical and less technical data might seem contradictory, what we can infer is that participants collectively need *both* usable technical data *and* easy-to-read information summaries - and that those summaries should cover both the relatable life information within the data *and* the information *about* the data, what it means and how to use it; this idea is explored further in [@bowyer2021].
 
 #### The Liability of Data You Can't Delete or Control
 
-Liability, Uncontrolled Data
+Having recognised that potential value of data relating to their lives, before or during this research, several participants were concerned about personal data being held. P10 for example said with reference to dating site Bumble: _"Since I found my partner [and therefore no longer need a dating site] I deleted my account and I've been wondering, 'Are they still keeping my data at the back?'"_ and with reference to both Instagram and Bumble, expressed a desire to have her data deleted and expected GDPR to play a role in the enforcement or verification of that deletion, something she could not otherwise be sure of. P8 considered the holding of sensitive data to be a liability that she was only willing to tolerate while she was actively using a service, and this was part of her motivation for targeting Natural Cycles:
 
-- want to delete
-  - Others wanted to examine the nature of retention and deletion of data, such as P10, talking about dating app Bumble:
-  - "Since I found my partner […] I deleted my account and I've been wondering, 'Are they still keeping my data at the back?'" –P10
-  - In some cases, participants indicated their existing intention to have data deleted, with GDPR expected to play a role in the enforcement or verification of that deletion – particularly in the case of P10, who wished to ensure the permanent deletion of her Bumble and Instagram accounts. In others, deletion was seen as an important option, especially when the holding of sensitive data was considered a liability that was tolerated only in return for an actively-used service:
-  - "I now use a different one, but I used, for about a year, an app to track my menstrual cycle. [It was my] main contraception method, so that's things that this company probably has. Now that I'm not using it any more, I don't know if they delete the things or not” – P8
-- liability/can't control
-  - Participants also considered the increased value of historical data from the perspective of the data holder. For example, P11 saw mundane data collected over a long period as a liability: "10 years of worth of shopping records … how much would that be worth to a health insurance company, and would they succumb to the temptation to sell that on?”. P10, a Chinese citizen, preferred that data not be retained for long periods, as "in China, [there is a trend] that as soon as someone becomes famous, people begin digging [through] all their past experiences.”
-  - Preference for short data retention appeared as a recurring notion. With data holders collecting and retaining data for specified purposes relating to the delivery of services, participants questioned data keeping practices. For example P11 identified that "the thing that kind of concerns me about that is that I haven't used Tesco online for years, like at least four or five years I think, so why are they hanging on to my IP address from five years ago?”. Most participants described the ability to delete or enforce the deletion of their data as having control over it.
-- data checking for control
-  - Participants foresaw potential uses of returned data to protect their data interests, including checking the accuracy, security and breadth of collected data to flag unforeseen concerns. Many participants hoped to make changes in data habits, privacy settings and choice of service provider following their anticipated learning from making a GDPR request, that might lead to an increased sense of individual safety and data control:
-    - "I want to understand how much they're keeping. And what they're doing with it. I'm hoping that by knowing that, I might change my behaviour about all the data I accidentally create." – P7
-  - However, without better data legibility and explanations, or clear pathways to deleting data, the ability to make such choices was hindered. E.g., P7 remarked:
-    - "I guess that's one of … my criticisms of GDPR in general - that although I can understand what data a company holds about me, there's no obligation for them to tell me what they are doing with it.. And sometimes I think my willingness to give a company data might be quite intrinsically linked with what they're gonna do with it." – P7
+_"I now use a different one, but I used, for about a year [their] app to track my menstrual cycle. [It was my] main contraception method, so that's things that this company probably has. Now that I'm not using it any more, I don't know if they delete the things or not"_
 
+Many participants expressed a desire that data be held only for a short time, and questioned the default practice of data being kept beyond the period where it was needed to deliver a service:
+
+_"The thing that concerns me is that I haven't used Tesco online for at least four or five years, so why are they hanging on to my IP address from five years ago?”_--P11
+
+He went on to spell out the liability he saw in such apparently mundane data being held, the liability coming from the duration of the data: _"10 years of worth of shopping records… how much would that be worth to a health insurance company, and would they succumb to the temptation to sell that on?"_ P10, a Chinese citizen identified long-term sources of personal data as an enabler for future privacy violations, saying that _"in China, [there is a trend] that as soon as someone becomes famous, people begin digging [through] all their past experiences"_.
+
+Most participants described the ability to delete or enforce the deletion of their data as having control over it, and given the current practical lack of such a capability felt that they had insufficient control over data holding. One of the first steps participants identified in gaining control of their data was simply an ability to see it, for accountability, so that they might check the accuracy, security and breadth of collected data and flag any unforeseen concerns. They felt that a deeper understanding might lead to an increased sense of individual safety and data control and facilitate them to make changes in data habits or choice of service provider:
+
+_"I want to understand how much they're keeping. And what they're doing with it. I'm hoping that by knowing that, I might change my behaviour about all the data I accidentally create."_--P7
+
+In this participant's case, this hope was unsatisfied, and upon looking back at her experience she remarked:
+
+_"I guess that's one of my criticisms of GDPR in general - that although I can understand what data a company holds about me, there's no obligation for them to tell me what they are doing with it.. And sometimes I think my willingness to give a company data might be quite intrinsically linked with what they're gonna do with it."_--P7
+
+In fact, that legal right does exist through GDPR, but as we can see it was not  delivered in practice. The ability for participants to feel aware and in control of their data must begin with better data legibility and explanations of data use, accompanied by clear pathways to enable data correction or deletion.
 
 ### Theme 3: Poor GDPR Handling Can Damage the Forced & Fragile Trust Relationship
 
