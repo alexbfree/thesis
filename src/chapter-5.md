@@ -353,7 +353,6 @@ In a small number of cases, this was witness in practice, with a good GDPR respo
 
 In these comments, we can see an indication that, although the data requests often did not live up to the hopes of the participants, positively engaging with the process was influential and did affect participants' outlook. In particular, close attention was paid to the willingness of companies to be transparent and forthcoming, with GDPR representing an opportunity to test organisations on their data practices and assess their integrity and competence as holders of their data.
 
-
 Discussion
 ----------
 
