@@ -300,12 +300,12 @@ All research activities referenced in this thesis were planned in advance, with 
 
 ### Thesis structure approach
 
-In writing up this thesis, I made a choice to foreground my three most major research activities as Case Studies, and not to detail the other activities carried out beyond the high level summaries included in this chapter. Case Study One and Two each span two research questions (RQ1 and RQ2 - see Figure 4 in section 3.4) as they explore both people's relationship with data _and_ the relationships people have that involve data. Case Study Three maps directly to RQ3, and is focused on designing human data relations in practice.
+In writing up this thesis, I made a choice to foreground my three most major research activities as Case Studies, and not to detail the other activities carried out beyond the high level summaries included in this chapter. Case Study One and Two both span research questions RQ1 and RQ2 (see Figure 4 in section 3.4) as they explore both people's direct relationship with data _and_ the relationships people have that indirectly involve data. While Case Study Three maps does connect with RQ1 and RQ2, it primarily addresses RQ3, and is focused on designing better human data relations in practice.
 
 Because of the overlapping RQs in Case Study One and Two, I have structured the subsequent chapters as follows:
 
 * Chapter 4 details Case Study One in the context of both RQ1 & RQ2.
 * Chapter 5 details Case Study Two in the context of both RQ1 & RQ2.
-* Chapter 6 is a short 'bridge' chapter which separately unifies RQ1 findings and RQ2 findings, so that they can be referenced in general terms as an understanding of people's experience of data (RQ1) and of relationships that use data (RQ2) without needing specific details from the first two case studies.
+* Chapter 6 is a mini-discussion chapter which separately unifies RQ1 findings and RQ2 findings, so that they can be referenced in general terms as an understanding of people's direct relationship to data (RQ1) and their indirect relationships to data (RQ2) - abstracted away from the specific details of the first two case studies.
 * Chapter 7 details Case Study Three in the context of RQ3, and drawing on the unified RQ1 and RQ2 findings in Chapter 6.
-* Chapter 8 is the discussion chapter, covering all three research subquestions and the main research question.
+* Chapter 8 is the discussion chapter, covering all three research subquestions and drawing these together to address the main research question.
