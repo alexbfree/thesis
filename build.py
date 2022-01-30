@@ -154,7 +154,7 @@ def buildCoversheet(outputPath):
         elif chap==6:
             item["title"]="6 Discussion I: An Understanding of Human Data Relations"
         elif chap==7:
-            item["title"]="8 Discussion II: Designing and Pursuing Better Human Data Relations" #alt: Next Steps Towards a Human-Centric Future
+            item["title"]="7 Discussion II: Designing and Pursuing Better Human Data Relations" #alt: Next Steps Towards a Human-Centric Future
         else:
             item["title"] = "Chapter {}".format(chap)
 
