@@ -1,5 +1,5 @@
 ---
-title: Understanding and Designing Human Data Relations
+title: Understanding and Improving Human Data Relations
 author: Alex Bowyer
 bibliography: src/thesis.bib
 

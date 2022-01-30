@@ -81,6 +81,7 @@ Overview of Research Contexts and Activities
 --------------------------------------------
 
 ![Figure 4: Research Activities and Contexts](./src/figs/fig04-activities-and-contexts.jpg)
+[TODO: UPDATE Figure 4 to diminish BBC and add Hestia.]
 
 As explained in the last section, the three sub-research questions RQ1, RQ2 and RQ3 have been addressed in parallel throughout this research. They can be considered as three parallel trajectories of research and learning, each informed by some or all of my research activities as they progress, in cycles of action research as described in section 3.2 above. Figure 4 shows these three parallel research objectives as downward arrows. Considered as three areas of understanding, RQ1 can be seen as understanding personal _data_, RQ2 as understanding data in _relationships_, and RQ3 as understanding how to reconfigure data interaction in _practice_. Figure 4 also illustrates how the three contexts of study, addressed through two major case studies and a number of other activities, which I will explain below, contribute to advancing my understanding of each area - with the positioning of the box over an arrow indicating that it contributes to that area of understanding.
 
