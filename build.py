@@ -152,11 +152,9 @@ def buildCoversheet(outputPath):
         elif chap==5:
             item["title"]="5 Case Study Two: The Human Experience of GDPR"
         elif chap==6:
-            item["title"]="6 Bridge: An Understanding of Human Data Relations"
+            item["title"]="6 Discussion I: An Understanding of Human Data Relations"
         elif chap==7:
-            item["title"]="7 Case Study Three: Personal Data Interface Design & Development"
-        elif chap==8:
-            item["title"]="8 Discussion: Designing Better Human Data Relations" #alt: Next Steps Towards a Human-Centric Future
+            item["title"]="8 Discussion II: Designing and Pursuing Better Human Data Relations" #alt: Next Steps Towards a Human-Centric Future
         else:
             item["title"] = "Chapter {}".format(chap)
 
