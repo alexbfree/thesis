@@ -22,6 +22,11 @@ These wants are detailed in the following sections:
 ### Visible
 
 1. Data matters now, where previously it did not.
+
+Data matters to every individual now, in a way that previously it did not. As described in 2.1.2, the role of data in our everyday lives has changed; data has become a material used by businesses to shape our world. In 2.2.2 and 2.2.4 I outlined how this change has practically manifested itself in people's lives; where once data was viewed as *ours* for our personal reference and use, the emergence of complex multi-party data ecosystems has meant that personal data management has become a sociotechnical & societal problem, not a practical individual one. In the past when businesses were more local, more personal and less data-centric, the data that businesses held about us was minimal and much less significant to our lives than the human relationships we had with those businesses. Businesses grew and data began to be considered as a resource to be processed at scale for customer insight and marketing exploitation, and though we didn't realise it, our need to understand those processes to protect one's own interests, began to grow. In the past, you didn't need to become aware of data storage and use, because it had little effect. Now, data has become a substitute for direct communication with the individual being served, as my research in both public sector ([@bowyer2018b] and 4.3.3) and the private sector (5.4.3.3) has shown. In both domains, people do not have awareness, let alone access, to the extent of data that exists about them. In 5.4.4.1 we saw individuals feeling that companies forced them to hand over data in exchange for service access, and then subsequently maintaining power over them through holding that data, using it to make decisions, and denying them access to that data or even be clear about what data is held.
+
+   
+
 2. Data sacrifice is demanded, creating a risk.
 3. Once data enters the closed and opaque ecosystem, they lose access and become unaware of storage and use.
 4. People want to be informed and able to see what is hidden from them.
