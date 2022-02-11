@@ -9,13 +9,13 @@ To recap on the research objectives expressed in 3.3, these two RQs are:
 The answers to these research questions are best expressed as an understanding of individual *wants* relating to data. The word 'want' is used here in a broader sense than its everyday meaning, referring to the *lack* of something that would be beneficial (which may or may not be accompanied by conscious desire). By framing our accumulated understandings from the Case Studies in this way, we are exposing both the problem - the things that individuals do not have or cannot do, while also identifying the goals that any imagined solutions or improvements to the status quo would need to address. It logically follows that any solution that better delivers on individual _data wants_ will lead to improved relations between individuals and their data. This is how we can conceptualise "Human Data Relations" as alluded to in the title of this thesis, and indeed this gives us a yardstick against which to understand what "better" means, which will be explored in Chapter 8. _"Human Data Relations"_ is a term that I introduce here to expand upon the established theory of Human Data Interaction [@mortier2013;@mortier2014] in light of the Case Studies' findings from a more sociotechnical, interpersonal point of view. Humans have two kinds of relationships with data: _direct_ interaction (such as through an interface in an app or website) and _indirect_ interaction (through interacting with services, providers or individual representatives who themselves have access to personal data about the individual). Thus, Human Data Relations is a term that can encompass both the relationship humans have with their data, but also the relationships they have in which data plays an indirect role. In this context, RQ1 and RQ2 map quite cleanly onto these two types of Human Data Relations, and in answering RQ1 we can identify what people want from direct data relations, while RQ2 helps provide an answer as to what people want from indirect data relations.
 
 Answering RQ1: What do people want in *direct* data relations?
-------------------------------------------------------------
+--------------------------------------------------------------
 
 By comparing and grouping elements of the findings from Case Study One (see 4.3) and from Case Study Two (see 5.4), three distinct data wants are evident when considering _direct_ data relations. All data about them needs to be:
 
-  1) *Visible*: People need to have knowledge of data about them and an ability to see it,
-  2) *Understandable*: People need to be able to interpret this data to extract meaningful information from it (and about it), and
-  3) *Useable*: People need to be able to take action upon this data, including exploring it, using it to serve their goals, and gaining personal value from it.
+  1) *Visible*: People need to have knowledge of data about them and an ability to see it and effectively access it;
+  2) *Understandable*: People need to be able to interpret this data to extract meaningful information from it (and about it), including through visualisations and summaries; and
+  3) *Useable*: People need to be able to take action upon this data, including exploring it, asking questions of it, using it to serve their own goals, and gaining personal value from it.
 
 These wants are detailed in the following sections:
 
@@ -52,15 +52,15 @@ Answering RQ2: What do people want in *indirect* data relations?
 
 By comparing and grouping elements of the findings from Case Study One (see 4.3) and from Case Study Two (see 5.4), especially in the context of individual relationships with care providers and digital service providers respectively, three distinct data wants are evident when considering _indirect_ data relations:
 
-   1) *Transparency*: People need to know what data is being collected or held, and how it is being used, for accountability and safety,
-   2) *Oversight*: People need the ability to affect what data is held and how it is used, including deleting data or withdrawing consent for certain uses,
-   3) *Involvement*: People need to be invited and involved in decision-making based upon their data, so that they are not misrepresented and their needs are not overlooked.
+   1) *Transparency*: People need to know what data is being collected or held, and critically how it is being used, for accountability and safety and in order to have trust in data holders;
+   2) *Oversight*: People need the ability to affect what data is held and how it is used, including reacting to changing circumstances, deleting data or withdrawing consent for certain uses; and
+   3) *Involvement*: People need to be invited and involved in decision-making based upon their data, so that they are not misrepresented and their needs are not overlooked. This can be aided by collaborative use of data, giving individuals a human point of contact, and consulting the person not just the record.
 
 These wants are detailed in the following sections:
 
 ### Transparency
 
-1. People need a window into how one's data is used - process transparency.
+1. People need a window into how their data is used; this means transparency not just of data but of processes.
 2. Process transparency is required to enable accountability.
 3. There is no accountability, processes are not transparent, and thus power remains imbalanced.
 4. Even after using available transparency rights, people face an incomplete picture from and of their data.
@@ -70,7 +70,7 @@ These wants are detailed in the following sections:
 
 ### Oversight
 
-1. Data visibility + Process transparency naturally lead to a desire for individual oversight - if you see something that is 'not right', you are motivated to want to fix it.
+1. Data visibility + Process transparency naturally leads to a desire for individual oversight - if you see something that is 'not right', you are motivated to want to fix it.
 2. We need to be able to oversee data use for fairness, accuracy and the reduction of risk.
 3. The ability for individuals to meaningfully oversee the use of their data requires governance, so that they can effect the changes they desire.
 4. Individual oversight of data use brings the individual back to the centre of their data ecosystem as as an active participant.
@@ -97,5 +97,3 @@ Achieving Individual Empowerment
 2. Giving people a role as co-stewards of their own data and involved in decision-making would be progressive and transformative, and this could be applied in different domains across society.
 
 3. We can envision from this a new fully human-centred (or at least power-balanced) future - cooperative data stewardship and empowered, involved citizens.
-
-  
