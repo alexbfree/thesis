@@ -139,14 +139,13 @@ In the final data exploration interviews, which were conducted online over Zoom 
 
 This case study is described in detail as Chapter 5, and contributes to the general findings about RQ1 and RQ2 presented in Chapter 6.
 
-### Context Three: Practical Work in Pursuit of Better Human Data Relations
+### Context Three: The Practical Pursuit of Better Human Data Relations
 
-[was 'Designing and Building Personal Data interfaces']
-[TODO broaden this title to include ecosystem angle]
+The third context for this PhD, which has remained a focus throughout, is a more practical one; to go beyond just understanding people's perspectives but to look, in the context of what we learn about people's desires for their data and their relationships, at what is currently possible in practice. The goal is to find out what factors shape the design and implementation of real world data interaction systems and processes, to understand what legal, social, economic, technical or political factors come into play and importantly, to explore what technologies or techniques might be able to pursue human-centric design goals in a data-centric world. In scope, this context is a broad one, encompassing all forms of personal data interaction; as such it is able to draw on the findings of RQ1 and RQ2 from the first two contexts, viewing those as "needs" or "requirements" that would ideally be met through the design and pursuit of new interfaces, policies and practices.
 
-The third context for this PhD, which has remained a focus throughout, is a more practical one; to go beyond just understanding people's perspectives but to look, in the context of what we learn about people's desires for their data and their relationships, at what is currently possible in practice. The goal is to find out what factors shape the design and implementation of real world data interaction systems and processes, to understand what legal, social, economic, technical or political factors come into play and importantly, to explore what technologies or techniques might be able to pursue human-centric design goals in a data-centric world. In scope, this context is a broad one, encompassing all forms of personal data interaction; as such it is able to draw on the findings of RQ1 and RQ2 from the first two contexts, viewing those as "needs" or "requirements" that would ideally be met through the designing and building of new interfaces.
+In total four separate research activities beginning in 2017 and continuing through to 2022 and beyond have taken place within this practical research context, outside of the Case Studies but very much drawing upon and feeding insights back into the developing findings, and thus part of the action research cycle of this thesis (3.2).
 
-In total four separate research activities between 2017 and 2021 took place within this practical research context:
+These activities relate to this thesis not as case studies but as exemplars to illustrate possible avenues for bringing about better Human Data Relations in practice (which corresponds to the latter part of RQ3). They are referenced throughout this thesis but especially in Chapter 7, which examines the practicalities of bringing about the desired changes.
 
 #### Health Interface Development in the CHC SILVER project
 
