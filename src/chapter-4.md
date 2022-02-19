@@ -282,9 +282,9 @@ Shared data interaction carries the potential to bring benefits in accountabilit
 
 One reason for reviewing historical data and for requiring dialogue with the family to gain an up-to-date picture, is that the truth changes over time. People are not static, and families' lives are always changing; given marriages, divorce, birth, death, house moves and other changes, data can become out-of-date simply through inaction. Given this, asking consent once at the start was considered insufficient [S3]. Data is inherently static – it does not change, but people do [SQ61, SQ63]. This was the basis for participants' desired practice that not only the content of the data, but the family's consent over what happens to that data that both need to be reviewed regularly [CQ16]. A process of regular reviews around data use could prevent unwelcome surprises about how family data is handled [CQ2, CQ17] which could damage trust and hinder co-operation. Participants imagined data systems issuing notifications or update feeds for families and support workers showing significant events or data updates [SQ64]. Support workers currently get notified of police incidents, safeguarding concerns and hospital admissions, but alerts of data changes across the care ecosystem could provide useful triggers for reviews or discussions:
 
-_Worker A: "We would get a report through to say…"
-Worker B: "They've recorded something.”
-Worker A: "Yes. Then I suppose we would follow it up […] face to face."_ [SQ65]
+Worker A: _"We would get a report through to say…"_<br/>
+Worker B: _"They've recorded something."_<br/>
+Worker A: _"Yes. Then I suppose we would follow it up […] face to face."_ [SQ65]
 
 Regardless of the particular mechanism, it was ultimately felt that both data systems and support processes need to do a better job of supporting change.
 
