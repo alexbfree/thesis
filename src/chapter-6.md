@@ -62,9 +62,7 @@ Throughout both Case Studies, we have seen the negative psychological effects of
 
 **Data needs to be explorable from a temporal perspective** Another aspect of usable data that goes beyond what a data file can offer is the ability to view it over time. The importance of this temporal capability, as identified in literature cited in 2.1.4 (practical information access) and 2.2.2 (temporal PIM systems), and my prior writing [@bowyer2011], was evident in both Case Studies. In SILVER and in Case Study One, being able to access historical data for a full picture regularly surfaced as a desire in discussions - even though the exact bounds and mechanisms for achieving this were contentious (4.2.6, 4.3.2.1, 4.3.3.1). In Case Study Two, as Table 12 shows, 26% of participant goals related to SI-type reflection (2.2.3) on one's past to enable self-insights, nostalgia and creative uses of data. No participant was able to achieve this, and this was in large part due to the lack of temporal data exploration capability, meaning that significant potential value (the value of a long-term dataset as described above) remained locked away and inaccessible (5.3, 5.6). Case Study Two also suggested a lack of thought to this temporal perspective from data holders, who delivered data as a one-off snapshot that was already out-of-date when delivered. Indeed the GDPR explicitly discourages excessive data requests, rendering an ongoing view of data as proposed in 5.5.1 near impossible. Having better temporal data exploration capabilities would enable people to understand themselves and their data ecosystems better, informing both personal self-improvement goals and better decisions about personal data practices and provider choices (5.6). Other exploration perspectives that could be powerful include location-based views or person/company/relationship-based views.
 
-**If holders make data unusable, this is a barrier to individual agency and power.** In Human-Data Interaction terms, people need not just legibility, but _agency_ - the ability to act. [PARA UNFINISHED]
-
-5. Unusable data leads to disengagement and impairs individual independent action in society.
+**If holders do not make data unusable, this is a barrier to individual agency and power.** In Human-Data Interaction terms, people need not just legibility, but _agency_ - the ability to act upon one's data [@mortier2014]. Personal data contains valuable and actionable information about individuals and their lives (5.5.3). The SI field has identified that there are already many practical barriers to working with one's personal data effectively, including not just access but challenges in integration, sensemaking and goal-tracking -- the 'barriers cascade' [@li2010] -- which hinder the ability to use one's data for personal benefit. As observed in Case Study Two, an inability to access the value in your own data can lead to feelings of resignation, concern, suspicion or distrust (5.6). Even if one can see and understand one's data, an inability to act upon it can reinforce feelings of being passive and uninvolved; without this, any opportunity to feel engaged and motivated is lost [@bowyer2018b p8]. Being able to use data for one's own purposes is a critical ingredient of empowerment and rebalancing power [@wef2014lens]. Without data usability, individuals are in effect digitally impaired, leading a less functional society.
 
 Answering RQ2: What do people want in *indirect* data relations?
 --------------------------------------------------------------
@@ -72,7 +70,7 @@ Answering RQ2: What do people want in *indirect* data relations?
 By comparing and grouping elements of the findings from Case Study One (see 4.3) and from Case Study Two (see 5.4), especially in the context of individual relationships with care providers and digital service providers respectively, three distinct data wants are evident when considering _indirect_ data relations:
 
    1) *Transparency*: People need to know what data is being collected or held, and critically how it is being used, for accountability and safety and in order to have trust in data holders;
-   2) *Oversight*: People need the ability to affect what data is held and how it is used, including reacting to changing circumstances, deleting data or withdrawing consent for certain uses; and
+   2) *Individual Oversight*: People need the ability to affect what data is held and how it is used, including reacting to changing circumstances, deleting data or withdrawing consent for certain uses; and
    3) *Involvement*: People need to be invited and involved in decision-making based upon their data, so that they are not misrepresented and their needs are not overlooked. This can be aided by collaborative use of data, giving individuals a human point of contact, and consulting the person not just the record.
 
 These wants are detailed in the following sections:
@@ -94,7 +92,7 @@ people must understand the value created by the use of their data and the way in
 6. Trust can be gained through transparency, which offers an opportunity to improve relations.
 7. Transparency of data and processes enables individual action and facilitates the levelling of power balance.
 
-### Oversight
+### Individual Oversight
 
 1. Data visibility + Process transparency naturally leads to a desire for individual oversight - if you see something that is 'not right', you are motivated to want to fix it.
 2. We need to be able to oversee data use for fairness, accuracy and the reduction of risk.
