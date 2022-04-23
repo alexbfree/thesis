@@ -102,7 +102,7 @@ Answering RQ3: What are the challenges and opportunities?
 
 [asking tools rather than answers or insights]
 
-##### Other Factors in Life Information Utilisation
+#### Other Factors in Life Information Utilisation
 
 [Motivation -> Showing the potential]
 
@@ -162,7 +162,7 @@ Answering RQ3: What are the challenges and opportunities?
 
 [-> better policies to protect the information landscape? DSA?]
 
-##### Other Factors in Personal Data Ecosystem Control
+#### Other Factors in Personal Data Ecosystem Control
 
 [complex data ecoystems]
 
