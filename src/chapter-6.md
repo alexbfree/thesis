@@ -1,4 +1,4 @@
-Discussion Part 1: An Understanding of Human Data Relations {#chapter-6}
+Discussion I: An Understanding of Human Data Relations {#chapter-6}
 =======================
 It will be already evident to the reader that there are significant overlaps and parallels to be drawn across the findings and discursive insights in Case Study One and Two. In this first discussion chapter, I will draw on both Chapter 4 and Chapter 5 to produce a unified summary of findings and insights in terms of the first two research subquestions RQ1 and RQ2.
 To recap on the research objectives expressed in 3.3, these two RQs are:

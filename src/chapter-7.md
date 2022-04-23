@@ -1,4 +1,4 @@
-Discussion II: Designing and Pursuing Human Data Relations {#chapter-7}
+Discussion II: Designing and Pursuing Better Human Data Relations {#chapter-7}
 =======================
 
 Chapter Overview
@@ -14,27 +14,37 @@ Chapter Overview
 
 [Explaining collaborative nature of work in this chapter]
 
-The Two Distinct Purposes of Human Data Relations
--------------------------------------------------
+Expanding the Concept of Human Data Relations
+---------------------------------------------
+
+
+
+### Human Data Interaction or Human Information Interaction?
+
+[unpacking the important differences between managing data (which is optimised for use by computer systems) and understanding / being informed by information *within* and *about* data.. leads to role below]
+
+### The Two Distinct Purposes of Human Data Relations
 
 [Diagram]
 
-### Life Information Utilisation
+#### Life Information Utilisation
 
 [Life Information Utilisation]
 
-### Personal Data Ecosystem Control
+#### Personal Data Ecosystem Control
 
 [Personal Data Ecosystem Control]
+
+### The Role of Personal Data
+
+[Data as property, self, insight, medium, currency, expression, ...]
+
+[Data has a role in informing people about themselves, Data has a role in informing people about the actions of others that affect them, Data has a role as a tool for changing self, Data has a role for monitoring influences and actions of others]
 
 Answering RQ3: What are the challenges and opportunities?
 ---------------------------------------------------------
 
 [What challenges and opportunities are relevant when attempting to meet the six wants of human data relations? - How the six wants fit into these two purposes]
-
-### The Role of Personal Data
-
-[Data as property, self, insight, medium, currency, expression, ...]
 
 ### Challenges and Opportunities in Life Information Utilisation
 
@@ -64,18 +74,21 @@ Answering RQ3: What are the challenges and opportunities?
 
 #### Useable Data[^13]
 
-[^13]: The words _'usability'_ and _'usable'_ (spelt without an 'e') most commonly refer to a judgement of the degree to which a website or user interface is easy to use. Throughout this thesis, I deliberately use the alternative word spellings of _'useability'_ and _'useable'_ [@dictUseability; @dictUseable] respectively, to clearly distinguish from this ease-of-use concept and to denote that I am referring a different meaning: the more literal definition, i.e. _"the quality or state of being convenient and practicable for use"_ [@dictUsability; @dictUsable]. Any usages without an 'e' can be taken to refer to the interface ease-of-use concept.
+[^13]: The words _'usability'_ and _'usable'_ (spelt without an 'e') most commonly refer to a judgement of the degree to which a website or user interface is easy to use [@nielsen2012]. Throughout this thesis, I deliberately use the alternative word spellings of _'useability'_ and _'useable'_ [@dictUseability; @dictUseable] respectively, to clearly distinguish from this ease-of-use concept and to denote that I am referring a different meaning: the more literal definition, i.e. _"the quality or state of being convenient and practicable for use"_ [@dictUsability; @dictUsable]. Any usages without an 'e' can be taken to refer to the interface ease-of-use concept.
 
 ##### Obstacles to Data Useability
 
 [Trapped Data -> Force unlocking of data through technical means or regulatory influence]
 
-[Insufficient versatility -> enable questions, comparisons, investigations etc]
+[Integration challenges -> Need to be able to bring data together and connect and combine]
 
+[Lack of malleability -> need to be able to slice/group/view from different perspectives]
+
+[inability to investigate -> enable questions, comparisons, investigations etc]
 
 ##### Improving Data Useability
 
-[supporting useful actions on data - filtering, referencing, cross referencing, conjecturing/whatiffing]
+[supporting useful actions on data - filtering, referencing, cross referencing, conjecturing/whatiffing - data action verbs]
 
 [data as material, interface features as tools to use that material]
 
@@ -143,13 +156,23 @@ Answering RQ3: What are the challenges and opportunities?
 
 [collectives, supported by policy [uber, ref GDPR guidelines?]]
 
-[the battle for landscape control]
+[the battle for landscape control - RSS, API, 3P interfaces, etc, Defending The Seams And Protecting Interface Freedom]
 
-[-> exploiting the seams in order to produce new information presentations... ref JE paper (+colin?) -> web aug, firefox containers]
+[-> exploiting the seams in order to produce new information presentations... ref JE paper (+colin?) -> web aug, firefox containers. Taking Back Power In The Browser, resist moves to apps]
 
-[-> better policies? DSA?]
+[-> better policies to protect the information landscape? DSA?]
 
 ##### Other Factors in Personal Data Ecosystem Control
+
+[complex data ecoystems]
+
+[Inconsistent and difficult data rights offerings]
+
+[Lack of up to date insights / delay]
+
+[data literacy and rights awareness - you should teach this in schools]
+
+[Feeds and flows that loop in the data subject (default not opt in)]
 
 A Theory Of Change Perspective on Better Human Data Relations
 -------------------------------------------------------------
@@ -159,8 +182,8 @@ A Theory Of Change Perspective on Better Human Data Relations
 Thesis Conclusion
 -----------------
 
-[reiterate the answer to the question - the key role, capabilities and approaches needed for better human data relations]
+[reiterate the answer to the question - the key 4 roles, 3 capabilities and N approaches needed for better human data relations]
 
-[clarify the contribution of the thesis, with backreferences]
+[clarify the contribution of the thesis, with backreferences - 2 case studies, RQ answers, and the HDR roadmap]
 
 [highlight future value/societal implications of the work]
