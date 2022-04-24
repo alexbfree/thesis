@@ -140,17 +140,17 @@ This case study is described in detail as Chapter 5, and contributes to the gene
 
 ### Context Three: The Practical Pursuit of Better Human Data Relations
 
-The third context for this PhD, which has remained a focus throughout, is a more practical one; to go beyond just understanding people's perspectives but to look, in the context of what we learn about people's desires for their data and their relationships, at what is currently possible in practice. The goal is to find out what factors shape the design and implementation of real world data interaction systems and processes, to understand what legal, social, economic, technical or political factors come into play and importantly, to explore what technologies or techniques might be able to pursue human-centric design goals in a data-centric world. In scope, this context is a broad one, encompassing all forms of personal data interaction; as such it is able to draw on the findings of RQ1 and RQ2 from the first two contexts, viewing those as "needs" or "requirements" that would ideally be met through the design and pursuit of new interfaces, policies and practices.
+The third context for this PhD, which has remained a parallel focus throughout, is a more practical one; to go beyond just understanding people's perspectives but to look, in the context of what we learn about people's desires for their data and their relationships, at what is currently possible in practice. The goal is to find out what factors shape the design and implementation of real world data interaction systems and processes, to understand what legal, social, economic, technical or political factors come into play and importantly, to explore what technologies or techniques might be able to pursue human-centric design goals in a data-centric world. In scope, this context is a broad one, encompassing all forms of personal data interaction; as such it is able to draw on the findings of RQ1 and RQ2 from the first two contexts, viewing those as "needs" or "requirements" that would ideally be met through the design and pursuit of new interfaces, policies and practices.
 
 In total four separate research activities beginning in 2017 and continuing through to 2022 and beyond have taken place within this practical research context, outside of the Case Studies but very much drawing upon and feeding insights back into the developing findings, and thus part of the action research cycle of this thesis (3.2).
 
-These activities relate to this thesis not as case studies but as exemplars to illustrate possible avenues for bringing about better Human Data Relations in practice (which corresponds to the latter part of RQ3). They are referenced throughout this thesis but especially in Chapter 7, which examines the practicalities of bringing about the desired changes.
+These activities relate to this thesis not as case studies but as exemplars to illustrate possible avenues for bringing about better Human Data Relations in practice (RQ3). Chapter 7 examines the practicalities of bringing about the desired changes.
 
-#### Health Interface Development in the CHC SILVER project
+#### Health Data Interface Development: CHC's SILVER project
 
 The embedded role I took in the SILVER project described in section 3.4.1.1 contributes also to this context, as part of my role was as a front-end software developer for a personal data health interface intended for use by support workers in the Early Help context. Learnings from that experience also helped to serve RQ3. This aspect of the SILVER project is considered out of scope for this thesis, though reference is made to it in Chapter 7.
 
-#### Reconfiguring Data Interfaces and Obtaining Data through Web Augmentation
+#### Obtaining Data and Reconfiguring Data Interfaces through Web Augmentation
 
 [TODO update this section with new paper, possibly shorten a bit too]
 
@@ -158,13 +158,13 @@ As a software developer I have been aware for a long time that one of the bigges
 
 In order to better understand what is and is not possible using this technique, I participated from 2018 to 2020 as a part time web developer in a project which was using the web augmentation technique to improve the information given to users of Just Eat, a takeaway food ordering platform in the UK. While this particular use case does not concern personal data, the technology being used by the project were considered highly relevant, and the goals of the research project were also human-centric, and consistent with our own research goals - tackling power imbalance of service providers in order to better serve individual needs. This research project is not detailed within this thesis, and is not considered a primary study for this PhD, but is referenced within Chapter 7. The paper which published the study is [ADD REF goffe ET AL], which is included in [ADD APPENDIX REFERENCE TO GOFFE ET AL PAPER HERE].
 
-#### Research Internship with BBC R&D Cornmarket Project
+#### Personal Data Store Research: The BBC R&D Cornmarket Project
 
 [TODO: Diminish this so it is no longer a case study just a contributing piece of work]
 
 Within the personal data interface design context, I undertook my second embedded research activity within the PhD. For an eight month period (three months full time and five months part time) beginning in early summer of 2020, I was a research intern in the British Broadcasting Corporation's Research and Development department. The BBC has a public remit to carry out research and development in the broadcast, media and information space, including HDI [@bbcrd2017], and has over 200 researchers. I was assigned to a project codenamed Cornmarket, a collaboration between user experience designers, researchers and developers which aimed to explore a new role for the BBC in extending its public service role beyond broadcasting into personal data stewardship. The main task was to develop a prototype personal data locker into which people could store everyday data including TV and music media streaming data, health data, and financial data. This provided an excellent opportunity to put all of my learnings acquired thus far for all three RQs into practice, and further deepen my understanding of RQ3 - the barriers and opportunities to actually building new human-centric data interfaces in the real world. Throughout the internship I was able to explore the problem space from many different angles - sharing my own research expertise, doing competitor analysis and background research, information architecture, data modelling, user experience and user-centred design, technology prototyping and supporting participatory research activities. This embedded research provided numerous new insights and an opportunity to iterate and develop my theories and models with BBC colleagues.
 
-#### Challenging the Ecosystem: The Sitra #digipower Project with Hestia.AI
+#### Understanding the Power of Data: Sitra's #digipower Project with Hestia.ai
 
 [TODO add details here]
 
