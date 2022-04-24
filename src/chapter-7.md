@@ -54,7 +54,7 @@ By making this distinction between the two types of information which people mig
 
 (ii) to acquire _information about oneself_, so that one might gain insights into one's own behaviour and gain personal benefits from those insights or them to make changes in one's life. This is *Life Information Utilisation (LIU)*.
 
-The two distinct processes that individuals might go through in pursuit of these purposes are exemplified in Figure 29. PDEC is a process of holding organisations to account over and managing _what happens to personal data_, often regardless of what it means, whereas LIU is more concerned with _what the data means_, regardless of where it is stored and how it is used[^14].
+The two distinct processes that individuals might go through in pursuit of these purposes are exemplified in Figure 29. PDEC is a process of holding organisations to account over and managing _what happens to personal data_, often regardless of what it means, whereas LIU is more concerned with _what the data means_, regardless of where it is stored and how it is used[^14]. The two purposes of HDR are further detailed in [@bowyer2021].
 
 [INSERT DIAGRAM - Figure 29]
 
@@ -68,7 +68,7 @@ In the LIU context, the most important wants to focus on improving are Understan
 
 #### Personal Data Ecosystem Control
 
-Unlike LIU, Personal Data Ecosystem Control is an individual need that is new; arising as a result of the emergence of the data-centric world (2.1, 2.2.4). It was only when organisations began to collect and store facts about people as a substitute for direct communication and involvement that it became necessary. The more data is collected about individuals, and the more parties collect and share that data, the greater the need for individuals to learn about that data so that they might influence its use (or risk their lives being affected in unexpected or potentially unfair ways). PDEC is a direct response to the power imbalance the World Economic Forum described in 2014 [2.1.2;@wef2014trust].
+Unlike LIU, Personal Data Ecosystem Control is an individual need that is new; arising as a result of the emergence of the data-centric world (2.1, 2.2.4). It was only when organisations began to collect and store facts about people as a substitute for direct communication and involvement that it became necessary. The more data is collected about individuals, and the more parties collect and share that data, the greater the need for individuals to learn about that data so that they might influence its use (or risk their lives being affected in unexpected or potentially unfair ways). PDEC is a direct response to the power imbalance the World Economic Forum described in 2014 [2.1.2;@wef2014lens].
 
 In the PDEC context, multiple data wants are important: visible data and transparent processes, as well as individual oversight and involvement. For simplicity, the former two wants will be handled collectively as _"Ecosystem Transparency"_, and the latter two as _"Ecosystem Negotiability"_ (drawing on the HDI concept of _negotiability_). Obstacles and opportunities for improving HDR in these two grouped areas will be explored in 7.3.2.1 and 7.3.2.2 respectively.
 
