@@ -4,15 +4,32 @@ Discussion II: Designing and Pursuing Better Human Data Relations {#chapter-7}
 Chapter Overview
 ----------------
 
-[Introduction/Chapter Objectives]
+Through the Case Studies (Chapter 4 & 5) and the discussion in Chapter 6, a clear understanding of what people want from direct and indirect data relations (RQ1 & RQ2) has been established. In this chapter, we turn our attention from theory to practice, from what is needed to *what is possible*. Specifically, this chapter will answer RQ3, which asks the practical question _'What challenges and opportunities are relevant when pursuing better Human Data Relations?'_. Throughout Context Three (3.4.3), which consists of my embedded work in four industrial and academic research projects during the course of my PhD, I have been able to explore how better Human Data Relations can be pursued in practice. This chapter aims to provide a roadmap, illustrated with real world insights and activities, and building upon the theoretical insights from the Case Studies to inform the design of future research, innovation and policy.
+
+In section 7.2, the concept of Human Data Relations is expanded to identify two key purposes for Human Data Relations, which are used in section 7.3 as a framing to present identified obstacles and opportunities. Section 7.4 summarises the roadmap in a Theory of Change context, and section 7.5 concludes the thesis, summarising its contributions and answering the overall research question.
 
 ### Practical Research Contexts Used
 
-[Context Recaps esp Hestia & BBC]
+The majority of examples and learnings shared in this chapter come from my participation as an expert researcher in two industrial research projects:
+
+1. *BBC R&D's Cornmarket Project*, which explored through UX design and participatory research, how individuals might interact with data through a Personal Data Store interface (see 3.4.3.3)
+2. *Sitra/Hestia.ai's #digipower Project*, a successor to Case Study Two, in which European politicians examined companies' data practices through data rights and technical audits (see 3.4.3.4)
+
+In addition, my participation as an interface designer and front-end software developer in the following two academic research projects contributes secondarily to this chapter:
+
+3. *Connected Health Cities (CHC)'s SILVER Project*, where I, along with a backend developer and a team of researchers, developed a health data viewing interface for Early Help support workers (see 3.4.3.1).
+4. *Digital Economy Research Centre (DERC)'s Healthy Eating Web Augmentation Project*, which explored the use of web augmentation techniques to modify the user interface of takeaway service Just Eat in support of healthy eating (see 3.4.3.2).
 
 ### Attribution of Insights
 
-[Explaining collaborative nature of work in this chapter]
+Many of the details, theories and ideas presented in this chapter arose through close collaboration, discussion and ideation with other researchers, most noticeably:
+
+ - Paul-Olivier Dehaye and Jessica Pidoux at Hestia.ai;
+ - Jasmine Cox, Suzanne Clarke, Tim Broom and Alex Ballantyne at BBC R&D;
+ - Stuart Wheater of Arjuna Technologies and Kyle Montague of Open Lab during the SILVER project; and
+ - Louis Goffe of Open Lab on the DERC project
+
+Due to the ongoing and parallel nature of all of these projects to my PhD research, it is impossible to precisely delineate the origin of each idea or insight. In practice, ideas from my developing thesis and own thinking informed each project's trajectory and thinking, and vice-versa. These ideas would not have emerged in this form without my participation, so they are not the sole intellectual property of others, but equally I would not have reached the same conclusions alone, so the ideas are not solely my own either. All diagrams and illustrations were produced by me, except where specified, and the overall synthesis and framing presented in this chapter is my own original work. Where this chapter includes material from the four projects, that material is either already public, or permission has been obtained from the corresponding project teams.
 
 Expanding the Concept of Human Data Relations
 ---------------------------------------------
