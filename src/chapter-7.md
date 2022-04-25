@@ -22,7 +22,7 @@ In addition, my participation as an interface designer and front-end software de
 
 ### Attribution of Insights
 
-Many of the details, theories and ideas presented in this chapter arose or were developed through close collaboration, discussion and ideation with other researchers, most noticeably:
+While this thesis is my own original work, some of the specific details, theories and ideas presented in this chapter arose or were developed through close collaboration, discussion and ideation with other researchers, including:
 
  - Jasmine Cox, Suzanne Clarke, Tim Broom and Alex Ballantyne at BBC R&D;
  - Paul-Olivier Dehaye and Jessica Pidoux at Hestia.ai;
@@ -43,12 +43,12 @@ Human Data Interaction (HDI) concerns the way people interact with data. Mortier
 In considering Human Data Relations, there are in fact three distinct aspects to consider:
 
 1. _data_ - the stored digital artifacts held by organisations for algorithmic processing, copies of which can be obtained using individual data rights.
-2. _information about individuals_ - the collection of facts and assertions about the individual, which are obtained through interpretation (or in some organisations' case, through analytical inference).
+2. _information about individuals_ - the collection of facts and assertions about the individual and their life, which are obtained through interpretation (or in some organisations' case, through analytical inference).
 3. _information about data_ (also identified in Table 9 / 5.3.1 as _metadata_) - facts about the data, such as where it has been stored, who has accessed it, how it was collected, or when it has been shared externally.
 
 ### The Two Distinct Purposes of Human Data Relations
 
-By making this distinction between the two types of information which people might interact with and considering the six wants in Chapter 6, it becomes clear that there are two very different reasons why people might want better HDR - to use :
+By making this distinction between the two types of information which people might interact with and considering the six wants in Chapter 6, it becomes clear that there are two very different reasons why people might want better HDR:
 
 (i) to acquire _information about one's data_, so that one might exert control over and make informed choices about where _the data_ is held and how it is used in order to be treated fairly and gain more control over the use of personal data. This is *Personal Data Ecosystem Control (PDEC)*.
 
@@ -62,7 +62,7 @@ The two distinct processes that individuals might go through in pursuit of these
 
 #### Life Information Utilisation
 
-Life Information Utilisation is a superset of Self Informatics (SI), as defined in 2.2.3. It includes all purposes relating to self-monitoring and self-improvement through data, but also includes all other uses of personal data including creative expression, evidence gathering, nostalgia, keeping, and sharing. Many of these desires were expressed in Case Study Two (see Table 12 in 5.3.3), and also hinted at in the Early Help context [@bowyer2018b]. While the existence of digitally-encoded information clearly unlocks new possibilities, LIU has existed in some form throughout modern civilisation, as seen through analogue processes such as storytelling, journalling, scrapbooking, arts and crafts.
+Life Information Utilisation is a superset of Self Informatics (SI), as defined in 2.2.3. It includes all purposes relating to self-monitoring and self-improvement through data, but also includes all other uses of personal data including creative expression, evidence gathering, nostalgia, keeping, and sharing. Many of these desires were expressed in Case Study Two (see Table 12 in 5.3.3), and also hinted at in the Early Help context (4.4.1). While the existence of digitally-encoded information clearly unlocks new possibilities, LIU has existed in some form throughout modern civilisation, as seen through analogue processes such as storytelling, journalling, scrapbooking, arts and crafts.
 
 In the LIU context, the most important wants to focus on improving are Understandability of data (6.1.2) and Useability of data (6.1.3), which relate closely to the HDI concepts of _legibility_ and _agency_ respectively. Obstacles and opportunities for Understandability and Useability will be explored in 7.3.1.1 and 7.3.1.2 respectively.
 
@@ -74,31 +74,29 @@ In the PDEC context, multiple data wants are important: visible data and transpa
 
 ### The Role of Personal Data
 
-In the modern world, where almost anything can be encoded as data, and many previously analogue objects and activities now have digital equivalents, the concept of data has become broad and hard to pin down. It is worthwhile in considering HDR (and indeed part of this thesis's main RQ) to expand upon what role data plays in people's lives. Through the Case Studies and Research Settings and my prior learning, I have identified 7 distinct ways in which people might relate to data, which are presented in Table X
+In the modern world, where almost anything can be encoded as data, and many previously analogue objects and activities now have digital equivalents, the concept of data has become broad and hard to pin down. It is worthwhile in considering HDR (and indeed part of this thesis's main RQ) to expand upon what role data plays in people's lives. Through the Case Studies and Research Settings and my prior learning, I have identified 8 distinct ways in which people might relate to their data, which are presented in Table X
 
-Table: Table 15. **How do people think about data?**.
+Table: Table 15. **Eight lenses for thinking about data**.
 
-| Ways of thinking of data | Explanation |
+| Way of thinking about data | Explanation & Implications |
 |:--------|:---------------------------------------------------|
-|Data as property| |
-|Data as part of oneself| |
-|Data as memory| |
-|Data as a source of knowledge about you| |
-|Data as a medium for communication and expression[^15]| |
-|Data as currency| |
+|Data as property|Data can be considered as a possession. This highlights issues of ownership, responsibility, liability and theft.|
+|Data as a source of knowledge about you|Knowing that data contains encoded assertions about you and can be used to derive further conjectures, enables thinking about how it might be exploited by others, but also how you can use it yourself for reflection, self-improvement and planning.|
+|Data as part of oneself|A photo or recording of you, or a typed note or search that popped into your head could be deeply personal. This lens on data highlights issues around emotional attachment/impact, privacy, and ethics.|
+|Data as memory|Data can be considered as an augmentation to one's memory, a digital record of your life. This lens facilitates design thinking around search and recall, browsing, summarising, significance/relevance, and the personal value of data.|
+|Data as creative work|Some of the data we produce (e.g. writing, videos, images) can be considered as an artistic creation. This lens enables thinking about attribution, derivation, copying and cultural value to others.|
+|Data as new information about the world|Data created by others can inform us about previously unknown occurrences in our immediate digital life or the wider world. This lens is useful for thinking about discovery, recommendations, bias, censorship, filter bubbles, and who controls our information sources|
+|Data as currency|Many data-centric services require data to be sacrificed in exchange for access to functionality, and some businesses now explicitly enable you to sell your own data. This lens highlights that data can be thought of as a tradable asset, and invites consideration of issues of data's worth, individual privacy, exploitation and loss of control.|
+|Data as a medium for thinking, communicating and expression|Some people collect and organise their data into curated collections, or use it to convey facts, ideas or to evoke an emotional impact. This lens is useful to consider data uses such as lists, annotation, curation, editing, remixing, and producing different views of data for different audiences.|
 
-[^15]: This was identified by my BBC colleague Jasmine Cox as an addition to my model presented across the other table rows.
+When considering HDR, it is important to recognise that people may think of their personal data in any or all of these ways at any given time, and any data interaction design should take these into account.
 
+Looking behind these lenses on what data *is* to people, it is possible to identify four specific roles that data can serve:
 
-Data has a role in informing you about yourself
-
-Data has a role as a material with which to make changes in your life
-
-Data has a role in informing you about the actions of others that affect you
-
-Data has a role as a means to monitor influences and changes in your life
-
-
+1. Data has a role as an **artifact of value** to your life;
+2. Data has a role in **informing** you about yourself, the world, and the actions of others that may affect you;
+3. Data has a role as **a material with which to make changes** in your life;
+4. Data has a role as **a means to monitor** data holders' behaviours, digital influences upon you and changes within your life.
 
 Answering RQ3: What are the challenges and opportunities?
 ---------------------------------------------------------
