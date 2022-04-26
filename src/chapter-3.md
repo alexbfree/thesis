@@ -1,6 +1,8 @@
 Methodology {#chapter-3}
 =======================
 
+> _"Research is defining the invisible."_ -― Steven Magee, author and solar radiation researcher
+
 In the previous chapter, I described three research areas this thesis seeks to explore: how people think about data and what they want from it, how data fits into people's relationships with organisations and how they want it to be used, and how could people's desires for the role data plays in their lives be brought closer to reality. In this chapter I will explain my approach to conducting research in this area, detail the types of methods used, and explain how the different research activities I carried out contribute to those three research aims.
 
 Forming a Research Paradigm: Ontology & Epistemology
@@ -156,7 +158,7 @@ The embedded role I took in the SILVER project described in section 3.4.1.1 cont
 
 As a software developer I have been aware for a long time that one of the biggest challenges in building new data interfaces is to gain programmatic access to the necessary data. As part of the trend towards cloud-based services and data-centric business practices, it has become increasingly difficult to access all of the data held about users by service providers. Application Programming Interfaces (APIs) are a technical means for programmers to access a user's data so that third party applications may be built using that data. Unfortunately, as a result of commercial incentives to lock users in and keep data trapped [@abiteboul2015;@bowyer2018a], much of users' data can no longer be accessed via APIs. While GDPR data portability requests do open up a new option for the use of one's provider-collected data in third party applications, this is an awkward and time-consuming route for both users and developers. _Web augmentation_ provides a third possible technical avenue for obtaining data from online service providers. It relies on the fact that a users data is loaded to the user's local machine and displayed within their web browser everytime a website is used, and therefore it is possible to extract that data from the browser using a browser extension. Similarly, once loaded into the browser, a provider's webpage can be modified to display additional data or useful human-centric functionality that the provider failed to provide.
 
-In order to better understand what is and is not possible using this technique, I participated from 2018 to 2020 as a part time web developer in a project which was using the web augmentation technique to improve the information given to users of Just Eat, a takeaway food ordering platform in the UK. While this particular use case does not concern personal data, the technology being used by the project were considered highly relevant, and the goals of the research project were also human-centric, and consistent with our own research goals - tackling power imbalance of service providers in order to better serve individual needs. This research project is not detailed within this thesis, and is not considered a primary study for this PhD, but is referenced within Chapter 7. The paper which published the study is [ADD REF goffe ET AL], which is included in [ADD APPENDIX REFERENCE TO GOFFE ET AL PAPER HERE].
+In order to better understand what is and is not possible using this technique, I participated from 2018 to 2020 as a part time web developer in a project which was using the web augmentation technique to improve the information given to users of Just Eat, a takeaway food ordering platform in the UK. While this particular use case does not concern personal data, the technology being used by the project were considered highly relevant, and the goals of the research project were also human-centric, and consistent with our own research goals - tackling power imbalance of service providers in order to better serve individual needs. This research project is not detailed within this thesis, and is not considered a primary study for this PhD, but is referenced within Chapter 7. The paper which published the study is [ADD REF goffe _ET AL_], which is included in [ADD APPENDIX REFERENCE TO GOFFE ET AL PAPER HERE].
 
 #### Personal Data Store Research: The BBC R&D Cornmarket Project
 
@@ -267,6 +269,8 @@ As well as analysing participant data, an important aspect of pursuing answers t
 | Main study (Data Interaction in Early Help) | 1 x Combined Staff and Parents Group Design Workshop | 2 | 1 x 2 hours | 3 support workers and 4 parents from supported families | Selected by Local Authority Care Services |
 
 Table: Table 1 - Context One (Civic Data & Early Help): Participants involved in  research activities leading into Case Study One.
+
+[TODO update above table so that naming is consistent with C4/C5]
 
 [^2]:
 One participant withdrew from the study after the first interview of the Guided GDPR study due to COVID-19. The other 10 participants took part in all three stages.
