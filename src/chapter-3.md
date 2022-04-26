@@ -1,7 +1,7 @@
 Methodology {#chapter-3}
 =======================
 
-> _"Research is defining the invisible."_ -― Steven Magee, author and solar radiation researcher
+> _"Research is defining the invisible."_ -― Steven Magee (author and researcher)
 
 In the previous chapter, I described three research areas this thesis seeks to explore: how people think about data and what they want from it, how data fits into people's relationships with organisations and how they want it to be used, and how could people's desires for the role data plays in their lives be brought closer to reality. In this chapter I will explain my approach to conducting research in this area, detail the types of methods used, and explain how the different research activities I carried out contribute to those three research aims.
 

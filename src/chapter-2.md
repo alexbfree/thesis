@@ -1,7 +1,7 @@
 Literature Review {#chapter-2}
 =======================
 
-> _"We are the sources of surveillance capitalism’s crucial surplus: the objects of a technologically advanced and increasingly inescapable raw-material-extraction operation."_ - Shoshana Zuboff, Harvard professor, social psychologist and author
+> _"We are the sources of surveillance capitalism’s crucial surplus: the objects of a technologically advanced and increasingly inescapable raw-material-extraction operation."_ - Shoshana Zuboff (Harvard professor, social psychologist and author)
 
 Data-centrism and the Need for Access
 -----------------------------------------
