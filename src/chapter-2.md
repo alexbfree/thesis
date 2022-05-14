@@ -179,6 +179,6 @@ In this section, I have shown how the emergent human-centric personal data ecosy
 
 By adopting both a participatory design and technical strategist's standpoint, building on the theoretical foundations of effective data access, information management and human-centric data interaction, this thesis progresses PDE / MyData thinking, using methods detailed in the next chapter, in pursuit of my primary research question, which is:
 
-**"What role should people's data play in their lives, what capabilities do they need, and how could these ideals be achieved?"**
+**"What relationship do people need with their personal data, and how could that be achieved?"**
 
 ---

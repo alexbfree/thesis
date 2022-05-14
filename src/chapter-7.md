@@ -3,14 +3,28 @@ Discussion II: Designing and Pursuing Better Human Data Relations {#chapter-7}
 
 > _"Civilizations advance not by the technology they know about, but by the technology they don't have to know about."_ -- Anonymous proverb
 
-Chapter Overview
+Introduction & Background
 ----------------
 
-Through the Case Studies (Chapter 4 & 5) and the discussion in Chapter 6, a clear understanding of what people want from direct and indirect data relations (RQ1 & RQ2) has been established. In this chapter, we turn our attention from theory to practice, from what is needed to *what is possible*. Specifically, this chapter will answer RQ3, which asks the practical question _'What challenges and opportunities are relevant when pursuing better Human Data Relations?'_. Throughout Context Three (3.4.3), which consists of my embedded work in four industrial and academic research projects during the course of my PhD, I have been able to explore how better Human Data Relations (HDR) can be pursued in practice. This chapter aims to provide a roadmap, illustrated with real world insights and activities, and building upon the theoretical insights from the Case Studies, to inform the design of future research, innovation and policy.
+Through the Case Studies (Chapter 4 & 5) and the discussion in Chapter 6, a clear understanding of what people want from direct and indirect data relations (RQ1 & RQ2) has been established. In this chapter, we turn our attention from theory to practice, from what is needed to *what is possible*. Specifically, this chapter will return to the overall research question _"What relationship do people need with their personal data, and how might that be achieved?"_ and look specifically at its second clause. This chapter aims to provide a roadmap, illustrated with real world insights and activities from the four industrial and academic research projects I was part of as well as the work of other innovators and activists, and building upon the theoretical insights from the Case Studies, to inform the design of future research, innovation and policy.
 
-In section 7.2, the concept of HDR is expanded to identify its two key purposes, which are used in section 7.3 as a framing to present identified obstacles and opportunities. Section 7.4 summarises the roadmap in a Theory of Change context, and section 7.5 concludes the thesis, summarising its contributions and answering the overall research question.
+The approach this chapter takes is to name and illustrate what challenges and opportunities are relevant when attempting to bring about changes in the world that would bring people closer to the six HDR wants that this thesis has uncovered. There are many aspects to such a wide-reaching objective: technical, design, commercial, legal, moral, social and political and this chapter does not pretend to be exhaustive nor formal empirical research. However I have been fortunate, during the same time period as I have been working on this PhD but outside of the research, to have undertaken direct embedded work in personal data interaction related projects (3.4.3) in academic and industrial research that directly relate to the question of how to bring about better human data relations in practice.
+
+In section 7.1.1 these external activities are described; they form a primary point of reference for insights and illustrations shared in this chapter, as they have allowed me to learn enough to provide a useful overview and highlight many important and evolving areas where different actors are trying to bring about changes that often align well to the six data wants uncovered in the previous chapters.
+
+In section 7.1.2, I explain some important context about the nature of the ideas presented in this chapter and how to attribute them fairly.
+
+In section 7.1.3, I introduce some additional background on _Theories of Change (ToC)_, which are used as a framing device for structuring the insights described in the main body of this chapter into a series of different possible trajectories for change.
+
+In section 7.2, to provide deeper context for what follows, the concept of HDR is expanded to identify some additional insights into how people relate to data, and an important dichotomy of two distinct drivers that motivate people's needs for better relations with their data.
+
+Section 7.3 forms the main body of this chapter, and provides the detailed insights into how better Human Data Relations can be pursued in practice. This is structured using the ToC framing described in 7.1.3, and is structured as a series of named obstables and opportunities fitting into each trajectory of change.
+
+Section 7.4 concludes the thesis, summarising the roadmap presented in 7.3, the thesis' contributions as a whole, and answering the overall research question.
 
 ### Practical Research Settings
+
+[TODO Move 3.4.3 etc. to here and remove all refs to 3.4.3]
 
 The majority of examples and learnings shared in this chapter come from my participation as an expert researcher in two industrial research projects:
 
@@ -32,6 +46,33 @@ While this thesis is my own original work, some of the specific details, theorie
  - Louis Goffe of Open Lab on the DERC Healthy Eating project
 
 Due to these collaborations and the ongoing and parallel nature of all of these projects to my PhD research, it is impossible to precisely delineate the origin of each idea or insight. In practice, ideas from my developing thesis and own thinking informed each project's trajectory and thinking, and vice-versa. These ideas would not have emerged in this form without my participation, so they are not the sole intellectual property of others, but equally I would not have reached the same conclusions alone, so the ideas are not solely my own either. All diagrams and illustrations were produced by me, except where specified, and the overall synthesis and framing presented in this chapter is my own original work. Where this chapter includes material from the four projects, that material is either already public, or permission has been obtained from the corresponding project teams.
+
+### Theories of Change
+
+To provide a structure for cataloguing the insights conveyed by this chapter, I use a _Theory of Change (ToC)_ framing. ToC is a set of methodologies is commonly used by philanthropists, educators and those trying to improve the lives of disadvantaged populations [@brest2010]; the theories can be used in different ways including planning, participatory design and field evaluation of the effectiveness of new initiatives. There are many different implementations, but common to most of them is a focus on explicitly mapping out desired outcomes [@taplin2012] with a clear focus on who is acting and whether the change being brought about is a change in action, or a change in thinking [@vanEs2015]. In this chapter, ToC thinking will be used in a very limited way, to provide a structural frame for proposed changes, as described below. Using ToC to perform evaluation of the effectiveness of proposed change approaches in action in society would be well beyond the scope of this thesis. Nonetheless, this frame is a useful way to map out the different approaches to changing the world in pursuit of the ideal of better HDR.
+
+![Figure 29: The Four Dimensions of Change[^15]](./src/figs/fig29-dimensions-of-change.png)
+
+[^15]: Diagram used here unchanged from _Hivos ToC Guidelines_ [@vanEs2015, p90] under a CC-BY-NC-SA 3.0 license, whose authors state that this diagram was adapted from earlier work by Wilber (1996), Keystone (2008) and Retolaza (2010, 2012).
+
+Figure 29 illustrates the aspects of ToC thinking that this section will use as a frame. Specifically, desired changes can be broken down into:
+
+- _Internal changes_: representing changes in thinking, feeling, reasoning, understanding, attitudes or identity.
+- _External changes_: representing changes in actions, behaviour, interactions, structure, policy, technological capability, processes and the external environment.
+
+Similarly, desired changes can also be broken down into:
+
+- _Individual changes_: representing changes to individual thought or actions
+- _Collective changes_: representing changes to the thoughts or actions of groups of people together, or to the systems, practices and norms of society at large.
+
+These four dimensions of change form four quadrants representing different types of change, as shown in Figure 29:
+
+- _Individual/Internal_: This top-left quadrant represents changes to what individuals know and understand, and to how they think, feel and plan to take action.
+- _Individual/External_: This top-right quadrant represents changes to how individuals' relationships with others; acting (or being enabled to act) differently in their daily lives and when interacting within society.
+- _External/Collective_: This bottom-right quadrant represents changes to the structures and procedures within which people operate, including technology, law, societal norms and communications.
+- _Internal/Collective_: This bottom-left quadrant represents changes in the shared knowledge of groups of people or to the collective identity or values of social groups.
+
+Key to ToC thinking is the idea that making changes in one quadrant can stimulate change in others; for example, collective learning in the lower left quadrant, such as the research conducted in this PhD, could inform the design of new technologies, interfaces or processes in the lower right quadrant, enabling the use of those new structures within individual-provider relationships, allowing relationships to change in the upper-right quadrant. The changes to those relationships could then in turn lead to individuals thinking and feeling differently, for example feeling more empowered or having greater awareness of data practices.
 
 Expanding the Concept of Human Data Relations
 ---------------------------------------------
@@ -66,44 +107,55 @@ Looking across this set of lenses, it is possible to identify four specific role
 
 ### Human Data Interaction or Human Information Interaction?
 
-To unpack HDR further, we next need to highlight the difference between humans relating to data, and humans relating to information. Human Data Interaction (HDI) concerns the way people interact with data. Mortier _et al._  [@mortier2013;@mortier2014] defined the field of HDI without distinguishing data (the digital artifact stored on computer) from information (the facts or assertions that said data can provide when interpreted). This is an important distinction. Originating in library sciences, the parallel field of Human Information Interaction (HII) is well established, and considers the way humans relate to information without regard to the technologies involved [@marchionini2008]. As William Jones observes, these two fields should be examined together [@jones2006]. As DIKW theory highlights (see 2.1), **interpretation of data to obtain information** is a discrete activity. This was borne out in the findings of Case Study Two, where it became clear that participants need to relate both to data, and to information (5.4.3.2). Access to data and information is critical to both understanding and useability, as detailed in section 6.1.2 and 6.1.3.
+To unpack HDR further, we next need to highlight the difference between humans relating to data, and humans relating to information. Human Data Interaction (HDI) concerns the way people interact with data. Mortier _et al._  [@mortier2013;@mortier2014] defined the field of HDI without distinguishing data (the digital artifact stored on computer) from information (the facts or assertions that said data can provide when interpreted). This is an important distinction. Originating in library sciences, the parallel field of Human Information Interaction (HII) is well established, and considers the way humans relate to information without regard to the technologies involved [@marchionini2008]. As William Jones observes, these two fields should be examined together [@jones2006]. As DIKW theory highlights (see 2.1), **interpretation of data to obtain information** is a discrete activity. This was borne out in the findings of Case Study Two, where it became clear that participants have distinct needs from data, and from information (5.4.3.2). Access to data **and** information is critical to both understanding and useability, as detailed in section 6.1.2 and 6.1.3.
 
-In considering Human Data Relations, there are in fact three distinct aspects to consider:
+In considering Human Data Relations, there are in fact three distinct artifacts to consider:
 
-1. _data_ - the stored digital artifacts pertaining to users held by organisations for algorithmic processing, copies of which can be obtained using individual data rights.
-2. _information about individuals_ - the collection of facts and assertions about the individual and their life, which are obtained through interpretation (or in some organisations' case, through analytical inference).
-3. _information about data_ (also identified in Table 9 / 5.3.1 as _metadata_) - facts about the data, such as where it has been stored, who has accessed it, how it was collected, or when it has been shared externally.
+1. _data_ - the stored digital artifacts pertaining to users held by organisations for algorithmic processing and human reference, copies of which can be obtained using individual data rights.
+2. _information about individuals_ - the collection of facts and assertions about the individual and their life, which are obtained through human or algorithmic interpretation of stored data (or in some organisations' case, through analytical inference).
+3. _information about data_ (also identified in Table 9 / 5.3.1 as _metadata_) - stored facts about the data, such as where it has been stored, who has accessed it, how it was collected, what it means, or when it has been shared externally.
 
-### The Two Distinct Purposes of Human Data Relations
+### The Two Distinct Motivations for Human Data Relations
 
-By making this distinction between the two types of information which people might interact with and considering the six wants in Chapter 6, it becomes clear that there are two very different reasons why people might want better HDR:
+By making this distinction between the two types of information which people might interact with, and considering the six wants in Chapter 6, it becomes clear that there are two very different reasons why people might want better HDR:
 
-(i) to acquire _information about one's data_, so that one might exert control over and make informed choices about where _the data_ is held and how it is used in order to be treated fairly and gain more control over the use of personal data. This is *Personal Data Ecosystem Control (PDEC)*.
+(i) to acquire _information about one's data_, so that one might exert control over and make informed choices about where _the data_ is held and how it is used, in order to be treated fairly and gain more control over the use of one's personal data. This is *Personal Data Ecosystem Control (PDEC)*.
 
 (ii) to acquire _information about oneself_, so that one might gain insights into one's own behaviour and gain personal benefits from those insights or them to make changes in one's life. This is *Life Information Utilisation (LIU)*.
 
-The two distinct processes that individuals might go through in pursuit of these purposes are exemplified in Figure 29. PDEC is a process of holding organisations to account over and managing _what happens to personal data_, often regardless of what it means, whereas LIU is more concerned with _what the data means_, regardless of where it is stored and how it is used[^13]. The two purposes of HDR are further detailed in [@bowyer2021].
+The two distinct processes that individuals might go through in pursuit of these motives are exemplified in Figure 30. PDEC is a process of holding organisations to account over and managing _what happens to personal data_, often regardless of what it means, whereas LIU is more concerned with _what the data means_ and its inherent value as encoded life information, regardless of where it is stored and how it is used[^13]. The two purposes of HDR are further detailed in [@bowyer2021].
 
-[INSERT DIAGRAM - Figure 29]
+![Figure 30: The Two Motivations for HDR: Controlling your personal data ecosystem and utilising your information about your life, with 'idealised'[^14] processes illustrated](./src/figs/fig30-the-two-motivations-for-hdr.jpg)
 
-[^13]: Of course, there is some overlap; the reason that organisations hold data is so that they can interpret it (usually algorithmically) to inform decision making. In this way, organisations could be seen to be doing LIU for their own benefit. From a human-centric perspective, this grey area is situated as part of PDEC, as from the individual perspective, how organisations understand you through information will inform decisions that affect your life and so is part of the reason why one might want to exert control over data use rather than being part of exploiting data to gain self-insights and personal benefits.
+[^13]: Of course, there is some overlap; the reason that organisations hold data is so that they can interpret it (usually algorithmically) to inform decision making. In this way, organisations could be seen to be doing LIU of service users' lives for their own benefit. From a human-centric perspective, this grey area is situated as part of PDEC, as from the individual perspective, how organisations understand you through information will inform decisions that affect your life. Thus, this can be considered part of the reason why one might want to exert control over use of your data, rather than being part of exploiting data to gain self-insights and personal benefits.
+
+[^14]: The illustrated processes assume reliance on existing data access processes such as GDPR, where the only access is through provision of a copy of one's data. This is in fact, not ideal, as it creates divergent versions and will quickly become out-of-sync, however for the sake of simplicity this inefficiency is ignored here. Improvements upon this approach are explored in [INSERT REF]
 
 #### Life Information Utilisation
 
-Life Information Utilisation is a superset of Self Informatics (SI), as defined in 2.2.3. It includes all purposes relating to self-monitoring and self-improvement through data, but also includes all other uses of personal data including creative expression, evidence gathering, nostalgia, keeping, and sharing. Many of these desires were expressed in Case Study Two (see Table 12 in 5.3.3), and also hinted at in the Early Help context (4.4.1). While the existence of digitally-encoded information clearly unlocks new possibilities, LIU has existed in some form throughout modern civilisation, as seen through analogue processes such as storytelling, journalling, scrapbooking, arts and crafts.
+_Life Information Utilisation_ is a superset of _Self Informatics (SI)_, as defined in 2.2.3. It includes all purposes relating to self-monitoring and self-improvement through data, but also includes all other uses of personal data including creative expression, evidence gathering, nostalgia, keeping, and sharing. Many of these desires were expressed in Case Study Two (see Table 12 in 5.3.3), and also hinted at in the Early Help context (4.4.1). While the existence of digitally-encoded information clearly unlocks new possibilities, LIU has existed in some form throughout human civilisation, as seen through analogue processes such as storytelling, journalling, scrapbooking, arts and crafts.
 
-In the LIU context, the most important wants to focus on improving are Understandability of data (6.1.2) and Useability of data (6.1.3), which relate closely to the HDI concepts of _legibility_ and _agency_ respectively. Obstacles and opportunities for Understandability and Useability will be explored in 7.3.1.1 and 7.3.1.2 respectively.
+In the LIU context, the most important wants to focus on improving are Understandability of data (6.1.2) and Useability of data (6.1.3), which relate closely to the HDI concepts of _legibility_ and _agency_ respectively.
+
+[TODO UPDATE THIS] Obstacles and opportunities for Understandability and Useability will be explored in 7.3.1.1 and 7.3.1.2 respectively.
 
 #### Personal Data Ecosystem Control
 
-Unlike LIU, Personal Data Ecosystem Control is an individual need that is new; arising as a result of the emergence of the data-centric world (2.1, 2.2.4). It was only when organisations began to collect and store facts about people as a substitute for direct communication and involvement that it became necessary. The more data is collected about individuals, and the more parties collect and share that data, the greater the need for individuals to learn about that data so that they might influence its use (or risk their lives being affected in unexpected or potentially unfair ways). PDEC is a direct response to the power imbalance the World Economic Forum described in 2014 [2.1.2;@wef2014lens].
+Unlike LIU, _Personal Data Ecosystem Control_ is an individual need that is new; arising as a result of the emergence of the data-centric world (2.1, 2.2.4). Only when organisations began to collect and store facts about people as a substitute for direct communication and involvement did it become necessary. The more data is collected about individuals, and the more parties collect and share that data, the greater the need for individuals to learn about that data so that they might influence its use (or risk their lives being affected in unexpected or potentially unfair ways). PDEC is a direct response to the power imbalance between data holders and individuals that the World Economic Forum described in 2014 [2.1.2;@wef2014lens].
 
-In the PDEC context, multiple data wants are important: visible data and transparent processes, as well as individual oversight and involvement. For simplicity, the former two wants will be handled collectively as _"Ecosystem Transparency"_, and the latter two as _"Ecosystem Negotiability"_ (drawing on the HDI concept of _negotiability_). Obstacles and opportunities for improving HDR in these two grouped areas will be explored in 7.3.2.1 and 7.3.2.2 respectively.
+In the PDEC context, multiple data wants are important: visible data and transparent processes, as well as individual oversight and involvement. For simplicity, the former two wants will be handled collectively as _"Ecosystem Transparency"_, and the latter two as _"Ecosystem Negotiability"_ (drawing on the HDI concept of _negotiability_).
 
-Answering RQ3: What are the challenges and opportunities?
----------------------------------------------------------
+[TODO UPDATE THIS]
+Obstacles and opportunities for improving HDR in these two grouped areas will be explored in 7.3.2.1 and 7.3.2.2 respectively.
 
-In this section, the third RQ will be addressed: _What challenges and opportunities are relevant when attempting to meet the six wants of human data relations?_ The answers to this question are represented as discretely named ideas: either practical obstacles observed and practical opportunities identified. Within the simplified groupings of wants detailed above, these are conveyed as follows:
+Working in the present to build the future: Obstacles and opportunities
+------------------------------------------------------------------------
+
+[UP TO HERE]
+
+![Figure 31: Trajectories of Change for Better Human Data Relations[^15]](./src/figs/fig31-change-trajectories.jpg)
+
+?_ The answers to this question are represented as discretely named ideas: either practical obstacles observed and practical opportunities identified. Within the simplified groupings of wants detailed above, these are conveyed as follows:
 
 - _Obstacles_ are illustrated through learnings and insights from the projects (7.3.1.1.1, 7.3.1.2.1, 7.3.2.1.1, 7.3.2.2.1)
 - _Opportunities_ are illustrated using conceptual models and design ideas from the projects (7.3.1.1.2, 7.3.1.2.2, 7.3.2.1.2, 7.3.2.2.2)
@@ -135,9 +187,9 @@ In this section, the third RQ will be addressed: _What challenges and opportunit
 [presenting and visualising life information]
 [Alternative Perspectives: temporal, entity-based/relational and geographical exploration] [relate to subjectivity]
 
-#### Useable[^14] Data
+#### Useable[^16] Data
 
-[^14]: The words _'usability'_ and _'usable'_ (spelt without an 'e') most commonly refer to a judgement of the degree to which a website or user interface is easy to use [@nielsen2012]. Throughout this thesis, I deliberately use the alternative word spellings of _'useability'_ and _'useable'_ [@dictUseability; @dictUseable] respectively, to clearly distinguish from this ease-of-use concept and to denote that I am referring a different meaning: the more literal definition, i.e. _"the quality or state of being convenient and practicable for use"_ [@dictUsability; @dictUsable]. Any usages without an 'e' can be taken to refer to the interface ease-of-use concept.
+[^16]: The words _'usability'_ and _'usable'_ (spelt without an 'e') most commonly refer to a judgement of the degree to which a website or user interface is easy to use [@nielsen2012]. Throughout this thesis, I deliberately use the alternative word spellings of _'useability'_ and _'useable'_ [@dictUseability; @dictUseable] respectively, to clearly distinguish from this ease-of-use concept and to denote that I am referring a different meaning: the more literal definition, i.e. _"the quality or state of being convenient and practicable for use"_ [@dictUsability; @dictUsable]. Any usages without an 'e' can be taken to refer to the interface ease-of-use concept.
 
 ##### Obstacles to Data Useability
 
@@ -253,11 +305,6 @@ In this section, the third RQ will be addressed: _What challenges and opportunit
 
 **Data Literacy**.
 [data literacy and rights awareness - you should teach this in schools]. [Rights Inconsistencies]. [Inconsistent and difficult data rights offerings]
-
-A Theory Of Change Perspective on Better Human Data Relations
--------------------------------------------------------------
-
-[the four change quadrants for each of the two purposes. diagrams to work out].
 
 Thesis Conclusion
 -----------------
