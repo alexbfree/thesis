@@ -15,6 +15,8 @@ Context: Accessing Your Personal Data Using Your GDPR Rights
 
 ### The Current Need for Data Access
 
+[TODO add visual on The Types of Personal Data]
+
 As established in 2.1.2 and 2.2.4, people live digital lives, inevitably involving the use of myriad digital services that collect personal data, which is subsequently mined for value and exploited at scale, creating an imbalance of power between data holders and data subjects, and a exclusionary landscape around data use which is difficult for individuals to navigate: having acquired data about individuals, this becomes a focus for service providers' decision-making and customer relations become less important. This everyday context is the chosen research setting for this case study.
 
 Section 2.1.4 established how unaware many people are of this imbalance around data, that there is a want[^11] for effective access to data to restore individual agency. As described in section 2.1.3, policymakers have been attempting since the 1970s to introduce legislation to tilt the balance of power back towards individuals, most recently and most notably the European Union's General Data Protection Regulation, which legally endows at least 513 million individuals[^12] with new rights to timely data access, explanation, erasure and correction [@ico2018].
