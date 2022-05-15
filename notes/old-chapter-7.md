@@ -7,7 +7,7 @@ In this chapter we bring together the findings of chapters 4 & 5 & 6, to answer 
 ### The Power of Data holders
 [Target X words]
 
-- Looking at gaining agency as shifting the locus of decision Making in a relationship.
+- Looking at gaining agency as shifting the locus of decision-making in a relationship.
 - Introduce and reference some models of power/data-power
   - Foucault
   - Zuboff

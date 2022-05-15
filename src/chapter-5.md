@@ -181,7 +181,7 @@ Beyond the data that participants had directly volunteered (see Table 9), most d
 _"The bit that concerns me is where I don't know what data is being taken by companies. If I'm registering for a library or something, I know [what] data I'm giving to them, but what I don't know is all the other stuff that they're recording"_--P9
 
 Participants were equally unaware of what holders might infer from the data they had collected. P4 wondered if Philips could use data from his smart home lighting to deduce his sleep and TV-watching routines. P7 had received targeted advertisements relating to pregnancy that she felt weird about because she did not understand why she had been targeted in this way.
-P5 raised concern about how data inferences could affect decision making, surmising that the data holder had greater power than him because _"they're making decisions about things and you don't know how they're making those decisions"_. Sharing of personal data is also insufficiently visible to participants; two participants (P3,P4) targeted GDPR requests to credit-check websites (Credit Karma, CheckMyFile) - P4 wanted to get _"a picture of what other companies can currently expose"_.
+P5 raised concern about how data inferences could affect decision-making, surmising that the data holder had greater power than him because _"they're making decisions about things and you don't know how they're making those decisions"_. Sharing of personal data is also insufficiently visible to participants; two participants (P3,P4) targeted GDPR requests to credit-check websites (Credit Karma, CheckMyFile) - P4 wanted to get _"a picture of what other companies can currently expose"_.
 
 #### Non-Compliance without Consequence
 

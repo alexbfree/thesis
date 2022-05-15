@@ -1,4 +1,4 @@
-Discussion themes: 
+Discussion themes:
 The Value of Involving People With Their Data
 
 serving RQ1 - the human experience of data (2.1.5)
@@ -10,7 +10,7 @@ Effective Data Access Requires Human Interaction
 effective access (2.1.4)
 HDI legibility (2.3.2)
 
-Shifting the Locus Of Decision Making: Implications
+Shifting the Locus Of Decision-making: Implications
 
 serving RQ2, data in relationships (2.2.5)
 sciotechnical level (2.3.3)
@@ -30,7 +30,7 @@ annote = {Much of what is called big data in the commercial realm relies on form
 people imagine data in very different ways. Understanding this key fact about data helps us understand why so-called ‘‘big data'' solutions to health care are so dif- ficult to implement in practice. Doctors, patients, and health- care entrepreneurs all value data in very different ways},
 author = {Neff, Gina},
 doi = {10.1089/big.2013.0029},
-file = {:Users/b6069620/OneDrive - Newcastle University/papers/use of data in decision making and in care/big.2013.0029.pdf:pdf},
+file = {:Users/b6069620/OneDrive - Newcastle University/papers/use of data in decision-making and in care/big.2013.0029.pdf:pdf},
 issn = {2167-6461},
 journal = {Big Data},
 mendeley-groups = {OpenLab/!IJHCS 2019 Paper/use of data in care,OpenLab/!!!thesis/chapter 4},
