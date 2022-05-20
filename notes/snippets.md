@@ -23,3 +23,11 @@ Table: Table 16. **Trajectories of change for improving Human Data Relations**.
 |5. Defending digital rights & current HDR capabilities|CE|
 
 [^17]: Quadrant shorthand: II = Individual/Internal, IE = Individual/External, CI = Collective/Internal, CE = Collective/External
+
+--
+
+bit from 7.2.3.1 / 7.2.3.2
+
+[TODO UPDATE THIS] Obstacles and opportunities for Understandability and Useability will be explored in 7.3.1.1 and 7.3.1.2 respectively.
+[TODO UPDATE THIS]
+Obstacles and opportunities for improving HDR in these two grouped areas will be explored in 7.3.2.1 and 7.3.2.2 respectively.
