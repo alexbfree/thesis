@@ -6,7 +6,7 @@ Discussion II: Designing and Pursuing Better Human Data Relations {#chapter-7}
 Introduction & Background
 ----------------
 
-Through the Case Studies (Chapter 4 & 5) and the discussion in Chapter 6, a clear understanding of what people want from direct and indirect data relations (RQ1 & RQ2) has been established. In this chapter, we turn our attention from theory to practice, from what is needed to *what is possible*. Specifically, this chapter will return to the overall research question _"What relationship do people need with their personal data, and how might that be achieved?"_ and look specifically at its second clause. This chapter aims to provide a roadmap for future research and innovation. This roadmap is not intended to be complete nor exhaustive; it is a snapshot of ongoing work, identified challenges and known opportunities, forming an *anthology of reference material* for designers and innovators in this space. The ideas in this chapter are illustrated with real world insights and activities from the four industrial and academic research projects I was part of as well as the work of other innovators and activists, and builds upon the theoretical insights from the Case Studies, in order to inform the design of future research, innovation and policy as to how the better Human Data Relations conceived in this thesis thus far, might be achieved.
+Through the Case Studies (Chapter 4 & 5) and the discussion in Chapter 6, a clear understanding of what people want from direct and indirect data relations (RQ1 & RQ2) has been established. In this chapter, we turn our attention from theory to practice, from what is needed to *what is possible*. Specifically, this chapter will return to the overall research question _"What relationship do people need with their personal data, and how might that be achieved?"_ and look specifically at its second clause. This chapter describes practical approaches for future research and innovation. This is not intended to form a complete or exhaustive roadmap; it is a snapshot of ongoing work, identified challenges and known opportunities, forming an *anthology of reference material* for designers and innovators in this space. These ideas are illustrated through real world insights and activities from the four industrial and academic research projects I was part of, and from the work of other innovators and activists. This chapter also builds upon the theoretical insights from the Case Studies in order to inform the design of future research, innovation and policy as to how the better Human Data Relations conceived in this thesis thus far might be achieved.
 
 The approach this chapter takes is to name and illustrate what challenges and opportunities are relevant when attempting to bring about changes in the world that would bring people closer to the six HDR wants that this thesis has uncovered. There are many aspects to such a wide-reaching objective: technical, design, commercial, legal, moral, social and political and this chapter does not pretend to cover them all nor to be formal empirical research. However I have been fortunate to have undertaken, during the same time period as I have been working on this PhD but outside of the research, direct embedded work in personal data interaction related projects (3.4.3) in academic and industrial research that directly contribute to the question of how to bring about better human data relations in practice.
 
@@ -15,6 +15,8 @@ In section 7.1.1 these external activities are described; they form a primary po
 In section 7.1.2, I explain some important context about the nature of the ideas presented in this chapter and how to attribute them fairly.
 
 In section 7.1.3, I introduce some additional background on _Theories of Change (ToC)_, which are used as a framing device for structuring the insights described in the main body of this chapter into a series of different possible trajectories for change.
+
+In section 7.1.4, I consider the researcher-turned-activist stance that drives this chapter, framing the pursuit of better HDR as a _recursive public_.
 
 In section 7.2, to provide deeper context for what follows, the concept of HDR is expanded to identify some additional insights into how people relate to data, and an important dichotomy of two distinct drivers that motivate people's needs for better relations with their data.
 
@@ -33,7 +35,7 @@ The majority of examples and learnings shared in this chapter come from my parti
 
 In addition, my participation as an interface designer and front-end software developer in the following two academic research projects contributes secondarily to this chapter:
 
-3. **Connected Health Cities (CHC)'s SILVER Project**, where I, along with a backend developer and a team of researchers, developed a health data viewing interface for Early Help support workers (see 3.4.3.1).
+3. **Connected Health Cities (CHC)'s SILVER Project**, where I, along with a backend developer and a team of researchers, developed a prototype health data viewing interface for Early Help support workers (see 3.4.3.1).
 4. **Digital Economy Research Centre (DERC)'s Healthy Eating Web Augmentation Project**, which explored the use of web augmentation techniques to modify the user interface of takeaway service Just Eat to insert health information, in support of healthy eating (see 3.4.3.2).
 
 ### Attribution of Insights
@@ -50,7 +52,7 @@ Due to these collaborations and the ongoing and parallel nature of many of these
 
 ### Theories of Change
 
-To provide a structure for cataloguing the insights conveyed by this chapter, I use a _Theory of Change (ToC)_ framing. ToC is a set of methodologies is commonly used by philanthropists, educators and those trying to improve the lives of disadvantaged populations [@brest2010]; the theories can be used in different ways including planning, participatory design and field evaluation of the effectiveness of new initiatives. There are many different implementations, but common to most of them is a focus on explicitly mapping out desired outcomes [@taplin2012] with a clear focus on who is acting and whether the change being brought about is a change in action, or a change in thinking [@vanEs2015]. In this chapter, ToC theory will be used in a very limited way, to provide a structural frame for proposed changes, as described below. Using ToC to perform evaluation of the effectiveness of proposed change approaches in action in society would be well beyond the scope of this thesis. Nonetheless, this frame is a useful way to map out the different approaches to changing the world in pursuit of the ideal of better HDR.
+To provide a structure for cataloguing the insights conveyed by this chapter, I use a _Theory of Change (ToC)_ framing. ToC is a set of methodologies is commonly used by philanthropists, educators and those trying to improve the lives of disadvantaged populations [@brest2010]; the theories can be used in different ways including planning, participatory design and field evaluation of the effectiveness of new initiatives. There are many different implementations, but common to most of them is a focus on explicitly mapping out desired outcomes [@taplin2012] with a clear focus on who is acting and whether the change being brought about is a change in action, or a change in thinking [@vanEs2015]. In this chapter, ToC theory will be used in a very limited way, not as a methodology but simply to provide a structural frame for proposed changes, as described below. Using ToC to perform evaluation of the effectiveness of proposed change approaches in action in society would be well beyond the scope of this thesis. Nonetheless, this frame is a useful way to map out the different approaches to changing the world in pursuit of the ideal of better HDR.
 
 ![Figure 29: The Four Dimensions of Change[^17]](./src/figs/fig29-dimensions-of-change.png)
 
@@ -61,12 +63,12 @@ Figure 29 illustrates the aspects of ToC thinking that section 7.3 will use as i
 - _**Internal changes**_: changes in thinking, feeling, reasoning, understanding, attitudes or identity.
 - _**External changes**_: changes in actions, behaviour, interactions, structure, policy, technological capability, processes and the external environment.
 
-Similarly, desired changes can also be broken down into:
+At the same time, desired changes can be broken down into:
 
 - _**Individual changes**_: changes to individual thought or actions
 - _**Collective changes**_: changes to the thoughts or actions of groups of people together, or to the systems, practices and norms of society at large.
 
-These four dimensions of change form four quadrants representing different types of change, as shown in Figure 29:
+These two splits produce four dimensions of change, and form four quadrants representing different types of change, which are shown in Figure 29 and described here:
 
 - _**Individual/Internal (II)**_: This top-left quadrant represents changes to what individuals know and understand, and to how they think, feel and plan to take action.
 - _**Individual/External (IE)**_: This top-right quadrant represents changes to how individuals' relationships with others; acting (or being enabled to act) differently in their daily lives and when interacting within society.
@@ -74,6 +76,14 @@ These four dimensions of change form four quadrants representing different types
 - _**Collective/External (CE)**_: This bottom-right quadrant represents changes to the structures and procedures within which people operate, including technology, law, societal norms and communications.
 
 Key to ToC thinking is the idea that making changes in one quadrant can stimulate change in others; for example, collective learning about data attitudes and practices, such as the research conducted in this PhD, (lower left quadrant) could inform the design of new technologies, interfaces or processes (lower right quadrant), which if built could make new structures available to have an impact on improving individual-provider relationships (upper-right quadrant). The changes to those relationships could then in turn lead to individuals thinking and feeling differently (upper left quadrant), for example feeling more empowered or having greater awareness of data practices.
+
+### Better Human Data Relations as a Recursive Public
+
+Before engaging with the practicalities of pursuing change, it is valuable to revisit the stance from which we approach this change. As outlined in 3.2, the research of this PhD has been grounded in participatory action research and experience-centred design; by using a Digital Civics [@vlachokyriakos2016] frame to gain deep understanding of people's needs and the ways those needs are not fully met, we can see how the world needs to change. Section 3.2 already outlined that we can consider such research as political, seeking to correct an imbalance in the world. In this chapter, we look beyond identifying what change is needed, and step into the role of activist, exploring how individuals and groups can actually change the world they inhabit.
+
+In doing so, we can consider ourselves (those who pursue better Human Data Relations) as a _recursive public_ [@kelty2008;@p2pwikiRecursivePublic], albeit a nascent one. This is a term originating in the free software movement to describe a _"collective, independent of other forms of constituted power, capable of speaking to existing forms of power through the production of actually existing alternatives"_. This term captures the idea that through various means at our disposal: participatory research, experience-centred design, engineering software prototypes, exertion of legal rights, and efforts to raise public awareness, we seek to modify the systems and practices we live within in pursuit of our goals. This collective around better Human Data Relations does not yet exist as a named and identifiable _public_ [@ledantec2016] but its members congregate around emergent collectives in interconnected and overlapping spaces, most notably the MyData community [@mydata2017declaration] and its members, but also research and activism agendas including but not limited to: digital rights [@openRightsGroup], gig economy worker rights [@kirven2018], privacy by design [@cavoukian2010], data justice [@taylor2017;@crivellaro2019], critical algorithm studies [@gillespie2016], humane technology [@harris2013] and explainable AI [@explainableAI].
+
+Whether these disparate groups coalesce into a single identifiable public remains to be seen, and so too whether the term this thesis offers of _Human Data Relations_ is sufficient to capture that public (at least, it provides a descriptive umbrella term). Nonetheless, the breadth of research and innovation and activism happening in this space validates both the need and the desire for such a recursive public around better HDR to exist. Therefore, this chapter takes an unashamedly critical view of the status quo, favouring disruptive societal changes that would further the objectives of better Human Data Relations and providing actionable approaches that will be of use to the members of this public. The chapter asks, "How can we change the world into the one we want?"
 
 Expanding the Concept of Human Data Relations
 ---------------------------------------------
@@ -89,28 +99,28 @@ Table: Table 15. **Eight lenses on data**.
 | Way of thinking about data | Explanation & Implications |
 |:--------|:---------------------------------------------------|
 |Data as property|Data can be considered as a possession. This highlights issues of ownership, responsibility, liability and theft.|
-|Data as a source of knowledge about you|Knowing that data contains encoded assertions about you and can be used to derive further conjectures, enables thinking about how it might be exploited by others, but also how you can use it yourself for reflection, self-improvement and planning. It invites consideration of the right to access, data protection, and issues around accuracy, fairness and misinterpretation / misuse.|
+|Data as a source of information about you|Knowing that data contains encoded assertions about you and can be used to derive further conjectures enables thinking about how it might be exploited by others, but also how you can explore and use it yourself for reflection, asking questions, self-improvement and planning. It invites consideration of the right to access, data protection, and issues around accuracy, fairness and misinterpretation / misuse.|
 |Data as part of oneself|A photo or recording of you, or a typed note or search that popped into your head could be deeply personal. This lens on data highlights issues around emotional attachment/impact, privacy, and ethics.|
 |Data as memory|Data can be considered as an augmentation to one's memory, a digital record of your life. This lens facilitates design thinking around search and recall, browsing, summarising, cognitive offloading, significance/relevance, and the personal value of data.|
 |Data as creative work|Some of the data we produce (e.g. writing, videos, images) can be considered as an artistic creation. This lens enables thinking about attribution, derivation, copying, legacy and cultural value to others.|
 |Data as new information about the world|Data created by others can inform us about previously unknown occurrences in our immediate digital life or the wider world. This lens is useful for thinking about discovery, recommendations, bias, censorship, filter bubbles, and who controls the information sources we use, as well as who will see and interpret data that we generate and what effects our data has on others.|
 |Data as currency|Many data-centric services require data to be sacrificed in exchange for access to functionality, and some businesses now explicitly enable you to sell your own data. This lens highlights that data can be thought of as a tradable asset, and invites consideration of issues of data's worth, individual privacy, exploitation and loss of control.|
-|Data as a medium for thinking, communicating and expression|Some people collect and organise their data into curated collections, or use it to convey facts, ideas, to persuade or to evoke an emotional impact. This lens is useful to consider data uses such as lists, annotation, curation, editing, remixing, and producing different views of data for different audiences.|
+|Data as a medium for thinking, communicating and expression|Some people collect and organise data into curated collections, or use it to convey facts and ideas, to persuade or to evoke an emotional impact. This lens is useful to consider data uses such as lists, annotation, curation, editing, remixing, visualisation and producing different views of data for different audiences.|
 
 When considering HDR, it is important to recognise that people may think of their personal data through any or all of these _'lenses'_ [@karger2005;2.2.2] at any given time, and any process or system design involving data interaction should take these into account.
 
 Looking across this set of lenses, it is possible to identify four specific roles that data can serve:
 
 1. Data has a role as an **artifact of value** to your life;
-2. Data has a role in **informing** you about yourself, the world, and the actions of others that may affect you;
+2. Data has a role in **informing** you about yourself, the world, and the prior or recent actions of others that may affect you;
 3. Data has a role as **a usable material with which to effect change** in your life;
-4. Data has a role as **a means to monitor** data holders' behaviours, digital influences upon you and changes within your life.
+4. Data has a role as **a means to monitor changes** in data holders' behaviours, digital influences upon you or changes within your life.
 
 ### Human Data Interaction or Human Information Interaction?
 
-To unpack HDR further, it is important to highlight the difference between humans relating to data, and humans relating to information. Human Data Interaction (HDI) concerns the way people interact with data. Mortier _et al._  [@mortier2013;@mortier2014] defined the field of HDI without distinguishing data (the digital artifact stored on computer) from information (the facts or assertions that said data can provide when interpreted). This is an important distinction. The parallel field of Human Information Interaction (HII) originated in library sciences, and considers the way humans relate to information without regard to the technologies involved [@marchionini2008]. As William Jones and colleagues observed when calling for the establishment of a field of HII in an HCI context[^14], it is important to recognise the inter-relatedness of information interaction and digital interactivity [@jones2006]. DIKW theory (see 2.1) highlights that **interpretation of data to obtain information** is a discrete activity. This was borne out in the findings of Case Study Two, where it became clear that participants have distinct needs from data, and from information (5.4.3.2). Access to data **and** information is critical to both understanding and useability, as detailed in section 6.1.2 and 6.1.3.
+To unpack HDR further, it is important to highlight the difference between humans relating to data, and humans relating to information. Human Data Interaction (HDI) concerns the way people interact with data. Mortier _et al._  [@mortier2013;@mortier2014] defined the field of HDI without distinguishing data (the digital artifact stored on computer) from information (the facts or assertions that said data can provide when interpreted). This is an important distinction. The parallel field of Human Information Interaction (HII) originated in library sciences, and considers the way humans relate to information without regard to the technologies involved [@marchionini2008]. William Jones _et al._ called for a new sub-field of HII in an HCI context[^14], observing that it is important to include a focus on information interaction because HCI can _"unduly focus attention on the computer when, for most people, the computer is a means to an end – the effective use of information"_ [@jones2006]. DIKW theory (see 2.1) highlights that **interpretation of data to obtain information** is a discrete activity. This was borne out in the findings of Case Study Two, where it became clear that participants have distinct needs from data, and from information (5.4.3.2). Access to data **and** information is critical to both understanding and useability, as detailed in section 6.1.2 and 6.1.3.
 
-[^14]: The group of HCI researchers behind this publication were at the time apparently unaware of the existing HII field in library sciences.
+[^14]: The group of HCI researchers involved in this panel were (with the exception of Raya Fidel) seemingly unaware of the existing HII field in library sciences as they positioned the publication as a call for a 'new field'.
 
 Drawing on this theory, we can see then that in considering Human Data Relations, there are in fact three distinct artifacts to consider:
 
@@ -146,7 +156,6 @@ Unlike LIU, _**Personal Data Ecosystem Control**_ is an individual need that is 
 
 In the PDEC context, multiple data wants are important: visible data and transparent processes, as well as individual oversight and involvement. For simplicity, the former two wants can be referred to collectively as _"ecosystem transparency"_, and the latter two as _"ecosystem negotiability"_ (drawing on the HDI concept of _negotiability_), and these terms will be used below.
 
-
 Working in the present to build the future: Obstacles and opportunities
 ------------------------------------------------------------------------
 
@@ -159,159 +168,107 @@ In Figure 31, the ToC frame introduced above in 7.1.3 / Figure 29 is used as a c
 - _**Influence & Motivate**_ (IE): In this quadrant, individuals' relationships with data and with data holders, as well as data holders and policymakers' relationships, can improved. For us, as external actors seeking change, the task is to influence the many parties by showcasing and facilitating newly created structures and capabilities, and to harness our new collective knowledge to advocate the benefits of changing data-related behaviours.
 - _**Educate & Empower**_ (II): In this quadrant, individuals ways of thinking about data and data holders grow and evolve towards a state we could call 'feeling empowered'. This change is driven through education, improving Human Data Relations literacy, and through the experience of new capabilities and changed relationships with data and with data holders that can empower individuals to hold a more aware and equitable position in those relationships and in their digital life.
 
+[TODO: do we need a summary diagram here?]
+
+### Learn & Discover
+
+#### Obstacle: A Complex and Invisible Ecosystem
+
+[goal: greater awareness of unknown and also of hidden practices, understand issues with data better]
+[discovery and learning about data ecosystem and HDR]
 
 
 
-?_ The answers to this question are represented as discretely named ideas: either practical obstacles observed and practical opportunities identified. Within the simplified groupings of wants detailed above, these are conveyed as follows:
+#### Opportunity: Collective Discovery & Investigation
 
-- _Obstacles_ are illustrated through learnings and insights from the projects (7.3.1.1.1, 7.3.1.2.1, 7.3.2.1.1, 7.3.2.2.1)
-- _Opportunities_ are illustrated using conceptual models and design ideas from the projects (7.3.1.1.2, 7.3.1.2.2, 7.3.2.1.2, 7.3.2.2.2)
+[co-ordinated exertion of rights - data response comparison - deducing data practices][e.g. commonalities of data responses. differences between users [e.g. gigantti] etc.]
 
-### Challenges and Opportunities in Life Information Utilisation
+#### Opportunity: Auditing Data Holders
 
-#### Understandable Data
+[things like tracker control - collecting signals of our own]
+[consent logs, questioning legal basis]
 
-##### Obstacles to Data Understandability
+#### Obstacle: Trapped Data
 
-**Unrelatable data**.
-[Meaningfulness / relatability -> relate it to people/places/events] [Context - Life - > need life interfaces]
+[Trapped Data. [Trapped Data -> Force unlocking of data through technical means or regulatory influence]]
 
-**Lack of Legibility**.
-[Information within Data -> Lack of Visualisations and Tools] [Complexity -> common formats/abstractions/summarisations]
+#### Opportunity: Tapping the Seams
 
-**The Personal Data Diaspora**.
-[Scatteredness -> holistic/unification, place to centralise] [My data is everywhere I am nowhere]
+[exploiting the seams to get at the data - going beyond data portals]
 
-##### Improving Data Understandability
+#### Opportunity: Bootstrap The 'Data Understanding' Industry
 
-**Unified Life Information Storage**.
-[Use standards & semantics to convert data to life information]. [Personal data Stores as place to put stuff] [Data Trusts]
+### Defend & Create
 
-**Meaning Extraction Software**.
-[Build systems to extract meaning - interpreting and combining signals] [Semantic/content analytics]
+#### Obstacle: The Technological Hegomony / A Provider-Centric Ecosystem where Agency Diminishes
 
-**Life Information Interfaces**.
-[presenting and visualising life information]
-[Alternative Perspectives: temporal, entity-based/relational and geographical exploration] [relate to subjectivity]
+#### Insight: The Four Levers of Power
 
-#### Useable Data
+#### Opportunity: Taking Back Power in the Browser
 
+#### Opportunity: Ecosystem Detection and Visualisation
 
+#### Insight: Data with Provenance
 
-##### Obstacles to Data Useability
+[ref Wilson/Mike, lindley file biographies, the guitar]
 
-**Trapped Data**.
-[Trapped Data -> Force unlocking of data through technical means or regulatory influence]
+#### Obstacle: Unrelatable Data and a Lack of legibility
 
-**Integration Challenges**.
-[Integration challenges -> Need to be able to bring data together and connect and combine]
+#### Opportunity: Life Information interfaces
 
-**Lack of Malleability**.
-[Lack of malleability -> need to be able to slice/group/view from different perspectives]
+#### Opportunity: Algorithmic Meaning Extraction
 
-**Inability to Investigate**.
-[inability to investigate -> enable questions, comparisons, investigations etc]
+[ref content analytics, entity identification, etc]
 
-##### Improving Data Useability
+#### Obstacle: Information that is insufficiently interrogable or malleable
 
-**Exploratory Actions & Asking Tools**.
-[supporting useful actions on data - filtering, referencing, cross referencing, conjecturing/whatiffing - data action verbs]
-[asking tools rather than answers or insights]
+#### Insight: Life Information as Material
 
-**Life Information as Material**.
-[data as material, interface features as tools to use that material] [an information operating system]
+#### Opportunity: From PIM & SI capabilities to Exploratory Actions and Asking Tools
 
-**PIM & SI capabilities**.
-[supporting appropriation, annotation, organisation, curation, use & re-use] [reference 2.2.2 , including adaptability, re-use, etc]
-[Reflection & Goals] [support goal setting, tracking and reflection]
+#### Obstacle: The Personal Data Diaspora
 
-#### Other Factors in Life Information Utilisation
+#### Opportunity: Unified Life Information storage
 
-**Motivation**.
-[Motivation -> Showing the potential]
+[PDS/A place for data, and more specifically for information]
 
-**Effort**.
-[Effort -> doing as much as possible automatically, conjecture and assertion over blank pages. training rather than meticulous instructution.]
+#### Obstacle: The Datafication of the Self / The Inaccessible Data Self
 
-**Ecosystem Transparency**.
-[how the other wants fit in, visibility as it pertains to Life info, transparency/oversight/involvement etc]
+#### Opportunity: Self profiling
 
-**Agency & Ecosystem Negotiability**.
-[agency over trapped data (by tech or by companies (lead into next)]
+[also mention co stewardship]
 
-### Challenges and Opportunities in Personal Data Ecosystem Control
+#### Obstacle: Proprietary, Incompatible Silos
 
-#### Ecosystem Transparency
+#### Obstacle: Delay
 
-##### Obstacles to Ecosystem Transparency
+#### Opportunity: Rivers of Information / Inclusive Information flows
 
-**Introspective Practices**.
-[hidden data and closed processes -> closed by default thinking -> encourage or legislate for openness.. e.g. data portability/access rights, rights to explanatione etc, but more needed]
+### Influence & Motivate
 
-**Proprietary, Incompatible Silos**.
-[silos and motives towards closed proprietary systems -> highlight the pains]. [lack of standards, motivations against interoperability -> motivate standards and unconver opportunities for interoperability]
+#### Opportunity: Regulating the Information Landscape
 
-**Ecosystem Complexity**.
-[complex data ecosystems, adtech]
+#### Opportunity: Information Unification and Schematisation
 
-**A Lack of Metadata**.
-[lack of information *about* our data -> awareness and accountability even where access is difficult -> ] [show metadata diagram]
+[unifying information, schema, standards]
 
-##### Improving Ecosystem Transparency
+#### Obstacle: Introspective Practices & Resistance to Change/openness
 
-**Transparency through Regulation**.
-[regulation - forcing openness transparency and interop. DSA ? ] [standards for data access - technical standards could make compliance easier to judge too]
+#### Opportunity: Data as Boundary Object, Multistakeholder Design
 
-**Ecosystem Mapping & Visualisation**.
-[ecosystem visualisation and overviews]
+#### Opportunity: Demonstrating Business Advantages for Transparency and Human-Centricity
 
-**Collective Investigations**.
-[collectives - as a means to compare and see more]
+### Educate & Empower
 
-**Tap the Seams**.
-[exploiting the seams - the battle for the seams]
+#### Life Information literacy
 
-**Bootstrap 'Data Understanding' Innovation**.
-[standards creation and the benefits of enabling a 'data understanding' industry]
+#### Personal Data Ecosystem Literacy
 
-#### Ecosystem Negotiability
+#### Opportunity: Individual Discovery: Mapping Your Personal Data Ecosystem
 
-##### Obstacles to Ecosystem Negotiability
-
-**The Datafication of the Self**.
-[data self affects you but cannot see (proxy for involvement, unseen inferences etc)- > find a way to produce better digital selves]. [brings in LDM etc].
-
-**The Technological Hegemony**.
-[structural power, resource control, centralisation etc -> uneven landscape -> awareness as first step and systemic change needed to change. ]
-
-**Digital Landscape Manipulation**.
-[the four levers of infrastructural power. accumulation of info/surveillance as power. changing available information/actions as power]
-[Controlling the landscape of what is knowable, and what is do-able -> recognise the importance of free information landscapes, and make them happen through tech or through regulation]
-
-##### Improving Ecosystem Negotiability
-
-**Regulating the Information Landscape**.
-[-> better policies to protect the information landscape? DSA.]
-
-**Unionisation**.
-[collectives, as a means to ask collectively /demand change, supported by policy (uber, ref GDPR guidelines?)]
-
-**Self-Profiling**
-[better digital selves -> people as source of data. profiles and curated as better representation of self, ref past calls in C4&5 for stewardship, user-contributed data etc] [Can also hint at VRM style declarations] [Better data, which you control; but also less uncontrollable effects]
-
-**Taking Back Power in the Browser**.
-[-> exploiting the seams in order to produce new information presentations... ref JE paper (+colin?) -> web aug, firefox containers. Taking Back Power In The Browser, resist moves to apps]
-
-**Free Information Landscapes**.
-[the battle for landscape control - RSS, API, 3P interfaces, etc, Defending The Seams And Protecting Interface Freedom]. [information surfaces]. [reclamation and repurposing]
-
-#### Other Factors in Personal Data Ecosystem Control
-
-**Inclusive Information Flows**.
-[Feeds and flows that loop in the data subject (default not opt in)] [Delay] [Lack of up to date insights / delay]. [Rivers of Information]
-
-**Data Literacy**.
-[data literacy and rights awareness - you should teach this in schools]. [Rights Inconsistencies]. [Inconsistent and difficult data rights offerings]
+[also participatory research in general]
+[interface design - lived experience - impacts on trust - data & ecosystem literacy - information and rights self-use.. PI pursuit] [ using GDPR ].
+[purposefully brief]
 
 Thesis Conclusion
 -----------------
