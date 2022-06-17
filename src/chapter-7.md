@@ -156,8 +156,81 @@ Unlike LIU, _**Personal Data Ecosystem Control**_ is an individual need that is 
 
 In the PDEC context, multiple data wants are important: visible data and transparent processes, as well as individual oversight and involvement. For simplicity, the former two wants can be referred to collectively as _"ecosystem transparency"_, and the latter two as _"ecosystem negotiability"_ (drawing on the HDI concept of _negotiability_), and these terms will be used below.
 
-Working in the present to build the future: Obstacles and opportunities
-------------------------------------------------------------------------
+Obstacles to Better Human Data Relations and Resulting Insights
+---------------------------------------------------------------
+
+I have identified the following high level obstacles to better HDR:
+
+[Add diagram here]
+
+### Data Awareness & Understanding
+
+##### Obstacle 1: Data Legibility
+
+People struggle to relate to data. It is not relatable because it is complex, not presented as meaningful information, and not easily interpretable as information. They lack tools to gain insights.
+
+#### Insight 1: Life Information Makes Data Relatable
+
+When data is transformed into information that can be related back to moments, people, places or relationships in people's lives, it becomes instantly relatable.
+
+#### Obstacle 2: The Personal Data Diaspora
+
+Every individual's personal data is scattered across multiple providers, devices, apps, held by hundreds of third parties. The complexity of a modern day digital life is unmanageable and overwhelming. People are inevitably ignorant of much of their data and its use. This can lead to resignation and apathy.
+
+#### Insight 2: Ecosystem Information is an antidote to Digital Life Complexity
+
+No matter how understandable the data itself is, it is also critical that people can acccess information about their data ecosystem. Without this, there will always be aspects of their data that are beyond their awareness or beyond the reach of what they can access, control or manage.
+
+### Data Useability
+
+#### Obstacle 3: Data isn't free
+
+Almost all data is constrained in some way, limiting its useability. It may be held by a particular provider and inaccessible. It may be stored in a format which is hard to use or change. It may only be visible after a delay. It may be unchangeable.
+
+#### Obstacle 4: Data that is Unmalleable and Non-Interrogable
+
+#### Insight 3: Life Information as a Material
+
+### Ecosystem transparency
+
+#### Obstacle 5: A Complex and Invisible Data Ecosystem
+
+#### Obstacle 6: A Lack of Metadata
+
+#### Insight 4: Data with Provenance
+
+### Ecosystem negotiability
+
+#### Obstacle 7: Provider Hegemony
+
+#### Insight 5: The Four Levers of Power
+
+#### Obstacle 8: Closed, Insular and Introspective Practices
+
+#### Obstacle 9: A Trend of Actively Diminishing Individuals' Agency
+
+#### Insight 6: The Inaccessible Data Self
+
+### General Human Challenges
+
+#### Obstacle 10: A lack of demand and HDR motivation
+
+#### Insight 7: New Life Capabilities
+
+#### Obstacle 11: Digital Life Management is hard work
+
+#### Insight 8: Always Serve a Need
+
+### General Technical challenges
+
+#### Obstacle 12: A lack of Interoperability
+
+#### Obstacle 13: Insufficient machine understanding of human data
+
+#### Insight 9: The Power of Semantic Analysis and Information Standards
+
+Working in the present to build the future: Current Work & Future Opportunities
+-------------------------------------------------------------------------------
 
 ![Figure 31: ToC chart showing Trajectories of Change for improving Human Data Relations](./src/figs/fig31-change-trajectories.jpg)
 
@@ -172,103 +245,55 @@ In Figure 31, the ToC frame introduced above in 7.1.3 / Figure 29 is used as a c
 
 ### Learn & Discover
 
-#### Obstacle: A Complex and Invisible Ecosystem
+#### Opportunity 1: Auditing Data Holders
 
-[goal: greater awareness of unknown and also of hidden practices, understand issues with data better]
-[discovery and learning about data ecosystem and HDR]
+#### Opportunity 2: Collective Investigation
 
-
-
-#### Opportunity: Collective Discovery & Investigation
-
-[co-ordinated exertion of rights - data response comparison - deducing data practices][e.g. commonalities of data responses. differences between users [e.g. gigantti] etc.]
-
-#### Opportunity: Auditing Data Holders
-
-[things like tracker control - collecting signals of our own]
-[consent logs, questioning legal basis]
-
-#### Obstacle: Trapped Data
-
-[Trapped Data. [Trapped Data -> Force unlocking of data through technical means or regulatory influence]]
-
-#### Opportunity: Tapping the Seams
-
-[exploiting the seams to get at the data - going beyond data portals]
-
-#### Opportunity: Bootstrap The 'Data Understanding' Industry
+#### Opportunity 3: A 'Data Understanding' Industry
 
 ### Defend & Create
 
-#### Obstacle: The Technological Hegomony / A Provider-Centric Ecosystem where Agency Diminishes
+#### Defending the Status Quo and Pushing Back
 
-#### Insight: The Four Levers of Power
+##### Opportunity 4: Tapping and Monitoring The Seams
 
-#### Opportunity: Taking Back Power in the Browser
+#### Creating New Structures and Systems
 
-#### Opportunity: Ecosystem Detection and Visualisation
+##### Opportunity 5: A central home for your personal data
 
-#### Insight: Data with Provenance
+##### Opportunity 6: Algorithmic Meaning Extraction
 
-[ref Wilson/Mike, lindley file biographies, the guitar]
+#### Creating New Information Interfaces
 
-#### Obstacle: Unrelatable Data and a Lack of legibility
+##### Opportunity 7: Life Information interfaces
 
-#### Opportunity: Life Information interfaces
+##### Opportunity 8: Ecosystem Detection & Visualisation
 
-#### Opportunity: Algorithmic Meaning Extraction
+##### Opportunity 9: Information Flows
 
-[ref content analytics, entity identification, etc]
+#### Creating New Information Capabilities
 
-#### Obstacle: Information that is insufficiently interrogable or malleable
+##### Opportunity 10: Exploratory Actions & Asking Tools
 
-#### Insight: Life Information as Material
-
-#### Opportunity: From PIM & SI capabilities to Exploratory Actions and Asking Tools
-
-#### Obstacle: The Personal Data Diaspora
-
-#### Opportunity: Unified Life Information storage
-
-[PDS/A place for data, and more specifically for information]
-
-#### Obstacle: The Datafication of the Self / The Inaccessible Data Self
-
-#### Opportunity: Self profiling
-
-[also mention co stewardship]
-
-#### Obstacle: Proprietary, Incompatible Silos
-
-#### Obstacle: Delay
-
-#### Opportunity: Rivers of Information / Inclusive Information flows
+##### Opportunity 11: Self Profiling & Curating your Digital Self
 
 ### Influence & Motivate
 
-#### Opportunity: Regulating the Information Landscape
+#### Opportunity 12: Regulating the Information Landscape
 
-#### Opportunity: Information Unification and Schematisation
+#### Opportunity 13: Information Unification and Schematisation
 
-[unifying information, schema, standards]
+#### Opportunity 14: Life/Ecosystem Information as Boundary Objects (Multi-stakeholder Design)
 
-#### Obstacle: Introspective Practices & Resistance to Change/openness
-
-#### Opportunity: Data as Boundary Object, Multistakeholder Design
-
-#### Opportunity: Demonstrating Business Advantages for Transparency and Human-Centricity
+#### Opportunity 15: The Business Value of Transparency and Human Centricity
 
 ### Educate & Empower
 
-#### Life Information literacy
+#### Opportunity 16: Life Information literacy
 
-#### Personal Data Ecosystem Literacy
+#### Opportunity 17: Personal Data Ecosystem Literacy
 
-#### Opportunity: Individual Discovery: Mapping Your Personal Data Ecosystem
-
-[also participatory research in general]
-[interface design - lived experience - impacts on trust - data & ecosystem literacy - information and rights self-use.. PI pursuit] [ using GDPR ].
-[purposefully brief]
+#### Opportunity 18: Individual Discovery: Mapping Your Personal Data Ecosystem
 
 Thesis Conclusion
 -----------------
