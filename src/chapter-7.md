@@ -159,15 +159,22 @@ In the PDEC context, multiple data wants are important: visible data and transpa
 Obstacles to Better Human Data Relations and Resulting Insights
 ---------------------------------------------------------------
 
-I have identified the following high level obstacles to better HDR:
+In this section I will describe the high level obstacles to better HDR, in four sections. These are arranged into six groupings. The first four groupings correspond to the six wants identified in Chapter 6. Two additional groupings have been included to cover more general human and technical challenges that affect all endeavours in this space:
+
+- 7.3.1: Obstacles to Data Awareness & Understanding
+- 7.3.2: Obstacles to Data Useability
+- 7.3.3: Obstacles to Ecosystem Transparency (including visible data & transparent processes)
+- 7.3.4: Obstacles Ecosystem Negotiability (encompassing individual oversight and involvement) decision-making)
+- 7.3.5: General Human Challenges
+- 7.3.6: General Technical Challenges
 
 [Add diagram here]
 
 ### Data Awareness & Understanding
 
-##### Obstacle 1: Data Legibility
+#### Obstacle 1: Data Legibility
 
-People struggle to relate to data. It is not relatable because it is complex, not presented as meaningful information, and not easily interpretable as information. They lack tools to gain insights.
+People struggle to relate to data. It is not relatable because it is complex, not presented as meaningful information, and not easily interpretable as information. They lack tools to gain insights. To overcome this obstacle, more work is needed to make data relatable and to provide tools that can deliver valuable meaning and insights.
 
 #### Insight 1: Life Information Makes Data Relatable
 
@@ -175,7 +182,7 @@ When data is transformed into information that can be related back to moments, p
 
 #### Obstacle 2: The Personal Data Diaspora
 
-Every individual's personal data is scattered across multiple providers, devices, apps, held by hundreds of third parties. The complexity of a modern day digital life is unmanageable and overwhelming. People are inevitably ignorant of much of their data and its use. This can lead to resignation and apathy.
+Every individual's personal data is scattered across multiple providers, devices, apps, held by hundreds of third parties. The complexity of a modern day digital life is unmanageable and overwhelming. People are inevitably ignorant of much of their data and its use. This can lead to resignation and apathy. To overcome this obstacle, approaches must be identified that recognise the scattered, complex reality of each individual's personal data ecosystem and begin to make it visible and understandable.
 
 #### Insight 2: Ecosystem Information is an antidote to Digital Life Complexity
 
@@ -185,15 +192,21 @@ No matter how understandable the data itself is, it is also critical that people
 
 #### Obstacle 3: Data isn't free
 
-Almost all data is constrained in some way, limiting its useability. It may be held by a particular provider and inaccessible. It may be stored in a format which is hard to use or change. It may only be visible after a delay. It may be unchangeable.
+Almost all data is constrained in some way, limiting its useability. It may be held by a particular provider and inaccessible. It may be stored in a format which is hard to use or change. It may only be visible after a delay. It may be unchangeable. To overcome this obstacle, we need to find ways to extract data from its current constraints and to remove some of these technical or temporal limitations.
 
 #### Obstacle 4: Data that is Unmalleable and Non-Interrogable
 
-#### Insight 3: Life Information as a Material
+Even once an individual has gained possession or access to the relevant parts of their personal data, it can be extremely hard to use. This partly comes from a lack of malleability - the ability to break it down, look at it from different perspectives, reconstitute it in different ways. Put simply, people need to be able interrogate their data - ask questions of it. This requires more than just an ability to view visual representations of data, but an ability to interact with the data and produce new views and insights that can help to answer specific questions. Making some of the PIM and SI capabilities described in 2.2.2 and 2.2.3 can help to address this, but more capabilities can be made available and are needed to fully overcome this obstacle.
+
+#### Insight 3: Life Information & Ecosystem Information as a Material
+
+Many computer operating systems and interfaces today treat files as the basic material that an individual can manipulate. To truly empower users to make use of their data, we need to move to a model where pieces of life information -- facts (or assertions) -- can be created, deleted, moved, grouped, annotated, copied, shared, modified, labelled, organised, separated or otherwise manipulated instead. So far, people access data within products. But what they need is a platform, not a product. We need an information operating system.
 
 ### Ecosystem transparency
 
 #### Obstacle 5: A Complex and Invisible Data Ecosystem
+
+
 
 #### Obstacle 6: A Lack of Metadata
 
@@ -237,7 +250,11 @@ Working in the present to build the future: Current Work & Future Opportunities
 In Figure 31, the ToC frame introduced above in 7.1.3 / Figure 29 is used as a canvas upon which to position the different trajectories for changes that could improve HDR. By enumerating the possible types of activity that can bring about change, each of the four quadrants's core change trajectory can be named, as shown in purple, forming the backbone of the roadmap for improving HDR, which can be summarised thus:
 
 - _**Learn & Discover**_ (CI): In this quadrant, individuals, researchers, activists and other stakeholders work in groups to understand data attitudes and user needs, and to gain collective knowledge of data collection and usage practices which are sometimes hidden.
-- _**Defend & Create**_ (CE): In this quadrant, activists work to ensure current HDR capabilities are not eroded, while researchers, designers, technologists and social innovators design and create new technologies, operating models, organisations and interface designs, the structures enabling a world with better HDR.
+- _**Defend & Create**_ (CE): In this quadrant, activists work to ensure current HDR capabilities are not eroded, while researchers, designers, technologists and social innovators design and create new technologies, operating models, organisations and interface designs, the structures enabling a world with better HDR. Given the majority of the opportunities for change identified in this chapter occur in this quadrant, this quadrant will be further subdivided into four different types of activity:
+  - Defend the Status Quo and Push Back
+  - Creat New Structures and Systems
+  - Creat New Information Interfaces
+  - Creat New Capabilities
 - _**Influence & Motivate**_ (IE): In this quadrant, individuals' relationships with data and with data holders, as well as data holders and policymakers' relationships, can improved. For us, as external actors seeking change, the task is to influence the many parties by showcasing and facilitating newly created structures and capabilities, and to harness our new collective knowledge to advocate the benefits of changing data-related behaviours.
 - _**Educate & Empower**_ (II): In this quadrant, individuals ways of thinking about data and data holders grow and evolve towards a state we could call 'feeling empowered'. This change is driven through education, improving Human Data Relations literacy, and through the experience of new capabilities and changed relationships with data and with data holders that can empower individuals to hold a more aware and equitable position in those relationships and in their digital life.
 
@@ -251,31 +268,29 @@ In Figure 31, the ToC frame introduced above in 7.1.3 / Figure 29 is used as a c
 
 #### Opportunity 3: A 'Data Understanding' Industry
 
-### Defend & Create
+### Defend the Status Quo and Push Back
 
-#### Defending the Status Quo and Pushing Back
+#### Opportunity 4: Tapping and Monitoring The Seams
 
-##### Opportunity 4: Tapping and Monitoring The Seams
+### Create New Structures and Systems
 
-#### Creating New Structures and Systems
+#### Opportunity 5: A central home for your personal data
 
-##### Opportunity 5: A central home for your personal data
+#### Opportunity 6: Algorithmic Meaning Extraction
 
-##### Opportunity 6: Algorithmic Meaning Extraction
+### Create New Information Interfaces
 
-#### Creating New Information Interfaces
+#### Opportunity 7: Life Information interfaces
 
-##### Opportunity 7: Life Information interfaces
+#### Opportunity 8: Ecosystem Detection & Visualisation
 
-##### Opportunity 8: Ecosystem Detection & Visualisation
+#### Opportunity 9: Information Flows
 
-##### Opportunity 9: Information Flows
+### Create New Capabilities
 
-#### Creating New Information Capabilities
+#### Opportunity 10: Exploratory Actions & Asking Tools
 
-##### Opportunity 10: Exploratory Actions & Asking Tools
-
-##### Opportunity 11: Self Profiling & Curating your Digital Self
+#### Opportunity 11: Self Profiling & Curating your Digital Self
 
 ### Influence & Motivate
 
