@@ -20,9 +20,9 @@ In section 7.1.4, I consider the researcher-turned-activist stance that drives t
 
 In section 7.2, to provide deeper context for what follows, the concept of HDR is expanded to identify some additional insights into how people relate to data, and an important dichotomy of two distinct drivers that motivate people's needs for better relations with their data.
 
-Section 7.3 forms the main body of this chapter, and provides the detailed insights into how better Human Data Relations can be pursued in practice. This is structured using the ToC framing described in 7.1.3, and is structured as a series of named obstables and opportunities fitting into each trajectory of change.
+Section 7.3 and 7.4 form the main body of this chapter, with obstacles and insights being detailed in section 7.3 and specific opportunities into how better Human Data Relations can be pursued in practice described in 7.4. 7.4 is structured using the ToC framing described in 7.1.3, as a series of named opportunities fitting into each trajectory of change.
 
-Section 7.4 concludes the thesis, summarising the roadmap presented in 7.3, the thesis' contributions as a whole, and answering the overall research question.
+Section 7.5 concludes the thesis, summarising the change trajectories presented in 7.4, the thesis' contributions as a whole, and answering the overall research question.
 
 ### External Research Settings
 
@@ -58,7 +58,7 @@ To provide a structure for cataloguing the insights conveyed by this chapter, I 
 
 [^17]: Diagram used here unchanged from _Hivos ToC Guidelines_ [@vanEs2015, p90] under a CC-BY-NC-SA 3.0 license, whose authors state that this diagram was adapted from earlier work by Wilber (1996), Keystone (2008) and Retolaza (2010, 2012).
 
-Figure 29 illustrates the aspects of ToC thinking that section 7.3 will use as its frame. Specifically, desired changes can be broken down into:
+Figure 29 illustrates the aspects of ToC thinking that section 7.4 will use as its frame. Specifically, desired changes can be broken down into:
 
 - _**Internal changes**_: changes in thinking, feeling, reasoning, understanding, attitudes or identity.
 - _**External changes**_: changes in actions, behaviour, interactions, structure, policy, technological capability, processes and the external environment.
