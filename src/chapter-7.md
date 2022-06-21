@@ -276,37 +276,55 @@ Earlier in this thesis the concept of a data self has been introduced
 
 ### General Human Challenges
 
+While in the previous four subsections it was possible to identify obstacles relating to specific HDR wants, there are also some readily identifiable obstacles that will affect all our endeavours to improve HDR. Obstacles relating to human challenges are described in this section, and technical challenges are addressed in the following section, 7.3.6.
+
 #### Obstacle 11: A lack of demand and HDR motivation, and perceived hard work
 
 In considering the recommendations of Case Study One (shared data interaction between the state and the individual) and of Case Study Two (new human-centric data practices by service providers), and in exploring possible new human-centric system and interface designs through my work with BBC R&D, it is evident that even if new human-centric types of computer system or service interaction practices can be created, we cannot assume that people will be inclined to use them. Today, data is overwhelming, complex, and 'sounds boring'. There is no denying that currently, engaging with one's personal data economy to any degree more than that of passive consumer, is hard work. People routinely accept data sacrifice, click through T&Cs and cookie banners and are unwilling (or in some cases lack sufficient technical literacy, comprehension or skill) to do the work of asserting control over their digital lives. There is not a clear demand for holistic and novel ways of managing your digital life and exerting agency and negotiability over it. This can be seen as an obstacle that affects all HDR improvement approaches we see, and indeed is why many companies in the emergent PDE economy (2.3.4) struggle to find a business model. But this should not deter disruptive innovation nor does it indicate that such offerings would not be useful. As Henry Ford famously said, "If I had asked people what they wanted, they would have said faster horses." Nonetheless, it is a clear overarching obstacle to overcome.
 
 #### Insight 7: New Life Capabilities; Always Serve a Need
 
-Through work at the BBC R&D exploring how to better connect people with their data, it became clear that there is a way to combat such indifference and apathy of users. It emerges from the realisation that the way people find value in data is to connect it their Lives
-
+Through work at the BBC R&D exploring how to better connect people with their data, it became clear that there is a way to combat such indifference and apathy of users. It emerges from the realisation that the way people find value in data is to connect it their lives. The more that people see relatable life information and can imagine ways to harness that information in their everyday life, the more motivated they will be.
 [include the three concentric circles diagram from Rhianne]
+As an example, myself and BBC colleague Jasmine Cox imagined focusing on address books and contact lists as a strong relatable starting point that could easily generate a user demand. Many people face a complexity they cannot easily manage when it comes to the automated syncing and sharing of potentially sensitive contact information between devices, apps and providers, and developing human-centric personal information management capabilities to bring that messy situation under control would offer a clear and tangible benefit to users.
+
+[INCLUDE VACATION DIAGRAM]
+
+Another example that is helpful to consider is my the example from my 2011 article: that of a vacation, as shown in Figure X [@bowyer2011]. Today, all the information around such a holiday is scattered into multiple systems - emails, online provider bookings, chat logs, cloud synced photos, web browser bookmarks, smartphone location logs, etc. It is not hard to imagine that a system that was able to bring all related information about that vacation together in one central place could deliver huge value to users and be very compelling. Such context-targeted human-centric offerings can have a much greater chance of generating interest and impact than offerings that merely allow you to "organise your data" or some other abstract phrasing.
+As with any public offering of a product or service, it is important to start with identifying a problem or need, and to demonstrate a potential tool or solution that can help. In particular, there is a need to let people do **new** things that they could not do before. This has been identified as a key ingredient of user empowerment [@schneider2018;@meschtscherjakov2014]. This became a driving influence for design thinking on the BBC R&D Cornmarket project.
+It is not enough to believe that "If you build it, they will come."
 
 ### General Technical challenges
 
 #### Obstacle 12: A lack of Interoperability
 
+Obstacle 8 (7.3.4.3) already touched on the issues around different companies developing different standalone walled garden or silo user experiences, from a sociotechnical or systemic standpoint. But there is a very specific technical problem that must be acknowledged across all HDR improvement approaches, and that is that it is very difficult to build technical systems that connect and exchange data with each other. This was witnessed first hand by our development team on the SILVER health data interface project [REF] which endeavoured to build a bridge making health data available to Early Help support workers. Not only are there a lack of standards, with each organisation using their own databases and formats for storing data, but often the programming interfaces (APIs) that would be needed to interface between different systems (sometimes legacy systems) do not exist, are insufficient. Furthermore, there can be issues around licensing and consent when data passes from one domain to another. Data sharing agreements must be established, especially in the public sector which is by its nature more liable to scrutiny and accountability. But at an abstract level the technical obstacle, the problem is one that has always faced the tech industry, which is that there often is no universally agreed way to represent important concepts - in this case human-centric information concepts such as events, social media posts, website visits, location history information, app activity, etc. And any entity that does create a standard then faces the challenge of trying to persuade others that their standard is the best one to use. In general, standards work best when established by non-commercial industrial standards bodies (for example the World Wide Web Consortium (W3C) or International Organisation for Standardization (ISO) and then mandated through policy such as European Union law. Such standards much be established with input from industry experts.
+
 #### Obstacle 13: Insufficient machine understanding of human data
 
+Following on from the previous obstacle, but a subtly different point, is that it is technically difficult for machines to handle human information. Without deliberate coding, software can only understand streams of binary data as files or datasets, and does not understand what people, places, events or entities the facts within the data relate to. Therefore, it is necessary to consider how algorithms and systems can be designed to include an understanding of the semantics (meaning) of the information within the files and data records they handle. For example, the data record representing a post on Twitter looks entirely different to the data record representing a post on Facebook. No algorithm can recognise or unify these disparate pieces of data as two instances of the same semantic concept until it the specifics of the data format can be mapped back to a common semantic abstraction of a "social media post".
+
 #### Insight 9: The Power of Semantic Analysis and Information Standards
+
+[INSERT SEMANTICS DIAGRAM]
+
+This leads to the next insight: that to build systems and interfaces that are closer to human concepts and representing the elements of everyday life, requires building systems that store semantic context and semantic associations, not just raw bundles of data. This is advocated by the Web's inventor Tim Berners-Lee in his vision of a Semantic Web [@bernersLee2001] and by proponents of networked PIM systems (2.2.2). There is a need to develop standard ways to digitally model facts and assertions about users' lives, so that those disparate pieces of data can be unified, connected, correlated and compared. Sizable industries have built up around Content Analytics and Enterprise Content Management. Through the capture of metadata at the point of data recording, and through subsequent programmatic analysis of stored data, as illustrated in Figure X, we can begin to teach computers what the data we store represents. Machine learning technologies and Artificial Intelligence have pushed machine understanding of human words, images and content to impressive levels in recent years and such technologies can certainly be helpful, but in fact at the core what we are talking about here is somemthing much simpler than AI; It is simply about labelling datapoints in as many different ways as possible so that those datapoints can be associatively retrieved from many different angles, aand providing humans with ways to edit, reclassify or amend incorrect labels.
 
 Working in the present to build the future: Current Work & Future Opportunities
 -------------------------------------------------------------------------------
 
 ![Figure 31: ToC chart showing Trajectories of Change for improving Human Data Relations](./src/figs/fig31-change-trajectories.jpg)
 
+Now, having established some of the key obstacles to improving HDR, we can move to considering what opportunities exist to pursue the HDR wants and to overcome those obstacles. This section will first introduce a framing for those opportunities, and then illustrate specific opportunities in detail.
+
 In Figure 31, the ToC frame introduced above in 7.1.3 / Figure 29 is used as a canvas upon which to position the different trajectories for changes that could improve HDR. By enumerating the possible types of activity that can bring about change, each of the four quadrants's core change trajectory can be named, as shown in purple, forming the backbone of the roadmap for improving HDR, which can be summarised thus:
 
 - _**Learn & Discover**_ (CI): In this quadrant, individuals, researchers, activists and other stakeholders work in groups to understand data attitudes and user needs, and to gain collective knowledge of data collection and usage practices which are sometimes hidden.
 - _**Defend & Create**_ (CE): In this quadrant, activists work to ensure current HDR capabilities are not eroded, while researchers, designers, technologists and social innovators design and create new technologies, operating models, organisations and interface designs, the structures enabling a world with better HDR. Given the majority of the opportunities for change identified in this chapter occur in this quadrant, this quadrant will be further subdivided into four different types of activity:
   - Defend the Status Quo and Push Back
-  - Creat New Structures and Systems
-  - Creat New Information Interfaces
-  - Creat New Capabilities
+  - Create New Structures and Systems
+  - Create New Information Interfaces
+  - Create New Capabilities
 - _**Influence & Motivate**_ (IE): In this quadrant, individuals' relationships with data and with data holders, as well as data holders and policymakers' relationships, can improved. For us, as external actors seeking change, the task is to influence the many parties by showcasing and facilitating newly created structures and capabilities, and to harness our new collective knowledge to advocate the benefits of changing data-related behaviours.
 - _**Educate & Empower**_ (II): In this quadrant, individuals ways of thinking about data and data holders grow and evolve towards a state we could call 'feeling empowered'. This change is driven through education, improving Human Data Relations literacy, and through the experience of new capabilities and changed relationships with data and with data holders that can empower individuals to hold a more aware and equitable position in those relationships and in their digital life.
 
@@ -328,13 +346,11 @@ In Figure 31, the ToC frame introduced above in 7.1.3 / Figure 29 is used as a c
 
 #### Opportunity 5: Collective Action
 
-
-
 ### Create New Structures and Systems
 
 #### Opportunity 5: A central home for your personal data
 
-#### Opportunity 6: Algorithmic Meaning Extraction
+#### Opportunity 6: Algorithmic Meaning Extraction and Learning Systems
 
 ### Create New Information Interfaces
 
