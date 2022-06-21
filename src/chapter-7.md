@@ -245,15 +245,27 @@ Sitra's #digipower investigation [REF], of which I was project leader for Hestia
 [INCLUDE FOUR LEVERS OF POWER DIAGRAM]
 [ADD EXPLANATION AND REFERENCE TO THE PIDOUX REPORT]
 
+Through this landscape it is clear that the most powerful data holders exert huge influence over the digital landscape, in terms of what is knowable and what is do-able. Individuals or activists' abilities to balance the landscape are hindered by the fact that they are operating in a landscape that the incumbent platform and service providers effectively control.
+
+A key mechanism to highlight here is that the accumulation of information is implicitly a form of power. In terms of this being an obstacle, we can therefore see that as long as current platforms and service providers are free to collect so much personal information, the information landscape will remain imbalanced and individuals will not be able to acquire ecosystem negotiability.
+
 #### Obstacle 8: Closed, Insular and Introspective Practices
+
+[ADD DIAGRAM FROM OLD PRESENTATION?]
+
+Today's digital landscape is fractured[REF Splinternet]; myriad providers vie to pull users into service relationships or connected ecosystems that will encourage a flow of money and attention to their own products and services, most evident from companies  such as Apple, Amazon, Facebook, Google and Microsoft (the so-called 'big five') that have multiple touchpoints into people's lives through different devices, apps and services. We can think of these different providers' sub-Internets as walled gardens or silos [REF]. Commercial motives encourage them to get users to spend time in their own proprietary spaces (so that resultant ad revenue can be captured) and in order to maintain subscription revenues it is in providers' interests to make it hard for individuals to leave or switch providers. In effect, providers build for a world that does not exist, where every individual is imagined to only interact with that single company's interfaces. There is little incentive to open up the ecosystem when the free flow of information and of users might result in loss of income for the company in question. Users with negotiability would be more able to leave. And this also encourages keeping users in the dark (5.4.2) Thus service providers continue to build **proprietary, incompatible silos**.
+
+But it is not only commercial motives that encourage insular attitudes to personal data and user service provision. In the SILVER project [ADD REF] meetings with local authorities and care providers revealed deep organisational and technical barriers within the public sector, with for example health organisations being typically unwilling to share health data with social care services, but also with different councils, community services and charities typically operating separate IT systems, each attempting to construct their own digital pictures within their own databases and very little operability. The problems of this technical reality are explored further in 4.1.2. From what we have observed, the introduction of GDPR and similar regulations has made this problem worse not better, as organisations and departments become increasingly paranoid about storing or sharing data they should not, or about the risks of acting upon data without sufficient consent. We learned of practices such as the sharing of information between care organisations verbally by telephone so that no digital trail was left.
+
+It is clear that throughout society, there is a trend towards organisations being reluctant to work together around people's data, inclined towards collecting their own databases and not sharing them.
 
 #### Obstacle 9: A Trend of Actively Diminishing Individuals' Agency
 
-#### Insight 6: The Inaccessible Data Self
+#### Obstacle 10: The Inaccessible Data Self
 
 ### General Human Challenges
 
-#### Obstacle 10: A lack of demand and HDR motivation
+#### Obstacle 11: A lack of demand and HDR motivation
 
 #### Insight 7: New Life Capabilities
 
@@ -298,6 +310,12 @@ In Figure 31, the ToC frame introduced above in 7.1.3 / Figure 29 is used as a c
 ### Defend the Status Quo and Push Back
 
 #### Opportunity 4: Tapping and Monitoring The Seams
+
+#### Insight 10: The Battle for a Free Information Landscape
+
+#### Opportunity 5: Collective Action
+
+
 
 ### Create New Structures and Systems
 
