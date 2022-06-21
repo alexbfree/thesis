@@ -260,6 +260,8 @@ But it is not only commercial motives that encourage insular attitudes to person
 
 It is clear that throughout society, there is a trend towards organisations being reluctant to work together around people's data, inclined towards collecting their own databases and not sharing them.
 
+[Also mention resistance to change]
+
 #### Obstacle 9: A Trend of Actively Diminishing Individuals' Agency
 
 As a result of the practices and motives described above, the last decade has seen much reduction in individuals' agency. When software was sold in a box, manufacturers competed based upon which product would let the user take home the greatest range of features and capabilities. New releases with new features drove new product sales. But in the cloud computing era, a smaller set of core features done well is sufficient to guarantee an ongoing subscription revenue from a user. Cost savings in development and support costs can be made by reducing feature sets. The relentless pursuit of increased profits and further cost saving sees products lose, not gain, features. Interfaces are reshaped to serve businesses' interests first and foremost. As described in 2.3.5, the primary concern is about making user behaviours constrained, predictable and profitable, rather than meeting their needs or providing maximal value. One of the most revealing examples is seen in the case of Facebook. Users used to be free to consume their friends' posts in other clients via RSS feeds. These were removed, forcing users to use only Facebook's interfaces, where their eyeballs can be monetized (Twitter closed its APIs too to a great degree, killing off many third party readers). On Facebook users used to have the ability to view the latest updates from a particular list of friends or of news pages. These features too were removed, presumably to increase monetization through the main feed. The 'Friends' page on Facebook currently shows a list of recommended new friends; to access your current friend list requires an extra click. Encouraging users to grow their networks is prioritised over user convenience.
@@ -332,14 +334,17 @@ In Figure 31, the ToC frame introduced above in 7.1.3 / Figure 29 is used as a c
 Research such as that conducted in this PhD is an example of the collective, internal focused activity that can be done in this quadrant to further the goals of better HDR: Groups of people working together using a variety of techniques such as participatory co-design, interview-based quantititative studies, design prototype evaluation and other HCI techniques can gain new understandings of individual needs and experiences in HDR. However rather than mapping out such possibilities, this section will focus on more novel approaches that go beyond traditional HCI research towards activities that are potentially more socially impactful.
 
 #### Opportunity 1: Auditing Data Holders
+Helps with: Ecosystem transparency
 
 Through the emergence of new tracking tools such as TrackerControl and Apple's App Activity Reports, individuals can observe the actual behaviour of the apps they use, providing a new means to identify potential data sharing destinations, to assess whether providers are meeting their promises, and to uncover new questions that can be asked of providers using data access rights. By collectively examining and comparing such data, it is possible to begin to map out the data ecosystem, as was done in the digipower investigation [REF].
 
 #### Opportunity 2: Collective Investigation
+Helps with: Ecosystem transparency
 
-This sort of combination of individual observations is just one of many ways in which individuals can, through working together, discover more information about data usages and practices. Collectives offer a powerful means to examine how providers categorise users and process their data, for example by comparing field values to understand the range of possible values or inferences a data holder might have stored, or by comparing variations in information presentations, data rights handling or customer service experiences to reverse engineer provider practices.
+This sort of combination of individual observations is just one of many ways in which individuals can, through working together, discover more information about data usages and practices. Collectives offer a powerful means to examine how providers categorise users and process their data, for example by comparing field values to understand the range of possible values or inferences a data holder might have stored, or by comparing variations in information presentations, data rights handling or customer service experiences to reverse engineer provider practices. Collectives can also exert external influence in the adjacent 'Defend & Create' quadrant by using their learnings through data to demand change, as seen in the case of Uber drivers working together to obtain data on algorithmic judgements that affect their work and using that as evidence to help them demand fairer working conditions [REF].
 
 #### Opportunity 3: A 'Data Understanding' Industry
+Helps with: Data Understanding, Ecosystem Transparency
 
 Given the complexity of today's digital landscape and the forces that hinder better HDR, there is scope for an industry to develop around 'data understanding' services. This can encompass everything from self-service tools people can use to gain insights over their data (such as those provided by Ethi or Hestia.ai), to workshops helping consumer organisations, journalists, regulators, lawyers and other interested parties to collectively gain understanding and value from data so that they might better achieve their goals, as well as serving a general educational purpose for example in schools. This industry is beginning to emerge, but faces challenges in funding, scalability, governance, and credibility and should be supported (REF Pidoux et al).
 
@@ -361,50 +366,90 @@ Therefore part of what we need to be doing is (a) highlight and (b) removing sea
 Groups of HDR reformers can combine development skills, innovation and disruptive design approaches to find and publicise new ways to circumvent providers' efforts to control and limit their users' agency, as illustrated by the use of web scrapers and web augmentation approaches to try and obtain information or functionality from providers that would otherwise be inaccessible.
 [also mention device tenancy and firefox containers/taking back power in the browser/browser as seam (reference Goffe et al)]
 
-#### Opportunity 5: Collective Action
-
 ### Create New Structures and Systems
 
 #### Opportunity 5: A central home for your personal data
+Helps with: Data Understanding, Data Useability, Ecosystem Transparency, General Human Challenges
+Affected by: Lack of interoperability (7.3.6.1/12)
+
+[Add a PDS screenshot from BBC, general]
+
+As others have identified, one of the most promising models for giving people a new and improved relationship with their data is to create a place where one's personal data can be stored and aggregated in one place, a personal data locker (see 2.3.4). This prospect was explored through the BBC R&D Cornmarket project during my internship, as detailed in 3.4.3.3 [OR MOVE SOME OF THAT TEXT HERE]. As alluded to in the quote opening Chapter 1, people's data is scattered (see also 2.2.4 and [@abiteboul2015]), and simply providing the ability to bring data from sources together in one place can improve people's understanding of their data and its ecosystem. This integration requires technical standardisation but also
+[BRING IN SOME TEXT FROM BBC BLOG ARTICLE]
+[REF previous appetite for PDS https://journals.sagepub.com/doi/full/10.1177/2053951720935616]
+
+talk about the capacity to unify
+[watchlist image]
 
 #### Opportunity 6: Algorithmic Meaning Extraction and Learning Systems
+Helps with: engagement/efforts
+
+Key idea to share: that the system should try and automatically associate data to entities.
+also: calendar/contact as start point. conjecture and assertion to reduce effort. learning, correcting, like an assistant [ref]
+world2vec as an exmample of the sophistication of what is being done and harnessed for provider purposes[REF]
+
+show how different types of entity can be identified.
 
 ### Create New Information Interfaces
 
 #### Opportunity 7: Life Information interfaces
 
+Key idea to share: life partitions, show the 4 part spider and the mockup flow from hackweek.
+
+
+
 #### Opportunity 8: Ecosystem Detection & Visualisation
 
-#### Opportunity 9: Information Flows
+Key idea: detecting the ecosystem. Example: the subscription detector.
+
+#### Opportunity 9: Inclusive Information Flows
+
+Key idea: Rivers of flowing info. Including people.
 
 ### Create New Capabilities
 
 #### Opportunity 10: Exploratory Actions & Asking Tools
 
+Key idea: verbs. types of question.
+
 #### Opportunity 11: Self Profiling & Curating your Digital Self
+
+Key idea: self profiling (a la BBC) but also more generally, the "I want a bicycle" VRM idea (unless already covered)
 
 ### Influence & Motivate
 
 #### Opportunity 12: Regulating the Information Landscape
 
+Key point: regulation of *landscape* -> new moves DSA
+maybe also some ref back to end C5 and to the GDPR Guidelines
+
 #### Opportunity 13: Information Unification and Schematisation
+
+Key idea: generalised types of data (BBC sketch)
 
 #### Opportunity 14: Life/Ecosystem Information as Boundary Objects (Multi-stakeholder Design)
 
+Key idea: Data as bringing different people together , ref living lab. also use of cards in my research and at BBC (and ref Urquhart?)
+
 #### Opportunity 15: The Business Value of Transparency and Human Centricity
+
+key idea: tackling resistance reducing liability, improved consent . less waste cost on broadcast advertising (could express it as a development of all the ad personalisation today). selling the benefits.
 
 ### Educate & Empower
 
-#### Opportunity 16: Life Information literacy
+#### Opportunity 16: Life Information & Personal Data Ecosystem Literacy
 
-#### Opportunity 17: Personal Data Ecosystem Literacy
+Key point: define it, distinguish it from technical skills/literacy as well as from numbercrunching Literacy
 
 #### Opportunity 18: Individual Discovery: Mapping Your Personal Data Ecosystem
+
+Key point: empowering individuals as investigators. Can help them with tools or learning programs.
 
 Thesis Conclusion
 -----------------
 
 [reiterate the answer to the question - the key 4 roles, 3 capabilities and N approaches needed for better human data relations]
+[how to group together the approaches]
 
 [clarify the contribution of the thesis, with backreferences - 2 case studies, RQ answers, and the HDR roadmap]
 
