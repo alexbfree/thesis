@@ -40,7 +40,7 @@ In addition, my participation as an interface designer and front-end software de
 
 ### Attribution of Insights
 
-While this thesis is my own original work, some of the specific details, theories and ideas presented in this chapter arose or were developed or augmented through my close collaboration, discussion and ideation with other researchers, including:
+While this thesis is my own original work, and many ideas presented in this chapter are fully original, some of the specific details, theories and ideas presented in this chapter arose or were developed or augmented through my close collaboration, discussion and ideation with other researchers, including:
 
  - Jasmine Cox, Suzanne Clarke, Tim Broom, Alex Ballantyne and others at BBC R&D;
  - Paul-Olivier Dehaye and Jessica Pidoux at Hestia.ai;
@@ -186,7 +186,7 @@ Every individual's personal data is scattered across multiple providers, devices
 
 #### Insight 2: Ecosystem Information is an antidote to Digital Life Complexity
 
-No matter how understandable the data itself is, it is also critical that people can acccess information about their data ecosystem. Without this, there will always be aspects of their data that are beyond their awareness or beyond the reach of what they can access, control or manage.
+No matter how understandable the data itself is, it is also critical that people can acccess information about their data ecosystem. Without this, there will always be aspects of their data that are beyond their awareness or beyond the reach of what they can access, control or manage. Many tools today do not recognise this, and build for a world that does not exist. It is important that people have tools that allow them to interact with multiple providers and data sources across their digital life.
 
 ### Data Useability
 
@@ -206,9 +206,15 @@ Many computer operating systems and interfaces today treat files as the basic ma
 
 #### Obstacle 5: A Complex and Invisible Data Ecosystem
 
-
+The first and most obvious barrier that individuals face in managing a complex personal data ecosystem is that, to a great degree, they cannot see it. For example, it is very easy to allow a handful of communication and social media apps access to your address book or contact list, and before you know it you have created a complex and unmanageable network of connections that silently sync and propogate your adddresses and phone numbers across the Internet. And there are deeper layers which are not even slightly visible to users: networks of data brokers, advertisers and digital cookie companies exchanging user identifiers, activity data and personal information about you while you browse or use apps. As Chapter 5 showed, even though people have been granted new rights to access their data and information about provider data sharing activity, the ability to effectively execute those rights to build up a meaningful picture of your personal data ecosystem is severely limited by inconsistent, incomplete or unclear responses. The ability to provide a user with ecosystem transparency is hindered by the complexity and multiplicity of the data relationships they have been encouraged to set up, and by a lack of tools to provide a meaningful, or indeed any, view of those relationships. A further aspect to this obstacle is that no individual or organisation has the ability to see the whole of a user's ecosystem, and there is little commercial motive to try and solve this problem, as every provider focuses just on their own apps, websites and services.
 
 #### Obstacle 6: A Lack of Metadata
+
+From this complexity an additional obstacle becomes evident. There is scant attention to information **about** your data. Even where data access rights are executed (or data is shared via human means such as in Chapter 4), the attention is on the data itself: what it says. Chapter 5 shows that some of the most desired information was not the data itself, but how it is used and shared and what is inferred from it, yet this was rarely forthcoming. There are many pieces of information that can be quantified about an individual's data, as illustrated in Figure X, which I created during my internship at BBC R&D:
+
+[INCLUDE METADATA DIAGRAM HERE AND EXPLAIN ASPECTS]
+
+To provide users with meaningful transparency, many of these aspects will need to be tracked and visualised; not an easy task given the complexity and the potential to overwhelm a user, but nonethless a vital first step on the road to giving individuals the ability to have oversight of their personal data ecosystem and take action within it.
 
 #### Insight 4: Data with Provenance
 
