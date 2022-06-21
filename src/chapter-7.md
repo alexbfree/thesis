@@ -225,9 +225,25 @@ Significant research in this space has been undertaken by Professors Mike Martin
 
 ### Ecosystem negotiability
 
-#### Obstacle 7: Provider Hegemony
+#### Obstacle 7: Provider Hegemony and the Nature of Digital Power
+
+In the pursuit of individual oversight and greater involvement, the power imbalance between individuals and data holders (2.1.2) becomes most clear. While the Internet itself initially held the promise to be a great leveller and to empower individuals, this potential has largely been suppressed. Data is owned and controlled by service providers, who also design and control the interfaces, apps, websites and devices through which individuals access those services, controlling what (if any) of the data stored behind the scenes, and of the internal processes that use that data, is visible, and how such data and processes are represented. In Jasperson _et al._'s detailed metatriangulation review of types of power that affect technology systems [@jasperson2002] we can identify a number of specific types of power that clearly are in effect in today's digital data-centric service provider context:
+
+[ADD TYPES OF POWER FROM JASPERSON WITH CONTEXTUAL EXPLANATIONS]
+[structual power,
+resource control,
+centralisation
+etc]
+
+[ ADD DIAGRAM OF PANOPTICON ]
+A helpful analogy for the relationship between provider and user can be seen in the design of Panopticon: A style of prison architecture designed to elevate the power of the prison guards to observe all the prisoners easily at any time and to diminish the ability of prisoners to operate in privacy or to see those in authority. Jeremy Bentham [REF], drawing on the philosophy of Foucault [REF], makes clear that such design is political, and shows that power can be enforced by the environment. This is a useful mental scaffold to keep in mind; as explained below [REF], we can think of today's digital landscape as similarly power-enforcing. [UPDATE THIS BASED ON OTHER WRITING ABOUT PANOPTICON]
 
 #### Insight 5: The Four Levers of Power
+
+Sitra's #digipower investigation [REF], of which I was project leader for Hestia.ai, was a successor to my Case Study Two, but worked with high profile politicians and European influencers and added additional technical audit techniques. Its focus was not on the individual experience of data access, but on using those experiences and acquired datasets to better understand the data ecosystem. Through this research, a model was produced to understand the ways in which service providers (and in particular the larger ecosystem-level platform providers such as Google and Facebook) exert power over individuals and smaller organisations. This model is reproduced in Figure X:
+
+[INCLUDE FOUR LEVERS OF POWER DIAGRAM]
+[ADD EXPLANATION AND REFERENCE TO THE PIDOUX REPORT]
 
 #### Obstacle 8: Closed, Insular and Introspective Practices
 
