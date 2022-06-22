@@ -168,7 +168,7 @@ In this section I will describe the high level obstacles to better HDR, in four 
 - 7.3.5: General Human Challenges
 - 7.3.6: General Technical Challenges
 
-[Add diagram here]
+[Figure X Obstacles overview (and their relation back to Wants)]
 
 ### Data Awareness & Understanding
 
@@ -180,6 +180,14 @@ People struggle to relate to data. It is not relatable because it is complex, no
 
 When data is transformed into information that can be related back to moments, people, places or relationships in people's lives, it becomes instantly relatable.
 [from BBC: Data becomes meaningful when people are able to associate it with the real substance of their lives - people, places, organisations, causes or topics they care about. Therefore, the more associations you can find in data the more valuable it is.]
+
+We can consider the different types of information in people's lives:
+
+![Figure X: Life Concept Modelling](./src/figs/figX-life-concepts.png)
+
+We need to model life information, not data.
+
+
 
 #### Obstacle 2: The Personal Data Diaspora
 
@@ -213,7 +221,9 @@ The first and most obvious barrier that individuals face in managing a complex p
 
 From this complexity an additional obstacle becomes evident. There is scant attention to information **about** your data. Even where data access rights are executed (or data is shared via human means such as in Chapter 4), the attention is on the data itself: what it says. Chapter 5 shows that some of the most desired information was not the data itself, but how it is used and shared and what is inferred from it, yet this was rarely forthcoming. There are many pieces of information that can be quantified about an individual's data, as illustrated in Figure X, which I created during my internship at BBC R&D:
 
-[INCLUDE METADATA DIAGRAM HERE AND EXPLAIN ASPECTS]
+![Figure X: Some of the many aspects of metadata that might exist about a datapoint or dataset](./src/figs/figX-metadata.png)
+
+[ EXPLAIN ASPECTS]
 
 To provide users with meaningful transparency, many of these aspects will need to be tracked and visualised; not an easy task given the complexity and the potential to overwhelm a user, but nonethless a vital first step on the road to giving individuals the ability to have oversight of their personal data ecosystem and take action within it.
 
@@ -236,7 +246,10 @@ resource control,
 centralisation
 etc]
 
-[ ADD DIAGRAM OF PANOPTICON ]
+![Figure X: The Panopticon Structure of the Illinois State Penitentiary](./src/figs/figX-panopticon.png)
+
+[@foucault1975]
+
 A helpful analogy for the relationship between provider and user can be seen in the design of Panopticon: A style of prison architecture designed to elevate the power of the prison guards to observe all the prisoners easily at any time and to diminish the ability of prisoners to operate in privacy or to see those in authority. Jeremy Bentham [REF], drawing on the philosophy of Foucault [REF], makes clear that such design is political, and shows that power can be enforced by the environment. This is a useful mental scaffold to keep in mind; as explained below [REF], we can think of today's digital landscape as similarly power-enforcing. Code is law [ADD REF Lessig], and interfaces limit what individuals can do. By holding data behind interfaces shaped to serve their own interests, the landscape is controlled by the data holders.
 [UPDATE THIS BASED ON OTHER WRITING ABOUT PANOPTICON]
 
@@ -244,7 +257,9 @@ A helpful analogy for the relationship between provider and user can be seen in 
 
 Sitra's #digipower investigation [REF], of which I was project leader for Hestia.ai, was a successor to my Case Study Two, but worked with high profile politicians and European influencers and added additional technical audit techniques. Its focus was not on the individual experience of data access, but on using those experiences and acquired datasets to better understand the data ecosystem. Through this research, a model was produced to understand the ways in which service providers (and in particular the larger ecosystem-level platform providers such as Google and Facebook) exert power over individuals and smaller organisations. This model is reproduced in Figure X:
 
-[INCLUDE FOUR LEVERS OF POWER DIAGRAM]
+![Figure X: The Four Levers of Infrastructural Power](./src/figs/figX-four-levers-of-power.png)
+[TODO: redo this diagram]
+
 [ADD EXPLANATION AND REFERENCE TO THE PIDOUX REPORT]
 
 Through this landscape it is clear that the most powerful data holders exert huge influence over the digital landscape, in terms of what is knowable and what is do-able. Individuals or activists' abilities to balance the landscape are hindered by the fact that they are operating in a landscape that the incumbent platform and service providers effectively control.
@@ -253,15 +268,13 @@ A key mechanism to highlight here is that the accumulation of information is imp
 
 #### Obstacle 8: Closed, Insular and Introspective Practices
 
-[ADD DIAGRAM FROM OLD PRESENTATION?]
-
 Today's digital landscape is fractured[REF Splinternet]; myriad providers vie to pull users into service relationships or connected ecosystems that will encourage a flow of money and attention to their own products and services, most evident from companies  such as Apple, Amazon, Facebook, Google and Microsoft (the so-called 'big five') that have multiple touchpoints into people's lives through different devices, apps and services. We can think of these different providers' sub-Internets as walled gardens or silos [REF]. Commercial motives encourage them to get users to spend time in their own proprietary spaces (so that resultant ad revenue can be captured) and in order to maintain subscription revenues it is in providers' interests to make it hard for individuals to leave or switch providers. In effect, providers build for a world that does not exist, where every individual is imagined to only interact with that single company's interfaces. There is little incentive to open up the ecosystem when the free flow of information and of users might result in loss of income for the company in question. Users with negotiability would be more able to leave. And this also encourages keeping users in the dark (5.4.2). The less agency and negotiability that users have, the more freedom the provider has to do exactly what they want with their data. In this context, users are, as Lawrence Lessig wrote, _'pathetic dots'_ [ADD REF]. Thus service providers continue to build **proprietary, incompatible silos**.
 
 But it is not only commercial motives that encourage insular attitudes to personal data and user service provision. In the SILVER project [ADD REF] meetings with local authorities and care providers revealed deep organisational and technical barriers within the public sector, with for example health organisations being typically unwilling to share health data with social care services, but also with different councils, community services and charities typically operating separate IT systems, each attempting to construct their own digital pictures within their own databases and very little operability. The problems of this technical reality are explored further in 4.1.2. From what we have observed, the introduction of GDPR and similar regulations has made this problem worse not better, as organisations and departments become increasingly paranoid about storing or sharing data they should not, or about the risks of acting upon data without sufficient consent. We learned of practices such as the sharing of information between care organisations verbally by telephone so that no digital trail was left.
 
 It is clear that throughout society, there is a trend towards organisations being reluctant to work together around people's data, inclined towards collecting their own databases and not sharing them.
 
-[Also mention resistance to change]
+Also mention resistance to change
 
 #### Obstacle 9: A Trend of Actively Diminishing Individuals' Agency
 
@@ -285,12 +298,14 @@ In considering the recommendations of Case Study One (shared data interaction be
 #### Insight 7: New Life Capabilities; Always Serve a Need
 
 Through work at the BBC R&D exploring how to better connect people with their data, it became clear that there is a way to combat such indifference and apathy of users. It emerges from the realisation that the way people find value in data is to connect it their lives. The more that people see relatable life information and can imagine ways to harness that information in their everyday life, the more motivated they will be.
-[include the three concentric circles diagram from Rhianne]
+[include the three concentric circles diagram a bit like the one Rhianne used]
+
 As an example, myself and BBC colleague Jasmine Cox imagined focusing on address books and contact lists as a strong relatable starting point that could easily generate a user demand. Many people face a complexity they cannot easily manage when it comes to the automated syncing and sharing of potentially sensitive contact information between devices, apps and providers, and developing human-centric personal information management capabilities to bring that messy situation under control would offer a clear and tangible benefit to users.
 
-[INCLUDE VACATION DIAGRAM]
+![Figure X: Conceptual Semantic Grouping of Related Data for a Vacation](./src/figs/figX-vacation.png)
 
 Another example that is helpful to consider is my the example from my 2011 article: that of a vacation, as shown in Figure X [@bowyer2011]. Today, all the information around such a holiday is scattered into multiple systems - emails, online provider bookings, chat logs, cloud synced photos, web browser bookmarks, smartphone location logs, etc. It is not hard to imagine that a system that was able to bring all related information about that vacation together in one central place could deliver huge value to users and be very compelling. Such context-targeted human-centric offerings can have a much greater chance of generating interest and impact than offerings that merely allow you to "organise your data" or some other abstract phrasing.
+
 As with any public offering of a product or service, it is important to start with identifying a problem or need, and to demonstrate a potential tool or solution that can help. In particular, there is a need to let people do **new** things that they could not do before. This has been identified as a key ingredient of user empowerment [@schneider2018;@meschtscherjakov2014]. This became a driving influence for design thinking on the BBC R&D Cornmarket project.
 It is not enough to believe that "If you build it, they will come."
 
@@ -307,18 +322,18 @@ Following on from the previous obstacle, but a subtly different point, is that i
 
 #### Insight 9: The Power of Semantic Analysis and Information Standards
 
-[INSERT SEMANTICS DIAGRAM]
+![Figure X: Annotating Data with Semantic Context](./src/figs/figX-semantic-annotation.png)
 
-This leads to the next insight: that to build systems and interfaces that are able to deal in human concepts and represent the elements of everyday life requires building systems that store semantic context and semantic associations, not just raw bundles of data. This is advocated by the Web's inventor Tim Berners-Lee in his vision of a Semantic Web [@bernersLee2001] and by proponents of networked PIM systems (2.2.2). There is a need to develop standard ways to digitally model facts and assertions about users' lives, so that those disparate pieces of data can be unified, connected, correlated and compared. Sizable industries have built up around Content Analytics and Enterprise Content Management. Through the capture of metadata at the point of data recording, and through subsequent programmatic analysis of stored data, as illustrated in Figure X, we can begin to teach computers what the data we store represents. Machine learning technologies and Artificial Intelligence have pushed machine understanding of human words, images and content to impressive levels in recent years and such technologies can certainly be helpful, but in fact at the core what we are talking about here is somemthing much simpler than AI; It is simply about labelling datapoints in as many different ways as possible so that those datapoints can be associatively retrieved from many different angles, aand providing humans with ways to edit, reclassify or amend incorrect labels.
+This leads to the next insight: that to build systems and interfaces that are able to deal in human concepts and represent the elements of everyday life requires building systems that store semantic context and semantic associations, not just raw bundles of data. This is advocated by the Web's inventor Tim Berners-Lee in his vision of a Semantic Web [@bernersLee2001] and by proponents of networked PIM systems (2.2.2). There is a need to develop standard ways to digitally model facts and assertions about users' lives, so that those disparate pieces of data can be unified, connected, correlated and compared. Sizable industries have built up around Content Analytics and Enterprise Content Management. Through the capture of metadata at the point of data recording, and through subsequent programmatic analysis of stored data, as illustrated in Figure X [@bowyer2011], we can begin to teach computers what the data we store represent. Machine learning technologies and Artificial Intelligence have pushed machine understanding of human words, images and content to impressive levels in recent years and such technologies can certainly be helpful, but in fact at the core what we are talking about here is somemthing much simpler than AI; It is simply about labelling datapoints in as many different ways as possible so that those datapoints can be associatively retrieved from many different angles, and providing humans with ways to amend incorrect labels and to reclassify data or apply new semantic associations.
 
 Working in the present to build the future: Current Work & Future Opportunities
 -------------------------------------------------------------------------------
 
-![Figure 31: ToC chart showing Trajectories of Change for improving Human Data Relations](./src/figs/fig31-change-trajectories.jpg)
+![Figure X: ToC chart showing Trajectories of Change for improving Human Data Relations](./src/figs/figX-change-trajectories.jpg)
 
 Now, having established some of the key obstacles to improving HDR, we can move to considering what opportunities exist to pursue the HDR wants and to overcome those obstacles. This section will first introduce a framing for those opportunities, and then illustrate specific opportunities in detail.
 
-In Figure 31, the ToC frame introduced above in 7.1.3 / Figure 29 is used as a canvas upon which to position the different trajectories for changes that could improve HDR. By enumerating the possible types of activity that can bring about change, each of the four quadrants's core change trajectory can be named, as shown in purple, forming the backbone of the roadmap for improving HDR, which can be summarised thus:
+In Figure X, the ToC frame introduced above in 7.1.3 / Figure 29 is used as a canvas upon which to position the different trajectories for changes that could improve HDR. By enumerating the possible types of activity that can bring about change, each of the four quadrants's core change trajectory can be named, as shown in purple, forming the backbone of the roadmap for improving HDR, which can be summarised thus:
 
 - _**Learn & Discover**_ (CI): In this quadrant, individuals, researchers, activists and other stakeholders work in groups to understand data attitudes and user needs, and to gain collective knowledge of data collection and usage practices which are sometimes hidden.
 - _**Defend & Create**_ (CE): In this quadrant, activists work to ensure current HDR capabilities are not eroded, while researchers, designers, technologists and social innovators design and create new technologies, operating models, organisations and interface designs, the structures enabling a world with better HDR. Given the majority of the opportunities for change identified in this chapter occur in this quadrant, this quadrant will be further subdivided into four different types of activity:
@@ -330,6 +345,7 @@ In Figure 31, the ToC frame introduced above in 7.1.3 / Figure 29 is used as a c
 - _**Educate & Empower**_ (II): In this quadrant, individuals ways of thinking about data and data holders grow and evolve towards a state we could call 'feeling empowered'. This change is driven through education, improving Human Data Relations literacy, and through the experience of new capabilities and changed relationships with data and with data holders that can empower individuals to hold a more aware and equitable position in those relationships and in their digital life.
 
 [TODO: do we need a summary diagram here?]
+[Figure X: SUMMARY OF OPPORTUNITIES]
 
 ### Learn & Discover
 
@@ -359,15 +375,17 @@ Given the shifting power balance of the information landscape outlined in 7.3.4.
 
 Compounding the impacts of reducing agency described in 7.3.4.4 is the 'dumbing down' of technology. Apple, for example, encourages users to consider technology as 'magical', rather than as understandable tools to be harnessed and understood; Such thinking is manifested in their hardware design too: phones that cannot be opened up, expanded or repaired [REF]; the removal of accessory ports, disk drives, and headphone jacks [REF]; increased controls over what can be installed on users' hard drives and which areas of disk can be modified [REF]. These changes simplify the technology and bring it to a more mainstream audience, something that the iPhone and iPad must be given due credit for - but it happens at the cost of reducing user agency. Companies like Apple increasingly encourage users to think of technology as a black box, which you cannot and should not look inside.
 
-[ADD BLACK BOX DIAGRAM]
+![Figure X: The 'Black Box' view that many modern technology providers present](./src/figs/figX-black-box.png)
 
 [TODO rephrase this para as a better introduction to Seams]
-An important concept to understand in this space is that of **_seams_**. In 'The Politics of Seams' Storni outlines that current designs are incompatible with empowerment-in-use, and highlights the role of design seams (and their removal) as being a key determiner of user power [REF]. He says that the designer passes some power to the user through their design, but also, that users should be able to take some power on their own terms (repurposing etc). He talks about the problems of technology as magic/design as conjuring:
-"Magical design prioritises pleasing and surprising a passive user who can only use the solution as authorised"
+An important concept to understand in this space is that of **_seams_**. In 'The Politics of Seams' Storni outlines that current designs are incompatible with empowerment-in-use, and highlights the role of design seams (and their removal) as being a key determiner of user power [REF]. He says that the designer passes some power to the user through their design, but also, that users should be able to take some power on their own terms (repurposing etc). He talks [says what] about the problems of technology as magic/design as conjuring:
+
+> _"Magical design prioritises pleasing and surprising a passive user who can only use the solution as authorised"_ -- Cristiano Storni [@storni2014]
+
 Therefore part of what we need to be doing is (a) highlight and (b) removing seams/creating new seams between disconnected parts....
 
 Groups of HDR reformers can combine development skills, innovation and disruptive design approaches to find and publicise new ways to circumvent providers' efforts to control and limit their users' agency, as illustrated by the use of web scrapers and web augmentation approaches to try and obtain information or functionality from providers that would otherwise be inaccessible.
-[also mention device tenancy and firefox containers/taking back power in the browser/browser as seam (reference Goffe et al)]
+[also mention device tenancy (zeynep) and firefox containers/taking back power in the browser/browser as seam (reference Goffe et al)]
 
 #### Opportunity 5: Collective Activism
 
@@ -377,6 +395,7 @@ Collectives can also exert external influence in the adjacent 'Defend & Create' 
 [mention dehaye's pressure, leading to FB Off Site Activity, my success with Spotify]
 [noyb as example, also Privacy International, Bits of Freedom,]
 [cite examples from Mahieu papers][@mahieu2018;mahieu2020a;@mahieu2020b]
+[mention pooldata, data unions]
 
 ### Create New Structures and Systems
 
@@ -384,33 +403,88 @@ Collectives can also exert external influence in the adjacent 'Defend & Create' 
 Helps with: Data Understanding, Data Useability, Ecosystem Transparency, General Human Challenges
 Affected by: Lack of interoperability (7.3.6.1/12)
 
-[Add a PDS screenshot from BBC, general]
+![Figure X: A conceptual model for a Personal Data Store system that I developed for the BBC Cornmarket project](./src/figs/figX-conceptual-PDS.png)
 
 As others have identified, one of the most promising models for giving people a new and improved relationship with their data is to create a place where one's personal data can be stored and aggregated in one place, a personal data locker (see 2.3.4). This prospect was explored through the BBC R&D Cornmarket project during my internship, as detailed in 3.4.3.3 [OR MOVE SOME OF THAT TEXT HERE]. As alluded to in the quote opening Chapter 1, people's data is scattered (see also 2.2.4 and [@abiteboul2015]), and simply providing the ability to bring data from sources together in one place can improve people's understanding of their data and its ecosystem. This integration requires technical standardisation but also
 [BRING IN SOME TEXT FROM BBC BLOG ARTICLE]
 [REF previous appetite for PDS https://journals.sagepub.com/doi/full/10.1177/2053951720935616]
 
 talk about the capacity to unify
-[watchlist image]
+![Figure X: A mockup of a unified TV viewing history which I created for the BBC R&D Cornmarket project](./src/figs/figX-unified-watch-history.png)
 
-#### Opportunity 7: Algorithmic Meaning Extraction and Learning Systems
+[add quote from BBC research where people liked the concept of a place for your data]
+
+#### Opportunity 7: Modelling Data as Life Information
+Helps with: Life Information as Material, Limited machine understanding of data
+
+As part of the BBC R&D Cornmarket project, I carried extensive information modelling and design work with colleagues on how today's common types of data might be modelled as life information in order to help with the stated goals.
+
+First we need to consider what a piece of data is, which is different from what data format it is or what semantic concept it represents.
+
+![Figure X: High Level Data Types](./src/figs/figX-data-types.jpg)
+
+It is possible to use some abstraction of commonalities to group together pieces of data that can perform a similar role:
+
+![Figure X: Happenings](./src/figs/figX-happenings.jpg)
+
+It can also be useful to model the different attributes of data in terms of what can be done to it.
+
+![Figure X: Attributes of Data](./src/figs/figX-data-attributes.jpg)
+
+We can imagine a simplified model of presenting information to users:
+
+![Figure X: Simple Life Information Presentation Model](./src/figs/figX-simple-data-model.jpg)
+
+#### Opportunity 8: Algorithmic Meaning Extraction and Learning Systems
 Helps with: engagement/efforts
 
 Key idea to share: that the system should try and automatically associate data to entities.
 also: calendar/contact as start point. conjecture and assertion to reduce effort. learning, correcting, like an assistant [ref]
 world2vec as an exmample of the sophistication of what is being done and harnessed for provider purposes[REF]
 
-show how different types of entity can be identified.
+![Figure X: A design for Facebook's world2vec model, semantically modelling data from social media posts on Facebook](./src/figs/figX-facebook-world2vec.png)
+
+[citation: diagram by Alex Peysakhovic, from CS 4803 / 7643: Deep Learning Guest Lecture: Embeddings and world2vec, a guest lecture at Georgia Tech by Facebook AI research engineer Ledell Wu, given Feb 18th 2020. https://www.cc.gatech.edu/classes/AY2020/cs7643_spring/slides/L13_Embedding_world2vec_final_vers ion.pdf , archived at https://web.archive.org/web/20211018015836/https://www.cc.gatech.edu/classes/AY2020/cs7643_spri ng/slides/L13_Embedding_world2vec_final_version.pdf]
+
+one possible flow of how to identify data
+
+![Figure X: Determining the nature of a piece of data](./src/figs/figX-determining-nature-of-data.jpg)
+
+show how attributes types etc (ref back to earlier diagrams) can be detected:
+
+![Figure X: Identifying the attributes of data](./src/figs/figX-interpreting-data-as-information.jpg)
+
+show how different types of entity can be identified. important to establish associations.
+
+![Figure X: Identifying entities in data](./src/figs/figX-finding-entities-in-data.jpg)
+
 
 ### Create New Information Interfaces
 
 #### Opportunity 8: Life Information interfaces
 
-Key idea to share: life partitions, show the 4 part spider and the mockup flow from hackweek.
+![Figure X: Life Partitioning](./src/figs/figX-rooms-of-life.jpg)
+(add credit for cluedo board)
+
+Life partitioning would allow conceptually the user to navigate information according to what semantic concepts it is or relates to.
+
+![Figure X: Taxonomies For Navigation](./src/figs/figX-taxonomies-for-navigation.png)
+(add credit for cluedo board)
+
+A mockup of how this might look in a user interface (ignore first frame for now)
+
+![Figure X: Browsing By Areas of Life](./src/figs/figX-browse-by-areas-of-life.jpg)
+
+A mockup of a life interface dashboard (by Alex Ballantyne)
+
+![Figure X: Dashboard mockup](./src/figs/figX-dashboard-concept.png)
+(to do: make this fit on a portrait page)
 
 #### Opportunity 9: Ecosystem Detection & Visualisation
 
 Key idea: detecting the ecosystem. Example: the subscription detector.
+
+![Figure X: Subscrab: An example application for ecosystem detection and visualisation](./src/figs/figX-subscrab.png)
 
 #### Opportunity 10: Inclusive Information Flows
 
@@ -420,7 +494,18 @@ Key idea: Rivers of flowing info. Including people.
 
 #### Opportunity 11: Exploratory Actions & Asking Tools
 
-Key idea: verbs. types of question.
+It is important to think about the capabilities people will have
+(expand on and map this back to all the PIM calls in 2.2.2)
+
+refer back to dashboard mockup & data needs to be interrogable and malleable. What if there aren't visualisations for your questions. But also, visualisations raise questions
+
+Here are a series of data cards we used in a user research activity at BBC. (initially conceived by me, condensed and reworked by myself in collaboration with Chris Gameson)
+
+![Figure X: Data actions](./src/figs/figX-data-actions.jpg)
+
+![Figure X: Data questions](./src/figs/figX-data-questions.jpg)
+
+Key idea: verbs. types of question. asking tools not just predetermined insights.
 
 #### Opportunity 12: Self Profiling & Curating your Digital Self
 
@@ -435,7 +520,8 @@ maybe also some ref back to end C5 and to the GDPR Guidelines
 
 #### Opportunity 14: Information Unification and Schematisation
 
-Key idea: generalised types of data (BBC sketch)
+Key idea: generalised types of data (refer back to relevant model above)
+[reference to Solid Shapes etc]
 
 #### Opportunity 15: Life/Ecosystem Information as Boundary Objects (Multi-stakeholder Design)
 [POSSIBLY CUT THIS ONE]
