@@ -179,6 +179,7 @@ People struggle to relate to data. It is not relatable because it is complex, no
 #### Insight 1: Life Information Makes Data Relatable
 
 When data is transformed into information that can be related back to moments, people, places or relationships in people's lives, it becomes instantly relatable.
+[from BBC: Data becomes meaningful when people are able to associate it with the real substance of their lives - people, places, organisations, causes or topics they care about. Therefore, the more associations you can find in data the more valuable it is.]
 
 #### Obstacle 2: The Personal Data Diaspora
 
@@ -302,6 +303,7 @@ Obstacle 8 (7.3.4.3) already touched on the issues around different companies de
 #### Obstacle 13: Insufficient machine understanding of human data
 
 Following on from the previous obstacle, but a subtly different point, is that it is technically difficult for machines to handle human information. Without deliberate coding, software can only understand streams of binary data as files or datasets, and does not understand what people, places, events or entities the facts within the data relate to. Therefore, it is necessary to consider how algorithms and systems can be designed to include an understanding of the semantics (meaning) of the information within the files and data records they handle. For example, the data record representing a post on Twitter looks entirely different to the data record representing a post on Facebook. No algorithm can recognise or unify these disparate pieces of data as two instances of the same semantic concept until it the specifics of the data format can be mapped back to a common semantic abstraction of a "social media post".
+[find meaning in user's data]
 
 #### Insight 9: The Power of Semantic Analysis and Information Standards
 
@@ -320,7 +322,7 @@ In Figure 31, the ToC frame introduced above in 7.1.3 / Figure 29 is used as a c
 
 - _**Learn & Discover**_ (CI): In this quadrant, individuals, researchers, activists and other stakeholders work in groups to understand data attitudes and user needs, and to gain collective knowledge of data collection and usage practices which are sometimes hidden.
 - _**Defend & Create**_ (CE): In this quadrant, activists work to ensure current HDR capabilities are not eroded, while researchers, designers, technologists and social innovators design and create new technologies, operating models, organisations and interface designs, the structures enabling a world with better HDR. Given the majority of the opportunities for change identified in this chapter occur in this quadrant, this quadrant will be further subdivided into four different types of activity:
-  - Defend the Status Quo and Push Back
+  - Defend the Status Quo and Push for Compliance
   - Create New Structures and Systems
   - Create New Information Interfaces
   - Create New Capabilities
@@ -341,16 +343,17 @@ Through the emergence of new tracking tools such as TrackerControl and Apple's A
 #### Opportunity 2: Collective Investigation
 Helps with: Ecosystem transparency
 
-This sort of combination of individual observations is just one of many ways in which individuals can, through working together, discover more information about data usages and practices. Collectives offer a powerful means to examine how providers categorise users and process their data, for example by comparing field values to understand the range of possible values or inferences a data holder might have stored, or by comparing variations in information presentations, data rights handling or customer service experiences to reverse engineer provider practices. Collectives can also exert external influence in the adjacent 'Defend & Create' quadrant by using their learnings through data to demand change, as seen in the case of Uber drivers working together to obtain data on algorithmic judgements that affect their work and using that as evidence to help them demand fairer working conditions [REF].
+This sort of combination of individual observations is just one of many ways in which individuals can, through working together, discover more information about data usages and practices. Collectives offer a powerful means to examine how providers categorise users and process their data, for example by comparing field values to understand the range of possible values or inferences a data holder might have stored, or by comparing variations in information presentations, data rights handling or customer service experiences to reverse engineer provider practices.
 
 #### Opportunity 3: A 'Data Understanding' Industry
 Helps with: Data Understanding, Ecosystem Transparency
 
 Given the complexity of today's digital landscape and the forces that hinder better HDR, there is scope for an industry to develop around 'data understanding' services. This can encompass everything from self-service tools people can use to gain insights over their data (such as those provided by Ethi or Hestia.ai), to workshops helping consumer organisations, journalists, regulators, lawyers and other interested parties to collectively gain understanding and value from data so that they might better achieve their goals, as well as serving a general educational purpose for example in schools. This industry is beginning to emerge, but faces challenges in funding, scalability, governance, and credibility and should be supported (REF Pidoux et al).
 
-### Defend the Status Quo and Push Back
+### Defending the Status Quo and Pushing for Compliance
 
 Given the shifting power balance of the information landscape outlined in 7.3.4.1, 7.3.4.2 and 7.3.4.4, it is clear that there is an opportunity, perhaps a need, for HDR reformers to carry out activities that monitor and publicise any changes that providers make that reduce individuals' HDR capabilities. Having identified such changes it is then easier for those HDR reformers, and indeed the wider public, to fight to protect and maintain current capabilities, as we see in the Right to Repair movement [REF] or the Net Neutrality movement [REF].
+[mention also the idea of pushing to make sure what should be done, is done - e.g. in GDPR returns]
 
 #### Opportunity 4: Tapping the Seams in pursuit of a Free Information Landscape
 
@@ -366,9 +369,18 @@ Therefore part of what we need to be doing is (a) highlight and (b) removing sea
 Groups of HDR reformers can combine development skills, innovation and disruptive design approaches to find and publicise new ways to circumvent providers' efforts to control and limit their users' agency, as illustrated by the use of web scrapers and web augmentation approaches to try and obtain information or functionality from providers that would otherwise be inaccessible.
 [also mention device tenancy and firefox containers/taking back power in the browser/browser as seam (reference Goffe et al)]
 
+#### Opportunity 5: Collective Activism
+
+Collectives can also exert external influence in the adjacent 'Defend & Create' quadrant by using their learnings through data to demand change, as seen in the case of Uber drivers working together to obtain data on algorithmic judgements that affect their work and using that as evidence to help them demand fairer working conditions [REF].
+[individuals collectively pressuring to improve GDPR responses, drive data portal improvements, etc]
+[traditional means e.g. press, public campaigns but also new ways e.g. mass GDPR or targeted GDPR]
+[mention dehaye's pressure, leading to FB Off Site Activity, my success with Spotify]
+[noyb as example, also Privacy International, Bits of Freedom,]
+[cite examples from Mahieu papers][@mahieu2018;mahieu2020a;@mahieu2020b]
+
 ### Create New Structures and Systems
 
-#### Opportunity 5: A central home for your personal data
+#### Opportunity 6: A central home for your personal data
 Helps with: Data Understanding, Data Useability, Ecosystem Transparency, General Human Challenges
 Affected by: Lack of interoperability (7.3.6.1/12)
 
@@ -381,7 +393,7 @@ As others have identified, one of the most promising models for giving people a 
 talk about the capacity to unify
 [watchlist image]
 
-#### Opportunity 6: Algorithmic Meaning Extraction and Learning Systems
+#### Opportunity 7: Algorithmic Meaning Extraction and Learning Systems
 Helps with: engagement/efforts
 
 Key idea to share: that the system should try and automatically associate data to entities.
@@ -392,52 +404,51 @@ show how different types of entity can be identified.
 
 ### Create New Information Interfaces
 
-#### Opportunity 7: Life Information interfaces
+#### Opportunity 8: Life Information interfaces
 
 Key idea to share: life partitions, show the 4 part spider and the mockup flow from hackweek.
 
-
-
-#### Opportunity 8: Ecosystem Detection & Visualisation
+#### Opportunity 9: Ecosystem Detection & Visualisation
 
 Key idea: detecting the ecosystem. Example: the subscription detector.
 
-#### Opportunity 9: Inclusive Information Flows
+#### Opportunity 10: Inclusive Information Flows
 
 Key idea: Rivers of flowing info. Including people.
 
 ### Create New Capabilities
 
-#### Opportunity 10: Exploratory Actions & Asking Tools
+#### Opportunity 11: Exploratory Actions & Asking Tools
 
 Key idea: verbs. types of question.
 
-#### Opportunity 11: Self Profiling & Curating your Digital Self
+#### Opportunity 12: Self Profiling & Curating your Digital Self
 
 Key idea: self profiling (a la BBC) but also more generally, the "I want a bicycle" VRM idea (unless already covered)
 
 ### Influence & Motivate
 
-#### Opportunity 12: Regulating the Information Landscape
+#### Opportunity 13: Regulating the Information Landscape
 
 Key point: regulation of *landscape* -> new moves DSA
 maybe also some ref back to end C5 and to the GDPR Guidelines
 
-#### Opportunity 13: Information Unification and Schematisation
+#### Opportunity 14: Information Unification and Schematisation
 
 Key idea: generalised types of data (BBC sketch)
 
-#### Opportunity 14: Life/Ecosystem Information as Boundary Objects (Multi-stakeholder Design)
+#### Opportunity 15: Life/Ecosystem Information as Boundary Objects (Multi-stakeholder Design)
+[POSSIBLY CUT THIS ONE]
 
 Key idea: Data as bringing different people together , ref living lab. also use of cards in my research and at BBC (and ref Urquhart?)
 
-#### Opportunity 15: The Business Value of Transparency and Human Centricity
+#### Opportunity 16: The Business Value of Transparency and Human Centricity
 
 key idea: tackling resistance reducing liability, improved consent . less waste cost on broadcast advertising (could express it as a development of all the ad personalisation today). selling the benefits.
 
 ### Educate & Empower
 
-#### Opportunity 16: Life Information & Personal Data Ecosystem Literacy
+#### Opportunity 17: Life Information & Personal Data Ecosystem Literacy
 
 Key point: define it, distinguish it from technical skills/literacy as well as from numbercrunching Literacy
 
