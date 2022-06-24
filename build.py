@@ -44,8 +44,9 @@ def buildThesis(format):
     # Add for pdf (avoid latex pdfs)
 
     if format == "pdf":
-        args.append("-t")
-        args.append("html5")
+        #args.append("-t")
+        #args.append("html5")
+        args.append("--pdf-engine=pdflatex")
 
     #print('command is:')
     #print(args)
@@ -71,8 +72,9 @@ def buildFile(filename, format, chapterNumber=None):
 
     # Append the pdf args for if they try to build a PDF file
     if format == "pdf":
-        args.append("-t")
-        args.append("html5")
+        #args.append("-t")
+        #args.append("html5")
+        args.append("--pdf-engine=pdflatex")
 
     # Append the args for offsetting the section number (chapter number minus 1)
     if not chapterNumber == None:
