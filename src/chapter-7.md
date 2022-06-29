@@ -159,16 +159,17 @@ In the PDEC context, multiple data wants are important: visible data and transpa
 Obstacles to Better Human Data Relations and Resulting Insights
 ---------------------------------------------------------------
 
+![Figure X: Mapping the Six Wants into Objectives for the HDR Opportunity Landscape](./src/figs/figX-landscape-objectives.jpg)
+
 In this section I will describe the high level obstacles to better HDR, in four sections. These are arranged into six groupings. The first four groupings correspond to the six wants identified in Chapter 6. Two additional groupings have been included to cover more general human and technical challenges that affect all endeavours in this space:
 
 - 7.3.1: Obstacles to Data Awareness & Understanding
 - 7.3.2: Obstacles to Data Useability
 - 7.3.3: Obstacles to Ecosystem Transparency (including visible data & transparent processes)
 - 7.3.4: Obstacles Ecosystem Negotiability (encompassing individual oversight and involvement) decision-making)
-- 7.3.5: General Human Challenges
-- 7.3.6: General Technical Challenges
+- 7.3.5: Obstacles in the Solution Space
 
-[Figure X Obstacles overview (and their relation back to Wants)]
+![Figure X: Obstacles and Resulting Insights in the HDR Opportunity Landscape](./src/figs/figX-obstacles-insights-hdr-landscape.jpg)
 
 ### Data Awareness & Understanding
 
@@ -287,7 +288,7 @@ Companies change their practices to limit users' agency (and their own accountab
 Earlier in this thesis the concept of a data self has been introduced
 (4.4.1, 4.4.3, 6.3). We know from both the preliminary study with families [@bowyer2018b] and Case Study Two that data serves as a proxy for direct human involvement of the served individual(s). Put simply, service providers try to minimise interaction with people, by maximising their usage of data to represent people. We are viewed through the distorted lens of our data selves. Despite the inherent challenge of representing people fairly and accurately in data [@bowyer2018b; 4.4.1; 5.4.4.1], this is the default modus operandi for service provision today. This therefore represents a key obstacle to ecosystem negotiability today: how can individuals be given the ability to influence and shape the data self that providers will use to understand them and make decisions?
 
-### General Human Challenges
+### Obstacles in the Solution Space
 
 While in the previous four subsections it was possible to identify obstacles relating to specific HDR wants, there are also some readily identifiable obstacles that will affect all our endeavours to improve HDR. Obstacles relating to human challenges are described in this section, and technical challenges are addressed in the following section, 7.3.6.
 
@@ -309,8 +310,6 @@ Another example that is helpful to consider is my the example from my 2011 artic
 As with any public offering of a product or service, it is important to start with identifying a problem or need, and to demonstrate a potential tool or solution that can help. In particular, there is a need to let people do **new** things that they could not do before. This has been identified as a key ingredient of user empowerment [@schneider2018;@meschtscherjakov2014]. This became a driving influence for design thinking on the BBC R&D Cornmarket project.
 It is not enough to believe that "If you build it, they will come."
 
-### General Technical challenges
-
 #### Obstacle 12: A lack of Interoperability
 
 Obstacle 8 (7.3.4.3) already touched on the issues around different companies developing different standalone walled garden or silo user experiences, from a sociotechnical or systemic standpoint. But there is a very specific technical problem that must be acknowledged across all HDR improvement approaches, and that is that it is very difficult to build technical systems that connect and exchange data with each other. This was witnessed first hand by our development team on the SILVER health data interface project [REF] which endeavoured to build a bridge making health data available to Early Help support workers. Not only are there a lack of standards, with each organisation using their own databases and formats for storing data, but often the programming interfaces (APIs) that would be needed to interface between different systems (sometimes legacy systems) do not exist, are insufficient. Furthermore, there can be issues around licensing and consent when data passes from one domain to another. Data sharing agreements must be established, especially in the public sector which is by its nature more liable to scrutiny and accountability. But at an abstract level the technical obstacle, the problem is one that has always faced the tech industry, which is that there often is no universally agreed way to represent important concepts - in this case human-centric information concepts such as events, social media posts, website visits, location history information, app activity, etc. And any entity that does create a standard then faces the challenge of trying to persuade others that their standard is the best one to use. In general, standards work best when established by non-commercial industrial standards bodies (for example the World Wide Web Consortium (W3C) or International Organisation for Standardization (ISO) and then mandated through policy such as European Union law. Such standards much be established with input from industry experts.
@@ -320,7 +319,7 @@ Obstacle 8 (7.3.4.3) already touched on the issues around different companies de
 Following on from the previous obstacle, but a subtly different point, is that it is technically difficult for machines to handle human information. Without deliberate coding, software can only understand streams of binary data as files or datasets, and does not understand what people, places, events or entities the facts within the data relate to. Therefore, it is necessary to consider how algorithms and systems can be designed to include an understanding of the semantics (meaning) of the information within the files and data records they handle. For example, the data record representing a post on Twitter looks entirely different to the data record representing a post on Facebook. No algorithm can recognise or unify these disparate pieces of data as two instances of the same semantic concept until it the specifics of the data format can be mapped back to a common semantic abstraction of a "social media post".
 [find meaning in user's data]
 
-#### Insight 9: The Power of Semantic Analysis and Information Standards
+#### Insight 8: The Power of Semantic Analysis and Information Standards
 
 ![Figure X: Annotating Data with Semantic Context](./src/figs/figX-semantic-annotation.png)
 
