@@ -25,55 +25,100 @@ This PhD and this thesis represent the culmination of a passion to get more valu
 
 Nature and Contributions of the thesis
 --------------------------------------
-[intro text][50w?]
+This section lists the contributions (**Cn**) of this thesis: specifically:
 
-### Contributions in the context of Early Help and Civic Data Use
+- an understanding of what people need when they relate to data [[1.2.1](#1.2.1)];
+- the establishment of the field of *Human Data Relations* [[1.2.2](#1.2.2)]; and
+- additional contributions specific to the Case Study contexts of
+  - Early Help [[1.2.3](#1.2.3)], and
+  - GDPR/everyday data access [[1.2.4](#1.2.4)].
 
-[c4, contributions specific to this field] [100w]
+### An Understanding of what People want from Personal Data{#1.2.1}
 
-**Contributions**
+**C1: An understanding of what People want in Direct Data Relations**
 
-* **Cn: (appreciation and validation of individual needs)**
-* **Cn: (shared data interaction)**
+Through the concluding sections of Chapters 4 and 5, the reader will be able to see that research participants across both studies (and the pilot study) shared common issues around personal data. In section [6.1](#6.1) of Chapter 6, those commonalities that address RQ1 *what people need in direct data relations* are specifically expressed in answer to that question as three specific needs:
 
-### Contributions in the context of GDPR and Everyday Data Access
+- for data to be **visible** [[6.1.1](#6.1.1)],
+- **understandable** [[6.1.2](#6.1.2)], and
+- **useable** [[6.1.3](#6.1.3)].
 
-[c5, contributions specific to this field] [100w]
+**C2: An Understanding of what People want in Indirect Data Relations**
 
-**Contributions**
+Similarly, in section [6.2](#6.2) of Chapter 6, those commonalities that address RQ2 -- *what people need when they have an indirect relationship to their data because it is held by someone else* (such as their service provider) -- are specifically expressed to answer RQ2 as three specific needs:
 
-* **Cn: (the stuff from the paper)**
-* **Cn: (the research methodology)**
+- **process transparency** [[6.2.1](#6.2.1)],
+- **individual oversight** [[6.2.2](#6.2.2)], and
+- **involvement** in processes and decision-making [[6.2.3](#6.2.3)].
+
+### Establishing a new field: Human Data Relations{#1.2.2}
+
+**C3: The synthesis and formulation of the field of Human Data Relations (HDR)**.
+
+At the highest level, the contribution of this thesis is to establish and map out a new field of research and innovation, **Human Data Relations** (HDR). This begins with a broad literature review in [Chapter 2](#chapter-2) of prior areas of research and established thinking that contribute to this field, specifically the problems of data-centricism and limited access to data [[2.1](#2.1)], a review of prior work in personal information management and interaction [[2.2](#2.2)], and of existing research and innovation around human-centric perspectives on data [[2.3](#2.3)].
+The HDR field is then explored and understood through the two research questions RQ1 [[3.3.1](#RQ1)] and RQ2 [[3.3.2](#RQ2)]. Both RQs are explored through participatory research and qualitative data analysis across the two contexts of [Chapter 4](#chapter-4) and [Chapter 5](#chapter-4), contributing to a synthesis in [Chapter 6](#chapter-6) of what people want in direct data interaction [RQ1, [6.1](#6.1)] and in relationships that involve the use of personal data by the other party [RQ2, [6.2](#6.2)].
+Finally in Chapter 7, the field of HDR is refined [[7.2](#7.2)], and a landscape of possible approaches to improve HDR is mapped out, including the identification of specific obstacles to progress [[7.3](#7.3)] and possible approaches that could be explored [[7.4](#7.3)].
+
+**C4: A clear delineation of two primary motivators for individuals seeking better HDR**
+
+In [7.2.3](#7.2.3), informed by both participatory research within this thesis and by the research and design activities conducted in external research settings [7.1.1](#7.1.1), I outline a first top-level perspective on the HDR space, that there are two key reasons why people need good data relations:
+
+- *Life Information Utilisation*, and
+- *Personal Data Ecosystem Control*.
+
+**C5: A map of the HDR landscape, identifying obstacles, insights and opportunities**
+
+The goal of this thesis is to set the stage for future research and innovation in the newly-defined space of Human Data Relations. While evaluating methods and approaches 'in the wild' was well-beyond the scope of this thesis, my involvement in external research settings allowed a broad and grounded understanding of the HDR landscape and its practicalities to be formed, such that the landscape can be mapped from multiple perspectives.
+
+In [7.3](#7.3) the specific wants mentioned above in C2 and C3 are reduced to four simple objectives for effective HDR:
+
+- data awareness and understanding
+- data useability
+- ecosystem awareness and understanding
+- ecosystem negotiability
+
+The same section then continues to map out eight obstacles to better HDR that exist in these four areas, as well as four obstacles that exist in the solution space across all four:
+
+1. The Personal Data Diaspora
+2. Illegible Data
+3. Data that isn't free
+4. Unmalleable and non-interrogable data
+5. Hegemony through data holding
+6. A trend of actively diminishing of users' agency
+7. Closed, insular & introspective practices
+8. The inaccessible data self
+9. A lack of HDR demand from individuals
+10. A lack of HDR demand from organisations
+11. A lack of interoperability
+12. Insufficietn machine understanding of human data.
+
+To begin to address these obstacles, seven insights are offered that could seed future research and innovation towards tackling these obstacles:
+
+1. Life information makes data relatable.
+2. Ecosystem information is an antidote to digital life complexity.
+3. Life & ecosystem information should be useable as a material.
+4. Data needs provenance.
+5. Data holders exploit four levers of power to manipulate the digital landscape.
+6. Semantic analysis and information standards can transform data storage and facilitate human-centric interface building.
+7. New life capabilities and pain relievers drive user demand.
+8. Better HDR can deliver business value through increased accuracy and consent, and decreased liability.
+
+### Additional contributions in the Early Help and Civic Data Use context{#1.2.3}
+
+**C6: Validation and enumeration of supported families' attitudes and needs around civic data**
+
+**C7: _Shared Data Interaction_: A proposed model for more efficient and empowering social support relationships that embraces human-centricity**.
+
+### Additional contributions in the context of GDPR and Everyday Data Access{#1.2.4}
+
+**C8: An understanding of the lived experience of accessing data using GDPR rights**
+
+**C9: Evidence for the impact of knowledge about data handling practices on provider trust and perceived individual power**
+
+**C10: Guidance for policymakers, data holders and individuals on how to improve HDR**
+
+**C11: A methodology for educating individuals about held data, data access and the data ecosystem**
 (with caveat not intended or evaluated as such)
-
-### Contributions towards Understanding Direct Data Relations
-
-**RQ1: [research question goes here]**
-
-[4,5 and 6] [180w?]
-
-**Contributions**
-
-* **Cn: Three wants from direct data relations**
-
-### Contributions towards Understanding Indirect Data Relations
-
-**RQ2: [research question goes here]**
-
-[4,5 and 6] [180w?]
-
-**Contributions**
-
-* **Cn: Three wants from indirect data relations**
-
-### Defining a new field: Human Data Relations
-
-[two, six and seven] [180w?]
-
-**Contributions**
-
-* **Cn: The synthesis, definition and naming of the field itself**
-* **Cn: A map of the HDR landscape with identified obstacles, insights and opportunities**
 
 Publications arising from and connected to this research
 --------------------------------------------------------
@@ -92,7 +137,7 @@ This study is given a special status in this thesis; while it is not officially 
 
 #### Publications from Case Study One
 
-The work carried out in Case Study One has been initially published as an Extended Abstract at CHI 2019:
+The work exploring shared data interaction in Early Help carried out in Case Study One has been initially published as an Extended Abstract at CHI 2019:
 
 - "[Human-data interaction in the context of care: Co-designing family civic data interfaces and practices](https://doi.org/10.1145/3290607.3312998)" [@bowyer2019]
 
@@ -104,7 +149,7 @@ A 15,000 word+ detailed first-author journal paper has been drafted to supplemen
 
 #### Publication from Case Study Two
 
-The work carried out in Case Study Two has been published as a full first-author paper at CHI 2022:
+The work exploring the human experience of GDPR data access carried out in Case Study Two has been published as a full first-author paper at CHI 2022:
 
 - ["Human-GDPR Interaction: Practical Experiences of Accessing Personal Data"](https://doi.org/10.1145/3491102.3501947) [@bowyer2022].
 

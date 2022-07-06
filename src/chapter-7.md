@@ -85,8 +85,8 @@ In doing so, we can consider ourselves (those who pursue better Human Data Relat
 
 Whether these disparate groups coalesce into a single identifiable public remains to be seen, and so too whether the term this thesis offers of _Human Data Relations_ is sufficient to capture that public (at least, it provides a descriptive umbrella term). Nonetheless, the breadth of research and innovation and activism happening in this space validates both the need and the desire for such a recursive public around better HDR to exist. Therefore, this chapter takes an unashamedly critical view of the status quo, favouring disruptive societal changes that would further the objectives of better Human Data Relations and providing actionable approaches that will be of use to the members of this public. The chapter asks, "How can we change the world into the one we want?"
 
-Expanding the Concept of Human Data Relations
----------------------------------------------
+Refining and Defining 'Human Data Relations' (HDR){#7.2}
+--------------------------------------------------
 
 Chapter 6 established six 'wants' in HDR: **visible**, **understandable** and **usable data**; **process transparency**, **individual oversight** and **decision-making involvement**. At a simplistic level therefore 'better' HDR can be achieved by working to improve upon those six aspects of data interaction. However, as this section will explain, HDR can be conceptually split into two distinct motives, to which those six wants apply differently, therefore it is useful to develop the concept of HDR further. As background understanding for this duality of motivation, it is first necessary to examine more closely what role data plays in people's lives.
 
@@ -156,8 +156,8 @@ Unlike LIU, _**Personal Data Ecosystem Control**_ is an individual need that is 
 
 In the PDEC context, multiple data wants are important: visible data and transparent processes, as well as individual oversight and involvement. For simplicity, the former two wants can be referred to collectively as _"ecosystem transparency"_, and the latter two as _"ecosystem negotiability"_ (drawing on the HDI concept of _negotiability_), and these terms will be used below.
 
-Obstacles to Better Human Data Relations and Resulting Insights
----------------------------------------------------------------
+The landscape of opportunity for better HDR, with its obstacles and resulting insights{#7.3}
+----------------------------------------------
 
 ![Figure X: Mapping the Six Wants into Objectives for the HDR Opportunity Landscape](./src/figs/figX-landscape-objectives.jpg)
 
@@ -208,7 +208,7 @@ Almost all data is constrained in some way, limiting its useability. It may be h
 
 Even once an individual has gained possession or access to the relevant parts of their personal data, it can be extremely hard to use. This partly comes from a lack of malleability - the ability to break it down, look at it from different perspectives, reconstitute it in different ways. Put simply, people need to be able interrogate their data - ask questions of it. This requires more than just an ability to view visual representations of data, but an ability to interact with the data and produce new views and insights that can help to answer specific questions. Making some of the PIM and SI capabilities described in 2.2.2 and 2.2.3 can help to address this, but more capabilities can be made available and are needed to fully overcome this obstacle.
 
-#### Insight 3: Life Information & Ecosystem Information as a Material
+#### Insight 3: Life Information & Ecosystem Information should be Useable as a Material
 
 Many computer operating systems and interfaces today treat files as the basic material that an individual can manipulate. To truly empower users to make use of their data, we need to move to a model where pieces of life information -- facts (or assertions) -- can be created, deleted, moved, grouped, annotated, copied, shared, modified, labelled, organised, separated or otherwise manipulated instead. So far, people access data within products. But what they need is a platform, not a product. We need an information operating system.
 
@@ -230,7 +230,7 @@ To provide users with meaningful transparency, many of these aspects will need t
 
 [ADD REFERENCE BACK TO 2.2.2 METADATA]
 
-#### Insight 4: Data with Provenance
+#### Insight 4: Data Needs Provenance
 
 A number of researchers have independently identified the importance of keeping the history of a piece of data with it. Without context, data loses meaning (a phenomenon witnessed in Case Study Two -- see 5.4.3.1). The idea that what has happened to not just an individual but to a piece of data over time is important is a key part of the thinking behind temporal PIM systems, from Lifestreams [@freeman1996] to activity streams [@hartdavidson2012] (see 2.2.2). William Odom, Siân Lindley and colleagues proposed the idea of file biographies, which view the lifetime of a file as something that should remain connected and traversal in order to understand the context of the file at its different interaction points.
 Significant research in this space has been undertaken by Professors Mike Martin and Rob Wilson at Northumbria University, formerly Newcastle University, who express the idea of **data with provenance**; in other words that data must carry with it the details of why it exists, how it came to be, and what has happened to it since its inception, and that provenance must be communicated alongside any visualisation of the data, if it is to be fully understood (ie. for its context []). This plays into the ideas of Gitelman, Neff and others, that data is not neutral and in fact is inherently biased, since it was created for a specific purpose with a specific agenda in mind [@gitelman2013;@neff2013]. [ADD MORE DETAIL FROM MIKE MARTIN PAPER AND EMAIL HERE]. While it is not a solution in its own right, it is clear that data with provenance is very likely to be a critical and valuable part of any design that aims to help individuals with managing to get an overview of their complex and invisible personal data ecosystems.
@@ -254,7 +254,7 @@ etc]
 A helpful analogy for the relationship between provider and user can be seen in the design of Panopticon: A style of prison architecture designed to elevate the power of the prison guards to observe all the prisoners easily at any time and to diminish the ability of prisoners to operate in privacy or to see those in authority. Jeremy Bentham [REF], drawing on the philosophy of Foucault [REF], makes clear that such design is political, and shows that power can be enforced by the environment. This is a useful mental scaffold to keep in mind; as explained below [REF], we can think of today's digital landscape as similarly power-enforcing. Code is law [ADD REF Lessig], and interfaces limit what individuals can do. By holding data behind interfaces shaped to serve their own interests, the landscape is controlled by the data holders.
 [UPDATE THIS BASED ON OTHER WRITING ABOUT PANOPTICON]
 
-#### Insight 5: The Four Levers of Power
+#### Insight 5: Data Holders Exploit Four Levers of Power to Manipulate the Digital Landscape
 
 Sitra's #digipower investigation [REF], of which I was project leader for Hestia.ai, was a successor to my Case Study Two, but worked with high profile politicians and European influencers and added additional technical audit techniques. Its focus was not on the individual experience of data access, but on using those experiences and acquired datasets to better understand the data ecosystem. Through this research, a model was produced to understand the ways in which service providers (and in particular the larger ecosystem-level platform providers such as Google and Facebook) exert power over individuals and smaller organisations. This model is reproduced in Figure X:
 
@@ -296,7 +296,7 @@ While in the previous four subsections it was possible to identify obstacles rel
 
 In considering the recommendations of Case Study One (shared data interaction between the state and the individual) and of Case Study Two (new human-centric data practices by service providers), and in exploring possible new human-centric system and interface designs through my work with BBC R&D, it is evident that even if new human-centric types of computer system or service interaction practices can be created, we cannot assume that people will be inclined to use them. Today, data is overwhelming, complex, and 'sounds boring'. There is no denying that currently, engaging with one's personal data economy to any degree more than that of passive consumer, is hard work. People routinely accept data sacrifice, click through T&Cs and cookie banners and are unwilling (or in some cases lack sufficient technical literacy, comprehension or skill) to do the work of asserting control over their digital lives. There is not a clear demand for holistic and novel ways of managing your digital life and exerting agency and negotiability over it. This can be seen as an obstacle that affects all HDR improvement approaches we see, and indeed is why many companies in the emergent PDE economy (2.3.4) struggle to find a business model. But this should not deter disruptive innovation nor does it indicate that such offerings would not be useful. As Henry Ford famously said, "If I had asked people what they wanted, they would have said faster horses." Nonetheless, it is a clear overarching obstacle to overcome.
 
-#### Insight 7: New Life Capabilities; Always Serve a Need
+#### Insight 6: New Life Capabilities and Pain Relievers Drive User Demand
 
 Through work at the BBC R&D exploring how to better connect people with their data, it became clear that there is a way to combat such indifference and apathy of users. It emerges from the realisation that the way people find value in data is to connect it their lives. The more that people see relatable life information and can imagine ways to harness that information in their everyday life, the more motivated they will be.
 [include the three concentric circles diagram a bit like the one Rhianne used]
@@ -319,14 +319,18 @@ Obstacle 8 (7.3.4.3) already touched on the issues around different companies de
 Following on from the previous obstacle, but a subtly different point, is that it is technically difficult for machines to handle human information. Without deliberate coding, software can only understand streams of binary data as files or datasets, and does not understand what people, places, events or entities the facts within the data relate to. Therefore, it is necessary to consider how algorithms and systems can be designed to include an understanding of the semantics (meaning) of the information within the files and data records they handle. For example, the data record representing a post on Twitter looks entirely different to the data record representing a post on Facebook. No algorithm can recognise or unify these disparate pieces of data as two instances of the same semantic concept until it the specifics of the data format can be mapped back to a common semantic abstraction of a "social media post".
 [find meaning in user's data]
 
-#### Insight 8: The Power of Semantic Analysis and Information Standards
+#### Insight 7: Semantic Analysis and Information Standards can Transform Data Storage and facilitate human-centric interface building
 
 ![Figure X: Annotating Data with Semantic Context](./src/figs/figX-semantic-annotation.png)
 
 This leads to the next insight: that to build systems and interfaces that are able to deal in human concepts and represent the elements of everyday life requires building systems that store semantic context and semantic associations, not just raw bundles of data. This is advocated by the Web's inventor Tim Berners-Lee in his vision of a Semantic Web [@bernersLee2001] and by proponents of networked PIM systems (2.2.2). There is a need to develop standard ways to digitally model facts and assertions about users' lives, so that those disparate pieces of data can be unified, connected, correlated and compared. Sizable industries have built up around Content Analytics and Enterprise Content Management. Through the capture of metadata at the point of data recording, and through subsequent programmatic analysis of stored data, as illustrated in Figure X [@bowyer2011], we can begin to teach computers what the data we store represent. Machine learning technologies and Artificial Intelligence have pushed machine understanding of human words, images and content to impressive levels in recent years and such technologies can certainly be helpful, but in fact at the core what we are talking about here is somemthing much simpler than AI; It is simply about labelling datapoints in as many different ways as possible so that those datapoints can be associatively retrieved from many different angles, and providing humans with ways to amend incorrect labels and to reclassify data or apply new semantic associations.
 
-Working in the present to build the future: Current Work & Future Opportunities
--------------------------------------------------------------------------------
+#### Insight 8: HDR can deliver business value through increased accuracy and consent, and decreased liability.
+
+
+
+Four approaches to improving HDR, and their specific opportunities{#7.4}
+------------------------------------------------------------------
 
 ![Figure X: ToC chart showing Trajectories of Change for improving Human Data Relations](./src/figs/figX-change-trajectories.jpg)
 
