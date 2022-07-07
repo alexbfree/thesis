@@ -283,15 +283,8 @@ Table: Table 1 - Context One (Civic Data & Early Help): Participants involved in
 
 [TODO update above table so that naming is consistent with C4/C5]
 
-[^2]:
-One participant withdrew from the study after the first interview of the Guided GDPR study due to COVID-19. The other 10 participants took part in all three stages.
-
-Tables 1 and 2 summarises the participants involved in this research[^4]. In Case Study One, recruitment was initially attempted using posters placed in local libraries, as shown in Figure 20 below. When this approach was unsuccessful, participants were successfully recruited with the assistance of a local community centre [SHOULD I NAME IT?] which allowed me to visit a community social meeting and talk to residents about my study. This community was located in a low income area that was known to include a number of support families; in this way we were able to access for this informative study a population very similar to that which would reach through the local care authorities for the main study, avoiding some bureaucratic obstacles which were delaying recruitment through official channels.
+Tables 1 and 2 summarises the participants involved in this research. In Case Study One, recruitment was initially attempted using posters placed in local libraries, as shown in Figure 20 below. When this approach was unsuccessful, participants were successfully recruited with the assistance of a local community centre [SHOULD I NAME IT?] which allowed me to visit a community social meeting and talk to residents about my study. This community was located in a low income area that was known to include a number of support families; in this way we were able to access for this informative study a population very similar to that which would reach through the local care authorities for the main study, avoiding some bureaucratic obstacles which were delaying recruitment through official channels.
 For the main engagement of Case Study One, I was able to work with two local authorities, Newcastle City Council and North Tyneside Council, who were partners on the SILVER project, and provided suitable participants who were actively involved in their Early Help programmes. In the preliminary study and in the first families workshop of the main study (stage 1A), activities were designed to include children as active participants in the research, as is it was felt they would bring valuable contributions to the somewhat abstract creative co-design work and because it would be valuable to be able to observe intra-family conversations. The final combined workshop with staff (stage 2) however was designed to only include adult participants. This is because the focus on processes and on the care relationship itself was thought to be too boring and potentially sensitive for the children to participate.
-
-[^4]:
-Note that most Context Three activities involved no participants which is why it does not have its own table in this section.
-[TODO add exception about Hestia - yes had participants but out of scope]
 
 ![Figure 20: Recruitment Poster -- Poster used to recruit participants for Understanding Family Civic Data study](./src/figs/fig20-recruitment-poster.png)
 
@@ -299,16 +292,19 @@ Note that most Context Three activities involved no participants which is why it
 |---------|------------------------|------------|----------------|----------|------------------------|
 | Pilot: Digital Life Mapping study | 5 x 1-on-1 interview | preliminary | 5 x 2 hours | 5 adults | Convenience sample |
 | Main study (Guided GDPR) | 11 x 1-on-1 interview (Life Sketching) | 1 | 11 x 1 hour | 11 adults | Convenience sample |
-| Main study (Guided GDPR) | 10 x 1-on-1 interview (Privacy Policy Reviewing) | 2 | 10 x 1 hour | 10 adults | Continuation from previous stage[^2] |
+| Main study (Guided GDPR) | 10 x 1-on-1 interview (Privacy Policy Reviewing) | 2 | 10 x 1 hour | 10 adults | Continuation from previous stage[^5] |
 | Main study (Guided GDPR) | 10 x 1-on-1 interview (Viewing GDPR returned data) | 3 | 10 x 2 hours | 10 adults | Continuation from previous stage |
+
+[^5]:
+One participant withdrew from the study after the first interview of the Guided GDPR study due to COVID-19. The other 10 participants took part in all three stages.
 
 Table: Table 2 - Context Two (Digital Life): Participants Involved in Digital Life Research Activities Leading into Case Study Two.
 
 In Case Study Two, the digital life study, it was felt that no special population was needed, as the issues of living in a data-centric world would be likely to affect everyone. Therefore, a convenience sample (largely 20-40 year old postgraduate students from Newcastle University) was used. Care was taken to find an even split of male and female participants, but other than that no selection criteria was applied. The participants used for this study were thought likely to have a larger awareness of societal issues around personal data use, and greater familiarity with participatory co-design, than the average layperson, but this was considered an advantage as it would reduce the amount of sensitisation required.
 
-In all cases[^3] for both case studies, participants were compensated for their time with vouchers -- either online/offline shopping vouchers or in the case of the families workshop, vouchers for a family day out of the family's choice.
+In all cases[^6] for both case studies, participants were compensated for their time with vouchers -- either online/offline shopping vouchers or in the case of the families workshop, vouchers for a family day out of the family's choice.
 
-[^3]:
+[^6]:
 (with one exception - the staff workshops within Case Study Two. Because the participants were attending the workshops through their employers (the local authorities), we were not allowed to provide vouchers for participation.)
 
 ### Ethics{#3.5.7}
