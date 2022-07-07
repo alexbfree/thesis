@@ -3,27 +3,45 @@ Introduction{#chapter-1}
 
 > _"My data is everywhere, and I am nowhere."_ -- Imogen Heap (musician and digital rights advocate), speaking at MyData 2019.
 
-[targets give 3900w]
+Background and Motivation for this Research{#1.1}
+-------------------------------------------
 
-Background and Motivation to this Research
---------------------------------------
-[why this study, what it builds on, why does the world need it, why does it matter][750w?]
+The collection, storage and exploitation of personal data about individuals has been a driving force in shaping the **data-centric** world we inhabit today. Every aspect of our lives involves the direct or indirect use of computer systems that attempt to **capture and represent individuals as data**, so that organisations can serve more customers at scale, by reducing costly human interactions and relying increasingly (often algorithmically or in aggregate) on the **interpretation of those datapoints to make decisions** - decisions that affect our everyday life in myriad ways, from determining eligibility to access particular services, benefits or products to choosing which advertisements or recommendations to serve to those individuals in an attempt to better persuade them to act. Data about people has become _'the new oil'_[ @toonders2014], the central resource underpinning the **surveillance capitalism** [@zuboff2019] driving profit for many businesses today. This splintering[@lemley2021] of our digital selves across hundreds of different organisations' computer systems has not only created _"a chaos of multiplicity in terms of technologies, use situations, methods and concepts"_[@bødker2015] where data becomes **trapped** [@abiteboul2015] and hard for people to manage, but is **causing real harm both to individuals** - increasing overload, anxiety and distraction [@fu2020;@timely2020] - **and to society** - manipulating our attention, radicalising people and distorting democracy [@thompson2011;@chan2019]. Left unchecked, the situation will not improve for individuals, as there is **a power imbalance** _"in the amount of information about individuals held by industry and governments, and the lack of knowledge and ability of the same individuals to control the use of that information"_[@wef2014context].
 
-### Personal motivations and context
+In this context, it is clear that it is very hard for people to have **an effective relationship with their own data** -- they lack _agency_, _negotiability_, and _legibility_ [@mortier2014]. Put simply, once the inevitable sacrifice of personal data has occurreed, there is a _'point of severance'_ [@luger2013] beyond which individuals are cut out of the loop. Yet nonetheless, **people need to understand** the changing ways in which they are seen through data, or **face risks of unfair treatment, or physical or psychological harm** [@bowyer2018b]. More than this, people need to be able to exert influence over their data, to express or adjust their consent dynamically as things change.
 
-This PhD and this thesis represent the culmination of a passion to get more value from our computers that has been with me for over 25 years. I learned from an early age about computers by programming my Acorn Electron, one of the many 1980s home computers that taught their users that the computer was a tool to be exploited, that you could master it and make it do what you wanted it to. In my formative years at University and beyond, I lived through the birth of the public Internet and marvelled at the ability for computers to connect people across the world and transform the way people interact. Keenly tracking the Web 2.0 revolution and the digitisation and disruption of so many industries since the start of the 21st century and embracing new capabilities, I became fascinated with the ways in which humans were shaping computer systems which in turn were shaping us. As a graduate software engineer at IBM in the 2000s, I podcasted about new ways to be more productive with computers, and participated in an innovation club with colleagues imagining new ways to relate to digital information. I gradually moved from back-end development, to front-end development to user experience, getting closer to a place where I could help end users benefit from technology. From 2009-2011, while working in Canadian startups, I founded and was a lead writer on a blog called Human 2.0[^1], examining the inter-relationship between society and emerging technology. I was witness to a changing world, where we were gaining new capabilities, but also, through the digitalisation of businesses and the shift to data-centric cloud-centric business models, losing our agency to harness computers for our own ends. I presented my developing ideas for better human data interaction four times at Bitnorth conferences[^2]. During this time I had essays published at O'Reilly Radar[@bowyer2011] and in print [@bowyer2012]. Despite seeing further potential for smarter, more helpful computer systems through my participation in the Semantic Web community and being a senior developer of semantic text analysis software at Open Text, by 2014 it was beyond doubt to me that the software industry had lost its way, prioritising business goals over user agency, reducing features and creating technology designed to limit and corral users to behave in certain ways. Against a backdrop of a social media revolution which was literally breaking society and democracy to further the pursuit of profit [@tufekci2017;@hall2018], I took the leap to escape corporate IT and seek ways to research, design and help to build a better digital future, to make computers useful again. This led me, via a web science architect position at citizen science platform Zooniverse that gave further understanding of user motivations, to join the Digital Civics CDT programme [@digitalCivicsCDT2018], where I was finally able to work on this most important of problems. It has been a tremendous privilege to spend six years understanding in great detail the nature of the problems facing our data-centric society, and to be able to map out the landscape for improving the way we relate to data. As well as the ability to find grounded evidence to quantify and qualify the losses of agency I had observed and theorised, this gave me space to experiment with using using GDPR to access data and push boundaries, and to design and prototype new views of data. Looking forward, this opportunity has opened doors that have enabled me to begin to put these learnings into action, working on important projects with Connected Health Cities, BBC R&D, and Hestia.ai to explore how data interaction reforms can be realised in practice, and how we can come not just innovators but social data activists to begin to have an impact and to build that better future. It is the journey of a lifetime, and also one that is in many ways just beginning. I hope that my work and this thesis can, in some small way, contribute to a better, more human-centric digital world, and I can't wait to see where this leads.
+This power imbalance and lack of agency & negotiability is the problem space which this thesis delves into. Clearly, this is a critical problem for society, and in order to understand and validate these problems, and design possible solutions, there is a need for research into how people relate to data in today's world, what capabilities they need from personal data, and how they would like service providers to handle their data.
+
+I will now explain my personal motivation for conducting research in this problem space before outlining the objectives and structure of the research.
+
+### Personal motivation and context{#1.1.1}
+
+This PhD and this thesis represent the culmination of a lifelong passion to help people get more value from our computers that has began over 25 years ago. I learned from an early age about computers by programming my Acorn Electron, one of the many 1980s home computers that taught their users that the computer was a tool to be exploited, one that you could master and bend to your will. In my formative years at University and beyond, I lived through the birth of the public Internet and marvelled at the ability for computers to connect people across the world, empower individuals as creators, innovators and broadcasters, level the playing field and transform the way people interact. Keenly tracking the Web 2.0 revolution and the digitisation and disruption of so many industries since the start of the 21st century and embracing new capabilities, I became fascinated with the ways in which humans were shaping computer systems which in turn were shaping our habits and our society. As a graduate software engineer at IBM in the 2000s, I podcasted about new ways to be more productive with computers, and participated in an innovation club with colleagues imagining new ways to relate to digital information, and I gradually moved from back-end development to front-end development to user experience, getting closer to a place where I could help end users benefit from technology. From 2009-2011, while working in Canadian startups, I founded and was a lead writer on a blog called Human 2.0[^1], examining the inter-relationship between society and emerging technology. I was witness to a changing world, where we were gaining new capabilities, but also, through the digitalisation of businesses and the shift to data-centric cloud-centric business models, losing our agency to harness computers for our own ends. I presented short talks on my developing ideas about these changes and what better human data interaction might look like four times at Bitnorth conferences[^2] and had essays published at O'Reilly Radar[@bowyer2011] and in print [@bowyer2012]. Despite seeing further potential for smarter, more helpful computer systems through my participation in the Semantic Web community and being a senior developer of semantic text analysis software at Open Text, by 2014 it was beyond doubt to me that the software industry had lost its way, prioritising business goals over user agency, reducing features and creating technology designed to limit and corral users to behave in certain ways. The revolutionary potential of a Web 2.0 'people's internet' was squashed and withered away in the face of new data giants Google, Facebook, Apple and Amazon and their reshaping and usurping of Internet and smartphone technologies. Against a backdrop of a social media revolution which was literally breaking society and democracy to further the pursuit of profit [@tufekci2017;@hall2018], I took the leap to escape corporate IT and seek ways to research, design and help to build a better digital future, with the objective of making computers useful again. This led me, via a web science architect position at citizen science platform Zooniverse that gave further understanding of user motivation and of the power of collaboration around data, to join the Digital Civics CDT programme [@digitalCivicsCDT2018], where I was finally able to work full-time on this most important of problems -- understanding and improving Human Data Relations. It has been a tremendous privilege to spend six years understanding in great detail the nature of the problems facing our data-centric society, to map those impacts into to tangible needs, and to be able to map out the landscape for improving the way we relate to data. As well as allowing me to discover grounded evidence to quantify and qualify the losses of agency I had observed and theorised, this programme has given me space to experiment with using using both GDPR and web-scraping to access data and push boundaries, and to design and prototype new models and views of data and of information which have transformed the way I look at digital information and how we relate to it, and which I hope can help others in the same way. Looking forward, this opportunity has opened doors that have enabled me to begin to put these learnings into action, working on important projects with Connected Health Cities, BBC R&D, and Hestia.ai to explore how data interaction reforms can be realised in practice, and how we can come not just innovators but social data activists to begin to have an impact and to build that better future. It is the journey of a lifetime, and also one that is in many ways just beginning. I hope that my work and this thesis can, in some small way, contribute to a better, more human-centric digital world, and I can't wait to see where this leads.
 
 [^1]: Archived at https://web.archive.org/web/20111231165329/http://www.human20.com/
 [^2]: http://bitnorth.com/shortbits/
 
-### Statement of Research purpose
-[purpose of this thesis, and its limitations]
-[include the 'journey' of C4 and of C5]
-[and the parallel journey in practical projects]
-[be clear about difference between the primary part of thesis and what is not]
-[signposting][450w?]
+### Research Objectives and purpose{#1.1.2}
 
-Nature and Contributions of the thesis
+Given the societal importance of this problem as outlined at the start, the goal of this research and of this thesis is **to produce knowledge and insights** that can enable researchers, innovators and activists to make progress in **redressing the power balance between individuals and data holders** and in delivering **increased agency and negotiability** to individuals. Informed by a constructivist ontology and a pragmatist epistemology (further detailed in [Chapter 3](#chapter-3)), and employing a multi-disciplinary _Digital Civics_ [@vlachokyriakos2016] approach, this objective will be approached by conducting participatory research in relevant contexts, to understand and synthesise a clear model of how people relate to data, how they understand and use it, and what they need from it in order to thrive and to meet their own goals.
+
+To do this, two key settings in which individuals have some remit to _'look behind the curtain'_ of the previously opaque data-centric organisations they interact with have been identified, creating spaces where individuals can be interviewed and probed to uncover their attitudes and desires:
+
+  1. Supported families, who meet with _'Early Help'_ support workers whose role is to access civic data to understand and empower those individuals to improve their lives - forming the context for Case Study One of this thesis [[Chapter 4](#chapter-4)]; and
+  2. Ordinary British and European citizens, who gained new legal rights via 2018's _GDPR_ legislation, enabling them to request copies of held personal data along with other relevant information from the companies and service providers in their lives - this forms the context for Case Study Two of this thesis [[Chapter 5](#chapter-5)].
+
+These Case Studies were designed to enable the collecting of interview transcripts and other data as primary data sources that can be examined in order to attempt to answer two key research questions (RQ):
+
+- **RQ1. What is the human experience of personal data, and what do people want from their data?**
+- **RQ2. What role does data play in people's service relationships, and how could relationships involving data be improved?**
+
+Having gathered data and insights from these settings, the further objective is to is look for commonalities across the two settings that can serve to validate each other and be distilled into clear insights about people's relationships to personal data that can serve as answers to the two RQs. This synthesis and analyis of interview data will form the core empirical element of this PhD research.
+
+This research is situated in the Human-Computer Interaction (HCI) discipline, which means that **design** (both participatory co-design and expert-informed user-centred design [3.5](#3.5)) forms a key part of the approach to exploring the problem space. However, despite initial consideration, it was explicitly decided that **field evaluation of particular interface designs or processes would not be done as part of this PhD**. Given the broad and far-reaching nature of the problem space described, such work would be technically difficult and, highly resource-intensive and time-consuming. The formation of clear underlying models around data attitudes and needs is viewed as a more critical first step that should and must precede any implementation of systems or processes aiming to improve the way in which people can acquire improved agency and negotiability _'in the wild'_. Nonetheless, given this research's purpose of enabling others to have meaningful impact on the world, a significant piece of this thesis ([Chapter 7](#chapter-7)) will be dedicated to **sharing the designerly thoughts, models and ideas** I formulate both from talking to participants of the Case Studies, and from parallel research and development activities I will conduct alongside the primary empirical research of this PhD. This dual approach of focusing the PhD on empirical grounded academic research, while also operating outside of the PhD as a researcher and developer working on real-world innovation in the same space, will produce a **powerful feedback loop** where practical realities of tackling the problem space can inform the participatory research explorations of the space, and vice-versa, feeding into the **action research cycle** [[3.2](#3.2)] of the PhD.
+
+I will now explain the primary contributions of this thesis [[1.2](#1.2)], and the publications resulting from the research [[1.3](#1.3)], before explaining the structure of the thesis across the subsequent chapters [[1.4](#1.4)].
+
+Nature and Contributions of the thesis{#1.2}
 --------------------------------------
 This section lists the contributions (**Cn**) of this thesis: specifically:
 
@@ -90,7 +108,7 @@ The same section then continues to map out eight obstacles to better HDR that ex
 9. A lack of HDR demand from individuals
 10. A lack of HDR demand from organisations
 11. A lack of interoperability
-12. Insufficietn machine understanding of human data.
+12. Insufficient machine understanding of human data.
 
 To begin to address these obstacles, seven insights are offered that could seed future research and innovation towards tackling these obstacles:
 
@@ -120,10 +138,10 @@ To begin to address these obstacles, seven insights are offered that could seed 
 **C11: A methodology for educating individuals about held data, data access and the data ecosystem**
 (with caveat not intended or evaluated as such)
 
-Publications arising from and connected to this research
+Publications arising from and connected to this research{#1.3}
 --------------------------------------------------------
 
-### Pilot Study
+### Pilot Study{#1.3.1}
 
 My Doctoral Training programme at Open Lab began with a Masters in Research in Digital Civics. For my MRes project[^3], I conducted a pilot study, interviewing and exploring issues around data with families who had experience of social care services. During the first months of this PhD I conducted new analysis of the data collected, resulting in the synthesis into a full first-author paper published at CHI 2018:
 
@@ -133,9 +151,9 @@ This study is given a special status in this thesis; while it is not officially 
 
 [^3]: MRes result awarded: Distinction.
 
-### Primary Case studies
+### Primary Case studies{#1.3.2}
 
-#### Publications from Case Study One
+#### Publications from Case Study One{#1.3.2.1}
 
 The work exploring shared data interaction in Early Help carried out in Case Study One has been initially published as an Extended Abstract at CHI 2019:
 
@@ -147,7 +165,7 @@ A 15,000 word+ detailed first-author journal paper has been drafted to supplemen
 
 ![Figure X: Poster Presentation of Case Study One](./src/figs/figX-hdi-in-care-poster.png)
 
-#### Publication from Case Study Two
+#### Publication from Case Study Two{#1.3.2.2}
 
 The work exploring the human experience of GDPR data access carried out in Case Study Two has been published as a full first-author paper at CHI 2022:
 
@@ -155,7 +173,7 @@ The work exploring the human experience of GDPR data access carried out in Case 
 
 I carried out all field research myself. Data analysis and paper writing was shared between myself and Jack Holt.
 
-### Workshop papers & presentations
+### Workshop papers & presentations{#1.3.2.3}
 
 During the PhD, I gave a number of presentations and published three workshop papers which included material from, or directly contributing to, this thesis and helped shape the ways in which I express the arguments within:
 
@@ -166,7 +184,7 @@ During the PhD, I gave a number of presentations and published three workshop pa
 - ["My Thesis in 3 Minutes: Understanding and Designing Human Data Relations"](https://www.youtube.com/watch?v=YFHXc_TfM5c) - in April 2021, I presented my thesis in the 3 minute thesis competition, and was co-winner of the people's choice prize.
 - ["Human-Data Interaction has two purposes: Personal Data Control and Life Information Exploration"](https://eprints.ncl.ac.uk/274297) - A workshop paper I presented at CHI 2021, where I first outlined my model of the two motivating factors for interacting with personal data.
 
-### Publications from other work
+### Publications from other work{#1.3.2.4}
 
 During the same timeframe as this PhD, I have also contributed to a number of publications tangential to my primary research agenda:
 
@@ -175,7 +193,7 @@ During the same timeframe as this PhD, I have also contributed to a number of pu
 - As a research intern on BBC R&D's Cornmarket project [ADD REF], I published an internal research report[ADD REF] into personal data store design, as well as a 'stimulus presentation' to launch an internal hack week and a BBC blog article about the work (which was not officially published) [ADD REF].
 - As a project leader, data access coach and researcher at Hestia.ai, I was a lead author on [a research report auditing the data economy](https://doi.org/10.5281/zenodo.6554177), and co-author on [a research report on power mechanisms in the data economy](https://doi.org/10.5281/zenodo.6554155).
 
-The structure of this thesis
+The structure of this thesis{#1.4}
 ----------------------------
 [overall description here][120w]
 
