@@ -197,7 +197,10 @@ During the same timeframe as this PhD, I have also contributed to a number of pu
 
 The structure of this thesis{#1.4}
 ----------------------------
-[overall description here][120w]
+
+The overall structure of this thesis is illustrated in Figure X. This introduction is followed by a literature review [[Chapter 2](#chapter-2)]] and a methodology chapter [[Chapter 3](#chapter-3)]. Both research questions RQ1 and RQ2 are examined in both Case Studies, and these studies are documented as self-contained pieces of research in [[Chapter 4](#chapter-4)] and [[Chapter 5](#chapter-5)] respectively. In [[Chapter 6](#chapter-6)] the findings and insights from the Case Studies are synthesised into common findings as to what people want from data and from data holders, which concludes the investigation of the two research questions. [[Chapter 7](#chapter-7)] opens up the future of the HDR landscape and sets the stage for future research and innovation, building on both the research conclusions in Chapter 6 as well as my practical experiences from other related research and development activities conducted outside of this PhD research but during the same timeframe.
+
+![Figure X: The Structure of this Thesis](./src/figs/figX-thesis-structure.jpg)
 
 [Chapter 2](#chapter-2)...[120w]
 
