@@ -76,12 +76,14 @@ Initially eight participants chose 5 target companies and three chose 4 to reque
 Table: Table 8. Types of Data Holding Organisation Targeted for GDPR Requests by Study Participants<sup>a</sup>
 
 ![](./src/figs/table8-targets.png)
+[TODO replace table with text]
 
 To ensure fairness and consistency, the aim was that all GDPR requests be sent by e-mail by the participant to the data-holder's identified Data Protection Officer, requesting both a subject access request [@ico2021sar] and a data portability request [@ico2021dp] be initiated, and specifically enumerating and asking for all those datapoints that the company stated in its privacy policy, as well as others which the GDPR entitles individuals to obtain. To identify these datapoints, company privacy policies were analysed and the necessary information was compiled in personaldata.io's semantic wiki [@personaldataio2021list]. This has a feature to generate bespoke GDPR request emails, which were adapted then provided to participants. [INSERT APPENDIX REF]. Facebook, Apple, Huawei and Philips Hue do not offer a contact e-mail address, so the email text (shortened where length restrictions applied) was pasted into a contact form. In one case, entertainment website ifun.tv, the only available means of contact was via WeChat, resulting in the participant (a Chinese citizen) choosing not to contact ifun.tv due to fear of Chinese government surveillance. Through analysis of companies' privacy policies and with reference to GDPR rights, a taxonomy of the types of personal data that could be returned was constructed, using terms from those privacy policies and GDPR legislation: there are five types of personal data, as shown in Table 9.
 
 Table: Table 9. Types of Personal Data Potentially Accessible from Data Holders via GDPR Rights
 
 ![](./src/figs/table9-data-types.png)
+[TODO replace table with text]
 
 ### Interview 2: Privacy Policy Review and Goal Setting
 
@@ -98,6 +100,7 @@ Once each participant's GPDR requests had reached a conclusion point (as describ
 Table: Table 10. Presence and quality assessments of GDPR responses by data type (as percentages<sup>a</sup>)
 
 ![](./src/figs/table10-data-quality.png)
+[TODO replace table with text]
 
 Table 10 shows quality assessments for each data type, with rows descending by subjective value. Notably, the kinds of data participants value most (derived, acquired and metadata) were less frequently returned, especially metadata (returned in 4% of cases). Where data was returned in these categories, it suffered from poor data quality, often judged as incomplete, inaccurate, unusable and not useful (although acquired data was largely understandable). At 53%, even the most returned category, volunteered data, was lacking. Where it was returned, accuracy (92%), meaningfulness (72%) and understandability (72%) were high. Observed data was least valued and also rarely returned or complete (yet judged to be of moderate quality). Looking below organisation level at the perspective of individual data categories, data was only judged to be complete in 22% of cases. In 62% of cases, personal data specified in privacy policies to be collected was not returned, despite the legal obligation.
 
@@ -108,6 +111,7 @@ Companies producing responses with good coverage and good quality included Niant
 Table: Table 11. Best and Worst Data Holders in Different Categories, According to Participants' Judgements<sup>a</sup>
 
 ![](./src/figs/table11-best-worst-companies.png)
+[TODO replace table with text]
 
 At the conclusion of the final interview, participants were reminded of the specific hopes and anticipated data uses they had expressed at the start of their journey and asked about how well each goal had been met. These answers were recorded and combined to produce percentage values showing in how many cases goals were fully met, partially met, or not met at all, as shown in Table 12.
 
@@ -116,6 +120,7 @@ Participants felt their goals were not fully met in 78% of cases, and 54% were n
 Table: Table 12. Participants' hopes, imagined data uses and goals for GDPR, as well as resultant outcomes
 
 ![](./src/figs/table12-hopes-and-goals.png)
+[TODO replace table with text]
 
 ### Perceived Power and Trust
 

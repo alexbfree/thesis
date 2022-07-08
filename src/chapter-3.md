@@ -279,7 +279,7 @@ As well as analysing participant data, an important aspect of pursuing answers t
 | Main study (Data Interaction in Early Help) | 2 x Group Design Workshop for Staff | 1B | 2 x 2 hours | 36 support workers & related staff | Selected by Local Authority Care Services |
 | Main study (Data Interaction in Early Help) | 1 x Combined Staff and Parents Group Design Workshop | 2 | 1 x 2 hours | 3 support workers and 4 parents from supported families | Selected by Local Authority Care Services |
 
-Table: Table 1 - Context One (Civic Data & Early Help): Participants involved in  research activities leading into Case Study One.
+Table: Table 3.1 - Context One (Civic Data & Early Help): Participants involved in  research activities leading into Case Study One.{#table-3.1}
 
 [TODO update above table so that naming is consistent with C4/C5]
 
