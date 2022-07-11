@@ -27,7 +27,7 @@ It has been a tremendous privilege to spend six years understanding in great det
 [^1]: Archived at https://web.archive.org/web/20111231165329/http://www.human20.com/
 [^2]: http://bitnorth.com/shortbits/
 
-### Research Objectives and purpose{#1.1.2}
+### Research Objectives and Purpose{#1.1.2}
 
 Given the societal importance of this problem as outlined at the start, the goal of this research and of this thesis is **to produce knowledge and insights** that can enable researchers, innovators and activists to make progress in **redressing the power balance between individuals and data holders** and in delivering **increased agency and negotiability** to individuals. Informed by a constructivist ontology and a pragmatist epistemology (further detailed in [Chapter 3](#chapter-3)), and employing a multi-disciplinary _Digital Civics_ [@vlachokyriakos2016] approach, this objective will be approached by conducting participatory research in relevant contexts, to understand and synthesise a clear model of how people relate to data, how they understand and use it, and what they need from it in order to thrive and to meet their own goals.
 

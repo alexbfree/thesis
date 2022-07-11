@@ -6,25 +6,34 @@ Discussion II: Designing and Pursuing Better Human Data Relations {#chapter-7}
 Introduction & Background
 ----------------
 
-Through the Case Studies (Chapter 4 & 5) and the discussion in Chapter 6, a clear understanding of what people want from direct and indirect data relations (RQ1 & RQ2) has been established. In this chapter, we turn our attention from theory to practice, from what is needed to *what is possible*. Specifically, this chapter will return to the overall research question _"What relationship do people need with their personal data, and how might that be achieved?"_ and look specifically at its second clause. This chapter describes practical approaches for future research and innovation, in a way that is deliberately broad and shallow, from the perspective that it is more useful to introduce a wide range of applicable ideas than to go into great detail on just a few. This is not intended to form a complete or exhaustive roadmap; it is a snapshot of ongoing work, identified challenges and known opportunities, forming an *anthology of reference material* for designers and innovators in this space. These ideas are illustrated through real world insights and activities from the four industrial and academic research projects I was part of, and from the work of other innovators and activists. This chapter also builds upon the theoretical insights from the Case Studies in order to inform the design of future research, innovation and policy as to how the better Human Data Relations conceived in this thesis thus far might be achieved.
+Through the Case Studies (Chapter 4 & 5) and the discussion in Chapter 6, a clear understanding of what people want from direct and indirect data relations (RQ1 & RQ2) has been established. In this chapter, we turn our attention from theory to practice, from what is needed to *what is possible*. Specifically, this chapter will return to the overall research question and consider _"How might [better Human Data Relations] be achieved?"_, and answer this question by describing practical approaches for future research, innovation and policy that are either novel or already emergent.
 
-The approach this chapter takes is to name and illustrate what challenges and opportunities are relevant when attempting to bring about changes in the world that would bring people closer to the six HDR wants that this thesis has uncovered. There are many aspects to such a wide-reaching objective: technical, design, commercial, legal, moral, social and political and this chapter does not pretend to cover them all nor to be formal empirical research. However I have been fortunate to have undertaken, during the same time period as I have been working on this PhD but outside of the research, direct embedded work in personal data interaction related projects (3.4.3) in academic and industrial research that directly contribute to the question of how to bring about better human data relations in practice. As a result, some of these challenges and opportunities herein are described in greater detail than others, corresponding only to my proximity and depth of engagement with those ideas rather than their relative merit, complexity or impact potential.
+This chapter is deliberately broad and open ended. It does not pretend to be complete or definitive in its interpretation of the outlook for HDR. It is not a roadmap, but rather a snapshot of ongoing work, identified challenges and known opportunities, forming an **anthology of reference material**, based on my research and design experience from my six years working to understand and advance HDR.
 
-In section 7.1.1 the external activities I undertook are described; they form a primary point of reference for insights and illustrations shared in this chapter, as they have allowed me to learn enough to provide a useful overview and highlight many important and evolving areas where different actors are trying to bring about changes that often align well to the six data wants uncovered in the previous chapters.
+The rationale here is that it will be valuable for anyone working in the HDR space to have a good high-level understanding of the landscape as well as specific ideas to work with; the goal is to boost and strengthen any such activities so that they might benefit from the insights gained.
+
+The shape this chapter takes is to consider the the six HDR wants that this thesis has uncovered [[Chapter 6](#chapter-6)] as a basis for defining **objectives** for the HDR landscape, then to to illustrate what specific **obstacles** and **opportunities** are relevant when attempting to pursue those objectives, as well as to highlight specific **designerly insights** that are relevant.
+
+There are many aspects to the wide-reaching objective of better HDR in practice: technical, design, commercial, legal, moral, social and political and this chapter does not cover them all, nor is it formal empirical research.
+Instead, detail is provided in the form of **real world practical designs and insights** from four industrial and academic research projects I was part of during the same timeframe as the empirical research, as well as from the work of other innovators and activists. This detail is contextualised relative to existing literature and the thesis' earlier contributions.
+
+Some of the challenges and opportunities herein are described in greater detail than others, corresponding only to my proximity and depth of engagement with those ideas rather than their relative merit, complexity or impact potential. I consider that it is more useful to introduce a range of applicable ideas even if some are only lightly detailed, rather than to detail just a few.
+
+In section 7.1.1 the peripheral R & D activities I undertook are described; forming the primary point of reference for this chapter, as this peripheral work has informed and allowed me to build upon the core HDR understanding from the empirial research, and much of the work has often aligned well to the six data wants [[Chapter 6](#chapter-6)]. Often the work has exposed evolving areas where different actors are trying to bring about better HDR.
 
 In section 7.1.2, I explain some important context about the nature of the ideas presented in this chapter and how to attribute them fairly.
 
-In section 7.1.3, I introduce some additional background on _Theories of Change (ToC)_, which are used as a framing device for structuring the insights described in the main body of this chapter into a series of different possible trajectories for change.
+In section 7.1.3, I introduce some additional background on _Theories of Change (ToC)_, which are used as a framing device for structuring the opportunities described in the main body of this chapter into a series of different possible trajectories for change.
 
 In section 7.1.4, I consider the researcher-turned-activist stance that drives this chapter, framing the pursuit of better HDR as a _recursive public_.
 
-In section 7.2, to provide deeper context for what follows, the concept of HDR is expanded to identify some additional insights into how people relate to data, and an important dichotomy of two distinct drivers that motivate people's needs for better relations with their data.
+In section 7.2, I formalise and expand the Human Data Relations concept. Additional insights into how people relate to data are identified, as well an important dichotomy of two distinct drivers that motivate people's needs for better relations with their data.
 
-Section 7.3 and 7.4 form the main body of this chapter, with obstacles and insights being detailed in section 7.3 and specific opportunities into how better Human Data Relations can be pursued in practice described in 7.4. 7.4 is structured using the ToC framing described in 7.1.3, as a series of named opportunities fitting into each trajectory of change.
+Section 7.3 and 7.4 form the main body of this chapter, with obstacles and insights being detailed in section 7.3 and specific opportunities into how better Human Data Relations can be pursued in practice being described in 7.4. 7.4 identifies four specific trajectories of change (interpreted using the ToC frame described in 7.1.3). Within each of these four trajectories, specific named opportunities are described.
 
-Section 7.5 concludes the thesis, summarising the change trajectories presented in 7.4, the thesis' contributions as a whole, and answering the overall research question.
+Section 7.5 concludes the thesis, summarising the change trajectories presented in 7.4, reflecting on my journey as a researcher and summarising the thesis' contributions as a whole.
 
-### External Research Settings
+### Peripheral Research & Design Settings
 
 [TODO Move 3.4.3 etc. to here and remove all refs to 3.4.3]
 
@@ -87,6 +96,8 @@ Whether these disparate groups coalesce into a single identifiable public remain
 
 Refining and Defining 'Human Data Relations' (HDR){#7.2}
 --------------------------------------------------
+
+[TODO ADD A TWO SENTENCE DEFINITION]
 
 Chapter 6 established six 'wants' in HDR: **visible**, **understandable** and **usable data**; **process transparency**, **individual oversight** and **decision-making involvement**. At a simplistic level therefore 'better' HDR can be achieved by working to improve upon those six aspects of data interaction. However, as this section will explain, HDR can be conceptually split into two distinct motives, to which those six wants apply differently, therefore it is useful to develop the concept of HDR further. As background understanding for this duality of motivation, it is first necessary to examine more closely what role data plays in people's lives.
 
