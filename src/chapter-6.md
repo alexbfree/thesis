@@ -139,6 +139,7 @@ As early as 1980, when the world was less data-centric, it was already recognise
 
 Achieving Individual Empowerment
 --------------------------------
+[TODO: Update these three sections so that they properly frame this chapter as an answer to RQ1 and RQ2 and as looking towards 'better Human Data Relations']
 
 **Empowerment means being able to do more.** Empowerment is defined as _"the process of gaining freedom and power to do what you want or to control what happens to you"_ [@dictEmpowerment]. Conceptually, in line with the constructivist, pragmatist ontology outlined in 3.1, power can be thought of in line with this definition, best judged by the individual's consideration of the question _"what can I do?"_. It is important to acknowledge that the power imbalance described by the World Economic Forum [@wef2010;@wef2011;@wef2013;@wef2014lens;@wef2014context] and described in 2.1.2 encompasses both this concept of _'power to'_ but also the concept of _'power over'_. However, as argued by Pansardi, these are best considered as two sides of the same coin; two perspectives on the same set of facts: organisations have _'social power'_ over individuals, that affects both what those organisations can do, and what the individuals served by those organisations can do. An organisation having social power does not imply a desire to dominate; impacts on the individual's agency are merely material effects of the power holder's attempts to influence the behaviour of individuals in pursuit of the power holder's own desired outcomes [@pansardi2012].
 
