@@ -27,7 +27,7 @@ No matter how understandable the data itself is, it is also critical that people
 
 ### Data Useability
 
-#### Obstacle 3: Data isn't free
+#### Obstacle 3: Data is immobile
 
 Almost all data is constrained in some way, limiting its useability. It may be held by a particular provider and inaccessible. It may be stored in a format which is hard to use or change. It may only be visible after a delay. It may be unchangeable. To overcome this obstacle, we need to find ways to extract data from its current constraints and to remove some of these technical or temporal limitations.
 
@@ -110,7 +110,7 @@ As a result of the practices and motives described above, the last decade has se
 
 Companies change their practices to limit users' agency (and their own accountability to customers) too. For example, Facebook recently announced they will no longer collect historical location data from users (though they will still use location information). This makes it harder for users to see how their data has been used. Tiktok announced they will rely on legitimate interest rather than consent when it comes to using users' activity data to personalise the app experience, removing users' ability to withdraw consent to such use. Unchecked, it is clear that trends to reduce users' agency and further providers' interests will continue, creating another obstacle to be tackled.
 
-[ANOTHER EXAMPLE: That guy who got banned from Facebook for letting people read their Facebook feed in a different way] [AND the blocking of accessibility readers]
+[ANOTHER EXAMPLE: That guy who got banned from Facebook for letting people read their Facebook feed in a different way] [AND the blocking of accessibility readers] [and Chrome getting reinvented] [List of bullets]
 
 #### Obstacle 10: The Inaccessible Data Self
 

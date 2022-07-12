@@ -98,6 +98,7 @@ Refining and Defining 'Human Data Relations' (HDR){#7.2}
 --------------------------------------------------
 
 [TODO ADD A TWO SENTENCE DEFINITION, MORE CLEARLY FRAME THE NEW FIELD]
+[ reference HDI style, Human "data" relations, human/data relations (like PR ref C5) ]
 
 Chapter 6 established six 'wants' that people have in their relationships with data: **visible**, **understandable** and **usable data**; **process transparency**, **individual oversight** and **decision-making involvement**. At a simplistic level therefore 'better' HDR can be achieved by working to improve upon those six aspects of data interaction. However, as this section will explain, HDR can be conceptually split into two distinct motives, to which those six wants apply differently, therefore it is useful to develop the concept of HDR further. As background understanding for this duality of motivation, it is first necessary to examine more closely what role data plays in people's lives.
 
@@ -189,25 +190,191 @@ The obstacles and insights on the diagram are explained in the following subsect
 
 ### An Objective for Better HDR: Data Awareness & Understanding
 
+MAIN POINT: Data and its nature as remote, invisible and unrelatable.
+LIT LINKS: trapped. Abiteboul, legibility. HDI, effective access Gurstein.
+THESIS LINKS: not knowing. 'in the dark'. both C4 & C5. visible C6.
+INSIGHT: Life information makes data relatable
+BBC LINK Life Concept Mapping (BBC) - life concept modelling diagrams
+OUTWORLD LINKS Facebook. 'what presents the least technical view of data?' as well as media things like netflix and spotify.
+SUBPOINT: THE DIASPORA - the diaspora. (but here we are interested in its effect, not the 'where is it'). Also the fact that data gets separated from its context. (no need to mention silos here)
+ENDING It is a problem of representation
+
 ### An Objective for Better HDR: Data Useability<sup>[15](#fn15)</sup>
+
+MAIN POINT: Data as immobile, inaccessible and not interrogable
+INSIGHT: DATA AS VERSATILE MATERIAL
+LIT REF PIM & SI REFs about doing stuff with data.
+LIT REF data enabled design https://uxdx.com/blog/data-enabled-design/
+connected baby bottle . data enabled design canvas.
+INSIGHT: UNITING AND UNIFYING DATA
+LIT REF SPLINTERNET
+Uniting the diaspora
+LIT REF integration SI.
+OUTWORLD REF PDLockers
+SUBPOINT: Data by Reference
+Ref: programming.
+BBCREF watch history diagram
+SUBPOINT There is a negotiability element here: only those who encoded the data can fully explain it. links to provenance.
+ENDING: Need to change the nature of data. Just as files and databases have driven design thinking for the last half century, it is time to move up to the next level of DIKW. We need an information operating system.
 
 ### An Objective for Better HDR: Ecosystem Awareness & Understanding
 
+MAIN POINT: The ecosystem is complex and largely invisible. both the routine (e.g. accounts, auth, sync  etc) and the hidden (data brokers, inferences, profiling etc HESTIA REF)
+INSIGHT: ECOSYSTEM INFORMATION
+OUTWORLD REF example: subscrab and inbox scanning. The opportunity of ecosystem detection
+SUBPOINT No one person can see the whole picture. (THESIS REF ref C4).
+SUBPOINT A lack of metadata
+BBC LINK. METADATA DIAGRAM FROM BBC
+ENDING = open up this new space that no-one is building for. for people to manage their digital world, they need a map. a vital first step on the road to giving individuals the ability to have oversight of their personal data ecosystem and take action within it.
+ENDING 2 = INSIGHT: PROVENANCE
+as a necessary step to understand both data and its context
+mike martin stuff
+LIT REF and C Jensen 2010
+LIT REF tie into data non neutral stuff
+
 ### An Objective for Better HDR: Ecosystem Negotiability
 
+MAIN POINT: The relationship between orgs and individuals is shifting, they are amassing more power from data while also purposefully reducing individual agency.
+ILLUSTRATION: THE PANOPTICON
+LIT REF: JASPERSON POWER
+INSIGHT: HESTIA REF - FOUR LEVERS OF POWER
+REAL WORLD REFS: facebook api/feed closing, facebook change over location data, tiktok changing to legitimate interest, That guy who got banned from Facebook for letting people read their Facebook feed in a different way] [AND the blocking of accessibility readers] [and Chrome getting reinvented] [List of bullets]
+SILVER REF whispers of 'moving away from consent to informing' in pub sec
+SUBPOINT Companies acting in closed, introspective, non cooperative ways. Proprietary, incompatible silos Apple ecosystem. Google+ example. closed practices seen in c4.
+SUBPOINT THE INACCESSIBLE DATA SELF
+LIT REF cornford (and others?)
+ENDING: The focus on personal ecosystems, especially across providers, is almost non-existent. Business model or not, there is clearly a societal need for this. More than this, people need to be reconnected with their data selves rather than being pushed apart from it.
+
 ### An Objective for Better HDR: Effective, Commercially Viable and Desirable Systems
+
+MAIN POINT: HDR faces a particular challenge in that it requires a disruptive change, which no-one is screaming for and businesses are not currently motivated to invest in. It is hard to build effective systems in this space. We need Human Centred Information Systems
+faster horses example / ice disruptions?
+INSIGHT: NEW LIFE CAPABILITIES, PAIN RELIEVERS
+ref value proposition canvas.
+BACK SELF REF: VACATION EXAMPLE
+SUBPOINT: LACK OF INTEROPERABILITY
+INSIGHT: WE NEED TO TEACH COMPUTERS TO UNDERSTAND INFORMATION
+Semantic analysis & information standards.
+
+BACKREF SELF ANNOTATING DATA DIAGRAM
+LIT REF Semantic Web
+OUTWORLD REF: CONTENT ANALYTICS / ECM
+standards example : shapes library, solid.
+ENDING 1 - need to show business value
+LIT REF VRM, [add a VRM screenshot]
+reduced liability
+increased accuracy
+WORLDREF the drive behind the data sharing ecosystem is better knowing users. self declared interests/data self would help
+ENDING 2: need to show value to individuals, give a new capability or solve a problem
+LIT REF environment/Abowd?
+LIT REF Value-centred design
+BBC REF HUMAN VALUES BBC
 
 The landscape of opportunity: Four approaches to improving Human Data Relations{#7.4}
 ------------------------------------------------------------------
 
 ### An Approach to Improving HDR: Discovery-Driven Activism
 
+MAIN POINT: To actively use the legal rights, tools and capabilities available to discover what data is collected, how it is interpreted and used, how the ecosystem functions. To work together as collectives and make COMPARISONS.
+OUTREF analogy of theyworkforyou
+OUTREF Dehaye with Facebook
+OUTREF my work with Spotify, Netflix
+SUBPOINT: The power of collectives
+LITREF / OUTWORLD REFs Mahieu
+LITREF Digipower
+OUTREF Feed comparison Facebook political.
+(mention the unionisation angle OUTREF Uber)
+SUBPOINT Bootstrap the Data Understanding Industry
+OUTREF Ethi
+OUTREF Hestia
+SUBPOINT: AUDITING DATA HOLDERS
+(the triangulation of law, privacy policy and examining what they do)
+FRAME AS DIAGRAM
+individuals informing/powering collectives
+Collectives helping individuals
+Using Data to Demand Change in Practice => which in turn enables individuals with stronger capabilities and better transparency & insights
+ENDING: there is a role for independent actors and organisation to carry out activism - complaints, legal challenges, public relations,
+OUTWORLD REF noyb.eu, open rights group, labour/The Citizens
+
 ### An Approach to Improving HDR: Building the Human-Centric Future
 
-### An Approach to Improving HDR: Defending and Nurturing the Information Landscape
+MAIN POINT: Design Ideas for a Human Centric Information System, illustrated with diagrams
+BBCREF A central home for your personal data
+BBCREF modelling data as life information
+BBCREF Happenings Diagram Time as unifier (LITREF TIME C2). What data IS to people (ref lenses)
+BBCREF (backref life concepts, then: Simplified model of presenting information to users)
+BBCREF Dashboard example
+SUBPOINT Capabilities
+BBCREF diagram What can users do (properties)
+Asking questions (THESISREF C5)
+BBCREF taxonomy diagram
+BBCREF Browsing by areas of life.. leads to:
+SUBPOINT Mental Models > Life- level systems, life partitioning
+BBCREF cluedo rooms
+LITREF Lenses etc C2
+SUBPOINT Approaches by automatically finding entities
+ref back to semantics etc. (two arrows diagram back ref'd, and the Insight about semantic understanding)
+(can callback the subscrab example from above here too)
+Extraction and Learning systems
+BBC REF flows for entity identification
+BACKREF digital agents. like an assistant.
+[POSSIBLY CUT?] SUBPOINT Digital Self Curation & Inclusive Data Flows
+Litref VRM
+OUTREF BBC Wired article
+the potential of inclusive flows (build on provenance, rivers of data, LITREF streams)
+FRAME AS DIAGRAM
+Building new designs (reaching into understanding, LITREF data enabled design and Human values)
+Delivering new structural capabilities. Enabling new individual and collective perspectives.
+ENDING: Individuals Empowered with new Life / Ecosystem Information Capabilities.
+
+### An Approach to Improving HDR: Defending Autonomy and Nurturing the Information Landscape
+
+MAIN POINT: That it is not just about Positive Change, there must also be Defensive Action, in the face of the active erosion of user autonomy (backref above diminishing agency). That this is an avenue of activist and grassroots work in its own right.
+some kinda visual?
+LITREF guard rails for the status quo
+INSIGHT: THE IMPORTANCE OF SEAMS
+Black Box diagram
+LITREF Storni magical design
+DERC REF Seams, JustEat etc. Facebook example.
+DERCREF the opportunity of scrapers & webaug
+LITREF right to repair
+SUBPOINT Surface Information Injustices.
+REALWORLD REF Frances Augen, Snowden, Assange.whistleblowers. but also can do this within interfaces. Build the features that should be there with a big "we can't do this because X won't let us"
+SUBPOINT promoting and developing standards, and better regulations
+OUTREF guidelines [GDPR guidelines I fed back on]
+OUTREF new European laws, DSA etc, to regulate the landscape
+ref back to end of C5, for policymakers
+FRAME AS DIAGRAM
+taking external *protective* action as collectives, surfacing, challenging, pushing for better enforcement of existing regulation
+ENDING: Seizing and holding the powers we are given and never giving them up. The price of freedom is eternal vigilance
+OUTWORLD ref cars
+OUTWORLD REF Apple
+OUTREF Ad blockers > Brave > facebook containers.
 
 ### An Approach to Improving HDR: Winning Hearts and Minds: Teaching, Championing and Selling the Vision
 
+MAIN POINT: That the nature of pursuing Human Data Relations causes for a radical reconfiguration of today's data world. We need new systems (which means not only there need to be business drivers for those systems but also that existing organisations much choose or be compelled to invest in them), and people need to understand, use and see value in those systems.  Therefore, there needs to be specific investment:
+SUBPOINT in Education, and Data Literacy
+SUBPOINT in Systems Building (just ee above)
+SUBPOINT in standards, information uniting the diaspora
+SUBPOINT in Researching New Business Models and Demonstrating Value of transparency and human centricity
+SUBPOINT in supporting Data Understanding Industry.
+empowering individuals as investigators. Tools to map their own ecosystems and unite their own personal data diaspora.
+FRAME AS DIAGRAM
+Structural work in upper right - standards
+Selling work in top level - show value to individuals
+Selling work in top level - show value to organisations
+Structural work in bottom right - systems
+Individual work in top left - empower and educate individuals
+all leading to new action of individuals in top right
+ENDING: that this is not just a technical problem, and not just a case of building new things. It's about beginning and catalysing a cycle of constant feedback, of data enabled design and action research / iterative software and business model development - finding what works, championing it, selling it.
 
 Thesis Conclusion
 -----------------
+
+- recap HDR field as contribution
+- recap the findings of the thesis and the map of the landscape
+- recap the obstacles, insights and opportunities
+- reiterate the answer to the main RQ
+- highlight future value/societal implications of the work
+- we have defined HDR. who the recursive public are (roles). what they might do… what the field is… etc
