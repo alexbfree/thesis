@@ -43,7 +43,8 @@ Index of Insights and Contributions {.unnumbered}
 * **Types of Personal Data (by origin)** - [ADD SECTIONREF]
 * **Trust in Providers** - [ADD SECTIONREF]
 * **Perceived Individual Power** - [ADD SECTIONREF]
-* **Human Information Operating System**
+* **Human Information Operating System** - [ADD SECTIONREF]
+* **Proxy Representations of Immobile Data** - [ADD SECTIONREF]
 
 ### HDR Wants {.unnumbered}
 
@@ -140,5 +141,15 @@ Glossary of Abbreviations, Names and Terms {.unnumbered}
 * **The Four Levers of Infrastructural Power** -
 * **Participatory Action Research**
 * **Pragmatism** -
+* **Constructivism** -
+* **Digital Civics** -
 * **Value-centred Design** -
 * **Experience-centred Design** -
+* **User-centred Design** -
+* **Action Research** - 
+* **Metadata** -
+* **Volunteered Data** -
+* **Derived Data** -
+* **Acquired Data** -
+* **Observed Data** -
+* **Data Provenance** -
