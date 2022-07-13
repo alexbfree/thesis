@@ -180,72 +180,95 @@ In order to provide value to future researchers, activists and innovators, this 
 3. Ecosystem Awareness & Understanding and
 4. Ecosystem Negotiability.
 
-As [Figure X](#figure-X) shows, the need for data to be understandable, visible and useable, applies to all data, whether that data is interpretable as life information or ecosystem information.
+As [Figure X](#figure-X) shows, the need for data to be understandable, visible and useable, applies to all types of data, whether that data is interpretable as **life information** (information within the data, that says something about the individual) or **ecosystem information** (information _about_ the data, where it is held and how it is used). These two types of information will collectively be referred to as **human information**, and will be used in describing the HDR landscape in subsequent sections.
 
 Using these four objectives as our goals, and considering how they might be tackled, specific _obstacles_ have been identified. These are analogous to Li's 'barriers cascade' [[2.2.3](#2.2.3);#li2010] and represent the obstacles that individuals or system designers must be empowered to overcome if the objectives are to be met. These obstacles are followed by useful _insights_ I have identified that might help overcome those obstacles. This is summarised in [Figure X](#figure-X), which shows an HDR-specific barriers cascade: a route of overcoming obstacles through which individuals might be empowered and by which organisations might become more HDR-friendly.
 
 ![Figure X: Obstacles and Resulting Insights in the HDR Opportunity Landscape](./src/figs/figX-obstacles-insights-hdr-landscape.jpg)
 
-The obstacles and insights on the diagram are explained in the following subsections (the last of which covers some of the more pervasive obstacles that apply to all of the previous four HDR objectives).
+The obstacles and insights in the figure are explained in the following subsections. The last of these (corresponding to the 'solution space' box) covers some of the more pervasive obstacles that apply to all of the previous four HDR objectives.
 
-### An Objective for Better HDR: Data Awareness & Understanding
+### Obstacles to the HDR Objective of Data Awareness & Understanding
 
-MAIN POINT: Data and its nature as remote, invisible and unrelatable.
-LIT LINKS: trapped. Abiteboul, legibility. HDI, effective access Gurstein.
-THESIS LINKS: not knowing. 'in the dark'. both C4 & C5. visible C6.
-INSIGHT: Life information makes data relatable
-BBC LINK Life Concept Mapping (BBC) - life concept modelling diagrams
-OUTWORLD LINKS Facebook. 'what presents the least technical view of data?' as well as media things like netflix and spotify.
-SUBPOINT: THE DIASPORA - the diaspora. (but here we are interested in its effect, not the 'where is it'). Also the fact that data gets separated from its context. (no need to mention silos here)
-ENDING It is a problem of representation
+In pursuit of visible, understandable data [[6.1.1](#6.1.1); [6.1.2](#6.1.2)], the first obstacle encountered is that in today's complex digital landscape, **most personal data is invisible, inaccessible or unrelatable**. It is trapped in service providers' databases, or on different devices or hard drives, or inaccessible due to software limitations or proprietary file formats [@abiteboul2015;@bowyer2018a], or in formats. Participants of both Case Studies talked of 'not knowing' what data exists and of being 'in the dark'. As Case Study Two showed, even where data is accessible, it is not relatable ('legible' [@mortier2014; [2.3.2](#2.3.2)). Thus the objective here is to tackle this obstacle and ensure that people not only have awareness of their data, but can understand ('make sense' [@gurstein2011; [2.1.4](#2.1.4)]) of what it means.
 
-### An Objective for Better HDR: Data Useability<sup>[15](#fn15)</sup>
+| **INSIGHT: Life Information makes Data Relatable** |
+|:---------------------------------------|
+| In the pilot study and Case Study One, 'data cards' were used to represent common types of civic data [[Figure 8?X](#figure-8?X)]. In Case Study Two [ADD REF to Types diagram in 3.X], and in Hestia.ai's digipower investigation ([7.1.1](#7.1.1)), categories of provider-held data were illustrated with examples. In my research report for BBC Cornmarket [ADD REF], the use of **relatable examples** was identified as an important way to help people understand what a piece of data represents.<br/><br/>Recalling that to make data meaningful, we must be able to interpret it as information [[2.1.1](#2.1.1), this can be refined further: **To make data meaningful, it needs to be expressed as life information**. Tables, spreadsheets and 'big data' sound dry and (to some) dauntingly technical, but once those same datapoints are expressed as _'facts about your life'_, the hurdle of relatability is overcome. The application (and effectiveness) of this principle is evident in successful online services like Netflix, Spotify and Strava, and in social media platforms like Facebook: these interfaces show understandable everyday concepts like Friends, Events, Movies, Playlists, not files, records, folders or database rows. While exploring this idea of mapping _life concepts_ further at BBC R&D, I produced Figure X, which shows a near-exhaustive overview of the many different pieces of information in an individual's life that might be held as data by service providers:|
+| ![Figure X: Life Concept Modelling](./src/figs/figX-life-concepts.png) |
+|This diagram shows how most common personal data types handled by providers today can be mapped to more relatable life information concepts. These life concepts (illustrated with examples where possible) are the best way to make data meaningful and relatable to individuals, and to begin to help people in their search for value in their data [[5.4.3.1](#5.4.3.1)].|
 
-MAIN POINT: Data as immobile, inaccessible and not interrogable
-INSIGHT: DATA AS VERSATILE MATERIAL
-LIT REF PIM & SI REFs about doing stuff with data.
-LIT REF data enabled design https://uxdx.com/blog/data-enabled-design/
-connected baby bottle . data enabled design canvas.
-INSIGHT: UNITING AND UNIFYING DATA
-LIT REF SPLINTERNET
-Uniting the diaspora
-LIT REF integration SI.
-OUTWORLD REF PDLockers
-SUBPOINT: Data by Reference
-Ref: programming.
-BBCREF watch history diagram
-SUBPOINT There is a negotiability element here: only those who encoded the data can fully explain it. links to provenance.
-ENDING: Need to change the nature of data. Just as files and databases have driven design thinking for the last half century, it is time to move up to the next level of DIKW. We need an information operating system.
+[TODO Fix non showing caption]
 
-### An Objective for Better HDR: Ecosystem Awareness & Understanding
+Another important obstacle to consider here is what I call the _Personal Data Diaspora[^20]_. As illustrated by Imogen Heap's quote opening [Chapter 1](#chapter-1), an individual's personal data is typically very widely dispersed. For example, if I consider just my movement tracking data, I have over time accumulated activity logs from walking, running, cycling, and driving which are stored by Nike+, MyFitnessPal, Strava, Google Fit, Fitbit, Apple Health and Google Maps, not to mention the records remaining on my different smart watches, smartphones and hard drives. This is the problem of Integration [@li2010] that SI enthusiasts face [[2.2.3](#2.2.3)]. Even aside from the issues this creates in terms of managing one's data ecosystem [[2.2.4](#2.2.4)], it means that it is impossible to view the history of my physical activity side by side, to spot patterns over time or make comparisons. To overcome this obstacle, approaches to data interfaces and life information modelling must be identified that recognise the **scattered, complex reality of each individual's personal data ecosystem** and begin to make it visible and understandable. This is explored further in 7.3.3 and 7.3.4 below.
+
+The takeaway for this HDR objective is that data awareness and understanding is a problem of representation. Invisible data should be visibly represented, and all data should be represented in the context of its interpretation as life information.
+
+[^20]: The word _'diaspora'_ is typically used with reference to populations, but is an apt term, derived from the Greek _'diaspeirein'_ meaning _'scattered about'_ or '_dispersed'_.
+
+### Obstacles to the HDR Objective of Data Useability<sup>[15](#fn15)</sup>
+
+To consider how to improve the useability of data, we must first consider what properties of data, as it typically exists today, make it hard to use. The primary obstacles are that **most personal data is immobile, inaccessible, unmalleable and not interrogable**.
+
+It is **immobile**, in that it is very difficult to move a dataset out of the environment where it exists: most data exists in organisations' internal databases, where it is tightly coupled to technology stacks, interfaces and business processes that use it.
+
+[TODO possibly move this paragraph elsewhere to avoid repetition with previous section]
+This setting of personal data also explains why it is **inaccessible** to individuals (in the sense of 'effective access' [@gurstein2011]). Data access requests such as GDPR are typically satisfied by creating a copy of the data, which creates problems of delay, divergence and understanding. Even then, as Case Study Two showed, this is incomplete [[5.4.2.2](#5.4.2.2)] and much of the data is never made available. Its accessibility is also hindered by the technical nature of data. For organisational efficiency, data will often be stored in complex proprietary structures which are designed for the algorithmic efficiency of the specific operations the service provider wants to perform, rather than for general-purpose re-use.
+
+Evident from individuals' goals for use of their data [[Table 12](#table-12)] is that people need to be able to ask questions of their data. This highlights the problem that data is not **interrogable**. It must stand for itself, and there is no obvious way to ask a question about the meaning of the data or about what the data says about a particular question, without either the co-operation of the data holder, or advanced technical skills in querying and data analysis. To be able to ask questions of data, it needs to be malleable - one needs the ability to break it down, look at it from different perspectives, and reconstitute it in different ways. This requires more than just an ability to produce visual representations of the data, but an ability to **interact with the data** and produce new interpretations and insights that can help to answer specific questions.
+
+To overcome these obstacles, we need to find ways to extract data from its current constraints into environments where it can move freely and be examined and reconstituted without restriction.
+
+To address these obstacles, the following insights could help:
+
+| **INSIGHT: Data Needs to be United and Unified** |
+|:-------------------------------------------------|
+| It is clear that better HDR involves recognising this scattered, splintered reality [@lemley2021] and moving beyond it. To make data useable for individuals, the diaspora must be united. This means that data from different sources must first be **united** -- brought together -- and then **unified**, which means making it into a collection of data about the individual and their life, rather than scattered slices of that person's life held separately in ways that are optimised for specific services. This is a multi-faceted socio-technical problem of access, interpretation and **integration** (as recognised in self-informatics [@li2010; [[2.2.3](#2.2.3)]]). The negotiability aspects are important (we can only unite data that we can access, and only those that stored information can fully explain it) but these aspects will be explored in 7.3.3 and 7.3.4 below. Setting that aspect aside and focusing on the practical, the way ahead begins with creating a space where data can be held, combined, controlled and **owned** by the individual - _'place for your personal data'_ [@jones2011pim,[[2.2.4](#2.2.4)]], forming the seed of their new human-centric personal data ecosystem. This is in line with Bergman's _'subjective classification principle'_: that _'all related items should be classified together regardless of technological format'_ [@bergman2003] (We could add: _'regardless of where they are held'). This vision is embodied in the concept of **Personal Data Lockers** or Vaults (PDVs) [[2.3.4](#2.3.4)]. The BBC R&D Cornmarket project [[7.1.1](#7.1.1)] is one project which is examining how to build PDVs, and in section 7.4 I explore possible design approaches. At this stage, we must recognise the importance of the _concept_, though. Once data is united and unified, this enables the creation of new views of data that were not previously possible. For example, today each separate TV app, device or streaming service maintains separate records of what you have watched. Once unified in a PDV, it would be possible to present you with a unified view of all the past content you had viewed, across all channels, as this mockup I made at the BBC shows:|
+| ![Figure X: A mockup of a unified TV viewing history which I created for the BBC R&D Cornmarket project](./src/figs/figX-unified-watch-history.png) |
+
+[TODO Fix non showing caption]
+
+| **INSIGHT: Data Must Be Transformed into a Versatile Material** |
+|:-------------------------------------------------|
+| Looking at the specific individual goals Case Study Two participants had with personal data [[Table 12](#table-12)] (e.g. reflection, pattern-finding, goal-tracking, and creative use) - and also at the many mechanisms that innovators in the PIM space have identified [[2.2.2](#2.2.2)] (e.g. associative exploration, spatial arrangment, embodied interaction for different contexts), what we can infer is that somehow, unified data must be **transformed into a versatile material**. To truly empower users to make use of their data, we need to move to a model where data - represented as facts (or assertions) about their life – can be created, deleted, moved, grouped, annotated, copied, shared, modified, labelled, organised, separated or otherwise manipulated. This idea of data being a material is new for everyone but data scientists: it is new not just to end users but for designers too. Eva Deckers, in her work on _data-enabled design_, an approach to design which also calls for data to become a material, notes that designers (and we could expand this to laypeople too) _"are in general not trained and prepared to work with data. They’re not equipped with the right tools, data manipulation is not part of the schools' curriculum and designers [people] are rarely interested in understanding data"_ [@deckers2018]. Her work with colleagues on the 'connected baby bottle' illustrated hows how such an approach can create a space for the iterative user-centred development of new capabilities [@bogers2016]. Based on this thesis's theorisation of human data relations, the best candidate for what this material should *be* is the two information concepts we have identified - life information and ecosystem information. So the goal of data useability calls for the creation of **systems that enable human information to be treated as a material**.|
+
+So, for data to be useable, we must change its nature. We have been trained by the computers that have existed up to now that the basic units for interacting with computer systems are files - these are the material of today's personal computers. Where we do interact with data as information instead of files, that information is typically presented in limited contexts within certain products or apps. In line with the goal to move up the DIKW pyramid [[2.1](#2.1)], we need smarter computer systems, that move beyond files [@bowyer2011] - systems whose basic units of interaction are pieces of human information. **We need a human information operating system**.
+
+
+
+
+### Obstacles to the HDR Objective of Ecosystem Awareness & Understanding
 
 MAIN POINT: The ecosystem is complex and largely invisible. both the routine (e.g. accounts, auth, sync  etc) and the hidden (data brokers, inferences, profiling etc HESTIA REF)
 INSIGHT: ECOSYSTEM INFORMATION
 OUTWORLD REF example: subscrab and inbox scanning. The opportunity of ecosystem detection
+SUBPOINT: Data by Reference
+Ref: programming.
 SUBPOINT No one person can see the whole picture. (THESIS REF ref C4).
 SUBPOINT A lack of metadata
 BBC LINK. METADATA DIAGRAM FROM BBC
 ENDING = open up this new space that no-one is building for. for people to manage their digital world, they need a map. a vital first step on the road to giving individuals the ability to have oversight of their personal data ecosystem and take action within it.
-ENDING 2 = INSIGHT: PROVENANCE
+ENDING 2 = INSIGHT: We Must Know Data's Provenance
 as a necessary step to understand both data and its context
 mike martin stuff
 LIT REF and C Jensen 2010
 LIT REF tie into data non neutral stuff
 
-### An Objective for Better HDR: Ecosystem Negotiability
+### Obstacles to the HDR Objective of Ecosystem Negotiability
 
 MAIN POINT: The relationship between orgs and individuals is shifting, they are amassing more power from data while also purposefully reducing individual agency.
 ILLUSTRATION: THE PANOPTICON
 LIT REF: JASPERSON POWER
 INSIGHT: HESTIA REF - FOUR LEVERS OF POWER
-REAL WORLD REFS: facebook api/feed closing, facebook change over location data, tiktok changing to legitimate interest, That guy who got banned from Facebook for letting people read their Facebook feed in a different way] [AND the blocking of accessibility readers] [and Chrome getting reinvented] [List of bullets]
+REAL WORLD REFS: facebook api/feed closing, facebook change over location data, tiktok changing to legitimate interest, That guy who got banned from Facebook for letting people read their Facebook feed in a different way AND the blocking of accessibility readers and Chrome getting reinvented List of bullets
 SILVER REF whispers of 'moving away from consent to informing' in pub sec
 SUBPOINT Companies acting in closed, introspective, non cooperative ways. Proprietary, incompatible silos Apple ecosystem. Google+ example. closed practices seen in c4.
 SUBPOINT THE INACCESSIBLE DATA SELF
+copy of your data, prevents the data from effecting change
 LIT REF cornford (and others?)
 ENDING: The focus on personal ecosystems, especially across providers, is almost non-existent. Business model or not, there is clearly a societal need for this. More than this, people need to be reconnected with their data selves rather than being pushed apart from it.
 
-### An Objective for Better HDR: Effective, Commercially Viable and Desirable Systems
+### Obstacles to the HDR Objective of Effective, Commercially Viable and Desirable Systems
 
 MAIN POINT: HDR faces a particular challenge in that it requires a disruptive change, which no-one is screaming for and businesses are not currently motivated to invest in. It is hard to build effective systems in this space. We need Human Centred Information Systems
 faster horses example / ice disruptions?
@@ -310,6 +333,7 @@ Asking questions (THESISREF C5)
 BBCREF taxonomy diagram
 BBCREF Browsing by areas of life.. leads to:
 SUBPOINT Mental Models > Life- level systems, life partitioning
+teevan. conceptual anchors 2.2.2
 BBCREF cluedo rooms
 LITREF Lenses etc C2
 SUBPOINT Approaches by automatically finding entities
@@ -378,3 +402,4 @@ Thesis Conclusion
 - reiterate the answer to the main RQ
 - highlight future value/societal implications of the work
 - we have defined HDR. who the recursive public are (roles). what they might do… what the field is… etc
+- [TODO add stuff from [here](https://workflowy.com/s/75-thesis-conclusion/5l4PUUYpf9EOGxe9)]

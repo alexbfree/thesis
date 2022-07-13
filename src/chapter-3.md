@@ -218,6 +218,8 @@ Sometimes sensitisation activities can also serve an additional purpose of bring
 
 ![Figure 8: Family Civic Data Cards -- things to think with, that can also be used in card sorting tasks](./src/figs/fig08-data-cards.jpg)
 
+[TODO ADD THE PERSONAL DATA TYPES SLIDE HERE]
+
 ![Figure 9: Interviewing Families in the Home -- Card sorting with a family in their living room](./src/figs/fig09-home-visit.jpg)
 
 ![Figure 10: Sketching Dialogue -- An example life sketch created by a participant and annotated during discussion](./src/figs/fig10-sketch-interview.png)
