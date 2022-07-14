@@ -61,7 +61,7 @@ Collectives can also exert external influence in the adjacent 'Defend & Create' 
 [traditional means e.g. press, public campaigns but also new ways e.g. mass GDPR or targeted GDPR]
 [mention dehaye's pressure, leading to FB Off Site Activity, my success with Spotify - compare also to Bookbeat?]
 [noyb as example, also Privacy International, Bits of Freedom,]
-[cite examples from Mahieu papers][@mahieu2018;@mahieu2020a;@mahieu2020b]
+[cite examples from Mahieu papers][@mahieu2018; @mahieu2020a; @mahieu2020b]
 [mention pooldata, data unions]
 
 ### Create New Structures and Systems

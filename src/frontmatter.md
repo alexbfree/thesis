@@ -25,7 +25,7 @@ Lists of Figures by Chapter {.unnumbered}
 
 * **Figure N.n** - Description goes here
 
-Index of Insights and Contributions {.unnumbered}
+Index of Key Ideas, Insights and Contributions {.unnumbered}
 ===================================
 
 * **Human Data Relations** - [ADD SECTIONREF]
@@ -45,7 +45,9 @@ Index of Insights and Contributions {.unnumbered}
 * **Perceived Individual Power** - [ADD SECTIONREF]
 * **Human Information Operating System** - [ADD SECTIONREF]
 * **Proxy Representations of Immobile Data** - [ADD SECTIONREF]
-
+* **Free Data Interfaces** - [ADD SECTIONREF]
+* **Personal Data as a Proxy for Involvement** - [ADD SECTIONREF]
+* **Locus of Decision-making ** -
 ### HDR Wants {.unnumbered}
 
 * **Data Visibility** - [ADD SECTIONREF]
@@ -53,7 +55,7 @@ Index of Insights and Contributions {.unnumbered}
 * **Data Useability**<sup>[15](#fn15)<sup> - [ADD SECTIONREF]
 * **Process Transparency** - [ADD SECTIONREF]
 * **Individual Oversight** - [ADD SECTIONREF]
-* **Involvement in Decisionmaking** - [ADD SECTIONREF]
+* **Involvement in Decision-making** - [ADD SECTIONREF]
 
 ### HDR Objectives {.unnumbered}
 
@@ -90,6 +92,7 @@ Index of Insights and Contributions {.unnumbered}
 * **We Must Know Data's Provenance** - [ADD SECTIONREF]
 * **HDR Systems Must Offer New Life Capabilities and Pain Relief** - [ADD SECTIONREF]
 * **We Need to Teach Computers to Understand Human Information** - [ADD SECTIONREF]
+* **The Four Levers of Infrastructural Power** - [ADD REF]
 
 [ADD OTHER INSIGHTS HERE]
 
@@ -146,10 +149,16 @@ Glossary of Abbreviations, Names and Terms {.unnumbered}
 * **Value-centred Design** -
 * **Experience-centred Design** -
 * **User-centred Design** -
-* **Action Research** - 
-* **Metadata** -
-* **Volunteered Data** -
-* **Derived Data** -
-* **Acquired Data** -
-* **Observed Data** -
+* **Action Research** -
+* **Data: Metadata** -
+* **Data: Volunteered Data** -
+* **Data: Derived Data** -
+* **Data: Acquired Data** -
+* **Data: Observed Data** -
 * **Data Provenance** -
+* **Point of Severance** -
+* **Dynamic Consent** -
+* **Power - Infrastructural Power** -
+* **Gatekeeper**-
+* **Support Worker** -
+* **[ADD ALL TYPES OF POWER] -
