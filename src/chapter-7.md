@@ -370,21 +370,16 @@ We need to store **semantic context and semantic associations**, i.e the meaning
 
 Machine learning technologies and Artificial Intelligence have pushed machine understanding of human words, images and content to impressive levels in recent years and such technologies can certainly be helpful, but in fact at the core what we are talking about here is somemthing much simpler than AI; It is simply about labelling datapoints in as many different ways as possible so that those datapoints can be associatively retrieved from many different angles, and providing humans with ways to amend incorrect labels and to reclassify data or apply new semantic associations. Issues of interoperability for PDV systems are being actively explored and developed in the 'Solid' community [@bernersLee2022inruptSolid; @bansal2018] in pursuit of a decentralised web [@verborgh2017].
 
-Such approaches are in their infancy, and have not yet been adopted extensively in commercial settings. Even after addressing the obstacles of end-user buy-in and the technical complexities of building human-centric systems, data-driven corporations, motivated as they are by profit and business success (and smaller online organisations too) need to be persuaded of the business value of transparency, interoperability and human-centricity. Avenues for possible future research and advocacy here include:
-- trust
-- accuracy
-- liability
-- better targeting.
+Such approaches are in their infancy, and have not yet been adopted extensively in commercial settings. Even after addressing the obstacles of end-user buy-in and the technical complexities of building human-centric systems, data-driven corporations, motivated as they are by profit and business success (and smaller online organisations too) need to be persuaded of the business value of transparency, interoperability and human-centricity.
 
+Avenues for possible future research and advocacy toward data holding organisations include:
+- **trust & reputation**: In line with the third aspect of HDR [[7.2]] as well as the recommendations in [4.3.4], [4.4.1], [5.5.2] and [6.2.1], displaying a more inclusive, open and supportive attitude to data handling could strengthen the service relationship and increase customer loyalty and trust. Organisations that are seen to have good human data relations are preferred.
+- **consent**: In the wake of the GDPR, ensuring consent is becoming an increasing concern to organisations, and the risks of legal consequences for mistakes are high. It makes sense that a more dynamic [@bowyer2018family; [4.4.1](#4.4.1); [5.5.2](#5.5.2); [6.2.2](#6.2.2)] consent approach that involves individuals [[6.2.3](#6.2.3)] and keeps them in the loop, will enable individuals to speak up much earlier and express consent wishes that might otherwise go undetected.
+- **accuracy**: The best placed person to spot errors in data's accuracy or fairness is the individual about whom the data is concerned. Therefore, increasing their involvement is likely to improve the quality of the data, especially if additional data is contributed or curated by the service user [[4.3.3.4](#4.3.3.4), [6.2.3](#6.2.3)]
+- **liability**: In an increasingly litigous society, storage of personal data, especially health or financial data, is a significant liability fo businesses, especially if something goes wrong. Investment in human-centered personal ecosystems would outsource the storage of sensitive data to data trusts or PDV providers, reducing liability for the service business. By ensuring that data is accessed only in ways that are centralised outside of the business and remaining in the user's control -- such as PDV company digi.me's Private Sharing model [@digimePrivateSharing]-- organisations can ensure that have neglible risk of mishandling customer data.
+- **better customer targeting** The most radical, but perhaps the most persuasive, business model relating to better HDR, is the Vendor Relationship Management approach [[2.3.4](#2.3.4)], where individuals express their own service or product desires explicitly, which vendors then respond to. This turns traditional models inside out, and would empower users more, but due to the inherently improved accuracy of a self-declared interest, might also give businesses a greater confidence that their investment in converting those customers to a sale would be worthwhile. It is important to remember that the current drive towards collecting more data that drives the platformisation trend is in order to improve ad targeting, so that businesses can get a better return on their investment. A VRM approach, or any other approach where the individual contributes improved data to their data self, is in line with that current business objective.
 
-
-LIT REF VRM, [add a VRM screenshot]
-reduced liability
-increased accuracy
-WORLDREF the drive behind the data sharing ecosystem is better knowing users. self declared interests/data self would help
-ENDING 2: need to show value to individuals, give a new capability or solve a problem
-
-
+In summary, whichever HDR objective is targeted, all HDR reformers involved in  building HDR systems must **co-ordinate around (possibly new) standards for human information storage and management**, must invest in systems that **elevate computers from data-processing machines to human-information-processing machines**, and and must **make a persuasive case to both businesses and individuals** that the new approach offers tangible, previously unavailable value.
 
 The landscape of opportunity: Four approaches to improving Human Data Relations{#7.4}
 ------------------------------------------------------------------
