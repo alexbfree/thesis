@@ -93,6 +93,7 @@ Index of Key Ideas, Insights and Contributions {.unnumbered}
 * **HDR Systems Must Offer New Life Capabilities and Pain Relief** - [ADD SECTIONREF]
 * **We Need to Teach Computers to Understand Human Information** - [ADD SECTIONREF]
 * **The Four Levers of Infrastructural Power** - [ADD REF]
+* **Human-centred Information Systems must serve Human Values, Relieve Pain and Deliver New Life Capabilities** - [ADD REF]
 
 [ADD OTHER INSIGHTS HERE]
 
