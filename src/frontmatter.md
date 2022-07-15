@@ -162,4 +162,5 @@ Glossary of Abbreviations, Names and Terms {.unnumbered}
 * **Power - Infrastructural Power** -
 * **Gatekeeper**-
 * **Support Worker** -
+* **Life Sketching** -
 * **[ADD ALL TYPES OF POWER] -
