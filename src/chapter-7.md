@@ -303,7 +303,7 @@ Looking deeper into theories of power reveals that structural power is not the o
 - _**socially shaped power**_: influencing a wide audience to settle upon a preferred interpretation (e.g. using dominant market position to dominate debates e.g. about privacy norms)
 - _**interpretive power**_: creating the internal representations of reality within an organisation (for example, presenting unpopular attitudes to data privacy to staff as normal/acceptable/beneficial for business)
 
-| INSIGHT 6: The Four Levers of Infrastructural Power |
+| INSIGHT 6: Data Holders use Four Levers of Infrastructural Power |
 | :------------------------------------------------ |
 | Hestia.ai [[7.1.1](#7.1.1)] have produced a model to explain the mechanisms by which powerful technology companies gain power and use it to shape today's digital landscape. In this model, _**infrastructural power**_ comes from three things: _**technical ability**_, _**organisational ability**_, and _**the acquisition of data about individuals and populations**_. Thus, as organisations (especially platforms) collect more data, and grow in market influence or technical capability, they gain power over individuals and over other organisations. They exert power in four quadrants, using four 'levers'. Simplified and expressed in the terms of this thesis, these are:
 | 1. **Collect & Interpret Data to Acquire Knowledge**: Data and signals are collected from individuals and interpreted in order to infer their intents and interests. For example, Google collects raw GPS and wi-fi hotspot data from mobile phones, which it then statistically analyses to infer which shops or venues you visited and what forms of transport you used, increasing Google's knowledge about individuals and populations. |
