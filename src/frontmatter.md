@@ -85,15 +85,14 @@ Index of Key Ideas, Insights and Contributions {.unnumbered}
 
 ### HDR Insights & Approaches {.unnumbered}
 
-* **Life Information Makes Data Relatable** - [ADD SECTIONREF]
-* **Ecosystem Information Is an Antidote to Digital Life Complexity** - [ADD SECTIONREF]
-* **Data Needs to be United and Unified** - [ADD SECTIONREF]
-* **Data Must Be Transformed into a Versatile Material** - [ADD SECTIONREF]
-* **We Must Know Data's Provenance** - [ADD SECTIONREF]
-* **HDR Systems Must Offer New Life Capabilities and Pain Relief** - [ADD SECTIONREF]
-* **We Need to Teach Computers to Understand Human Information** - [ADD SECTIONREF]
-* **The Four Levers of Infrastructural Power** - [ADD REF]
-* **Human-centred Information Systems must serve Human Values, Relieve Pain and Deliver New Life Capabilities** - [ADD REF]
+* **Insight 1: Life Information Makes Data Relatable** - [ADD SECTIONREF]
+* **Insight 2: Ecosystem Information Is an Antidote to Digital Life Complexity** - [ADD SECTIONREF]
+* **Insight 3: Data Needs to be United and Unified** - [ADD SECTIONREF]
+* **Insight 4: Data Must Be Transformed into a Versatile Material** - [ADD SECTIONREF]
+* **Insight 5: We Must Know Data's Provenance** - [ADD SECTIONREF]
+* **Insight 6: The Four Levers of Infrastructural Power** - [ADD REF]
+* **Insight 7: Human-centred Information Systems Must Serve Human Values, Relieve Pain and Deliver New Life Capabilities** - [ADD REF]
+* **Insight 8: We Need to Teach Computers To Understand Human Information** - [ADD REF]
 
 [ADD OTHER INSIGHTS HERE]
 
