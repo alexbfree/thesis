@@ -88,11 +88,16 @@ Index of Key Ideas, Insights and Contributions {.unnumbered}
 * **Insight 1: Life Information Makes Data Relatable** - [ADD SECTIONREF]
 * **Insight 2: Ecosystem Information Is an Antidote to Digital Life Complexity** - [ADD SECTIONREF]
 * **Insight 3: Data Needs to be United and Unified** - [ADD SECTIONREF]
-* **Insight 4: Data Must Be Transformed into a Versatile Material** - [ADD SECTIONREF]
-* **Insight 5: We Must Know Data's Provenance** - [ADD SECTIONREF]
-* **Insight 6: The Four Levers of Infrastructural Power** - [ADD REF]
-* **Insight 7: Human-centred Information Systems Must Serve Human Values, Relieve Pain and Deliver New Life Capabilities** - [ADD REF]
-* **Insight 8: We Need to Teach Computers To Understand Human Information** - [ADD REF]
+* **Insight 4: Data Must Be Transformed into a Versatile Material.** - [ADD SECTIONREF]
+* **Insight 5: We Must Know Data's Provenance.** - [ADD SECTIONREF]
+* **Insight 6: Data Holders use Four Levers of Infrastructural Power.** - [ADD REF]
+* **Insight 7: Human-centred Information Systems Must Serve Human Values, Relieve Pain and Deliver New Life Capabilities.** - [ADD REF]
+* **Insight 8: We Need to Teach Computers To Understand Human Information.** - [ADD REF]
+* **Insight 9: Individual GDPR requests can compel companies to change data practices.** - [ADD REF]
+* **Insight 10: Collectives can compare and unify their data and use it to demand change.** - [ADD REF]
+* **Insight 11: Automating the identification of Entities can enhance machine understanding and unburden information management system users.**
+* **Insight 12: The 'Seams' of Digital Services need to be identified, exploited and protected.** - [ADD REF]
+* **Insight 13: It is possible to demonstrate business benefits of Transparency and Human-centricity.** - [ADD REF]
 
 [ADD OTHER INSIGHTS HERE]
 
