@@ -125,6 +125,7 @@ Glossary of Abbreviations, Names and Terms {.unnumbered}
 * **SILVER** -
 * **DERC** -
 * **DIKW pyramid** -
+* **civic hacking** -
 * **VRM - Vendor Relationship Management** -
 * **Open Lab** -
 * **EPSRC** -
@@ -141,7 +142,7 @@ Glossary of Abbreviations, Names and Terms {.unnumbered}
 * **Personal Data Ecosystems** -
 * **Personal Data Economy** -
 * **Troubled Families** -
-* **The Four Levers of Infrastructural Power** -
+* **Infrastructural Power, and its Four Levers** -
 * **Participatory Action Research**
 * **Pragmatism** -
 * **Constructivism** -

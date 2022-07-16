@@ -186,7 +186,7 @@ As [Figure X](#figure-X) shows, the need for data to be understandable, visible 
 
 Before engaging with the practicalities of pursuing these HDR objectives, it is valuable to revisit the stance from which we approach this change. As outlined in 3.2, the research of this PhD has been grounded in participatory action research and experience-centred design; by using a Digital Civics [@vlachokyriakos2016] frame to gain deep understanding of people's needs and the ways those needs are not fully met, we can interpret and model how the world needs to change. Section 3.2 already outlined that we can consider such research as political, seeking to correct an imbalance in the world. In this chapter, we look beyond identifying what change is needed, and step into the role of activist, exploring how individuals and groups can actually change the world they inhabit.
 
-In doing so, we can consider ourselves (those who pursue better Human Data Relations, or _HDR reformers_ as a shorthand) as a _recursive public_ [@kelty2008; @p2pwikiRecursivePublic], albeit a nascent one. This is a term originating in the free software movement to describe a _"collective, independent of other forms of constituted power, capable of speaking to existing forms of power through the production of actually existing alternatives"_. This term captures the idea that through various means at our disposal: participatory research, experience-centred design, engineering software prototypes, exertion of legal rights, and efforts to raise public awareness, we seek to modify the systems and practices we live within in pursuit of our goals. This collective around better Human Data Relations does not yet exist as a named and identifiable _public_ [@ledantec2016] but its members congregate around emergent collectives in interconnected and overlapping spaces, most notably the MyData community [@mydata2017declaration] and its members, but also research and activism agendas including but not limited to: digital rights [@openRightsGroup], gig economy worker rights [@kirven2018], privacy by design [@cavoukian2010], data justice [@taylor2017; @crivellaro2019], critical algorithm studies [@gillespie2016], humane technology [@harris2013] and explainable AI [@explainableAI].
+In doing so, we can consider ourselves (those who pursue better Human Data Relations, or _HDR reformers_ as a shorthand) as a _recursive public_ [@kelty2008; @p2pwikiRecursivePublic], albeit a nascent one. This is a term originating in the free software movement to describe a _"collective, independent of other forms of constituted power, capable of speaking to existing forms of power through the production of actually existing alternatives"_. This term captures the idea that through various means at our disposal: participatory research, experience-centred design, engineering software prototypes, exertion of legal rights, and efforts to raise public awareness, we seek to modify the systems and practices we live within in pursuit of our goals. This idea of reconfiguring society in this way has been conceived as _**civic hacking**_ [@crabtree2007; levitas2013; @tauberer2014]. The collective around better Human Data Relations does not yet exist as a named and identifiable _public_ [@ledantec2016] but its members congregate around emergent collectives in interconnected and overlapping spaces, most notably the MyData community [@mydata2017declaration] and its members, but also research and activism agendas including but not limited to: digital rights [@openRightsGroup], gig economy worker rights [@kirven2018], privacy by design [@cavoukian2010], data justice [@taylor2017; @crivellaro2019], critical algorithm studies [@gillespie2016], humane technology [@harris2013] and explainable AI [@explainableAI].
 
 Whether these disparate groups coalesce into a single identifiable public remains to be seen, and so too whether the term this thesis offers of _Human Data Relations_ is sufficient to capture that public. At the least, it provides a descriptive umbrella term. Nonetheless, the breadth of research and innovation and activism happening in this space validates both the need and the desire for such a recursive public around better HDR to exist. Therefore, this chapter takes an unashamedly critical view of the status quo, favouring disruptive societal changes that would further the objectives of better Human Data Relations and providing actionable approaches that will be of use to the members of this public. The chapter asks, _"How can we change the world into the one we want?"_
 
@@ -371,15 +371,9 @@ We need to store **semantic context and semantic associations**, i.e the meaning
 
 Machine learning technologies and Artificial Intelligence have pushed machine understanding of human words, images and content to impressive levels in recent years and such technologies can certainly be helpful, but in fact at the core what we are talking about here is somemthing much simpler than AI; It is simply about labelling datapoints in as many different ways as possible so that those datapoints can be associatively retrieved from many different angles, and providing humans with ways to amend incorrect labels and to reclassify data or apply new semantic associations. Issues of interoperability for PDV systems are being actively explored and developed in the 'Solid' community [@bernersLee2022inruptSolid; @bansal2018] in pursuit of a decentralised web [@verborgh2017].
 
-Such approaches are in their infancy, and have not yet been adopted extensively in commercial settings. Even after addressing the obstacles of end-user buy-in and the technical complexities of building human-centric systems, data-driven corporations, motivated as they are by profit and business success (and smaller online organisations too) need to be persuaded of the business value of transparency, interoperability and human-centricity.
+Such approaches are in their infancy, and have not yet been adopted extensively in commercial settings. Even after addressing the obstacles of end-user buy-in and the technical complexities of building human-centric systems, data-driven corporations, motivated as they are by profit and business success (and smaller online organisations too) need to be persuaded of the business value of transparency, interoperability and human-centricity. This is explored further in [7.4.5](#7.4.5).
 
-Avenues for possible future research and advocacy toward data holding organisations include:
 
-- **Trust & Reputation**: In line with the third aspect of HDR [[7.2]] as well as the recommendations in [4.3.4], [4.4.1], [5.5.2] and [6.2.1], displaying a more inclusive, open and supportive attitude to data handling could strengthen the service relationship and increase customer loyalty and trust. Organisations that are seen to have good human data relations are preferred.
-- **Consent**: In the wake of the GDPR, ensuring consent is becoming an increasing concern to organisations, and the risks of legal consequences for mistakes are high. It makes sense that a more dynamic [@bowyer2018family; [4.4.1](#4.4.1); [5.5.2](#5.5.2); [6.2.2](#6.2.2)] consent approach that involves individuals [[6.2.3](#6.2.3)] and keeps them in the loop, will enable individuals to speak up much earlier and express consent wishes that might otherwise go undetected.
-- **Accuracy**: The best placed person to spot errors in data's accuracy or fairness is the individual about whom the data is concerned. Therefore, increasing their involvement is likely to improve the quality of the data, especially if additional data is contributed or curated by the service user [[4.3.3.4](#4.3.3.4), [6.2.3](#6.2.3)]
-- **Liability**: In an increasingly litigous society, storage of personal data, especially health or financial data, is a significant liability fo businesses, especially if something goes wrong. Investment in human-centered personal ecosystems would outsource the storage of sensitive data to data trusts or PDV providers, reducing liability for the service business. By ensuring that data is accessed only in ways that are centralised outside of the business and remaining in the user's control -- such as PDV company digi.me's Private Sharing model [@digimePrivateSharing]-- organisations can ensure that have neglible risk of mishandling customer data.
-- **Better Customer Targeting** The most radical, but perhaps the most persuasive, business model relating to better HDR, is the Vendor Relationship Management approach [[2.3.4](#2.3.4)], where individuals express their own service or product desires explicitly, which vendors then respond to. This turns traditional models inside out, and would empower users more, but due to the inherently improved accuracy of a self-declared interest, might also give businesses a greater confidence that their investment in converting those customers to a sale would be worthwhile. It is important to remember that the current drive towards collecting more data that drives the platformisation trend is in order to improve ad targeting, so that businesses can get a better return on their investment. A VRM approach, or any other approach where the individual contributes improved data to their data self, is in line with that current business objective.
 
 In summary, whichever of the above four HDR objectives are targeted, all HDR reformers involved in building HDR systems must:
 
@@ -419,12 +413,16 @@ In general, what the discovery-driven activism approach highlights is that there
 Once information has been obtained, the HDR reformer activist can use a variety of means to try to bring about the desired change. If a target organisation fails to comply with a data access request, or a demand to erase or correct data, they can be _**reported to the Data Protection Authority**_. In some cases even the threat of this (which can carry a large fine) can be enough to compel the organisation to change. If a breach of law is found, the target organisation could be _**taken to court**_. This often happens in the form of class action lawsuits, as in the case of Facebook and Cambridge Analytica [@bowcott2018]. In some cases, _**making data available to the public**_ can be empowering to society at large. This approach has been demonstrated by the UK website TheyWorkForYou, which increases democratic accountability of MPs by making MP's votes and public statements more readily accessible [@mySociety2004]. As well as structured _'impact journalism'_ such as that conducted by The Citizens as mentioned above, another technique available to individual activists is _public shaming of misbehaving organisations_, especially on Twitter. While the ethics of this are complex and it does not always succeed, the technique has been used effectively to force organisations to change, in order that they might avoid further bad publicity [@silver2014;@braw2022].
 
 
-INSIGHT: Individual GDPR requests can compel companies to change.
-OUTREF my work with Spotify, Netflix
-OUTREF Dehaye with Facebook
+| INSIGHT 9: Individual GDPR requests can compel companies to change data practices. |
+| :--------------------------------------------------------------------- |
+| OUTREF my work with Spotify, Netflix |
+| OUTREF Dehaye with Facebook |
 
 
-INSIGHT: Collectives can compare and unify their data and use it to demand change.
+| INSIGHT 10: Collectives can compare and unify their data and use it to demand change. |
+| :--------------------------------------------------------------------- |
+| .... |
+
 To work together as collectives and make COMPARISONS.
 power of comparisons:
 OUTREF Feed comparison Facebook political.
@@ -462,7 +460,13 @@ SUBPOINT Mental Models > Life- level systems, life partitioning
 teevan. conceptual anchors 2.2.2
 BBCREF cluedo rooms
 LITREF Lenses etc C2
-SUBPOINT Approaches by automatically finding entities
+
+| INSIGHT 11: Automating the identification of Entities can enhance machine understanding and unburden information management system users |
+| :------------------------------------------------------------------ |
+| ...... |
+
+
+ Approaches by automatically finding entities
 ref back to semantics etc. (two arrows diagram back ref'd, and the Insight about semantic understanding)
 (can callback the subscrab example from above here too)
 Extraction and Learning systems
@@ -482,9 +486,17 @@ ENDING: Individuals Empowered with new Life / Ecosystem Information Capabilities
 MAIN POINT: That it is not just about Positive Change, there must also be Defensive Action, in the face of the active erosion of user autonomy (backref above diminishing agency). That this is an avenue of activist and grassroots work in its own right.
 some kinda visual?
 LITREF guard rails for the status quo
-INSIGHT: THE IMPORTANCE OF SEAMS
+
+| INSIGHT 12: The 'Seams' of Digital Services need to be identified, exploited and protected. |
+| :------------------------------------------------------------------------ |
+| By identifying, exploiting and protecting the seams of digital services and devices, user autonomy and the viability of data-unification efforts can be protected. |
+| .... |
+
+[TODO make this an inset box not a table]
+
 Black Box diagram
 LITREF Storni magical design
+An unseen battle for the free flow of information is ongoing.  (data separation from services)
 DERC REF Seams, JustEat etc. Facebook example. That guy who got banned from Facebook for letting people read their Facebook feed in a different way AND the blocking of accessibility readers and Chrome getting reinvented List of bullets
 DERCREF the opportunity of scrapers & webaug
 LITREF right to repair
@@ -508,6 +520,18 @@ SUBPOINT in Education, and Data Literacy
 SUBPOINT in Systems Building (just ee above)
 SUBPOINT in standards, information uniting the diaspora
 SUBPOINT in Researching New Business Models and Demonstrating Value of transparency and human centricity
+
+| INSIGHT 13: It is possible to demonstrate business benefits of Transparency and Human-centricity |
+|  :------------------------------------------------------------------------ |
+| As outlined in 7.3.5 and in this section, it is essential that work is done to persuade data-holding organisations of the benefits of moving towards the new paradigms outlined in this thesis. The following avenues for possible future research and advocacy toward data holding organisations have been identified:|
+| - **Trust & Reputation**: In line with the third aspect of HDR [[7.2]] as well as the recommendations in [4.3.4], [4.4.1], [5.5.2] and [6.2.1], displaying a more inclusive, open and supportive attitude to data handling could strengthen the service relationship and increase customer loyalty and trust. Organisations that are seen to have good human data relations are preferred. |
+| - **Consent**: In the wake of the GDPR, ensuring consent is becoming an increasing concern to organisations, and the risks of legal consequences for mistakes are high. It makes sense that a more dynamic [@bowyer2018family; [4.4.1](#4.4.1); [5.5.2](#5.5.2); [6.2.2](#6.2.2)] consent approach that involves individuals [[6.2.3](#6.2.3)] and keeps them in the loop, will enable individuals to speak up much earlier and express consent wishes that might otherwise go undetected. |
+| - **Accuracy**: The best placed person to spot errors in data's accuracy or fairness is the individual about whom the data is concerned. Therefore, increasing their involvement is likely to improve the quality of the data, especially if additional data is contributed or curated by the service user [[4.3.3.4](#4.3.3.4), [6.2.3](#6.2.3)] |
+| - **Liability**: In an increasingly litigous society, storage of personal data, especially health or financial data, is a significant liability fo businesses, especially if something goes wrong. Investment in human-centered personal ecosystems would outsource the storage of sensitive data to data trusts or PDV providers, reducing liability for the service business. By ensuring that data is accessed only in ways that are centralised outside of the business and remaining in the user's control -- such as PDV company digi.me's Private Sharing model [@digimePrivateSharing]-- organisations can ensure that have neglible risk of mishandling customer data. |
+| - **Better Customer Targeting** The most radical, but perhaps the most persuasive, business model relating to better HDR, is the Vendor Relationship Management approach [[2.3.4](#2.3.4)], where individuals express their own service or product desires explicitly, which vendors then respond to. This turns traditional models inside out, and would empower users more, but due to the inherently improved accuracy of a self-declared interest, might also give businesses a greater confidence that their investment in converting those customers to a sale would be worthwhile. It is important to remember that the current drive towards collecting more data that drives the platformisation trend is in order to improve ad targeting, so that businesses can get a better return on their investment. A VRM approach, or any other approach where the individual contributes improved data to their data self, is in line with that current business objective. |
+
+[TODO make this an inset box, not a table]
+
 SUBPOINT in supporting Data Understanding Industry.
 empowering individuals as investigators. Tools to map their own ecosystems and unite their own personal data diaspora.
 FRAME AS DIAGRAM
