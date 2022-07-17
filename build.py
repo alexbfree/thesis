@@ -212,6 +212,27 @@ def buildWebsite():
     # Generate cover sheet
     buildCoversheet("{}/".format(WEBSITE_PATH))
 
+# Builds the website HtmlOnly along with cover page
+def buildWebsiteHtmlOnly():
+    # Check for and create the folder
+    subprocess.run(["mkdir", "-p", WEBSITE_PATH])
+
+    # Load the config file
+    config = frontmatter.load('./src/index.md')
+
+    # Copy the styles file
+    copy("./src/styles.css", WEBSITE_PATH)
+
+    # First build in HTML for the web, then loop over the format list and build for that
+    buildThesis("html")
+    buildChapters("html")
+    buildFile("frontmatter", "html")
+    dir_util.copy_tree("{}/{}/".format(OUT_PATH, "html"), "{}/{}/".format(WEBSITE_PATH, "html") )
+
+    # Generate cover sheet
+    buildCoversheet("{}/".format(WEBSITE_PATH))
+
+
 # Returns a count of all chapters, used in loops to manipulate chapters dynamically
 def getChapterCount():
     pattern = "chapter-[0-9]*.md"
@@ -260,7 +281,10 @@ def main(argv):
     chapters_parser.add_argument("format", type=str, help="The format you want to build into e.g. html or docx")
 
     # Parser for building an entire website
-    website_parser = subparsers.add_parser("website", help="Generates a website including a frontpage and html, docx, and odt versions of each chapter and entire thesis")
+    website_parser = subparsers.add_parser("website", help="Generates a website including a frontpage and html, docx, epub and pdf versions of each chapter and entire thesis")
+
+    # Parser for building an entire website, html only
+    website_html_onlyparser = subparsers.add_parser("htmlwebsite", help="Generates a website in HTML only including a frontpage and html versions of each chapter and entire thesis")
 
     # Run
     args = parser.parse_args()
@@ -280,6 +304,10 @@ def markdown_thesis(args):
     elif args.subparser == "website":
         print ("Building website \n======\n")
         buildWebsite()
+
+    elif args.subparser == "htmlwebsite":
+        print ("Building website (HTML only) \n======\n")
+        buildWebsiteHtmlOnly()
 
     elif args.subparser == "chapter":
         print("Building Chapter in {}\n======\n".format(args.format))
