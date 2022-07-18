@@ -47,12 +47,13 @@ Index of Key Ideas, Insights and Contributions {.unnumbered}
 * **Perceived Individual Power** - [ADD SECTIONREF]
 * **Personal Data Ecosystem Control** - [ADD SECTIONREF]
 * **Personal Data as a Proxy for Involvement** - [ADD SECTIONREF]
+* **Personal Data Stewardship** - [ADD SECTIONREF]
 * **Proxy Representations of Immobile Data** - [ADD SECTIONREF]
 * **Shared Data Interaction** - [ADD SECTIONREF]
 * **Storyboarding Cards** - [ADD SECTIONREF]
 * **Trust in Providers, effects upon** - [ADD SECTIONREF]
 * **Types of Personal Data (by origin)** - [ADD SECTIONREF]
-* **Useability**<sup>[15](#fn15)<sup> (as distinct from Usability) - [ADD SECTIONREF]
+* **Useability**<sup>[15](#fn15)<sup> (as distinct from Usability) - [6.1.3](#want-d3)]
 
 ### HDR Wants {.unnumbered}
 
@@ -65,11 +66,11 @@ Index of Key Ideas, Insights and Contributions {.unnumbered}
 
 ### HDR Objectives {.unnumbered}
 
-* **[Objective 1](#objective-1): Data Awareness & Understanding** - [ADD SECTIONREF]
-* **[Objective 2](#objective-2): Data Useability**<sup>[15](#fn15)</sup> - [ADD SECTIONREF]
-* **[Objective 3](#objective-3): Ecosystem Awareness & Understanding** - [ADD SECTIONREF]
-* **[Objective 4](#objective-4): Ecosystem Negotiability** - [ADD SECTIONREF]
-* **[Objective 5](#objective-5): Effective, Commercially Viable and Desirable HDR Systems** - [ADD SECTIONREF]
+* **[HDR Objective 1](#objective-1): Data Awareness & Understanding** - [ADD SECTIONREF]
+* **[HDR Objective 2](#objective-2): Data Useability**<sup>[15](#fn15)</sup> - [ADD SECTIONREF]
+* **[HDR Objective 3](#objective-3): Ecosystem Awareness & Understanding** - [ADD SECTIONREF]
+* **[HDR Objective 4](#objective-4): Ecosystem Negotiability** - [ADD SECTIONREF]
+* **[HDR Objective 5](#objective-5): Effective, Commercially Viable and Desirable HDR Systems** - [ADD SECTIONREF]
 
 ### HDR Obstacles {.unnumbered}
 
@@ -90,26 +91,23 @@ Index of Key Ideas, Insights and Contributions {.unnumbered}
 
 ### HDR Insights & Approaches {.unnumbered}
 
-* **[Insight 1](#insight-1): Life Information Makes Data Relatable** - [ADD SECTIONREF]
-* **[Insight 2](#insight-2): Data Needs to be United and Unified** - [ADD SECTIONREF]
-* **[Insight 3](#insight-3): Data Must Be Transformed into a Versatile Material.** - [ADD SECTIONREF]
-* **[Insight 4](#insight-4): Ecosystem Information Is an Antidote to Digital Life Complexity**] - [ADD SECTIONREF]
-* **[Insight 5](#insight-5): We Must Know Data's Provenance.** - [ADD SECTIONREF]
-* **[Insight 6](#insight-6): Data Holders use Four Levers of Infrastructural Power.**] - [ADD REF]
-* **[Insight 7](#insight-7): Human-centred Information Systems Must Serve Human Values, Relieve Pain and Deliver New Life Capabilities.** - [ADD REF]
-* **[Insight 8](#insight-8): We Need to Teach Computers To Understand Human Information.** - [ADD REF]
-* **[Insight 9](#insight-9): Individual GDPR requests can compel companies to change data practices.** - [ADD REF]
-* **[Insight 10](#insight-10): Collectives can compare and unify their data and use it to demand change.** - [ADD REF]
-* **[Insight 11](#insight-11): Automating the identification of Entities can enhance machine understanding and unburden information management system users.**
-* **[Insight 12](#insight-12): The 'Seams' of Digital Services need to be identified, exploited and protected.** - [ADD REF]
-* **[Insight 13](#insight-13): It is possible to demonstrate business benefits of Transparency and Human-centricity.** - [ADD REF]
-
-[ADD OTHER INSIGHTS ABOUT HERE]
-
-* **[Approach 1](#approach-1): Discovery-Driven Activism** - [ADD SECTIONREF]
-* **[Approach 2](#approach-2): Building the Human-centric Future** - [ADD SECTIONREF]
-* **[Approach 3](#approach-3): Defending Autonomy and Nurturing the Information Landscape** - [ADD SECTIONREF]
-* **[Approach 4](#approach-4): Teaching, Championing and Selling the HDR Vision** - [ADD SECTIONREF]
+* **[HDR Insight 1](#insight-1): Life Information Makes Data Relatable** - [ADD SECTIONREF]
+* **[HDR Insight 2](#insight-2): Data Needs to be United and Unified** - [ADD SECTIONREF]
+* **[HDR Insight 3](#insight-3): Data Must Be Transformed into a Versatile Material.** - [ADD SECTIONREF]
+* **[HDR Insight 4](#insight-4): Ecosystem Information Is an Antidote to Digital Life Complexity**] - [ADD SECTIONREF]
+* **[HDR Insight 5](#insight-5): We Must Know Data's Provenance.** - [ADD SECTIONREF]
+* **[HDR Insight 6](#insight-6): Data Holders use Four Levers of Infrastructural Power.**] - [ADD REF]
+* **[HDR Insight 7](#insight-7): Human-centred Information Systems Must Serve Human Values, Relieve Pain and Deliver New Life Capabilities.** - [ADD REF]
+* **[HDR Insight 8](#insight-8): We Need to Teach Computers To Understand Human Information.** - [ADD REF]
+* **[HDR Insight 9](#insight-9): Individual GDPR requests can compel companies to change data practices.** - [ADD REF]
+* **[HDR Insight 10](#insight-10): Collectives can compare and unify their data and use it to demand change.** - [ADD REF]
+* **[HDR Insight 11](#insight-11): Automating the identification of Entities can enhance machine understanding and unburden information management system users.**
+* **[HDR Insight 12](#insight-12): The 'Seams' of Digital Services need to be identified, exploited and protected.** - [ADD REF]
+* **[HDR Insight 13](#insight-13): It is possible to demonstrate business benefits of Transparency and Human-centricity.** - [ADD REF]
+* **[HDR Approach 1](#approach-1): Discovery-Driven Activism** - [ADD SECTIONREF]
+* **[HDR Approach 2](#approach-2): Building the Human-centric Future** - [ADD SECTIONREF]
+* **[HDR Approach 3](#approach-3): Defending Autonomy and Nurturing the Information Landscape** - [ADD SECTIONREF]
+* **[HDR Approach 4](#approach-4): Teaching, Championing and Selling the HDR Vision** - [ADD SECTIONREF]
 * **Data Access & Understanding Services** - [ADD SECTIONREF]
 * **Auditing Data Holders** - [ADD SECTIONREF]
 * **Life Partitioning** - [ADD SECTIONREF]
@@ -123,18 +121,22 @@ Index of Key Ideas, Insights and Contributions {.unnumbered}
 Glossary of Abbreviations, Names and Terms {.unnumbered}
 ==========================================
 
+* **Action (stage of Personal Informatics)** - see SI
 * **Action Research** -
+* **Activism** -
 * **Agency** -
 * **BBC R&D** -
 * **CHC - Connected Health Cities** -
 * **Civic Hacking** -
+* **Collection (stage of Personal Informatics)** - see SI
 * **Consent, Dynamic** -
 * **Consent, Informed** -
 * **Constructivism** -
+* **Conceptual Anchors** -
 * **Context-aware Computing** -
-* **Data Auditing** -
 * **Data Brokers** -
 * **Data Download Portal** -
+* **Data Flow Auditing** -
 * **Data Portability Request** -
 * **Data Provenance** -
 * **Data Self** -
@@ -147,14 +149,21 @@ Glossary of Abbreviations, Names and Terms {.unnumbered}
 * **Data, Observed** -
 * **Data, Volunteered** -
 * **DERC** -
+* **Design, Experience-centred** -
+* **Design, User-centred Design** -
+* **Design, Value-centred Design** -
 * **Digital Civics** -
+* **Digital Self** - see Data Self
 * **DIKW pyramid** -
 * **DPA - Data Protection Authority** -
 * **DPO - Data Protection Officer** -
 * **EPSRC** -
 * **Early Help** -
 * **Effective Access** -
+* **Embodied Interaction** -
 * **Experience-centred Design** -
+* **File Biography** -
+* **Files, why they need to die** -
 * **GDPR** - General Data Protection Regulation [[REF] () ]
 * **Gatekeeper**-
 * **HDI - Human Data Interaction** -
@@ -168,13 +177,18 @@ Glossary of Abbreviations, Names and Terms {.unnumbered}
 * **Information, Life** -
 * **Information, Ecosystem** -
 * **Infrastructural Power, and its Four Levers** -
+* **Integration (stage of Personal Informatics)** - see SI
+* **Keeping** -
 * **Legibility** -
+* **Lifelogging** -
+* **Lifestreams** -
 * **Lenses** -
 * **Life Sketching** -
 * **Magical Design** -
 * **MyData** -
 * **Negotiability**
 * **Open Lab** -
+* **Orienteering** -
 * **PDS - Personal Data Store**- See Personal Data Lockers
 * **PIM - Personal Information Management** -
 * **PIM systems, contextual** -
@@ -191,6 +205,7 @@ Glossary of Abbreviations, Names and Terms {.unnumbered}
 * **Personal Data Lockers** -
 * **Personal Data Vault** - See Personal Data Lockers
 * **Personal Informatics** - see SI
+* **Preparation (stage of Personal Informatics)** - see SI
 * **Perspectives** -
 * **Point of Severance** -
 * **Power - Behavioural Influence** -
@@ -207,19 +222,23 @@ Glossary of Abbreviations, Names and Terms {.unnumbered}
 * **Power, Systems/Structural** - see Infrastructural Power
 * **Power, Zero Sum** -
 * **Pragmatism** -
-* **Quantified Self** - see SI
+* **QSM - Quantified Self Movement** - see SI
+* **Reflection (stage of Personal Informatics)** - see SI
+* **Recursive Public** -
+* **Reminding** -
 * **SAR - Subject Access Request** -
 * **SI - Self Informatics** - Self Informatics [[REF] () ]
 * **SILVER** -
+* **Sitra** -
 * **Scraping** -
 * **Seams** -
+* **Subjective Classification Principle** -
+* **Subjective Importance Principle** -
+* **Subjective Context Principle** -
 * **Support Worker** -
 * **Supported Family** -
+* **ToC - Theories of Change** -
+* **Timelines** -
 * **Troubled Families** -
-* **User-centred Design** -
 * **VRM - Vendor Relationship Management** -
-* **Value-centred Design** -
 * **Web Augmentation** -
-
-*
-* **[ADD ALL TYPES OF POWER] -

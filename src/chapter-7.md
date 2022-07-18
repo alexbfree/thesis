@@ -58,33 +58,6 @@ While this thesis is my own original work, and many ideas presented in this chap
 
 Due to these collaborations and the ongoing and parallel nature of many of these projects to my PhD research, it is impossible to precisely delineate the origin of each idea or insight. In practice, ideas from my developing thesis and own thinking informed the projects' trajectories and thinking, and vice-versa. These ideas would not have emerged in this form without my participation, so they are not the sole intellectual property of others, but equally I would not have reached the same conclusions alone, so the ideas are not solely my own either. All diagrams and illustrations were produced by me, except where specified, and the overall synthesis and framing presented in this chapter is my own original work. Where this chapter includes material from the four projects, that material is either already public, or permission has been obtained from the corresponding project teams.
 
-### Theories of Change
-
-To provide a structure for cataloguing the insights conveyed by this chapter, I use a _Theory of Change (ToC)_ framing. ToC is a set of methodologies is commonly used by philanthropists, educators and those trying to improve the lives of disadvantaged populations [@brest2010]; the theories can be used in different ways including planning, participatory design and field evaluation of the effectiveness of new initiatives. There are many different implementations, but common to most of them is a focus on explicitly mapping out desired outcomes [@taplin2012] with a clear focus on who is acting and whether the change being brought about is a change in action, or a change in thinking [@vanEs2015]. In this chapter, ToC theory will be used in a very limited way, not as a methodology but simply to provide a structural frame for proposed changes, as described below. Using ToC to perform evaluation of the effectiveness of proposed change approaches in action in society would be well beyond the scope of this thesis. Nonetheless, this frame is a useful way to map out the different approaches to changing the world in pursuit of the ideal of better HDR.
-
-![Figure 29: The Four Dimensions of Change[^17]](./src/figs/fig29-dimensions-of-change.png)
-
-[^17]: Diagram used here unchanged from _Hivos ToC Guidelines_ [@vanEs2015, 90] under a CC-BY-NC-SA 3.0 license, whose authors state that this diagram was adapted from earlier work by Wilber (1996), Keystone (2008) and Retolaza (2010, 2012).
-
-Figure 29 illustrates the aspects of ToC thinking that section 7.4 will use as its frame. Specifically, desired changes can be broken down into:
-
-- _**Internal changes**_: changes in thinking, feeling, reasoning, understanding, attitudes or identity.
-- _**External changes**_: changes in actions, behaviour, interactions, structure, policy, technological capability, processes and the external environment.
-
-At the same time, desired changes can be broken down into:
-
-- _**Individual changes**_: changes to individual thought or actions
-- _**Collective changes**_: changes to the thoughts or actions of groups of people together, or to the systems, practices and norms of society at large.
-
-These two splits produce four dimensions of change, and form four quadrants representing different types of change, which are shown in Figure 29 and described here:
-
-- _**Individual/Internal (II)**_: This top-left quadrant represents changes to what individuals know and understand, and to how they think, feel and plan to take action.
-- _**Individual/External (IE)**_: This top-right quadrant represents changes to how individuals' relationships with others; acting (or being enabled to act) differently in their daily lives and when interacting within society.
-- _**Collective/Internal (CI)**_: This bottom-left quadrant represents changes in the shared knowledge of groups of people or to the collective identity or values of social groups.
-- _**Collective/External (CE)**_: This bottom-right quadrant represents changes to the structures and procedures within which people operate, including technology, law, societal norms and communications.
-
-Key to ToC thinking is the idea that making changes in one quadrant can stimulate change in others; for example, collective learning about data attitudes and practices, such as the research conducted in this PhD, (lower left quadrant) could inform the design of new technologies, interfaces or processes (lower right quadrant), which if built could make new structures available to have an impact on improving individual-provider relationships (upper-right quadrant). The changes to those relationships could then in turn lead to individuals thinking and feeling differently (upper left quadrant), for example feeling more empowered or having greater awareness of data practices.
-
 Defining and Refining 'Human Data Relations' (HDR){#7.2}
 --------------------------------------------------
 
@@ -400,7 +373,48 @@ In summary, whichever of the above four HDR objectives are targeted, all HDR ref
 The landscape of opportunity: Four approaches to improving Human Data Relations{#7.4}
 ------------------------------------------------------------------
 
-In this section, I will present four different 'flavours' of activity, that we can pursue as HDR reformers. These are represented diagrammatically as trajectories of change through the ToC space [[7.1.3]], and could be supported or pursued in many different ways, which may appeal to different readers: prototyping and creating proofs of concepts; fundraising or investment; design activities; market research, participatory research or usability research; 'early adopter' testing and quality assurance of PDE offerings; promotion, advocacy and journalism of HDR issues; critical audits of provider practices; policy design; political pressure on governments; participation in open data, PDE or MyData communities; or even self-experimentation with HDR tools, rights and capabilities.
+In this section, I will present four different 'flavours' of activity, that we can pursue as HDR reformers. These are represented diagrammatically as trajectories of change using a model known as _Theories of Change (ToC)_ which is explained in 7.4.1.
+
+These trajectories for change could be supported or pursued in many different ways, which may appeal to different readers:
+
+  - prototyping and creating proofs of concepts;
+  - fundraising or investment; design activities;
+  - market research, participatory research or usability research;
+  - 'early adopter' testing and quality assurance of PDE / PDS offerings;
+  - promotion, advocacy and journalism of HDR issues;
+  - critical audits of provider practices;
+  - policy design;
+  - political pressure on governments and regulators;
+  - participation in open data, PDE, civic hacking or MyData communities; or even
+  - individual self-experimentation with HDR tools, rights and capabilities.
+
+### A Primer on Theories of Change (ToC)
+
+To provide a structure for cataloguing the insights conveyed by this section, I use a _Theory of Change (ToC)_ framing. ToC is a set of methodologies is commonly used by philanthropists, educators and those trying to improve the lives of disadvantaged populations [@brest2010]; the theories can be used in different ways including planning, participatory design and field evaluation of the effectiveness of new initiatives. There are many different implementations, but common to most of them is a focus on explicitly mapping out desired outcomes [@taplin2012] with a clear focus on who is acting and whether the change being brought about is a change in action, or a change in thinking [@vanEs2015]. In this section, ToC theory will be used in a very limited way, not as a methodology but simply to provide a structural frame for proposed changes, as described below. Using ToC to perform evaluation of the effectiveness of proposed change approaches in action in society would be well beyond the scope of this thesis. Nonetheless, this frame is a useful way to map out the different approaches to changing the world in pursuit of the ideal of better HDR.
+
+![Figure 29: The Four Dimensions of Change[^17]](./src/figs/fig29-dimensions-of-change.png)
+
+[^17]: Diagram used here unchanged from _Hivos ToC Guidelines_ [@vanEs2015, 90] under a CC-BY-NC-SA 3.0 license, whose authors state that this diagram was adapted from earlier work by Wilber (1996), Keystone (2008) and Retolaza (2010, 2012).
+[TODO footnotes may need renumbering now]
+
+Figure 29 illustrates the aspects of ToC thinking that are important when using this frame. Specifically, desired changes can be broken down into:
+
+- _**Internal changes**_: changes in thinking, feeling, reasoning, understanding, attitudes or identity.
+- _**External changes**_: changes in actions, behaviour, interactions, structure, policy, technological capability, processes and the external environment.
+
+At the same time, desired changes can be broken down into:
+
+- _**Individual changes**_: changes to individual thought or actions
+- _**Collective changes**_: changes to the thoughts or actions of groups of people together, or to the systems, practices and norms of society at large.
+
+These two splits produce four dimensions of change, and form four quadrants representing different types of change, which are shown in Figure 29 and described here:
+
+- _**Individual/Internal (II)**_: This top-left quadrant represents changes to what individuals know and understand, and to how they think, feel and plan to take action.
+- _**Individual/External (IE)**_: This top-right quadrant represents changes to how individuals' relationships with others; acting (or being enabled to act) differently in their daily lives and when interacting within society.
+- _**Collective/Internal (CI)**_: This bottom-left quadrant represents changes in the shared knowledge of groups of people or to the collective identity or values of social groups.
+- _**Collective/External (CE)**_: This bottom-right quadrant represents changes to the structures and procedures within which people operate, including technology, law, societal norms and communications.
+
+Key to ToC thinking is the idea that making changes in one quadrant can stimulate change in others; for example, collective learning about data attitudes and practices, such as the research conducted in this PhD, (lower left quadrant) could inform the design of new technologies, interfaces or processes (lower right quadrant), which if built could make new structures available to have an impact on improving individual-provider relationships (upper-right quadrant). The changes to those relationships could then in turn lead to individuals thinking and feeling differently (upper left quadrant), for example feeling more empowered or having greater awareness of data practices. THe diagram at the start of each of the following four subsections illustrate that approach's trajectory of change through the ToC quadrants.
 
 ### Approach 1 to Improving HDR: Discovery-Driven Activism{#approach-1}
 
@@ -429,7 +443,7 @@ I describe this approach as **Discovery-Driven Activism**. The discovery phase, 
 | This highlights a common issue that occurs with data access requests, as highlighted in [5.4.3.2](#5.4.3.2) - there is ambiguity over whether providers should identify data in a machine-readable way (useful for programming), or in a human-readable way (to optimise understanding). In my case, I needed both. I e-mailed Spotify back and was provided with an alternative fileset which contained only Spotify Track URIs, such as `spotify:track:5CKqyYTZqp6Nb4b3kJjUL5`. These met the programmer need to uniquely identify the track, but not the human need - I had no idea which artist or track each of these URIs corresponded to, as there was no human-readable text accompanying each entry. So, I e-mailed Spotify back, making the case that my GDPR rights had not been fully satisfied, because I needed _for each play history entry_, both machine-readable ID and human-readable track title and artist name. I sent Spotify over 30 e-mails on this matter between October 2020 and May 2021. There is little continuity of conversation between support agents, and hard to be escalated to the correct staff with the technical or legal expertise to assist with such nuanced questions. However, by persistently and politely repeating my questions and not accepting No for an answer, I was able to achieve a notable outcome, Spotify **changed the format of their data returns**, not just for me but  **for all future customers**. Now, each item in the playback history data you get back from Spotify, every item includes textual track and artist details AND a Spotify track URI. The data can now be understood by both human and machine. The likely interpretation here is that I successfully able to persuade their Data Protection Officers (who handle GDPR requests) the importance of returning data that is both machine-readable and human-understandable. Perhaps they also recognised the amount of work they had invested in supporting my query, and wanted to **avoid having to do such work ever again** should I or any other customer make the same request in future. This was a tiny impact, but a lasting one, and it shows that the discovery-driven activism / civic hacking approach can have an effect in improving HDR with a target organisation. |
 | A larger scale example of individuals forcing giant corporations to change is seen in the case of Facebook. In the early 2010s, Austrian lawyer Max Schrems began to pressure Facebook to disclose more personal data to their users. He created a tool to enable people to make their own data access requests, which over 40,000 people used. Faced with an overwhelming volume of work and massive liability of future data access requests, Facebook was forced to launch the self-service 'Download Your Information' (DYI) download tool, increasing transparency for all Facebook users worldwide [@solon2012]. Facebook was forced to increase its transparency further when Paul-Olivier Dehaye (now CEO of Hestia.ai [[7.1.1](#7.1.1)]) made a GDPR request (later backed by legal action) to force Facebook to disclose more information about which advertisers Facebook had enabled to target him using the Facebook Custom Audiences feature. Apparently in order to avoid being embarrassed in court, Facebook updated DYI so that your downloaded information includes a list of advertisers who have added you to a Custom Audience [@dehaye2017]. Dehaye and Schrems both continue to act as HDR reformers and civic hackers following the discovery-driven activism approach, through their organisations Hestia.ai [[7.1.1](#7.1.1)] and privacy rights organisation noyb.eu ('none of your business') [@schrems2017] respectively. |
 
-Facebook's DYI tool, mentioned in the insight above, represents another powerful tool in the arsenal of the activist HDR reformer. Along with Google Takeout, it is one of number of **_'data download portals'_** that allow users to download their own data. Since GDPR's introduction in 2018, an increasing number of large online platforms including Facebook, Google, Apple, Netflix, Twitter, Spotify, Uber, Instagram and Strava, faced with the need to reduce the cost impact of GDPR request handling for their large userbases, have developed and augmented online self-service portals available where users can download a copy of their personal data. This has some advantages over Subject Access Requests in that data can usually be obtained within minutes or hours rather than taking up to 30 days, but have some disadvantages in that the data returned is a voluntary offering by the company, that may not cover the data that the individual is seeking and does not provide any ability to ask follow-up questions. This technique was sometimes used as a fallback means to obtain data in Case Study Two, and was used more strategically in the digipower project, where its merits and limitations are discussed [[7.1.1](#7.1.1); @bowyer2022hestia]
+Facebook's DYI tool, mentioned in the insight above, represents a useful class of tool in the arsenal of the activist HDR reformer. Along with Google Takeout, it is one of number of **_'data download portals'_** that allow users to download their own data. Since GDPR's introduction in 2018, an increasing number of large online platforms including Facebook, Google, Apple, Netflix, Twitter, Spotify, Uber, Instagram and Strava, faced with the need to reduce the cost impact of GDPR request handling for their large userbases, have developed and augmented online self-service portals available where users can download a copy of their personal data. This has some advantages over Subject Access Requests in that data can usually be obtained within minutes or hours rather than taking up to 30 days, but has some disadvantages in that the data returned is a voluntary offering by the company, that may not cover the data that the individual is seeking and does not provide any ability to ask follow-up questions. This technique was sometimes used as a fallback means to obtain data in Case Study Two, and was used more strategically in the digipower project, where its merits and limitations are discussed [[7.1.1](#7.1.1); @bowyer2022hestia]
 
 Both access requests and download portals rely on the organisation in question to be transparent, accurate and thorough in their provision of information, but an alternative technique of **_data flow auditing_** allows individuals to investigate and collect data on the _actual_ behaviour of a target organisation. This was used effectively in the digipower project [[7.1.1](#7.1.1)]. Using an Android app called TrackerControl [@kollnig2021], a service provider's app can be monitored while the user is using it normally, to see which servers or domains that app is contacting (and one can imply, exchanging data with). Apple has recently introduced an equivalent function on iOS known as App Activity Reports [@apple2022appPrivacy], providing iPhone users with the same ability as part of the phone's operating system. This has limitations in that the content of the data exchanges is not known, but can serve as a valuable tool to verify claims made in privacy policies or GDPR responses, and also as a means to _generate questions_ for further investigation, for example by identifying third parties such as data brokers which the target organisation may be sharing personal data with. This technique is described further in [@bowyer2022hestia], along with a comparison of the different techniques of data flow auditing, data download portals and data access requests.
 
@@ -460,18 +474,26 @@ The approach to HDR reform presented in this section focuses on the gaps in indi
 
 ![Figure X: A conceptual model for a Personal Data Store system that I developed for the BBC Cornmarket project](./src/figs/figX-conceptual-PDS.png)
 
+#### Modelling Data as Life Information{#7.4.3-life-information .unnumbered}
+
 The first challenge in designing such as a system is to consider what data will be stored, and how it might be represented. At a high level, I identified a number of different types of data that a user might wish to store in a PDS:
 
 ![Figure X: High Level Data Types](./src/figs/figX-data-types.jpg)
 
-Then, considering the earlier observation by myself [@bowyer2011] and proponents of temporal PIM systems [[2.2.2](#2.2.2temporal)] that time can be used as a unifying concept for personal information,
+Then, considering the earlier observation by myself [@bowyer2011] and proponents of temporal PIM systems [[2.2.2](#2.2.2-temporal)] that time can be used as a unifying concept for personal information, I considered how we might represent occurrences within personal data as _happenings_, anchored against a particular point in time. In effect, this would focus on different properties of the data, much like Karger's _lenses_ [@karger2005; #2.2.2-contextual].
 
+![Figure X: Happenings](./src/figs/figX-happenings.jpg)
 
+In modelling data as life information using the concepts shown in Figure X [TODO link to Life Concepts diagram] and Figure X [TODO link to Happenings above], it is important to come up with as simple a model as possible. Over several iterations, I was able to reduce the modelling of life information in a PDS down to the following four types - _activities_, _interactions_, _transactions_ and _datapoints_, which could correspond to four views or lenses within the user interface:
 
-BBCREF modelling data as life information
-BBCREF Happenings Diagram Time as unifier (LITREF TIME C2). What data IS to people (ref lenses)
-BBCREF (backref life concepts, then: Simplified model of presenting information to users)
-BBCREF Dashboard example
+![Figure X: A Simple Life Information Presentation Model for use in a PDS](./src/figs/figX-simple-data-model.jpg)
+
+Having decided upon models for the information within a PDS, it becomes much easier to design visual presentations of that information. Figure X shows a design mockup of some of the views of life information that one could offer within a PDS:
+
+![Figure X: Mockup of Life Information presented in a PDS interface, designed by Alex Ballantyne](./src/figs/figX-dashboard-concept.png)
+
+#### Designing Capabilities for the Manipulation of Life Information{#7.4.3-capabilities .unnumbered}
+
 SUBPOINT Capabilities
 BBCREF diagram What can users do (properties)
 Asking questions (THESISREF C5)
@@ -492,6 +514,8 @@ ref back to semantics etc. (two arrows diagram back ref'd, and the Insight about
 (can callback the subscrab example from above here too)
 Extraction and Learning systems
 BBC REF flows for entity identification
+Facebook is doing this too [world2vec]
+
 BACKREF digital agents. like an assistant.
 [POSSIBLY CUT?] SUBPOINT Digital Self Curation & Inclusive Data Flows
 Litref VRM
