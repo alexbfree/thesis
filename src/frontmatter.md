@@ -28,27 +28,31 @@ Lists of Figures by Chapter {.unnumbered}
 Index of Key Ideas, Insights and Contributions {.unnumbered}
 ===================================
 
-* **Human Data Relations** - [ADD SECTIONREF]
-* **Life Information Utilisation** - [ADD SECTIONREF]
-* **Personal Data Ecosystem Control** - [ADD SECTIONREF]
-* **Life Information** - [ADD SECTIONREF]
-* **Ecosystem Information** - [ADD SECTIONREF]
-* **Human Information** - see Life Information and Ecosystem Information
-* **Data Cards** - [ADD SECTIONREF]
-* **Storyboarding Cards** - [ADD SECTIONREF]
-* **Shared Data Interaction** - [ADD SECTIONREF]
-* **Life Concepts** - [ADD SECTIONREF]
 * **Categories of Family Civic Data** - [ADD SECTIONREF]
 * **Categories of Personal Data** - [ADD SECTIONREF]
-* **Types of Personal Data (by origin)** - [ADD SECTIONREF]
-* **Trust in Providers** - [ADD SECTIONREF]
-* **Perceived Individual Power** - [ADD SECTIONREF]
-* **Human Information Operating System** - [ADD SECTIONREF]
-* **Proxy Representations of Immobile Data** - [ADD SECTIONREF]
-* **Free Data Interfaces** - [ADD SECTIONREF]
-* **Personal Data as a Proxy for Involvement** - [ADD SECTIONREF]
-* **Locus of Decision-making** - [ADD SECTIONREF]
 * **Data Access & Understanding Services** - [ADD SECTIONREF]
+* **Data Cards** - [ADD SECTIONREF]
+* **Data Wants** - [ADD SECTIONREF]
+* **Ecosystem Information** - [ADD SECTIONREF]
+* **Ecosystem Negotiability** - [ADD SECTIONREF]
+* **Free Data Interfaces** - [ADD SECTIONREF]
+* **Human Data Relations** - [ADD SECTIONREF]
+* **Human Information Operating System** - [ADD SECTIONREF]
+* **Human Information** - see Life Information and Ecosystem Information
+* **Landscape of HDR Opportunity** - [ADD SECTIONREF]
+* **Life Concepts** - [ADD SECTIONREF]
+* **Life Information Utilisation** - [ADD SECTIONREF]
+* **Life Information** - [ADD SECTIONREF]
+* **Locus of Decision-making** - [ADD SECTIONREF]
+* **Perceived Individual Power** - [ADD SECTIONREF]
+* **Personal Data Ecosystem Control** - [ADD SECTIONREF]
+* **Personal Data as a Proxy for Involvement** - [ADD SECTIONREF]
+* **Proxy Representations of Immobile Data** - [ADD SECTIONREF]
+* **Shared Data Interaction** - [ADD SECTIONREF]
+* **Storyboarding Cards** - [ADD SECTIONREF]
+* **Trust in Providers, effects upon** - [ADD SECTIONREF]
+* **Types of Personal Data (by origin)** - [ADD SECTIONREF]
+* **Useability**<sup>[15](#fn15)<sup> (as distinct from Usability) - [ADD SECTIONREF]
 
 ### HDR Wants {.unnumbered}
 
@@ -62,28 +66,27 @@ Index of Key Ideas, Insights and Contributions {.unnumbered}
 ### HDR Objectives {.unnumbered}
 
 * **[Objective 1](#objective-1): Data Awareness & Understanding** - [ADD SECTIONREF]
-* **[Objective 2](#objective-2): Data Useability** - [ADD SECTIONREF]
+* **[Objective 2](#objective-2): Data Useability**<sup>[15](#fn15)</sup> - [ADD SECTIONREF]
 * **[Objective 3](#objective-3): Ecosystem Awareness & Understanding** - [ADD SECTIONREF]
 * **[Objective 4](#objective-4): Ecosystem Negotiability** - [ADD SECTIONREF]
-* **[Objective 5](#objective-5): Effective, Commercially Viable and Desirable Systems** - [ADD SECTIONREF]
+* **[Objective 5](#objective-5): Effective, Commercially Viable and Desirable HDR Systems** - [ADD SECTIONREF]
 
 ### HDR Obstacles {.unnumbered}
 
-* **Invisible Data** - [ADD SECTIONREF]
-* **Inaccessible Data** - [ADD SECTIONREF]
-* **Unrelatable Data** - [ADD SECTIONREF]
+* **Closed, Insular and Introspective Practices** - [ADD SECTIONREF]
+* **Diminishing Individual Agency** - [ADD SECTIONREF]
 * **Immobile Data** - [ADD SECTIONREF]
 * **Inaccessible Data** - [ADD SECTIONREF]
-* **Unmalleable Data** - [ADD SECTIONREF]
-* **Non-Interrogable Data** - [ADD SECTIONREF]
 * **Increasing Data Holder Hegemony** - [ADD SECTIONREF]
-* **Diminishing Individual Agency** - [ADD SECTIONREF]
-* **Closed, Insular and Introspective Practices** - [ADD SECTIONREF]
-* **Lack of Provider Investment** - [ADD SECTIONREF]
+* **Insufficient Machine Understanding of Human Data** - [ADD SECTIONREF]
+* **Intractable Data Self, the** - [ADD SECTIONREF]
+* **Invisible Data** - [ADD SECTIONREF]
 * **Lack of Individual Demand** - [ADD SECTIONREF]
 * **Lack of Interoperability** - [ADD SECTIONREF]
-* **Insufficient Machine Understanding of Human Data** - [ADD SECTIONREF]
-* **The Inaccessible Data Self** - [ADD SECTIONREF]
+* **Lack of Provider Investment** - [ADD SECTIONREF]
+* **Non-Interrogable Data** - [ADD SECTIONREF]
+* **Unmalleable Data** - [ADD SECTIONREF]
+* **Unrelatable Data** - [ADD SECTIONREF]
 
 ### HDR Insights & Approaches {.unnumbered}
 
@@ -104,12 +107,10 @@ Index of Key Ideas, Insights and Contributions {.unnumbered}
 [ADD OTHER INSIGHTS ABOUT HERE]
 
 * **[Approach 1](#approach-1): Discovery-Driven Activism** - [ADD SECTIONREF]
-* **[Approach 2](#approach-2): Building the Human-Centric Future** - [ADD SECTIONREF]
+* **[Approach 2](#approach-2): Building the Human-centric Future** - [ADD SECTIONREF]
 * **[Approach 3](#approach-3): Defending Autonomy and Nurturing the Information Landscape** - [ADD SECTIONREF]
 * **[Approach 4](#approach-4): Teaching, Championing and Selling the HDR Vision** - [ADD SECTIONREF]
-* **The Power of Data Collectives** - [ADD SECTIONREF]
-* **The Importance of Seams**
-* **The Nascent Data Understanding Industry** - [ADD SECTIONREF]
+* **Data Access & Understanding Services** - [ADD SECTIONREF]
 * **Auditing Data Holders** - [ADD SECTIONREF]
 * **Life Partitioning** - [ADD SECTIONREF]
 * **Entity Extraction** - [ADD SECTIONREF]
@@ -122,53 +123,103 @@ Index of Key Ideas, Insights and Contributions {.unnumbered}
 Glossary of Abbreviations, Names and Terms {.unnumbered}
 ==========================================
 
-* **HDI - Human Data Interaction** -
-* **HII - Human Information Interaction** -
-* **Quantified Self** - see SI
-* **Personal Informatics** - see SI
-* **GDPR** - General Data Protection Regulation [[REF] () ]
-* **SI - Self Informatics** - Self Informatics [[REF] () ]
-* **PIM - Personal Information Management** -
-* **MyData** -
-* **SILVER** -
-* **DERC** -
-* **DIKW pyramid** -
-* **civic hacking** -
-* **VRM - Vendor Relationship Management** -
-* **Open Lab** -
-* **EPSRC** -
-* **CHC** - Connected Health Cities
-* **Seams** -
-* **Web Augmentation** -
-* **Scraping** -
-* **PDV** - Personal Data Vaults - See Personal Data Lockers
-* **PDS** - Personal Data Store - See Personal Data Lockers
-* **PIMS** - Personal Information Management Services - See Personal Data Lockers
-* **Personal Data Lockers** -
-* **Early Help** -
-* **Data Brokers** -
-* **Personal Data Ecosystems** -
-* **Personal Data Economy** -
-* **Troubled Families** -
-* **Infrastructural Power, and its Four Levers** -
-* **Participatory Action Research**
-* **Pragmatism** -
-* **Constructivism** -
-* **Digital Civics** -
-* **Value-centred Design** -
-* **Experience-centred Design** -
-* **User-centred Design** -
 * **Action Research** -
-* **Data: Metadata** -
-* **Data: Volunteered Data** -
-* **Data: Derived Data** -
-* **Data: Acquired Data** -
-* **Data: Observed Data** -
+* **Agency** -
+* **BBC R&D** -
+* **CHC - Connected Health Cities** -
+* **Civic Hacking** -
+* **Consent, Dynamic** -
+* **Consent, Informed** -
+* **Constructivism** -
+* **Context-aware Computing** -
+* **Data Auditing** -
+* **Data Brokers** -
+* **Data Download Portal** -
+* **Data Portability Request** -
 * **Data Provenance** -
-* **Point of Severance** -
-* **Dynamic Consent** -
-* **Power - Infrastructural Power** -
+* **Data Self** -
+* **Data Transcendence** -
+* **Data (general)** -
+* **Data, Civic / Family Civic** -
+* **Data, Acquired** -
+* **Data, Derived** -
+* **Data, Metadata** -
+* **Data, Observed** -
+* **Data, Volunteered** -
+* **DERC** -
+* **Digital Civics** -
+* **DIKW pyramid** -
+* **DPA - Data Protection Authority** -
+* **DPO - Data Protection Officer** -
+* **EPSRC** -
+* **Early Help** -
+* **Effective Access** -
+* **Experience-centred Design** -
+* **GDPR** - General Data Protection Regulation [[REF] () ]
 * **Gatekeeper**-
-* **Support Worker** -
+* **HDI - Human Data Interaction** -
+* **Hestia.ai** -
+* **HestiaLabs** -
+* **HII - Human Information Interaction** -
+* **ICO - Information Commissioner's Office** -
+* **Ideation Grids** -
+* **Information (general)** -
+* **Information, Human** -
+* **Information, Life** -
+* **Information, Ecosystem** -
+* **Infrastructural Power, and its Four Levers** -
+* **Legibility** -
+* **Lenses** -
 * **Life Sketching** -
+* **Magical Design** -
+* **MyData** -
+* **Negotiability**
+* **Open Lab** -
+* **PDS - Personal Data Store**- See Personal Data Lockers
+* **PIM - Personal Information Management** -
+* **PIM systems, contextual** -
+* **PIM systems, networked** -
+* **PIM systems, semantic** -
+* **PIM systems, spatial** -
+* **PIM systems, subjective** -
+* **PIM systems, temporal** -
+* **PIMS** - Personal Information Management Services - See Personal Data Lockers
+* **Participatory Action Research**
+* **Personal Data Economy, the** -
+* **Personal Data Economy, one's own** -
+* **Personal Data Ecosystems** -
+* **Personal Data Lockers** -
+* **Personal Data Vault** - See Personal Data Lockers
+* **Personal Informatics** - see SI
+* **Perspectives** -
+* **Point of Severance** -
+* **Power - Behavioural Influence** -
+* **Power - Interpretative Influence** -
+* **Power - Network Centrality** -
+* **Power, Authority** -
+* **Power, Disciplinary** -
+* **Power, Infrastructural** -
+* **Power, Interpretive** -
+* **Power, Processual** -
+* **Power, Rational** -
+* **Power, Resource Control** -
+* **Power, Socially-shaped** -
+* **Power, Systems/Structural** - see Infrastructural Power
+* **Power, Zero Sum** -
+* **Pragmatism** -
+* **Quantified Self** - see SI
+* **SAR - Subject Access Request** -
+* **SI - Self Informatics** - Self Informatics [[REF] () ]
+* **SILVER** -
+* **Scraping** -
+* **Seams** -
+* **Support Worker** -
+* **Supported Family** -
+* **Troubled Families** -
+* **User-centred Design** -
+* **VRM - Vendor Relationship Management** -
+* **Value-centred Design** -
+* **Web Augmentation** -
+
+*
 * **[ADD ALL TYPES OF POWER] -
