@@ -101,7 +101,7 @@ Index of Key Ideas, Insights and Contributions {.unnumbered}
 * **[Insight 12](#insight-12): The 'Seams' of Digital Services need to be identified, exploited and protected.** - [ADD REF]
 * **[Insight 13](#insight-13): It is possible to demonstrate business benefits of Transparency and Human-centricity.** - [ADD REF]
 
-[ADD OTHER INSIGHTS HERE]
+[ADD OTHER INSIGHTS ABOUT HERE]
 
 * **[Approach 1](#approach-1): Discovery-Driven Activism** - [ADD SECTIONREF]
 * **[Approach 2](#approach-2): Building the Human-Centric Future** - [ADD SECTIONREF]
