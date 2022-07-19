@@ -43,6 +43,8 @@ Index of Key Ideas, Insights and Contributions {.unnumbered}
 * **Life Concepts** - [ADD SECTIONREF]
 * **Life Information Utilisation** - [ADD SECTIONREF]
 * **Life Information** - [ADD SECTIONREF]
+* **Life Interface** - [ADD SECTIONREF]
+* **Life Partitioning** - [ADD SECTIONREF]
 * **Locus of Decision-making** - [ADD SECTIONREF]
 * **Perceived Individual Power** - [ADD SECTIONREF]
 * **Personal Data Ecosystem Control** - [ADD SECTIONREF]
@@ -118,8 +120,10 @@ Index of Key Ideas, Insights and Contributions {.unnumbered}
 * **Data Literacy in an HDR Context** - [ADD SECTIONREF]
 
 
-Glossary of Abbreviations, Names and Terms {.unnumbered}
-==========================================
+[TODO Move the following Glossary to the end, after references]
+
+Glossary of Pre-Existing Abbreviations, Names and Terms {#glossary .unnumbered}
+========================================================
 
 * **Action (stage of Personal Informatics)** - see SI
 * **Action Research** -
@@ -242,3 +246,5 @@ Glossary of Abbreviations, Names and Terms {.unnumbered}
 * **Troubled Families** -
 * **VRM - Vendor Relationship Management** -
 * **Web Augmentation** -
+
+[TODO add all the actions from 2.1.4, 2.2.2, 2.2.3 here]

@@ -241,7 +241,7 @@ Once we begin to think about storing and representing human information in ways 
 
 ![Figure X: Some of the many aspects of metadata that might exist about a datapoint or dataset](./src/figs/figX-metadata.png)
 
-It is notable that many of these facets are not explicitly recorded today, or would take significant work to capture; nonetheless, this exploration can serve as a useful reference for how information can be better contextualised (supporting context-based and associative information management as described in [2.2.2](#2.2.2)). Taking a step back to view this lack of metadata at a more conceptual level, leads us to the next insight:
+These facets can be mapped back to the 5 W's that collectively make up the user's _context_ [@abowd2000; #2.2.2-contextual]. It is notable that many of these facets are not explicitly recorded today, or would take significant work to capture; nonetheless, this exploration can serve as a useful reference for how information can be better contextualised (supporting the context-based and associative information management described in [2.2.2](#2.2.2-contextual)). Taking a step back to view this lack of metadata at a more conceptual level, leads us to the next insight:
 
 | **INSIGHT 5: We Must Know Data's Provenance** |{#insight-5}
 |:-------------------------------------------------------------------------|
@@ -470,11 +470,17 @@ This approach shows that there is a role for independent actors and organisation
 
 ### Approach 2 to Improving HDR: Building the Human-centric Future{#approach-2}
 
-The approach to HDR reform presented in this section focuses on the gaps in individual data interaction capability that exist today. The objective here is to design and build proofs of concept for **novel human-centric information systems that can deliver people new capabilities over their data**. In this approach, the focus is more introspective than Approach 1: it is about how the individual can improve their relationship with data in the context of their own digital life. The bulk of this section describes **specific design ideas** developed by myself and colleagues at BBC R&D during my 2020-2021 research internship on the Cornmarket project. As established in [Insight 2](#insight-2), one of the most promising models for giving people a new and improved relationship with their data is to create a place where one’s scattered [@abiteboul2015] personal data can be stored and aggregated in one place [@jones2011pim], and based on [Insight 3](#insight-3), that place should offer individuals the means to use their life and ecosystem information as a material they can explore, examine or repurpose as they see fit. This leads to the vision of a Personal Data Store [[2.3.4](#2.3.4)] into which one can unify the data from the different parts of your digital life, and meet public demand for _"control over your data"_ [@teevan2001; @hartman2020]. The Cornmarket R&D project therefore sought to develop a human-centred (ie. non-commercial) PDS proof of concept, as conceptualised in Figure X.
+[TODO diagram
+FRAME AS DIAGRAM
+Building new designs (reaching into understanding, LITREF data enabled design and Human values)
+Delivering new structural capabilities. Enabling new individual and collective perspectives.
+]
+
+The approach to HDR reform presented in this section focuses on the gaps in individual data interaction capability that exist today. The objective here is to design and build proofs of concept for **novel human-centric information systems that can deliver people new capabilities over their data**. In this approach, the focus is more introspective than Approach 1: it is about how the individual can improve their relationship with data in the context of their own digital life. The bulk of this section describes **specific design ideas** developed by myself and colleagues at BBC R&D during my 2020-2021 research internship on the Cornmarket project. As established in [Insight 2](#insight-2), one of the most promising models for giving people a new and improved relationship with their data is to create a place where one’s scattered [@abiteboul2015] personal data can be stored and aggregated in one place [@jones2011pim], and based on [Insight 3](#insight-3), that place should offer individuals the means to use their life and ecosystem information as a material they can explore, examine or repurpose as they see fit. This leads to the vision of a Personal Data Store [[2.3.4](#2.3.4)] or into which one can unify the data from the different parts of your digital life (as depicted in the AllOfMe vision video [@yt2008allofme]), and meet public demand for _"control over your data"_ [@teevan2001; @hartman2020]. The Cornmarket R&D project therefore sought to develop a human-centred (ie. non-commercial) PDS proof of concept, as conceptualised in Figure X.
 
 ![Figure X: A conceptual model for a Personal Data Store system that I developed for the BBC Cornmarket project](./src/figs/figX-conceptual-PDS.png)
 
-#### Modelling Data as Life Information{#7.4.3-life-information .unnumbered}
+#### Designing a Life Interface: Transforming Data into Life Information{#7.4.3-life-information .unnumbered}
 
 The first challenge in designing such as a system is to consider what data will be stored, and how it might be represented. At a high level, I identified a number of different types of data that a user might wish to store in a PDS:
 
@@ -484,53 +490,91 @@ Then, considering the earlier observation by myself [@bowyer2011] and proponents
 
 ![Figure X: Happenings](./src/figs/figX-happenings.jpg)
 
-In modelling data as life information using the concepts shown in Figure X [TODO link to Life Concepts diagram] and Figure X [TODO link to Happenings above], it is important to come up with as simple a model as possible. Over several iterations, I was able to reduce the modelling of life information in a PDS down to the following four types - _activities_, _interactions_, _transactions_ and _datapoints_, which could correspond to four views or lenses within the user interface:
+In modelling data as life information using the concepts shown in Figure X [TODO link to Life Concepts diagram] and Figure X [TODO link to Happenings above], it is important to come up with as simple a model as possible, so that the _life interface_ is not overwhelmingly complex and unmanageable. Over several iterations, I was able to reduce the modelling of life information in a PDS down to the following four types - _activities_, _interactions_, _transactions_ and _datapoints_, which could correspond to four views or lenses within the user interface:
 
 ![Figure X: A Simple Life Information Presentation Model for use in a PDS](./src/figs/figX-simple-data-model.jpg)
 
 Having decided upon models for the information within a PDS, it becomes much easier to design visual presentations of that information. Figure X shows a design mockup of some of the views of life information that one could offer within a PDS:
 
-![Figure X: Mockup of Life Information presented in a PDS interface, designed by Alex Ballantyne](./src/figs/figX-dashboard-concept.png)
+![Figure X: Mockup of Life Information presented in a PDS interface, designed by Alex Ballantyne of BBC R&D](./src/figs/figX-dashboard-concept.png)
 
-#### Designing Capabilities for the Manipulation of Life Information{#7.4.3-capabilities .unnumbered}
+#### Life Partitioning  {#7.4.3-life-partitioning .unnumbered}
 
-SUBPOINT Capabilities
-BBCREF diagram What can users do (properties)
-Asking questions (THESISREF C5)
-BBCREF taxonomy diagram
-BBCREF Browsing by areas of life.. leads to:
-SUBPOINT Mental Models > Life- level systems, life partitioning
-teevan. conceptual anchors 2.2.2
-BBCREF cluedo rooms
-LITREF Lenses etc C2
+What has been shown in Figure X is the beginnings of imagining what a _life interface_ might look like, a single holistic interface covering all aspects of one's digital life.
+
+Previous HCI design work [[2.3.1](#2.3.1)] has focused on, in the first wave, the functionality of the machine; in the second wave, on the common tasks of a work environment; and in the third wave, on classes of users and the commonalities of experiences in everyday life. But the challenge designers of life interfaces face is even more difficult. As Lindley noted, no single arrangement of information will suffice because in the same context two people may have different needs [@lindley2018; #2.2.2-contextual]. Because of the _subjectivity principles_ [@bergman2003; #2.2.2-subjective], we are now faced with the need to build an interface that is suited to the individual, even though **every individual has different needs**. The design requirements for the interface are likely unique to the individual. Therefore, any life interface design must be able **support different mental models** - and as the life sketching exercise [[Figure 10](#figure-10)] in Case Study Two showed, people have many different ways of compartmentalising their life.
+
+During a life interface design hack week at BBC R&D, colleague Jasmine Cox and I explored this problem. We considered that a key element of the interface design would need to be the versatility to _partition one's life in different ways_, and then to be able to assign different collections of life information to the different partitions. As a visual illustration of one possible mental model for life partitioning, consider Figure X, where, based on an idea I had had years earlier, I modified a Cluedo™ board to represent the 'rooms of your digital life':
+
+![Figure X: Life Partitioning Analogy using a Cluedo™ board. Cluedo board design is a copyright of Hasbro, Inc., fair use](./src/figs/figX-rooms-of-life.jpg)
+
+We also imagined other mental models, such as partitioning your life according to parts of the body (heart for relationships, body for fitness, brain for current projects, etc.) or a landscape with forest, lake and buildings representing different things.
+
+Whatever the visual metaphor engaged, the important thing is the functionality - being able to use these partitions to _filter_ [[2.1.4](#2.1.4)] your life information and focus on a particular _perspective_ [@lansdale1992; @krishnan2005; [2.2.2](#2.2.2-conceptual)]. Deciding to focus on a particular aspect of one's life is analogous to fixing a _conceptual anchor_ [@teevan2001; [2.2.2](#2.2.2-subjective)].
+
+We then produced a mock app workflow for assigning different elements of your life (such as people, places or topics) to different partitions of your life, and viewing a visualisation of those different partitions in some subjectively meaningful form before filtering on a particular life partition and then being presented with a _timeline_ [[2.2.2](#2.2.2-temporal)] of life information pieces associated with that part of life. This is illustrated in Figure X, with artwork by Jasmine Cox:
+
+![Figure X: Browsing By Areas of Life](./src/figs/figX-browse-by-areas-of-life.jpg)
+
+#### Entity Extraction  {#7.4.3-entity-extraction .unnumbered}
 
 | INSIGHT 11: Automating the identification of Entities can enhance machine understanding and unburden information management system users |{#insight-11}
 | :------------------------------------------------------------------ |
-| ...... |
+| ...... NER REF medium mysuperai |
 
-
- Approaches by automatically finding entities
+- Approaches by automatically finding entities
 ref back to semantics etc. (two arrows diagram back ref'd, and the Insight about semantic understanding)
-(can callback the subscrab example from above here too)
-Extraction and Learning systems
-BBC REF flows for entity identification
-Facebook is doing this too [world2vec]
+- (can callback the subscrab example from above here too)
+- Extraction and Learning systems
+- BBC REF flows for entity identification
+- Facebook is doing this too [world2vec]
+- what is enabled by semantics
+- BACKREF digital agents. like an assistant.
 
-BACKREF digital agents. like an assistant.
-[POSSIBLY CUT?] SUBPOINT Digital Self Curation & Inclusive Data Flows
-Litref VRM
-OUTREF BBC Wired article
-the potential of inclusive flows (build on provenance, rivers of data, LITREF streams)
-FRAME AS DIAGRAM
-Building new designs (reaching into understanding, LITREF data enabled design and Human values)
-Delivering new structural capabilities. Enabling new individual and collective perspectives.
-ENDING: Individuals Empowered with new Life / Ecosystem Information Capabilities.
+
+#### Designing Capabilities for the Manipulation of Life Information{#7.4.3-capabilities .unnumbered}
+
+A core consideration in designing a _life interface_ is to consider what capabilities the user might be given over the pieces of life information represented in the interface. It is through the provision of a wide range of useful operations upon information items that the information will start to feel like _a material_ as described in [Insight 3](#insight-3) and deliver the _new capabilities_ needed for success [Insight 7](#insight-7).
+
+There are two ways to consider this problem - one starting with the data, and another starting with the user.
+
+Starting with the data, and considering the different types of data that a user might be able to gather from a across their digital life, I was able to identify that each datapoint or dataset is likely to have properties which determine _what can be done with it_. A number of possibilities are shown in Figure X:
+
+![Figure X: Attributes of Data](./src/figs/figX-data-attributes.jpg)
+
+These attributes could then be used to determine which datapoints would be eligible for inclusion in different views (or _lenses_ [@karger2005]) of the data, such as tables, graphs, maps, lists, media thumbnail views, etc.
+
+If we consider capabilities from the user's perspective, it is useful to recognise that visualisations alone (such as those in [REF FigureX-dashboard] are not sufficient to meet the need for either interrogability or malleability [[7.3.2](#7.3.2)]. To address the need for malleability, we need to determine what actions an individual might want to perform on a piece of life information. To explore this design question, we can draw on multiple sources of inspiration:
+
+  - actions identified in prior PIM research & design work [[2.2.2](#2.2.2)] such as arranging, browsing, keeping, and associating;
+  - actions needed for SI [[2.2.3](#2.2.3)] such as combining, history viewing, interpreting patterns;
+  - actions needed for effective access [[2.1.4](#2.1.4)] such as filtering, zooming, getting detail on demand; and
+  - actions inspired by the eight lenses of how people think of data [[Table 15](#table-15)].
+
+Having developed some initial design ideas for possible actions, I worked with my BBC colleague Chris Gameson to develop this information design thinking into a 12 _data card_ designs that could encapsulate some of the most common _actions a user might want to perform_ upon personal data in a PDS. These are shown in Figure X. These had a similar purpose to the cards in my pilot study [[1.3.1](#1.3.1)] and Case Study One [[4.2.1](#4.2.1)], acting as _'things to think with'_ [@bowyer2018family].
+
+![Figure X: Data actions](./src/figs/figX-data-actions.jpg)
+
+As identified in chapter 5 [[5.3.3](#5.3.3); [5.4.2.3](#5.4.2.3)] and explored further in [6.1.3](#6.1.3), being able to ask questions of data is important to individuals. Adddressing this need for interrogability we produced 10 data card designs to encapsulate some of the different common questions that users might want to ask of their data, as shown in Figure X.
+
+![Figure X: Data questions](./src/figs/figX-data-questions.jpg)
+
+These actions and questions act as a design building blocks, a precursor that can inform the design of features for a life interface that could provide the user with new capabilities to interrogate and manipulate the data in a much more interactive way.
+
+- BBCREF taxonomy diagram
+- [POSSIBLY CUT?] SUBPOINT Digital Self Curation & Inclusive Data Flows
+- Litref VRM
+- OUTREF BBC Wired article (ref recommendations)
+- the potential of inclusive flows (build on provenance, rivers of data, LITREF streams)
+- ENDING: Individuals Empowered with new Life / Ecosystem Information Capabilities.
 
 ### Approach 3 to Improving HDR: Defending Autonomy and Nurturing the Information Landscape{#approach-3}
 
-MAIN POINT: That it is not just about Positive Change, there must also be Defensive Action, in the face of the active erosion of user autonomy (backref above diminishing agency). That this is an avenue of activist and grassroots work in its own right.
-some kinda visual?
-LITREF guard rails for the status quo
+[TODO diagram: taking external *protective* action as collectives, surfacing, challenging, pushing for better enforcement of existing regulation]
+
+- MAIN POINT: That it is not just about Positive Change, there must also be Defensive Action, in the face of the active erosion of user autonomy (backref above diminishing agency). That this is an avenue of activist and grassroots work in its own right.
+- some kinda visual?
+- LITREF guard rails for the status quo
 
 | INSIGHT 12: The 'Seams' of Digital Services need to be identified, exploited and protected. |{#insight-12}
 | :------------------------------------------------------------------------ |
@@ -539,35 +583,34 @@ LITREF guard rails for the status quo
 
 [TODO make this an inset box not a table]
 
-Black Box diagram
-LITREF Storni magical design
-An unseen battle for the free flow of information is ongoing.  (data separation from services)
-DERC REF Seams, JustEat etc. Facebook example. That guy who got banned from Facebook for letting people read their Facebook feed in a different way AND the blocking of accessibility readers and Chrome getting reinvented List of bullets
-DERCREF the opportunity of scrapers & webaug
-
-seam hacking example: https://www.theverge.com/2016/2/1/10872792/facebook-interests-ranked-preferred-audience-size
-
-LITREF right to repair
-SUBPOINT Surface Information Injustices.
-REALWORLD REF Frances Augen, Snowden, Assange.whistleblowers. but also can do this within interfaces. Build the features that should be there with a big "we can't do this because X won't let us"
-SUBPOINT promoting and developing standards, and better regulations
-OUTREF guidelines [GDPR guidelines I fed back on]
-OUTREF new European laws, DSA etc, to regulate the landscape
+- Black Box diagram
+- LITREF Storni magical design
+- An unseen battle for the free flow of information is ongoing.  (data separation from services)
+- DERC REF Seams, JustEat etc. Facebook example. That guy who got banned from Facebook for letting people read their Facebook feed in a different way AND the blocking of accessibility readers and Chrome getting reinvented List of bullets
+- DERCREF the opportunity of scrapers & webaug
+- seam hacking example: https://www.theverge.com/2016/2/1/10872792/facebook-interests-ranked-preferred-audience-size
+- LITREF right to repair
+- right to fair programs (kollnig et al https://arxiv.org/pdf/2102.11819.pdf )
+- SUBPOINT Surface Information Injustices.
+- REALWORLD REF Frances Augen, Snowden, Assange.whistleblowers. but also can do this within interfaces. Build the features that should be there with a big "we can't do this because X won't let us"
+- SUBPOINT promoting and developing standards, and better regulations
+- OUTREF guidelines [GDPR guidelines I fed back on]
+- OUTREF new European laws, DSA etc, to regulate the landscape
 ref back to end of C5, for policymakers
-FRAME AS DIAGRAM
-taking external *protective* action as collectives, surfacing, challenging, pushing for better enforcement of existing regulation
-ENDING: Seizing and holding the powers we are given and never giving them up. The price of freedom is eternal vigilance
-OUTWORLD ref cars
-OUTWORLD REF Apple
-OUTREF Ad blockers > Brave > facebook containers.
+- ENDING: Seizing and holding the powers we are given and never giving them up. The price of freedom is eternal vigilance
+- OUTWORLD ref cars
+- OUTWORLD REF Apple
+- OUTREF Ad blockers > Brave > facebook containers.
 
 ### Approach 4 to Improving HDR: Winning Hearts and Minds: Teaching, Championing and Selling the Vision{#approach-4}
 
-MAIN POINT: That the nature of pursuing Human Data Relations causes for a radical reconfiguration of today's data world. We need new systems (which means not only there need to be business drivers for those systems but also that existing organisations much choose or be compelled to invest in them), and people need to understand, use and see value in those systems.  Therefore, there needs to be specific investment:
-SUBPOINT in Education, and Data Literacy
-SUBPOINT in Systems Building (just ee above)
-SUBPOINT in standards, information uniting the diaspora
-SUBPOINT in Researching New Business Models and Demonstrating Value of transparency and human centricity
+[TODO diagram: Structural work in upper right - standards. Selling work in top level - show value to individuals. Selling work in top level - show value to organisations. Structural work in bottom right - systems. Individual work in top left - empower and educate individuals. all leading to new action of individuals in top right]
+
+- MAIN POINT: That the nature of pursuing Human Data Relations causes for a radical reconfiguration of today's data world. We need new systems (which means not only there need to be business drivers for those systems but also that existing organisations much choose or be compelled to invest in them), and people need to understand, use and see value in those systems.  Therefore, there needs to be specific investment:
+- SUBPOINT in Education, and Data Literacy
+- SUBPOINT in Systems Building (just ee above)
+- SUBPOINT in standards, information uniting the diaspora
+- SUBPOINT in Researching New Business Models and Demonstrating Value of transparency and human centricity
 
 | INSIGHT 13: It is possible to demonstrate business benefits of Transparency and Human-centricity |{#insight-13}
 |  :------------------------------------------------------------------------ |
@@ -580,16 +623,10 @@ SUBPOINT in Researching New Business Models and Demonstrating Value of transpare
 
 [TODO make this an inset box, not a table]
 
-SUBPOINT in supporting Data Understanding Industry.
+- SUBPOINT in supporting Data Understanding Industry.
 empowering individuals as investigators. Tools to map their own ecosystems and unite their own personal data diaspora.
-FRAME AS DIAGRAM
-Structural work in upper right - standards
-Selling work in top level - show value to individuals
-Selling work in top level - show value to organisations
-Structural work in bottom right - systems
-Individual work in top left - empower and educate individuals
-all leading to new action of individuals in top right
-ENDING: that this is not just a technical problem, and not just a case of building new things. It's about beginning and catalysing a cycle of constant feedback, of data enabled design and action research / iterative software and business model development - finding what works, championing it, selling it.
+
+- ENDING: that this is not just a technical problem, and not just a case of building new things. It's about beginning and catalysing a cycle of constant feedback, of data enabled design and action research / iterative software and business model development - finding what works, championing it, selling it.
 
 Thesis Conclusion
 -----------------
