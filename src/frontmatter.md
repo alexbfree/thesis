@@ -47,6 +47,7 @@ Index of Key Ideas, Insights and Contributions {.unnumbered}
 * **Life Partitioning** - [ADD SECTIONREF]
 * **Locus of Decision-making** - [ADD SECTIONREF]
 * **Perceived Individual Power** - [ADD SECTIONREF]
+* **Personal Data Diaspora, the** - [ADD SECTIONREF]
 * **Personal Data Ecosystem Control** - [ADD SECTIONREF]
 * **Personal Data as a Proxy for Involvement** - [ADD SECTIONREF]
 * **Personal Data Stewardship** - [ADD SECTIONREF]
@@ -103,7 +104,7 @@ Index of Key Ideas, Insights and Contributions {.unnumbered}
 * **[HDR Insight 8](#insight-8): We Need to Teach Computers To Understand Human Information.** - [ADD REF]
 * **[HDR Insight 9](#insight-9): Individual GDPR requests can compel companies to change data practices.** - [ADD REF]
 * **[HDR Insight 10](#insight-10): Collectives can compare and unify their data and use it to demand change.** - [ADD REF]
-* **[HDR Insight 11](#insight-11): Automating the identification of Entities can enhance machine understanding and unburden information management system users.**
+* **[HDR Insight 11](#insight-11): Automating the Identification of Entities can enhance Machine Understanding and Unburden Life Interface Users.**
 * **[HDR Insight 12](#insight-12): The 'Seams' of Digital Services need to be identified, exploited and protected.** - [ADD REF]
 * **[HDR Insight 13](#insight-13): It is possible to demonstrate business benefits of Transparency and Human-centricity.** - [ADD REF]
 * **[HDR Approach 1](#approach-1): Discovery-Driven Activism** - [ADD SECTIONREF]
@@ -152,6 +153,7 @@ Glossary of Pre-Existing Abbreviations, Names and Terms {#glossary .unnumbered}
 * **Data, Metadata** -
 * **Data, Observed** -
 * **Data, Volunteered** -
+* **Data, Trapped** -
 * **DERC** -
 * **Design, Experience-centred** -
 * **Design, User-centred Design** -
@@ -165,11 +167,13 @@ Glossary of Pre-Existing Abbreviations, Names and Terms {#glossary .unnumbered}
 * **Early Help** -
 * **Effective Access** -
 * **Embodied Interaction** -
-* **Experience-centred Design** -
+* **Entities** -
+* **Entity Extraction** -
 * **File Biography** -
 * **Files, why they need to die** -
 * **GDPR** - General Data Protection Regulation [[REF] () ]
 * **Gatekeeper**-
+* **HCI - Human Computer Interaction** -
 * **HDI - Human Data Interaction** -
 * **Hestia.ai** -
 * **HestiaLabs** -
@@ -181,7 +185,7 @@ Glossary of Pre-Existing Abbreviations, Names and Terms {#glossary .unnumbered}
 * **Information, Life** -
 * **Information, Ecosystem** -
 * **Infrastructural Power, and its Four Levers** -
-* **Integration (stage of Personal Informatics)** - see SI
+* **Integration (stage of Personal Informatics)** - see Self Informatics
 * **Keeping** -
 * **Legibility** -
 * **Lifelogging** -
@@ -191,6 +195,7 @@ Glossary of Pre-Existing Abbreviations, Names and Terms {#glossary .unnumbered}
 * **Magical Design** -
 * **MyData** -
 * **Negotiability**
+* **NER - Named Entity Recognition** - see Entity Extraction
 * **Open Lab** -
 * **Orienteering** -
 * **PDS - Personal Data Store**- See Personal Data Lockers
@@ -241,10 +246,12 @@ Glossary of Pre-Existing Abbreviations, Names and Terms {#glossary .unnumbered}
 * **Subjective Context Principle** -
 * **Support Worker** -
 * **Supported Family** -
+* **Text Mining** -
 * **ToC - Theories of Change** -
 * **Timelines** -
 * **Troubled Families** -
 * **VRM - Vendor Relationship Management** -
 * **Web Augmentation** -
+* **world2vec** -
 
 [TODO add all the actions from 2.1.4, 2.2.2, 2.2.3 here]
