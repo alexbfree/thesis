@@ -141,9 +141,12 @@ Glossary of Pre-Existing Abbreviations, Names and Terms {#glossary .unnumbered}
 * **Constructivism** -
 * **Conceptual Anchors** -
 * **Context-aware Computing** -
+* **Cornmarket** -
+* **Critical Algorithm Studies** -
 * **Data Brokers** -
 * **Data Download Portal** -
 * **Data Flow Auditing** -
+* **Data Justice** -
 * **Data Portability Request** -
 * **Data Provenance** -
 * **Data Self** -
@@ -157,6 +160,7 @@ Glossary of Pre-Existing Abbreviations, Names and Terms {#glossary .unnumbered}
 * **Data, Volunteered** -
 * **Data, Trapped** -
 * **DERC** -
+* **Design, Disrespectful** -
 * **Design, Experience-centred** -
 * **Design, User-centred Design** -
 * **Design, Value-centred Design** -
@@ -170,6 +174,7 @@ Glossary of Pre-Existing Abbreviations, Names and Terms {#glossary .unnumbered}
 * **Effective Access** -
 * **Embodied Interaction** -
 * **Entities** -
+* **Explainable AI** -
 * **Faceted Search** -
 * **Entity Extraction** -
 * **File Biography** -
@@ -181,6 +186,7 @@ Glossary of Pre-Existing Abbreviations, Names and Terms {#glossary .unnumbered}
 * **Hestia.ai** -
 * **HestiaLabs** -
 * **HII - Human Information Interaction** -
+* **Humane Technology** -
 * **ICO - Information Commissioner's Office** -
 * **Ideation Grids** -
 * **Information (general)** -
@@ -211,9 +217,8 @@ Glossary of Pre-Existing Abbreviations, Names and Terms {#glossary .unnumbered}
 * **PIM systems, temporal** -
 * **PIMS** - Personal Information Management Services - See Personal Data Lockers
 * **Participatory Action Research**
-* **Personal Data Economy, the** -
-* **Personal Data Economy, one's own** -
-* **Personal Data Ecosystems** -
+* **PDE - Personal Data Economy** -
+* **Personal Data Ecosystem** -
 * **Personal Data Lockers** -
 * **Personal Data Vault** - See Personal Data Lockers
 * **Personal Informatics** - see SI

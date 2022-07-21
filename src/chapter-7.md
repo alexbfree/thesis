@@ -299,17 +299,16 @@ Looking deeper into theories of power reveals that structural power is not the o
 
 [TODO make this an inset box not a table]
 
-#### The Ever-Diminishing Agency of Platform Users{#7.3.4.2 .unnumbered}
+#### The Active Diminishing of User Agency{#7.3.4.2}
 
-The second major obstacle to the objective of ecosystem negotiability we must recognise, is that the above processes of platformisation and power exertion are not a one-off transition, but rather an ongoing process which has not ended. There is **a continuing trend of actively diminishing individuals' agency**, especially evident in the last decade. When software was sold in a box, manufacturers competed based upon which product would let the user take home the greatest range of features and capabilities. New releases with new features drove new product sales. But in the cloud computing era, a smaller set of core features done well is sufficient to guarantee an ongoing subscription revenue from a user. Cost savings in development and support costs can be made by reducing feature sets. Constrained, compliant users are easier to manage. The relentless pursuit of increased profits and further cost saving sees products lose, not gain, features. Interfaces are reshaped to serve businesses’ interests first and foremost. As described in [2.3.5](#2.3.5), the primary concern is about making user behaviours constrained, predictable and profitable, rather than meeting their needs or providing maximal value. Plantin _et al._ describe the particular harmful influence on the ecosystem of Facebook's power exertions: _"Facebook is a formidable force in a profit-motivated platformisation which is beginning to eat away at the Open Web.  This entails moving away from published URIs and open HTTP transactions in favor of closed apps that undertake hidden transactions with Facebook through a Facebook-controlled API."_ [@plantin2018]
+The second major obstacle to the objective of ecosystem negotiability we must recognise, is that the above processes of platformisation and power exertion are not a one-off transition, but rather an ongoing process which has not ended. Today's digital platforms exhibit **a continuing trend of actively diminishing individuals' agency**, especially evident in the last decade. When software was sold in a box, manufacturers competed based upon which product would let the user take home the greatest range of features and capabilities. New releases with new features drove new product sales. But in the cloud computing era, a smaller set of core features done well is sufficient to guarantee an ongoing subscription revenue from a user. Cost savings in development and support costs can be made by reducing feature sets. Constrained, compliant users are easier to manage. The relentless pursuit of increased profits and further cost saving sees products lose, not gain, features. Interfaces are reshaped to serve businesses’ interests first and foremost. As described in [2.3.5](#2.3.5), the primary concern is about making user behaviours constrained, predictable and profitable, moreso than meeting their needs or providing maximal value. Plantin _et al._ describe the particular harmful influence on the ecosystem of Facebook's power exertions: _"Facebook is a formidable force in a profit-motivated platformisation which is beginning to eat away at the Open Web.  This entails moving away from published URIs and open HTTP transactions in favor of closed apps that undertake hidden transactions with Facebook through a Facebook-controlled API."_ [@plantin2018]
 
 Here are just a few examples of the ways in which users' agency has been, and continues to be, diminished:
 
-- Facebook closed their RSS feeds, and later parts of their APIs, meaning that users could no longer consume their friends' posts in any other environment than the ad-filled and manipulated Facebook main feed. Later they removed features such as friend-list feeds and favorite-page feeds, removing users ability to compartmentalise their content viewing or focus on certain friends. The ‘Friends’ page on Facebook currently shows a list of recommended new friends; to access your current friend list requires an extra click. Encouraging users to grow their networks is prioritised over user convenience.
-- Twitter closed the parts of its APIs that allowed realtime notifications and access to one's home feed, killing off primary functionality for a health ecosystem of third party Twitter clients that gave users choice [@newton2018]. TweetDeck, a major third party Twitter client was acquired, and later shut down, as was Twitter's own desktop client. Eventually, the only option left to users was to use the web interface. [@gayomali2015; @hatmaker2018; @siegal2022]
-- Apple has been diminishing users' agency for a long time. Users cannot open up iPhones even to change the battery without invalidating their warranty. Apple have removed disk drives, headphone ports, SD card slots and other ports. Certain parts of the hard drive on macOS devices are now read-only and unwritable by users.
+- Facebook closed their RSS feeds, and later parts of their APIs, meaning that users could no longer consume their friends' posts in any other environment than the ad-filled and manipulated Facebook main feed. Later they removed features such as friend-list feeds and favorite-page feeds, removing users' ability to compartmentalise their content viewing or focus on certain friends. The ‘Friends’ page on Facebook currently shows a list of recommended new friends; to access your current friend list requires an extra click. Encouraging users to grow their networks is prioritised over user convenience.
+- Twitter closed the parts of its APIs that allowed real-time notifications and access to one's home feed, killing off primary functionality for a healthy ecosystem of third party Twitter clients that gave users choice [@newton2018]. TweetDeck, a major third party Twitter client was acquired, and later shut down, as was Twitter's own desktop client. Eventually, the only option left to users was to use the web interface. [@gayomali2015; @hatmaker2018; @siegal2022]
 - Facebook recently announced that they will no longer store users' historical location data (though they will still use location unformation) [@pegoraro2022]. This means that users will lose the capability to access historical location records, but also this makes it harder for users to see how their location data will be used in future, as there will be no historical log to examine. This shows that data-centric companies can change their practices to limit agency and reduce accountability too.
-- Online news and discussion site Reddit has removed access to content for non-logged in users, and uses deceptive techniques to present advertisements that look like posts from users and to discourage users from appearing offline. These patterns have been called _'disrespectful design'_ [@regoje2021].
+- Online news and discussion site Reddit has removed access to content for non-logged in users, and uses deceptive techniques to present advertisements that look like posts from users and to discourage users from appearing offline. These patterns have been described as _'disrespectful design'_ [@regoje2021].
 - In an example from the public sector, through my work on the SILVER project [[3.4.1.1](#3.4.1.1)] just prior to the introduction of the GDPR in 2018, I heard whispers in at least one local authority of plans to 'shift from getting data collection consent from supported families towards simply informing them of our practices' (in other words, removing their choice). This shows that the instinct to further organisational interests over those of the individual is not limited to commercial data holders.
 - In a similar vein, in 2022 TikTok announced that it would rely on legitimate interest rather than consent when it comes to using users’ activity data to personalise the app experience, removing users’ ability to withdraw consent to such use. This plan has subsequently been paused after warnings that this might breach GDPR [@lomas2022].
 
@@ -589,16 +588,50 @@ The future-centric designs and insights[^22] I have presented as part of Approac
 
 [TODO diagram: taking external *protective* action as collectives, surfacing, challenging, pushing for better enforcement of existing regulation]
 
+While [Approach 2](#approach-2) focuses on designing a better future, and [Approach 1](#approach-1) focuses on identifying and campaigning for positive changes in provider practices, there is a need for a more direct approach to tackle an urgent and evident problem head on: the active diminishing of users' agency [[7.3.4.2](#7.3.4.2)]. In pursuit of mass market appeal and cost reduction, there is a trend towards the _dumbing down_ of technology, which invariably leads to fewer features and less agency. Companies like Apple increasingly encourage users to think of technology as a black box, which you cannot and should not look inside, as illustrated in Figure X:
+
+![Figure X: The 'Black Box' view that many modern technology providers present](./src/figs/figX-black-box.png)
+
+This disempowering trend is seen across hardware, software and service industries, where providers attempt to **restrict the ways in which technology can be used** even after it has been purchased - cars that can only be serviced by official dealers, printers that can only use officially branded ink cartridges, smartphones that cannot be repaired without special tools and warranty invalidation, media files that cannot be copied or shared, operating systems that block or discourage certain software from running, applications that forbid screenshots. In order to challenge these changes and **protect individual autonomy** and our ability to make sound judgements and hold organisations to account, direct activism and grassroots civic action is called for. This forms the core objective of this approach: to **identify ways in which agency is being diminished**, and to find ways to **circumvent the new barriers** in order to maintain existing levels of capability.
+
+It is bad enough when a particular technology blocks you from doing what you want to do, but the trend is even worse when viewed at a broader level: As the digipower investigation highlighted [[Insight 6](#insight-6)], the information landscape that we inhabit as digital citizens is being manipulated to **change what we see, what we understand of the world, and what we can do, in order to manipulate our behaviour**. Therefore a further goal here is to protect our ability to **experience unbiased and unmanipulated information landscapes**. Shah and Bender examine the ways in which search results are a landscape which is becoming untrustworthy, and consider how this landscape could be protected and accountability preserved. They describe their approach as establishing _**'guardrails for the status quo'**_, and I find this phrase to be an excellent summary of what Approach 3 is trying to do [@shah2022].
+
+
+chrome will stop extensions
+
+that is the central object
+
+
+:
+Shah, situating search - guardrails for the status quo
+
+
+
+Groups of HDR reformers can combine development skills, innovation and disruptive design approaches to find and publicise new ways to circumvent providers' efforts to control and limit their users' agency, as illustrated by the use of web scrapers and web augmentation approaches to try and obtain information or functionality from providers that would otherwise be inaccessible.
+[also mention device tenancy (zeynep) and firefox containers/taking back power in the browser/browser as seam (reference Goffe et al)]
+
 - MAIN POINT: That it is not just about Positive Change, there must also be Defensive Action, in the face of the active erosion of user autonomy (backref above diminishing agency). That this is an avenue of activist and grassroots work in its own right.
 - some kinda visual?
 - LITREF guard rails for the status quo
 
 | INSIGHT 12: The 'Seams' of Digital Services need to be identified, exploited and protected. |{#insight-12}
 | :------------------------------------------------------------------------ |
-| By identifying, exploiting and protecting the seams of digital services and devices, user autonomy and the viability of data-unification efforts can be protected. |
+| By identifying, exploiting and protecting the seams of digital services and devices, user autonomy and the viability of data-unification efforts can be protected.
+| Apple, for example, encourages users to consider technology as 'magical', rather than as tools to be harnessed and understood; Such thinking is manifested in their hardware design too: phones that cannot be opened up, expanded or repaired; the removal of accessory ports, disk drives, and headphone jacks; increased controls over what can be installed on users' hard drives and which areas of disk can be modified. These changes simplify the technology and bring it to a more mainstream audience - something that iPhone and iPad designers must be given due credit for - but it happens at the cost of reducing user agency.
+[TODO rephrase this para as a better introduction to Seams]
+An important concept to understand in this space is that of **_seams_**. In 'The Politics of Seams' Storni outlines that current designs are incompatible with empowerment-in-use, and highlights the role of design seams (and their removal) as being a key determiner of user power [REF]. He says that the designer passes some power to the user through their design, but also, that users should be able to take some power on their own terms (repurposing etc). He talks [says what] about the problems of technology as magic/design as conjuring:
+
+> _"Magical design prioritises pleasing and surprising a passive user who can only use the solution as authorised"_ -- Cristiano Storni [@storni2014]
+
+Therefore part of what we need to be doing is (a) highlight and (b) removing seams/creating new seams between disconnected parts....
+
+|
 | .... |
 
 [TODO make this an inset box not a table]
+
+favouring own products
+https://www.politico.com/news/2022/07/19/documents-antitrust-case-google-amazon-00046522
 
 - Black Box diagram
 - LITREF Storni magical design
@@ -647,7 +680,7 @@ empowering individuals as investigators. Tools to map their own ecosystems and u
 
 Thesis Conclusion
 -----------------
-
+- frame this chapter as a call to arms
 - recap HDR field as contribution
 - recap the findings of the thesis and the map of the landscape
 - recap the obstacles, insights and opportunities
