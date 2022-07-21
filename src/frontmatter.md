@@ -168,6 +168,7 @@ Glossary of Pre-Existing Abbreviations, Names and Terms {#glossary .unnumbered}
 * **Effective Access** -
 * **Embodied Interaction** -
 * **Entities** -
+* **Faceted Search** - 
 * **Entity Extraction** -
 * **File Biography** -
 * **Files, why they need to die** -

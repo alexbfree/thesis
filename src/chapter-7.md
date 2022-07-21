@@ -80,7 +80,7 @@ Having defined the scope of HDR, we can say that 'better' HDR can be achieved by
 
 In the modern world, where almost anything can be encoded as data, and given many previously analogue objects and activities now have digital equivalents, the concept of data has become broad and hard to pin down. Underlying Human Data Relations is to explain what roles data can play in people's lives -- what it **is** to people. Through the Case Studies, external work and my prior learning, I have so far identified 8 distinct lenses to consider how people might relate to it. These are modelled in Table 15.
 
-Table: Table 15. **Eight lenses on data**.
+Table: Table 15. **Eight lenses on data**.{#table-15}
 
 | Way of thinking about data | Explanation & Implications |
 |:--------|:---------------------------------------------------|
@@ -253,6 +253,8 @@ What we can see in this section is that by paying attention to Ecosystem Informa
 
 This section explains three distinct obstacles to ecosystem negotiability: the intristric structures that give data holders power, the trend of actively diminishing user agency, and the intractable data self.
 
+#### Hegemony through Data Holding{#7.3.4-hegemony .unnumbered}
+
 It is in the pursuit of individual oversight [[6.2.2](#6.2.2)] and decision-making involvement [[6.2.3](#6.2.3)] that the impact of the power imbalance between data holders and individuals [[2.1.2](#2.1.2)] becomes most clear; unlike the other HDR objectives, **individuals cannot act to claim ecosystem negotiability for themselves**. Negotiability means having the power to act, and in the context of systems and interfaces owned and designed by service providers that **power can only be given**. The hegemony of data holders is therefore is the greatest obstacle to this objective, so it is vital to examine the nature of that power - where does it come from?
 
 ![Figure X: The Panopticon Structure of the Illinois State Penitentiary](./src/figs/figX-panopticon.png)
@@ -297,6 +299,8 @@ Looking deeper into theories of power reveals that structural power is not the o
 
 [TODO make this an inset box not a table]
 
+#### The Ever-Diminishing Agency of Platform Users{#7.3.4-agency .unnumbered}
+
 The second major obstacle to the objective of ecosystem negotiability we must recognise, is that the above processes of platformisation and power exertion are not a one-off transition, but rather an ongoing process which has not ended. There is **a continuing trend of actively diminishing individuals' agency**, especially evident in the last decade. When software was sold in a box, manufacturers competed based upon which product would let the user take home the greatest range of features and capabilities. New releases with new features drove new product sales. But in the cloud computing era, a smaller set of core features done well is sufficient to guarantee an ongoing subscription revenue from a user. Cost savings in development and support costs can be made by reducing feature sets. Constrained, compliant users are easier to manage. The relentless pursuit of increased profits and further cost saving sees products lose, not gain, features. Interfaces are reshaped to serve businesses’ interests first and foremost. As described in [2.3.5](#2.3.5), the primary concern is about making user behaviours constrained, predictable and profitable, rather than meeting their needs or providing maximal value. Plantin _et al._ describe the particular harmful influence on the ecosystem of Facebook's power exertions: _"Facebook is a formidable force in a profit-motivated platformisation which is beginning to eat away at the Open Web.  This entails moving away from published URIs and open HTTP transactions in favor of closed apps that undertake hidden transactions with Facebook through a Facebook-controlled API."_ [@plantin2018]
 
 Here are just a few examples of the ways in which users' agency has been, and continues to be, diminished:
@@ -310,6 +314,8 @@ Here are just a few examples of the ways in which users' agency has been, and co
 - In a similar vein, in 2022 TikTok announced that it would rely on legitimate interest rather than consent when it comes to using users’ activity data to personalise the app experience, removing users’ ability to withdraw consent to such use. This plan has subsequently been paused after warnings that this might breach GDPR [@lomas2022].
 
 Unchecked, it is clear that trends to reduce users’ agency and further providers’ interests will continue, Therefore this trend to diminish users' agency is a particular obstacle that would need to explicitly targeted if data interfaces are to become more free-flowing [@bowyer2018freedata], and if the objective of ecosystem negotiability is to be realised. Somehow, the trend needs to be halted, before it can be reversed. Judging by the TikTok example, perhaps only regulatory changes can force such a change.
+
+#### The Intractable Data Self{#7.3.4-dataself .unnumbered}
 
 The third and final obstacle I have identified to the objective of ecosystem negotiability is **the intractable data self**. As identified in the pilot study [@bowyer2018family], and in Case Study Two [[5.4.4.1](#5.4.4.1)] data about individuals serves as their proxy. It serves as their data self, and if it is incomplete, inaccurate or unfair, which is highly likely given the difficulties of representing people in data [@cornford2013; @martin2007], this can cause harm [@bowyer2018family] or undermine attempts to help individuals [@cornford2013]. Yet currently, although some legal rights to data correction exist [@ico2018], people lack practical abilities to modify or assert control over the most important version of themselves as far as providers are concerned: the version of them that exists in data. Even when data can be seen (such as via a support worker or GDPR data access requests) **people lack the ability to exert influence over their data self** [[5.5.2](#5.5.2); @cornford2013]. To address this obstacle, the most likely direction would be to explore possibilities by which people could take a role in the curation of their data self, as both Case Studies have proposed [[4.4.3](#4.4.3); [5.5.2](#5.5.2)] and [6.3](#6.3) have proposed.
 
@@ -528,7 +534,7 @@ We then produced a mock app workflow for assigning different elements of your li
 |:--|
 | This sort of approach could be quite powerful in reducing the effort for life interface users. By scanning the data, the most prevalent entities could be identified, and the user need only assign the entities to different parts of their life, as illustrated in the first two frames of Figure X [REF to mockup]. This would then allow hundreds of associated data points which had been programmatically associated to that entity, to be assigned to the correct 'bucket' or life partition. While such an approach would not be perfect, and there would need to be some corrections made by the user, this is far preferable to them having to provide all the classifications and is likely to motivate greater engagement. I have observed in user experience design and consideration of productivity systems that users are more motivated to correct errors, than to fill in a blank page. Philosophically, we are moving here towards a _learning system_, a system that can be told when it is right and when it is wrong, and get better at classifying things correctly, analogous to the way an executive might train an assistant to anticipate his/her needs better, a sort of _digital life assistant_ [ADD REF]. Bayesian classification techniques could also be used to help with the learning here [@geeks2022]. . This approach is also useful for _ecosystem detection_, as outlined in [Insight 4](#insight-4) - as identification of relationships with external entities is a key first step to mapping a user's ecosystem. |
 
-Insight 11 offers a practical, theory-informed approach as to how we might start to build systems that are more able to understand the meaning of human information [[Insight 8](#insight-8)]. This is a technique that is already being used by corporations. For example, Facebook has developed an internal system called _world2vec_, shown in Figure X through which it mines information about the world from the data that people generate through social media posts, messages and interactions. This information is exploited for commercial benefit. It is about time similar techniques were used for individual benefit and personal data empowerment.
+Insight 11 offers a practical, theory-informed approach as to how we might start to build systems that are more able to understand the meaning of human information [[Insight 8](#insight-8)]. This is a technique that is already being used by corporations. For example, Facebook has developed an internal system called _world2vec_, shown in Figure X, through which it mines information about the world from the data that people generate through social media posts, messages and interactions. This information is exploited for commercial benefit. It is about time similar techniques were used for individual benefit and personal data empowerment.
 
 ![Figure X: A design for Facebook's world2vec model, semantically modelling data from social media posts on Facebook [@peyshakhovic2020]](./src/figs/figX-facebook-world2vec.png)
 
@@ -544,7 +550,7 @@ Moving beyond the initial challenge of classifying and arranging human informati
 
 There are two ways to consider this problem - one starting with the data, and another starting with the user.
 
-Starting with the data, and considering the different types of data that a user might be able to gather from a across their digital life, I was able to identify that each datapoint or dataset is likely to have properties which determine _what can be done with it_. A number of possibilities are shown in Figure X:
+Starting with the data, and considering the different types of data that a user might be able to gather from a across their digital life, I identified that each datapoint or dataset is likely to have properties which determine _what can be done with it_. A number of possibilities are shown in Figure X:
 
 ![Figure X: Attributes of Data](./src/figs/figX-data-attributes.jpg)
 
@@ -555,24 +561,27 @@ If we consider capabilities from the user's perspective, it is useful to recogni
   - actions identified in prior PIM research & design work [[2.2.2](#2.2.2)] such as arranging, browsing, keeping, and associating;
   - actions needed for SI [[2.2.3](#2.2.3)] such as combining, history viewing, interpreting patterns;
   - actions needed for effective access [[2.1.4](#2.1.4)] such as filtering, zooming, getting detail on demand; and
-  - actions inspired by the eight lenses of how people think of data [[Table 15](#table-15)].
+  - actions inspired by the eight lenses of how people think of data [[Table 15](#table-15)] such as summarising, deriving or remixing.
 
-Having developed some initial design ideas for possible actions, I worked with my BBC colleague Chris Gameson to develop this information design thinking into a 12 _data card_ designs that could encapsulate some of the most common _actions a user might want to perform_ upon personal data in a PDS. These are shown in Figure X. These had a similar purpose to the cards in my pilot study [[1.3.1](#1.3.1)] and Case Study One [[4.2.1](#4.2.1)], acting as _'things to think with'_ [@bowyer2018family].
+Having developed a large set of initial design ideas for possible actions, I worked with my BBC colleague Chris Gameson to distil this information design thinking into a 12 _data card_ designs that could encapsulate some of the most common _actions a user might want to perform_ upon personal data in a PDS. These are shown in Figure X. These had a similar purpose to the cards in my pilot study [[1.3.1](#1.3.1)] and Case Study One [[4.2.1](#4.2.1)], acting as _'things to think with'_ [@bowyer2018family].
 
 ![Figure X: Data actions](./src/figs/figX-data-actions.jpg)
 
-As identified in chapter 5 [[5.3.3](#5.3.3); [5.4.2.3](#5.4.2.3)] and explored further in [6.1.3](#6.1.3), being able to ask questions of data is important to individuals. Adddressing this need for interrogability we produced 10 data card designs to encapsulate some of the different common questions that users might want to ask of their data, as shown in Figure X.
+As identified in chapter 5 [[5.3.3](#5.3.3); [5.4.2.3](#5.4.2.3)] and explored further in [6.1.3](#6.1.3), being able to ask questions of data is important to individuals. Adddressing this need for interrogability in a similar approach, we produced 10 data card designs to encapsulate some of the different common questions that users might want to ask of their data, as shown in Figure X.
 
 ![Figure X: Data questions](./src/figs/figX-data-questions.jpg)
 
 These actions and questions act as a design building blocks, a precursor that can inform the design of features for a life interface that could provide the user with new capabilities to interrogate and manipulate the data in a much more interactive way.
 
-- BBCREF taxonomy diagram
-- [POSSIBLY CUT?] SUBPOINT Digital Self Curation & Inclusive Data Flows
-- Litref VRM
-- OUTREF BBC Wired article (ref recommendations)
-- the potential of inclusive flows (build on provenance, rivers of data, LITREF streams)
-- ENDING: Individuals Empowered with new Life / Ecosystem Information Capabilities.
+Once information has been correctly identified semantically (using approaches such as those in Figure X[naturedetermining] and Figure X[identifingattributes]), and associated to entities, it then becomes possible to enrich users' search and browse capabilities by enabling the use of _**facets**_ {@televiciute2020} to allow users to precisely target a set of data points or a particular data item. An example of how this could be done is shown in Figure X, another design artefact from my work at BBC R&D. This is not a user interface mockup but rather a three-stage strategy, with examples, for the different types of facets that one could offer a user to help them explore their data in powerful ways:
+
+![Figure X: Taxonomies For Navigation](./src/figs/figX-taxonomies-for-navigation.png)
+
+#### Digital Self Curation & Inclusive Data Flows{#7.4.3-digitalself .unnumbered}
+
+A final element of Approach 2, which, unlike the previous subsections, has a broader focus than just the creation of an effective life interface because it has sociotechnical/business process design implications too, aims to address the problem identified in [7.3.4](#7.3.4-digitalself) - the intractable data self. Drawing upon the philosophy behind VRM [[2.3.4](#2.3.4)], we can imagine (as implied by both Case Studies [[4.3.3.4](#4.3.3.4); [5.5.2](#5.5.2)]) that were individuals able to **create or contribute to the digital representation of themselves in data**, that this would be more accurate. Furthermore, this would provide an opportunity to address the identified HDR want of _involvement_ [[6.2.3](#6.2.3)]. In the BBC Cornmarket project, this was explored through the concept of recommendations. Functional interfaces were built which allowed users to construct and edit a representation of their own musical/media tastes, using personal data such as viewing/listening history imported from multiple sources as inputs. This aspect of the Cornmarket project [@orphanides2021] is illustrative of a new way of thinking about personal data, where it can be **directly generated (or edited/fixed) by the individual**, rather than just asserted on inferred by the service provider without verification. Such thinking could be expanded further to accommodate the idea that data is not static. Once we make the mindset shift from data as a static bundle of facts to **data as an ever-changing flow or _stream_** [[2.2.5](#2.2.5); [4.3.3.3](#4.3.3.3); [6.2.2](#6.2.2)], it becomes much easier to think about how processes and interfaces might be updated to give users a direct role in the evolution and shaping of that data. This also makes it easier to maintain knowledge of data's provenance [[Insight 5](#insight-5)]. Such _**'inclusive data flows'**_ and processes could yield benefits for users in terms of increased ecosystem negotiability [Objective 4](#objective-4), but also for businesses, as will be explored in [Approach 4](#approach-4).
+
+The future-centric designs and insights I have presented as part of Approach 2 show that while developing interfaces and processes for a better HDR future is a challenging design problem (due to the variety in individuals' mental models and the breadth of data across an individual's digital life), it is certainly possible to tackle these challenges. It is likely that the reasons that few have ventured into this space are largely due to the lack of an obvious business model or incentive rather than any question of the merits of these approaches. It is possible to **empower individuals with new capabilities** over the life and ecosystem information encoded within their data, and even to design **new data interaction approaches** that give users an ongoing role in the curation of that data, and HDR reformers can help make a world of better HDR a reality by **building, or investing, in the building of these more life-centric technologies and processes**.
 
 ### Approach 3 to Improving HDR: Defending Autonomy and Nurturing the Information Landscape{#approach-3}
 
