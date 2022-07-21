@@ -68,7 +68,7 @@ def buildFile(filename, format, chapterNumber=None):
     outputFile = "{}.{}".format(filename,format)
 
     # Build the initial pandoc command to build the file
-    args = ["pandoc", "src/index.md", "src/{}.md".format(filename), "src/bibliography.md" , "--citeproc", "--output={}{}".format(outputPath,outputFile), "-s", "--toc", "--toc-depth=4", "--self-contained", "--number-sections"]
+    args = ["pandoc", "src/index.md", "src/{}.md".format(filename), "src/bibliography.md" , "--citeproc", "--output={}{}".format(outputPath,outputFile), "-s", "--toc", "--toc-depth=3", "--self-contained", "--number-sections"]
 
     # Append the pdf args for if they try to build a PDF file
     if format == "pdf":

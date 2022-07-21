@@ -40,6 +40,7 @@ Index of Key Ideas, Insights and Contributions {.unnumbered}
 * **Human Information Operating System** - [ADD SECTIONREF]
 * **Human Information** - see Life Information and Ecosystem Information
 * **Inclusive Data Flows** - [ADD SECTIONREF]
+* **Information Standards** - [ADD SECTIONREF]
 * **Landscape of HDR Opportunity** - [ADD SECTIONREF]
 * **Life Concepts** - [ADD SECTIONREF]
 * **Life Information Utilisation** - [ADD SECTIONREF]

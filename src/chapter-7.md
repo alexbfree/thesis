@@ -65,7 +65,7 @@ Chapter 6 established six 'wants' that people have in their relationships with d
 
 The major contribution of this thesis, beyond the detail and evidence for these wants conveyed in chapters 4 to 6, is to synthesise these findings and conceptualise what people want from data holders into a clearly defined field for future research and innovation. Repurposing the concepts of 'human-technology relations' and later 'human-data relations' which have been the subject of some study in the contexts of philosophy, embodied interaction and the performing arts [@ihde1990; @hogan2012; @windeyer2021], I have chosen to name this field **_"Human Data Relations"_**, or HDR for short. I propose this field as a successor to Mortier _et al._'s Human Data Interaction (HDI) [@mortier2014]. HDR builds upon HDI but is wider, broader and more sociotechnical; HDR encompasses all aspects of the ways in which people and organisations can and should relate to data, not just interaction with data itself. Through a greater focus on relationships and ecosystems and approaches that target today's practical data-centric power-imbalanced reality, it can provide a more effective research agenda for the world of the 2020s. The field's definition draws upon three distinct connotations or readings of its name:
 
-| Human Data Relations - A Definition |
+| Human Data Relations - A Definition |{#HDR}
 | :---------------------------------- |
 | The field of human data relations encompasses all the ways in which humans and human organisations relate to, and with, data, specifically: |
 |   1. **Human-Data Relations**: the direct interaction of users with data to understand and use it, similar to HDI, and in service of the **direct data wants** [[6.1](#6.1)] of visible, understandable and useable data. |
@@ -76,7 +76,7 @@ The major contribution of this thesis, beyond the detail and evidence for these 
 
 Having defined the scope of HDR, we can say that 'better' HDR can be achieved by working to improve upon the identified six aspects of human data relations. However, as this section will explain, HDR is motivated in two distinct ways, to which those six wants apply differently. As background understanding for this duality of motivation, it is first necessary to examine more closely what role data plays in people's lives.
 
-### The Role of Personal Data
+### The Role of Personal Data{#7.2.1}
 
 In the modern world, where almost anything can be encoded as data, and given many previously analogue objects and activities now have digital equivalents, the concept of data has become broad and hard to pin down. Underlying Human Data Relations is to explain what roles data can play in people's lives -- what it **is** to people. Through the Case Studies, external work and my prior learning, I have so far identified 8 distinct lenses to consider how people might relate to it. These are modelled in Table 15.
 
@@ -102,7 +102,7 @@ Looking across this set of lenses, it is possible to identify four specific role
 3. Data has a role as **a usable material with which to effect change** in your life;
 4. Data has a role as **a means to monitor changes** in data holders' behaviours, digital influences upon you or changes within your life.
 
-### Human Data Interaction or Human Information Interaction?
+### Human Data Interaction or Human Information Interaction?{#7.2.2}
 
 To unpack HDR further, it is important to highlight the difference between humans relating to data, and humans relating to information. Human Data Interaction (HDI) concerns the way people interact with data. Mortier _et al._  [@mortier2013; @mortier2014] defined the field of HDI without distinguishing data (the digital artifact stored on computer) from information (the facts or assertions that said data can provide when interpreted). This is an important distinction. The parallel field of Human Information Interaction (HII) originated in library sciences, and considers the way humans relate to information without regard to the technologies involved [@marchionini2008]. William Jones _et al._ called for a new sub-field of HII in an HCI context[^17], observing that it is important to include a focus on information interaction because HCI can _"unduly focus attention on the computer when, for most people, the computer is a means to an end – the effective use of information"_ [@jones2006]. DIKW theory [[2.1](#2.1)] highlights that **interpretation of data to obtain information** is a discrete activity. This was borne out in the findings of Case Study Two, where it became clear that participants have distinct needs from data, and from information (5.4.3.2). Access to data **and** information is critical to both understanding and useability, as detailed in section 6.1.2 and 6.1.3.
 
@@ -114,7 +114,7 @@ Drawing on this theory, we can see then that in considering Human Data Relations
 2. _**information about individuals**_ - the collection of facts and assertions about the individual and their life, which are obtained through human or algorithmic interpretation of stored data (or in some organisations' case, through analytical inference).
 3. _**information about data**_ (also categorised in Table 9 / 5.3.1 as _**metadata**_) - stored facts about the data, such as where it has been stored, who has accessed it, how it was collected, what it means, or when it has been shared externally.
 
-### The Two Distinct Motivations for Human Data Relations
+### The Two Distinct Motivations for Human Data Relations{#7.2.3}
 
 By making this distinction between the two types of information which people might interact with, and considering the six wants in Chapter 6, it becomes clear that there are two very different reasons why people might want better HDR:
 
@@ -130,19 +130,19 @@ The two distinct processes that individuals might go through in pursuit of these
 
 [^19]: The illustrated processes assume reliance on existing data access processes such as GDPR, where the only access is through provision of a copy of one's data. This is in fact, not ideal, as it creates divergent versions and will quickly become out-of-sync, however for the sake of simplicity this inefficiency is ignored here. Improvements upon this approach are explored in [INSERT REF]
 
-#### Life Information Utilisation
+#### Life Information Utilisation{#7.2.3.1}
 
 _**Life Information Utilisation**_ is a superset of _Self Informatics (SI)_ [2.2.3](#2.2.3). It includes all purposes relating to self-monitoring and self-improvement through data, but also includes all other uses of personal data including creative expression, evidence gathering, nostalgia, keeping, and sharing. Many of these desires were expressed in Case Study Two (see [Table 12](#table-12) in [5.3.3](#5.3.3)), and also hinted at in the Early Help context [[4.4.1](#4.4.1)]. While the existence of digitally-encoded information clearly unlocks new possibilities, LIU has existed in some form throughout human civilisation, as seen through analogue processes such as storytelling, journalling, scrapbooking, arts and crafts.
 
 In the LIU context, the most important wants to focus on improving are _data understandability_ (6.1.2) and _data useability<sup>[15](#fn15)</sup>_ (6.1.3), which relate closely to the HDI concepts of _legibility_ and _agency_ respectively.
 
-#### Personal Data Ecosystem Control
+#### Personal Data Ecosystem Control{#7.2.3.2}
 
 Unlike LIU, _**Personal Data Ecosystem Control**_ is an individual need that is new; arising as a result of the emergence of the data-centric world (2.1, 2.2.4). Only when organisations began to collect and store facts about people as a substitute for direct communication and involvement did it become necessary. The more data is collected about individuals, and the more parties collect and share that data, the greater the need for individuals to learn about that data so that they might influence its use (or risk their lives being affected in unexpected or potentially unfair ways). PDEC is a direct response to the power imbalance between data holders and individuals that the World Economic Forum described in 2014 [@wef2014lens;[2.1.2](#2.1.2)].
 
 In the PDEC context, multiple data wants are important: visible data and transparent processes, as well as individual oversight and involvement. For simplicity, the former two wants can be referred to collectively as _"ecosystem transparency"_, and the latter two as _"ecosystem negotiability"_ (drawing on the HDI concept of _negotiability_), and these terms will be used below.
 
-### Four Objectives for Human Data Relations
+### Four Objectives for Human Data Relations{#7.2.4}
 
 ![Figure X: Mapping the Six Wants into Objectives for the HDR Opportunity Landscape](./src/figs/figX-landscape-objectives.jpg)
 
@@ -155,7 +155,7 @@ In order to provide value to future researchers, activists and innovators, this 
 
 As [Figure X](#figure-X) shows, the need for data to be understandable, visible and useable, applies to all types of data, whether that data is interpretable as **life information** (information within the data, that says something about the individual) or **ecosystem information** (information _about_ the data, where it is held and how it is used). These two types of information will collectively be referred to as **human information**, and will be used in describing the HDR landscape in subsequent sections.
 
-### Better Human Data Relations as a Recursive Public
+### Better Human Data Relations as a Recursive Public{#7.2.5}
 
 Before engaging with the practicalities of pursuing these HDR objectives, it is valuable to revisit the stance from which we approach this change. As outlined in 3.2, the research of this PhD has been grounded in participatory action research and experience-centred design; by using a Digital Civics [@vlachokyriakos2016] frame to gain deep understanding of people's needs and the ways those needs are not fully met, we can interpret and model how the world needs to change. Section 3.2 already outlined that we can consider such research as political, seeking to correct an imbalance in the world. In this chapter, we look beyond identifying what change is needed, and step into the role of activist, exploring how individuals and groups can actually change the world they inhabit.
 
@@ -247,13 +247,13 @@ These facets can be mapped back to the 5 W's that collectively make up the user'
 |:-------------------------------------------------------------------------|
 | Metadata is what gives information _context_, which is critical to sensemaking [[2.2.3](#2.2.3)] and enables good experience-centred design [[2.3.2](#2.3.2), [2.3.3](#2.3.3)]. Without context, data loses meaning (as observed by a participant in Case Study Two [[5.4.3.1](#5.4.3.1)]). Collecting historical data about the individual is important from an SI reflection perspective [[2.2.3](#2.2.3)]), but knowing the **history of a piece of data** is vital to understanding its nature and context. Data is not neutral and in fact is inherently biased, since it was created for a specific purpose with a specific agenda in mind [@gitelman2013; @neff2013]. To address this, more context is clearly needed, Significant research in this space has been undertaken by Professors Mike Martin and Rob Wilson at Northumbria University, formerly Newcastle University, who promote the idea of **_data with provenance_**; in other words that **data must carry with it the details of why it exists, how it came to be, and what has happened to it since its inception**, and that provenance must be communicated alongside any visualisation of the data, in order for it to be fairly assessed through full understanding of its context. Provenance is essential for data to be trusted, argues Martin, and should be quite granular: a piece of data should be attributed not just to an individual or organisation, but to the relationship between role-holding individuals in a specific context, and greater insights can be gained when **considering all actions upon data as motivated communications from one party to another**; only by capturing this information in-situ can the data be fully appreciated [@martinWP]. This framing essentially advances the concept of history tracking into the sociotechnical, ecosystem-aware problem space this section is addressing. While everyday system designs have not approached this level of granularity, the importance of data provenance has been recognised in the PIM space: As described in [2.2.2](#2.2.2), temporal PIM systems, from Lifestreams [@freeman1996] to activity streams [@hartdavidson2012] rely upon data provenance in some form. A study by Jensen _et al._ concluded that provenance tracking can be valuable for identifying related documents, a critical part of knowledge work today [@jensen2010]. Odom, Lindley and colleagues proposed the idea of file biographies, which view the lifetime of a file as something that should remain connected, and can be traversed in order to understand the context of the file at its different interaction points [@lindley2018]. This comes close to Martin's vision but does not capture the motivation for each interaction. While provenance capture is not a solution in its own right to the understanding of data and of ecosystems, it is clear that data with provenance is very likely to be a valuable part of any design that aims to help individuals with managing to get an overview of their complex and invisible personal data ecosystems.|
 
-What we can see in this section is that by paying attention to Ecosystem Information, Metadata and Provenance, we can open up a new space that, at the time of writing in 2022, almost no-one is building for. For people to manage their digital world, they need a map. This is the first step on the road to giving individuals the ability to have oversight of their personal data ecosystem and take action within it.
+What we can see in this section is that by paying attention to ecosystem information, metadata and provenance, we can open up a new space that, at the time of writing in 2022, almost no-one is building for. For people to manage their digital world, they need a map. This is the first step on the road to giving individuals the ability to have oversight of their personal data ecosystem and take action within it.
 
 ### Obstacles to the HDR Objective of Ecosystem Negotiability{#objective-4}
 
 This section explains three distinct obstacles to ecosystem negotiability: the intristric structures that give data holders power, the trend of actively diminishing user agency, and the intractable data self.
 
-#### Hegemony through Data Holding{#7.3.4-hegemony .unnumbered}
+#### Hegemony through Data Holding{#7.3.4.1}
 
 It is in the pursuit of individual oversight [[6.2.2](#6.2.2)] and decision-making involvement [[6.2.3](#6.2.3)] that the impact of the power imbalance between data holders and individuals [[2.1.2](#2.1.2)] becomes most clear; unlike the other HDR objectives, **individuals cannot act to claim ecosystem negotiability for themselves**. Negotiability means having the power to act, and in the context of systems and interfaces owned and designed by service providers that **power can only be given**. The hegemony of data holders is therefore is the greatest obstacle to this objective, so it is vital to examine the nature of that power - where does it come from?
 
@@ -299,7 +299,7 @@ Looking deeper into theories of power reveals that structural power is not the o
 
 [TODO make this an inset box not a table]
 
-#### The Ever-Diminishing Agency of Platform Users{#7.3.4-agency .unnumbered}
+#### The Ever-Diminishing Agency of Platform Users{#7.3.4.2 .unnumbered}
 
 The second major obstacle to the objective of ecosystem negotiability we must recognise, is that the above processes of platformisation and power exertion are not a one-off transition, but rather an ongoing process which has not ended. There is **a continuing trend of actively diminishing individuals' agency**, especially evident in the last decade. When software was sold in a box, manufacturers competed based upon which product would let the user take home the greatest range of features and capabilities. New releases with new features drove new product sales. But in the cloud computing era, a smaller set of core features done well is sufficient to guarantee an ongoing subscription revenue from a user. Cost savings in development and support costs can be made by reducing feature sets. Constrained, compliant users are easier to manage. The relentless pursuit of increased profits and further cost saving sees products lose, not gain, features. Interfaces are reshaped to serve businesses’ interests first and foremost. As described in [2.3.5](#2.3.5), the primary concern is about making user behaviours constrained, predictable and profitable, rather than meeting their needs or providing maximal value. Plantin _et al._ describe the particular harmful influence on the ecosystem of Facebook's power exertions: _"Facebook is a formidable force in a profit-motivated platformisation which is beginning to eat away at the Open Web.  This entails moving away from published URIs and open HTTP transactions in favor of closed apps that undertake hidden transactions with Facebook through a Facebook-controlled API."_ [@plantin2018]
 
@@ -315,7 +315,7 @@ Here are just a few examples of the ways in which users' agency has been, and co
 
 Unchecked, it is clear that trends to reduce users’ agency and further providers’ interests will continue, Therefore this trend to diminish users' agency is a particular obstacle that would need to explicitly targeted if data interfaces are to become more free-flowing [@bowyer2018freedata], and if the objective of ecosystem negotiability is to be realised. Somehow, the trend needs to be halted, before it can be reversed. Judging by the TikTok example, perhaps only regulatory changes can force such a change.
 
-#### The Intractable Data Self{#7.3.4-dataself .unnumbered}
+#### The Intractable Data Self{#7.3.4.3 .unnumbered}
 
 The third and final obstacle I have identified to the objective of ecosystem negotiability is **the intractable data self**. As identified in the pilot study [@bowyer2018family], and in Case Study Two [[5.4.4.1](#5.4.4.1)] data about individuals serves as their proxy. It serves as their data self, and if it is incomplete, inaccurate or unfair, which is highly likely given the difficulties of representing people in data [@cornford2013; @martin2007], this can cause harm [@bowyer2018family] or undermine attempts to help individuals [@cornford2013]. Yet currently, although some legal rights to data correction exist [@ico2018], people lack practical abilities to modify or assert control over the most important version of themselves as far as providers are concerned: the version of them that exists in data. Even when data can be seen (such as via a support worker or GDPR data access requests) **people lack the ability to exert influence over their data self** [[5.5.2](#5.5.2); @cornford2013]. To address this obstacle, the most likely direction would be to explore possibilities by which people could take a role in the curation of their data self, as both Case Studies have proposed [[4.4.3](#4.4.3); [5.5.2](#5.5.2)] and [6.3](#6.3) have proposed.
 
@@ -347,7 +347,7 @@ Today, data is overwhelming, complex, and ‘sounds boring’. There is no denyi
 
 [TODO make this inset box not a table, images appear in box]
 
-The kind of life-spanning, unifying interfaces described in the insight above are nothing like the interfaces that are built today, as they span across different providers' data and services. This highlights the secondary obstacle that all HDR system builders will face, whichever objective they wish to target: **closed, self-interested organisations with a lack of interoperability**. Building an HDR system will necessarily involve connecting to systems of different providers that have different touchpoints into an individual's life and world. Yet most companies act in closed, introspective and non-cooperative ways to further their own interest. Companies like Apple, Amazon, Microsoft, Facebook and Google (the so-called 'big five') build **proprietary, incompatible silos** or 'walled gardens' -- sub-Internets that pretend that the alternatives do not even exist, in order to encourage a flow of money and attention to their own products and services. Commercial motives encourage them to get users to spend time in their own proprietary spaces (so that resultant ad revenue can be captured) and in order to maintain subscription revenues it is in providers’ interests to make it hard for individuals to leave or switch providers. In effect, providers build for a world that does not exist, where **every individual is imagined to only interact with that single company’s interfaces**. I would argue, for example, that Google's venture into social networking with Google+ did not succeed because it failed to build for a reality where most people and their friends were already on Facebook. But one can understand their motives; there is little incentive to open up the ecosystem when the free flow of information and of users might result in loss of income for the company in question. Users with negotiability would be more able to leave. And this also encourages keeping users in the dark [[5.4.2](5.4.2)]. The less agency and negotiability that users have, the more freedom the provider has to do exactly what they want with their data. In this context, users are _'pathetic dots'_ [@lessig2000] or _'docile bodies'_ [@foucault1975].
+The kind of life-spanning, unifying interfaces described in the insight above are nothing like the interfaces that are built today, as they span across different providers' data and services. This highlights the secondary obstacle that all HDR system builders will face, whichever objective they wish to target: **closed, self-interested organisations with a lack of interoperability**. Building an HDR system will necessarily involve connecting to systems of different providers that have different touchpoints into an individual's life and world. Yet most companies act in closed, introspective and non-cooperative ways to further their own interest. Companies like Apple, Amazon, Microsoft, Facebook and Google (the so-called _'big five'_) build **proprietary, incompatible silos** or _'walled gardens'_ -- sub-Internets that pretend that the alternatives do not even exist, in order to encourage a flow of money and attention to their own products and services. Commercial motives encourage them to get users to spend time in their own proprietary spaces (so that resultant ad revenue can be captured) and in order to maintain subscription revenues it is in providers’ interests to make it hard for individuals to leave or switch providers. In effect, providers build for a world that does not exist, where **every individual is imagined to only interact with that single company’s interfaces**. I would argue, for example, that Google's venture into social networking with Google+ did not succeed because it failed to build for a reality where most people and their friends were already on Facebook. But one can understand their motives; there is little incentive to open up the ecosystem when the free flow of information and of users might result in loss of income for the company in question. Users with negotiability would be more able to leave. And this also encourages keeping users in the dark [[5.4.2](5.4.2)]. The less agency and negotiability that users have, the more freedom the provider has to do exactly what they want with their data. In this context, users are _'pathetic dots'_ [@lessig2000] or _'docile bodies'_ [@foucault1975].
 
 The tendency of organisations to work in closed, introspective practices and to be resistant to opening up data or services is not solely motivated by commercial reasons: the public sector has a vastly complex, closed and fragmented ecosystem [@pollock2011; @copeland2015; [4.1.2](#4.1.2)]. Efforts to build a system to share health data with support workers for the SILVER project [[7.1.1](#7.1.1)] proved hugely challenging. Sometimes the challenge was a more technical one - incompatiable data formats that are hard to reconcile, or data being stored in legacy systems with no public API that would allow programmatic access to that data, or issues around licensing. Data sharing agreements must be established, especially in the public sector which is by its nature more liable to scrutiny and accountability. But more than these technical or procedural issues there was resistance to change in data processes and an unwillingness to share data between agencies, often motivated by a fear of legal repercussions. **Data-centricism encourages insular thinking**: it encourages organisations to codify the world into their own systems, processes and formats for their own use.
 
@@ -394,7 +394,7 @@ These trajectories for change could be supported or pursued in many different wa
   - participation in open data, PDE, civic hacking or MyData communities; or even
   - individual self-experimentation with HDR tools, rights and capabilities.
 
-### A Primer on Theories of Change (ToC)
+### A Primer on Theories of Change (ToC){#7.4.1}
 
 To provide a structure for cataloguing the insights conveyed by this section, I use a _Theory of Change (ToC)_ framing. ToC is a set of methodologies is commonly used by philanthropists, educators and those trying to improve the lives of disadvantaged populations [@brest2010]; the theories can be used in different ways including planning, participatory design and field evaluation of the effectiveness of new initiatives. There are many different implementations, but common to most of them is a focus on explicitly mapping out desired outcomes [@taplin2012] with a clear focus on who is acting and whether the change being brought about is a change in action, or a change in thinking [@vanEs2015]. In this section, ToC theory will be used in a very limited way, not as a methodology but simply to provide a structural frame for proposed changes, as described below. Using ToC to perform evaluation of the effectiveness of proposed change approaches in action in society would be well beyond the scope of this thesis. Nonetheless, this frame is a useful way to map out the different approaches to changing the world in pursuit of the ideal of better HDR.
 
@@ -486,7 +486,7 @@ The approach to HDR reform presented in this section focuses on the gaps in indi
 
 ![Figure X: A conceptual model for a Personal Data Store system that I developed for the BBC Cornmarket project](./src/figs/figX-conceptual-PDS.png)
 
-#### Designing a Life Interface: Transforming Data into Life Information{#7.4.3-life-information .unnumbered}
+#### Designing a Life Interface: Transforming Data into Life Information{#7.4.3.1}
 
 The first challenge in designing such as a system is to consider what data will be stored, and how it might be represented. At a high level, I identified a number of different types of data that a user might wish to store in a PDS:
 
@@ -504,7 +504,7 @@ Having decided upon models for the information within a PDS, it becomes much eas
 
 ![Figure X: Mockup of Life Information presented in a PDS interface, designed by Alex Ballantyne of BBC R&D](./src/figs/figX-dashboard-concept.png)
 
-#### Life Partitioning  {#7.4.3-life-partitioning .unnumbered}
+#### Life Partitioning{#7.4.3.2}
 
 What has been shown in Figure X is the beginnings of imagining what a _life interface_ might look like, a single holistic interface covering all aspects of one's digital life.
 
@@ -522,7 +522,7 @@ We then produced a mock app workflow for assigning different elements of your li
 
 ![Figure X: Browsing By Areas of Life](./src/figs/figX-browse-by-areas-of-life.jpg)
 
-#### Entity Extraction from Pooled Life Data{#7.4.3-entity-extraction .unnumbered}
+#### Entity Extraction from Pooled Life Data{#7.4.3.3}
 
 | INSIGHT 11: Automating the Identification of Entities can enhance Machine Understanding and Unburden Life Interface Users. |{#insight-11}
 | :------------------------------------------------------------------ |
@@ -544,7 +544,7 @@ Automatic 'best guess' attempts to arrange personal data in a PDS can go further
 
 ![Figure X: Identifying the attributes of data](./src/figs/figX-interpreting-data-as-information.jpg)
 
-#### Designing Capabilities for the Manipulation of Life Information{#7.4.3-capabilities .unnumbered}
+#### Designing Capabilities for the Manipulation of Life Information{#7.4.3.4}
 
 Moving beyond the initial challenge of classifying and arranging human information within a _life interface_, a core consideration in designing such an interface is to consider what capabilities the user might be given over the pieces of life information represented in the interface. It is through the provision of a wide range of useful operations upon information items that the information will start to feel like _a material_ as described in [Insight 3](#insight-3) and deliver the _new capabilities_ needed for success [Insight 7](#insight-7).
 
@@ -577,7 +577,7 @@ Once information has been correctly identified semantically (using approaches su
 
 ![Figure X: Taxonomies For Navigation](./src/figs/figX-taxonomies-for-navigation.png)
 
-#### Digital Self Curation & Inclusive Data Flows{#7.4.3-digitalself .unnumbered}
+#### Digital Self Curation & Inclusive Data Flows{#7.4.3.5}
 
 A final element of Approach 2, which, unlike the previous subsections, has a broader focus than just the creation of an effective life interface because it has sociotechnical/business process design implications too, aims to address the problem identified in [7.3.4](#7.3.4-digitalself) - the intractable data self. Drawing upon the philosophy behind VRM [[2.3.4](#2.3.4)], we can imagine (as implied by both Case Studies [[4.3.3.4](#4.3.3.4); [5.5.2](#5.5.2)]) that were individuals able to **create or contribute to the digital representation of themselves in data**, that this would be more accurate. Furthermore, this would provide an opportunity to address the identified HDR want of _involvement_ [[6.2.3](#6.2.3)]. In the BBC Cornmarket project, this was explored through the concept of recommendations. Functional interfaces were built which allowed users to construct and edit a representation of their own musical/media tastes known as a _'media profile'_, using personal data such as viewing/listening history imported from multiple sources as inputs. This profile would then be used to recommend new content, which would be likely to be better suited to the individual's tastes since it would be based on a more accurate representation of self. This aspect of the Cornmarket project [@orphanides2021] is not only a practical manifestation of the ideas of pull-centric/VRM approaches, but is also illustrative of a new way of thinking about personal data, where it can be **directly generated (or edited/fixed) by the individual**, rather than just asserted on inferred by the service provider without verification. Such thinking could be expanded further to accommodate the idea that data is not static. Once we make the mindset shift from data as a static bundle of facts to **data as an ever-changing flow or _stream_** [[2.2.5](#2.2.5); [4.3.3.3](#4.3.3.3); [6.2.2](#6.2.2)], it becomes much easier to think about how processes and interfaces might be updated to give users a direct role in the evolution and shaping of that data. This also makes it easier to maintain knowledge of data's provenance [[Insight 5](#insight-5)]. Such _**'inclusive data flows'**_ and processes could yield benefits for users in terms of increased ecosystem negotiability [Objective 4](#objective-4), but also for businesses, as will be explored in [Approach 4](#approach-4).
 
