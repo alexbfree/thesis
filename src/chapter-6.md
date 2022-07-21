@@ -1,5 +1,5 @@
-Discussion I: An Understanding of Human Data Relations {#chapter-6}
-=======================
+Discussion I: An Understanding of Human Data Relations{#chapter-6}
+======================================================
 
 > _"For a participatory system to work, you need: a plausible promise, an effective tool, and an acceptable bargain."_<br/> -- Clay Shirky (author and journalist focused on the social and economic effects of Internet technologies)
 
@@ -137,7 +137,7 @@ As early as 1980, when the world was less data-centric, it was already recognise
 
 **Without involvement, people cannot take a full and equitable role in processes that affect their life.** When data is used by organisations, this inherently serves as a proxy for their involvement [@bowyer2018family; 5.4.4.1]. People have consequently lost control and agency [@crabtree2016], creating a crisis of trust and a power imbalance [@wef2014lens; @wef2014context]. Exclusion from data handling and decision-making inevitably reinforces a hierarchy, with the individual destined to have less say and influence over services that affect their daily lives. Taken together, an ongoing involvement with the data held by service providers and the processes that use that data would change indirect data interaction (6.2) into direct data interaction (6.1) and transform the individual experience of service use. Of course such a shift is difficult and constly to offer, for both small and large companies -- the data-centric world emerged in part as a means to reduce costly human interactions and facilitate large-scale scaling up to serve larger user bases -- but what we see suggests that the balance has tipped too far towards exclusion of individuals, and that giving them even a limited role in reviewing data, consenting and contributing to decisions, and just being informed, could carry significant benefits for both individual empowerment and organisational reputation, and trust.
 
-Achieving Individual Empowerment
+Achieving Individual Empowerment{#6.3}
 --------------------------------
 [TODO: Update these three sections so that they properly frame this chapter as an answer to RQ1 and RQ2 and as looking towards 'better Human Data Relations']
 
