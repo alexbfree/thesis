@@ -39,6 +39,7 @@ Index of Key Ideas, Insights and Contributions {.unnumbered}
 * **Human Data Relations** - [ADD SECTIONREF]
 * **Human Information Operating System** - [ADD SECTIONREF]
 * **Human Information** - see Life Information and Ecosystem Information
+* **Inclusive Data Flows** - [ADD SECTIONREF]
 * **Landscape of HDR Opportunity** - [ADD SECTIONREF]
 * **Life Concepts** - [ADD SECTIONREF]
 * **Life Information Utilisation** - [ADD SECTIONREF]
@@ -168,7 +169,7 @@ Glossary of Pre-Existing Abbreviations, Names and Terms {#glossary .unnumbered}
 * **Effective Access** -
 * **Embodied Interaction** -
 * **Entities** -
-* **Faceted Search** - 
+* **Faceted Search** -
 * **Entity Extraction** -
 * **File Biography** -
 * **Files, why they need to die** -
