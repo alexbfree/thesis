@@ -197,3 +197,12 @@ Data Useability
 
 Ecosystem transparency
 Ecosystem Negotiability
+
+
+
+APple bit c7
+
+[CUT Such thinking is manifested in their hardware design too: phones that cannot be opened up, expanded or repaired; the removal of accessory ports, disk drives, and headphone jacks; increased controls over what can be installed on users' hard drives and which areas of disk can be modified. These changes simplify the technology and bring it to a more mainstream audience - something that iPhone and iPad designers must be given due credit for - but it happens at the cost of reducing user agency. ]
+
+
+- MAIN POINT: That it is not just about Positive Change, there must also be Defensive Action, in the face of the active erosion of user autonomy (backref above diminishing agency). That this is an avenue of activist and grassroots work in its own right.

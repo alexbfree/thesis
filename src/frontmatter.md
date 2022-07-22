@@ -45,7 +45,7 @@ Index of Key Ideas, Insights and Contributions {.unnumbered}
 * **Life Concepts** - [ADD SECTIONREF]
 * **Life Information Utilisation** - [ADD SECTIONREF]
 * **Life Information** - [ADD SECTIONREF]
-* **Life Interface** - [ADD SECTIONREF]
+* **Life Interface Design** - [ADD SECTIONREF]
 * **Life Partitioning** - [ADD SECTIONREF]
 * **Locus of Decision-making** - [ADD SECTIONREF]
 * **Perceived Individual Power** - [ADD SECTIONREF]
@@ -53,8 +53,10 @@ Index of Key Ideas, Insights and Contributions {.unnumbered}
 * **Personal Data Ecosystem Control** - [ADD SECTIONREF]
 * **Personal Data as a Proxy for Involvement** - [ADD SECTIONREF]
 * **Personal Data Stewardship** - [ADD SECTIONREF]
+* **Pushing the Seams** - [ADD SECTIONREF]
 * **Proxy Representations of Immobile Data** - [ADD SECTIONREF]
 * **Shared Data Interaction** - [ADD SECTIONREF]
+* **Surface Information Injustices** - [ADD SECTIONREF]
 * **Storyboarding Cards** - [ADD SECTIONREF]
 * **Trust in Providers, effects upon** - [ADD SECTIONREF]
 * **Types of Personal Data (by origin)** - [ADD SECTIONREF]
@@ -130,6 +132,7 @@ Glossary of Pre-Existing Abbreviations, Names and Terms {#glossary .unnumbered}
 
 * **Action (stage of Personal Informatics)** - see SI
 * **Action Research** -
+* **Accessibility Tags (ARIA)** -
 * **Activism** -
 * **Agency** -
 * **BBC R&D** -
@@ -166,7 +169,7 @@ Glossary of Pre-Existing Abbreviations, Names and Terms {#glossary .unnumbered}
 * **Design, Experience-centred** -
 * **Design, User-centred Design** -
 * **Design, Value-centred Design** -
-* **Device Tenancy** - 
+* **Device Tenancy** -
 * **Digital Civics** -
 * **Digital Self** - see Data Self
 * **DIKW pyramid** -
@@ -262,6 +265,7 @@ Glossary of Pre-Existing Abbreviations, Names and Terms {#glossary .unnumbered}
 * **Text Mining** -
 * **ToC - Theories of Change** -
 * **Timelines** -
+* **TrackerControl** - see Data Flow Auditing.
 * **Troubled Families** -
 * **VRM - Vendor Relationship Management** -
 * **Web Augmentation** -
