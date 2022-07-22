@@ -307,6 +307,7 @@ Here are just a few examples of the ways in which users' agency has been, and co
 
 - Facebook closed their RSS feeds, and later parts of their APIs, meaning that users could no longer consume their friends' posts in any other environment than the ad-filled and manipulated Facebook main feed. Later they removed features such as friend-list feeds and favorite-page feeds, removing users' ability to compartmentalise their content viewing or focus on certain friends. The ‘Friends’ page on Facebook currently shows a list of recommended new friends; to access your current friend list requires an extra click. Encouraging users to grow their networks is prioritised over user convenience.
 - Twitter closed the parts of its APIs that allowed real-time notifications and access to one's home feed, killing off primary functionality for a healthy ecosystem of third party Twitter clients that gave users choice [@newton2018]. TweetDeck, a major third party Twitter client was acquired, and later shut down, as was Twitter's own desktop client. Eventually, the only option left to users was to use the web interface. [@gayomali2015; @hatmaker2018; @siegal2022]
+- Apple has been diminishing users' agency for a long time. Users cannot open up iPhones even to change the battery without invalidating their warranty. Apple have removed disk drives, headphone ports, SD card slots and other ports. Certain parts of the hard drive on macOS devices are now read-only and unwritable by users.
 - Facebook recently announced that they will no longer store users' historical location data (though they will still use location unformation) [@pegoraro2022]. This means that users will lose the capability to access historical location records, but also this makes it harder for users to see how their location data will be used in future, as there will be no historical log to examine. This shows that data-centric companies can change their practices to limit agency and reduce accountability too.
 - Online news and discussion site Reddit has removed access to content for non-logged in users, and uses deceptive techniques to present advertisements that look like posts from users and to discourage users from appearing offline. These patterns have been described as _'disrespectful design'_ [@regoje2021].
 - In an example from the public sector, through my work on the SILVER project [[3.4.1.1](#3.4.1.1)] just prior to the introduction of the GDPR in 2018, I heard whispers in at least one local authority of plans to 'shift from getting data collection consent from supported families towards simply informing them of our practices' (in other words, removing their choice). This shows that the instinct to further organisational interests over those of the individual is not limited to commercial data holders.
@@ -588,69 +589,54 @@ The future-centric designs and insights[^22] I have presented as part of Approac
 
 [TODO diagram: taking external *protective* action as collectives, surfacing, challenging, pushing for better enforcement of existing regulation]
 
-While [Approach 2](#approach-2) focuses on designing a better future, and [Approach 1](#approach-1) focuses on identifying and campaigning for positive changes in provider practices, there is a need for a more direct approach to tackle an urgent and evident problem head on: the active diminishing of users' agency [[7.3.4.2](#7.3.4.2)]. In pursuit of mass market appeal and cost reduction, there is a trend towards the _dumbing down_ of technology, which invariably leads to fewer features and less agency. Companies like Apple increasingly encourage users to think of technology as a black box, which you cannot and should not look inside, as illustrated in Figure X:
+While [Approach 2](#approach-2) focuses on designing a better future, and [Approach 1](#approach-1) focuses on identifying and campaigning for positive changes in provider practices, there is a need for a more direct approach to tackle an urgent and evident problem head on: the active diminishing of users' agency [[7.3.4.2](#7.3.4.2)]. In pursuit of mass market appeal and cost reduction, there is a trend towards the _dumbing down_ of technology, which invariably leads to fewer features and less agency. Increasingly, companies encourage users to think of technology as a black box, which you cannot and should not look inside, as illustrated in Figure X:
 
 ![Figure X: The 'Black Box' view that many modern technology providers present](./src/figs/figX-black-box.png)
 
-This disempowering trend is seen across hardware, software and service industries, where providers attempt to **restrict the ways in which technology can be used** even after it has been purchased - cars that can only be serviced by official dealers, printers that can only use officially branded ink cartridges, smartphones that cannot be repaired without special tools and warranty invalidation, media files that cannot be copied or shared, operating systems that block or discourage certain software from running, applications that forbid screenshots. In order to challenge these changes and **protect individual autonomy** and our ability to make sound judgements and hold organisations to account, direct activism and grassroots civic action is called for. This forms the core objective of this approach: to **identify ways in which agency is being diminished**, and to find ways to **circumvent the new barriers** in order to maintain existing levels of capability.
+This disempowering trend is seen across hardware, software and service industries, where providers attempt to **restrict the ways in which technology can be used** even after it has been purchased - cars that can only be serviced by official dealers, printers that can only use officially branded ink cartridges, smartphones that cannot be repaired without special tools and warranty invalidation, media files that cannot be copied or shared, operating systems that block or discourage certain software from running, applications that forbid screenshots. Apple, for example, encourages users to consider technology as 'magical', rather than as tools to be harnessed and understood. This approach is highly problematic for user agency:
 
-It is bad enough when a particular technology blocks you from doing what you want to do, but the trend is even worse when viewed at a broader level: As the digipower investigation highlighted [[Insight 6](#insight-6)], the information landscape that we inhabit as digital citizens is being manipulated to **change what we see, what we understand of the world, and what we can do, in order to manipulate our behaviour**. Therefore a further goal here is to protect our ability to **experience unbiased and unmanipulated information landscapes**. Shah and Bender examine the ways in which search results are a landscape which is becoming untrustworthy, and consider how this landscape could be protected and accountability preserved. They describe their approach as establishing _**'guardrails for the status quo'**_, and I find this phrase to be an excellent summary of what Approach 3 is trying to do [@shah2022].
+> _"Magical design prioritises pleasing and surprising a passive user who can only use the solution as authorised."_ -- Cristiano Storni [@storni2014]
 
+In order to challenge this trend towards disempowered, compliant users and **protect individual autonomy** and our ability to make sound judgements and hold organisations to account, direct activism and grassroots civic action is called for. This forms the core objective of this approach: to **identify ways in which agency is being diminished**, and to find ways to **circumvent the new barriers** in order to maintain existing levels of capability.
 
-chrome will stop extensions
+It is bad enough when a particular technology blocks you from doing what you want to do, but the trend is even worse when viewed at a broader level: As the digipower investigation highlighted [[Insight 6](#insight-6)], the information landscape that we inhabit as digital citizens is being manipulated to **change what we see, what we understand of the world, and what we can do, in order to manipulate our behaviour**, which can have harmful effects on democracy, agency and individual autonomy. Therefore a further goal here is to protect our ability to **experience unbiased and unmanipulated information landscapes**.
+A recent US Congress investigation shows how the big five use their dominant positions as device manufacturers, search engines or major Internet platforms to promote their own interests [@sisco2022]. In a paper looking at the growing manipulation of search results, Shah and Bender consider how this landscape could be protected and accountability preserved. They describe their approach as establishing _**'guardrails for the status quo'**_, and I find this phrase to be an excellent summary of what Approach 3 is trying to do [@shah2022]. We can also take this idea further through the idea of _**adversarial design**_ [@disalvo2012] which advocated **using design processes to challenge the status quo**. To understand how to gain traction here and carry out _**'design after design'**_ [@storni2014], it is important to understand the concept of _**seams**_, which are explained in Insight 12.
 
-that is the central object
-
-
-:
-Shah, situating search - guardrails for the status quo
-
-
-
-Groups of HDR reformers can combine development skills, innovation and disruptive design approaches to find and publicise new ways to circumvent providers' efforts to control and limit their users' agency, as illustrated by the use of web scrapers and web augmentation approaches to try and obtain information or functionality from providers that would otherwise be inaccessible.
-[also mention device tenancy (zeynep) and firefox containers/taking back power in the browser/browser as seam (reference Goffe et al)]
-
-- MAIN POINT: That it is not just about Positive Change, there must also be Defensive Action, in the face of the active erosion of user autonomy (backref above diminishing agency). That this is an avenue of activist and grassroots work in its own right.
-- some kinda visual?
-- LITREF guard rails for the status quo
-
-| INSIGHT 12: The 'Seams' of Digital Services need to be identified, exploited and protected. |{#insight-12}
+| INSIGHT 12: The 'Seams' of Digital Services need to be Identified, Exploited and Protected. |{#insight-12}
 | :------------------------------------------------------------------------ |
-| By identifying, exploiting and protecting the seams of digital services and devices, user autonomy and the viability of data-unification efforts can be protected.
-| Apple, for example, encourages users to consider technology as 'magical', rather than as tools to be harnessed and understood; Such thinking is manifested in their hardware design too: phones that cannot be opened up, expanded or repaired; the removal of accessory ports, disk drives, and headphone jacks; increased controls over what can be installed on users' hard drives and which areas of disk can be modified. These changes simplify the technology and bring it to a more mainstream audience - something that iPhone and iPad designers must be given due credit for - but it happens at the cost of reducing user agency.
-[TODO rephrase this para as a better introduction to Seams]
-An important concept to understand in this space is that of **_seams_**. In 'The Politics of Seams' Storni outlines that current designs are incompatible with empowerment-in-use, and highlights the role of design seams (and their removal) as being a key determiner of user power [REF]. He says that the designer passes some power to the user through their design, but also, that users should be able to take some power on their own terms (repurposing etc). He talks [says what] about the problems of technology as magic/design as conjuring:
+| As we have already identified [[7.3.4.1](#7.3.4.1)] product design (be it hardware or software) is political. Designers pass some power to the user through their design, but also, users should be able to take some power on their own terms. This is the case made by Cristiano Storni in his 2014 paper on _'the politics of seams'_, Cristiano Storni identified the idea of _**'empowerment-in-use'**_ which advocates the idea that people need to appropriate their technologies to different users that the designers may not have foreseen [@storni2014], something that current black box, limit-what-the-user-can-do thinking blocks. Central to this capability is the concept of _**seams**_ - those **exposed areas which the user is free to change** . This concept was proposed by Mark Weiser and developed by Chalmers and others [@weiser1994; @weiser1997; @chalmers2003]. The changes such as closures of APIs or removal of ports as described in [7.3.4.2](#7.3.4.2) can be seem as the removal of seams. As Storni highlights, the availability of design seams is a **critical determiner of user power**, and companies gain power and reduce agency when they remove those seams. It follows therefore that by identifying, exploiting and protecting the seams of digital services and devices, user autonomy and the viability of data-unification efforts can be protected.|
+| **An unseen battle is for the free flow of information is underway** at the seams of today's digital products. Hackers, civic activists and makers seek to repurpose and exploit the edges of products for their own means, while digital service providers and platforms try to block such activity. For example: |
+|  - A successful tool called Findings allowed people to clip and share their favourite quotes from Kindle books. Amazon blocked and banned this tool, and the company shut down [@hazardOwen2012; @maldre2012].
+|  - Louis Barclay created a tool called Unfollow Everything, which allowed Facebook users to automatically unfollow all friends and pages, in order to give them greater control of their News Feed reading experience and avoid being manipulated into reading more than they want to. He was banned for life from Facebook and threatened with legal action should he ever build any tools that manipulated the Facebook experience [@barclay2021]. |
+| - Various activist groups have for several years been fighting to give individuals the legal _**right to repair**_ their own products [@miller2021], which has often been blocked through planned obsolence, inaccessible seams or restricting access to parts. The problem has been described as _**device tenancy**_, the idea that our relationship with our technology products is more like a tenant, where a landlord retains overall control and permits us to perform certain activities [@tufecki2019]. New laws have been introduced in the EU [@tett2022], forcing companies to support individuals to repair their devices. Apple has subsequently released self-service repair kits, though these themselves force parts to be paired with particular phones, limiting the utility of self-repair [@mooreColyer2022]. |
+| - As detailed in my co-authored paper with Louis Goffe and colleagues [@goffe2021; @goffe2022], _**web augmentation**_ offers a powerful technique for modifying web experiences and repurposing user interfaces. This is because once a website is loaded into your browser, it is no longer under the control of the remote site, and by creating a _web extension_ to run code within your local web browser that loaded website can be edited, _scraped_ [@p2021], or otherwise repurposed. This has been successfully used to stop clickbait, dispute fake news, combat addiction, filter explicit words and more. However, Google has announced changes to the way Chrome extensions will work, which will 'stifle innovation' and limit what developers can do within the web extension [@miagkov2019]. |
+| - screenreader
+ND the blocking of accessibility readers and mention my own expereince too.
+ |
+| - - seam hacking example: https://www.theverge.com/2016/2/1/10872792/facebook-interests-ranked-preferred-audience-size
 
-> _"Magical design prioritises pleasing and surprising a passive user who can only use the solution as authorised"_ -- Cristiano Storni [@storni2014]
+| - right to fair programs (kollnig et al https://arxiv.org/pdf/2102.11819.pdf )
+- |
 
-Therefore part of what we need to be doing is (a) highlight and (b) removing seams/creating new seams between disconnected parts....
-
-|
-| .... |
+(contextualise the examples and wrap up the insight)
 
 [TODO make this an inset box not a table]
 
-favouring own products
-https://www.politico.com/news/2022/07/19/documents-antitrust-case-google-amazon-00046522
+(importance of visibility). - REALWORLD REF Frances Augen, Snowden, Assange.whistleblowers. but also can do this within interfaces. Build the features that should be there with a big "we can't do this because X won't let us"
 
-- Black Box diagram
-- LITREF Storni magical design
-- An unseen battle for the free flow of information is ongoing.  (data separation from services)
-- DERC REF Seams, JustEat etc. Facebook example. That guy who got banned from Facebook for letting people read their Facebook feed in a different way AND the blocking of accessibility readers and Chrome getting reinvented List of bullets
-- DERCREF the opportunity of scrapers & webaug
-- seam hacking example: https://www.theverge.com/2016/2/1/10872792/facebook-interests-ranked-preferred-audience-size
-- LITREF right to repair
-- right to fair programs (kollnig et al https://arxiv.org/pdf/2102.11819.pdf )
-- SUBPOINT Surface Information Injustices.
-- REALWORLD REF Frances Augen, Snowden, Assange.whistleblowers. but also can do this within interfaces. Build the features that should be there with a big "we can't do this because X won't let us"
+(tie back to the separation of data from services)
+Therefore part of what we need to be doing is (a) highlight and (b) removing seams/creating new seams between disconnected parts....
+Groups of HDR reformers can combine development skills, innovation and disruptive design approaches to find and publicise new ways to circumvent providers' efforts to control and limit their users' agency, as illustrated by the use of web scrapers and web augmentation approaches to try and obtain information or functionality from providers that would otherwise be inaccessible.
+
+
+(can help but not enough)
 - SUBPOINT promoting and developing standards, and better regulations
 - OUTREF guidelines [GDPR guidelines I fed back on]
 - OUTREF new European laws, DSA etc, to regulate the landscape
 ref back to end of C5, for policymakers
+
+
 - ENDING: Seizing and holding the powers we are given and never giving them up. The price of freedom is eternal vigilance
-- OUTWORLD ref cars
-- OUTWORLD REF Apple
-- OUTREF Ad blockers > Brave > facebook containers.
 
 ### Approach 4 to Improving HDR: Winning Hearts and Minds: Teaching, Championing and Selling the Vision{#approach-4}
 
@@ -681,6 +667,7 @@ empowering individuals as investigators. Tools to map their own ecosystems and u
 Thesis Conclusion
 -----------------
 - frame this chapter as a call to arms
+- emphasise the practical nature of this chapter
 - recap HDR field as contribution
 - recap the findings of the thesis and the map of the landscape
 - recap the obstacles, insights and opportunities

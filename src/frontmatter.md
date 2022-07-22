@@ -160,10 +160,13 @@ Glossary of Pre-Existing Abbreviations, Names and Terms {#glossary .unnumbered}
 * **Data, Volunteered** -
 * **Data, Trapped** -
 * **DERC** -
+* **Design, Adversarial** -
+* **Design, Design After** -
 * **Design, Disrespectful** -
 * **Design, Experience-centred** -
 * **Design, User-centred Design** -
 * **Design, Value-centred Design** -
+* **Device Tenancy** - 
 * **Digital Civics** -
 * **Digital Self** - see Data Self
 * **DIKW pyramid** -
@@ -173,6 +176,7 @@ Glossary of Pre-Existing Abbreviations, Names and Terms {#glossary .unnumbered}
 * **Early Help** -
 * **Effective Access** -
 * **Embodied Interaction** -
+* **Empowerment in Use** -
 * **Entities** -
 * **Explainable AI** -
 * **Faceted Search** -
@@ -193,6 +197,7 @@ Glossary of Pre-Existing Abbreviations, Names and Terms {#glossary .unnumbered}
 * **Information, Human** -
 * **Information, Life** -
 * **Information, Ecosystem** -
+* **Information Landscape** -
 * **Infrastructural Power, and its Four Levers** -
 * **Integration (stage of Personal Informatics)** - see Self Informatics
 * **Keeping** -
