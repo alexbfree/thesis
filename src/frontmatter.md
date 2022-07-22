@@ -146,6 +146,7 @@ Glossary of Pre-Existing Abbreviations, Names and Terms {#glossary .unnumbered}
 * **Context-aware Computing** -
 * **Cornmarket** -
 * **Critical Algorithm Studies** -
+* **Data Access and Understanding Services** - 
 * **Data Brokers** -
 * **Data Download Portal** -
 * **Data Flow Auditing** -
@@ -269,6 +270,7 @@ Glossary of Pre-Existing Abbreviations, Names and Terms {#glossary .unnumbered}
 * **Troubled Families** -
 * **VRM - Vendor Relationship Management** -
 * **Web Augmentation** -
+* **Web Extensions** -
 * **world2vec** -
 
 [TODO add all the actions from 2.1.4, 2.2.2, 2.2.3 here]
