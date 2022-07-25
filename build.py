@@ -30,7 +30,6 @@ def buildThesis(format):
     # define args now
     args = ["pandoc", "src/index.md", "src/frontmatter.md"]
 
-
     # Add chapters dynamically based on a pattern, count the chapters and them add in sequence based on number (not on filename order in the list)
 
     for i in range(getChapterCount()):
@@ -50,6 +49,8 @@ def buildThesis(format):
 
     #print('command is:')
     #print(args)
+
+    args.append("src/appendices.md")
 
     # Build
     subprocess.run(args)
@@ -197,6 +198,8 @@ def buildWebsite():
     buildThesis("html")
     buildChapters("html")
     buildFile("frontmatter", "html")
+    buildFile("appendices", "html")
+
     dir_util.copy_tree("{}/{}/".format(OUT_PATH, "html"), "{}/{}/".format(WEBSITE_PATH, "html") )
 
     for format in config['website-build-formats']:
@@ -204,10 +207,10 @@ def buildWebsite():
         buildThesis(format)
         buildChapters(format)
         buildFile("frontmatter", format)
+        buildFile("appendices", format)
 
         # Move the new files over to the website directory
         dir_util.copy_tree("{}/{}/".format(OUT_PATH, format), "{}/{}/".format(WEBSITE_PATH, format) )
-
 
     # Generate cover sheet
     buildCoversheet("{}/".format(WEBSITE_PATH))
@@ -227,6 +230,8 @@ def buildWebsiteHtmlOnly():
     buildThesis("html")
     buildChapters("html")
     buildFile("frontmatter", "html")
+    buildFile("appendices", "html")
+
     dir_util.copy_tree("{}/{}/".format(OUT_PATH, "html"), "{}/{}/".format(WEBSITE_PATH, "html") )
 
     # Generate cover sheet
@@ -280,6 +285,10 @@ def main(argv):
     chapters_parser = subparsers.add_parser("chapters", help="Builds all chapters in [format]")
     chapters_parser.add_argument("format", type=str, help="The format you want to build into e.g. html or docx")
 
+    # Parser for building the appendices
+    appendices_parser = subparsers.add_parser("appendices", help="Builds only appendices.md in [format]")
+    appendices_parser.add_argument("format", type=str, help="The format you want to build into e.g. html or docx")
+
     # Parser for building an entire website
     website_parser = subparsers.add_parser("website", help="Generates a website including a frontpage and html, docx, epub and pdf versions of each chapter and entire thesis")
 
@@ -317,6 +326,12 @@ def markdown_thesis(args):
         print("Building frontmatter in {}\n======\n".format(args.format))
         # buildFrontmatter(args.format)
         buildFile("frontmatter", args.format)
+
+    elif args.subparser == "appendices":
+        print("Building appendices in {}\n======\n".format(args.format))
+        # buildFrontmatter(args.format)
+        buildFile("appendices", args.format)
+
 
 
 main(sys.argv)

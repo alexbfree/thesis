@@ -138,6 +138,8 @@ To begin to address these obstacles, seven insights are offered that could seed 
 7. New life capabilities and pain relievers drive user demand.
 8. Better HDR can deliver business value through increased accuracy and consent, and decreased liability.
 
+[TODO highlight the conception of HDR literacy, possibly as distinct contribution?]
+
 ### Additional contributions in the Early Help and Civic Data Use context{#1.2.3}
 
 **C6: Validation and enumeration of supported families' attitudes and needs around civic data**
