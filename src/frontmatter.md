@@ -113,7 +113,7 @@ Index of Key Ideas, Insights and Contributions {.unnumbered}
 * **[HDR Insight 13](#insight-13): It is possible to demonstrate business benefits of Transparency and Human-centricity.** - [ADD REF]
 * **[HDR Approach 1](#approach-1): Discovery-Driven Activism** - [ADD SECTIONREF]
 * **[HDR Approach 2](#approach-2): Building the Human-centric Future** - [ADD SECTIONREF]
-* **[HDR Approach 3](#approach-3): Defending Autonomy and Nurturing the Information Landscape** - [ADD SECTIONREF]
+* **[HDR Approach 3](#approach-3): Defending User Autonomy and Hacking the Information Landscape** - [ADD SECTIONREF]
 * **[HDR Approach 4](#approach-4): Teaching, Championing and Selling the HDR Vision** - [ADD SECTIONREF]
 * **Data Access & Understanding Services** - [ADD SECTIONREF]
 * **Auditing Data Holders** - [ADD SECTIONREF]
@@ -146,7 +146,7 @@ Glossary of Pre-Existing Abbreviations, Names and Terms {#glossary .unnumbered}
 * **Context-aware Computing** -
 * **Cornmarket** -
 * **Critical Algorithm Studies** -
-* **Data Access and Understanding Services** - 
+* **Data Access and Understanding Services** -
 * **Data Brokers** -
 * **Data Download Portal** -
 * **Data Flow Auditing** -

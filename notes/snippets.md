@@ -206,3 +206,8 @@ APple bit c7
 
 
 - MAIN POINT: That it is not just about Positive Change, there must also be Defensive Action, in the face of the active erosion of user autonomy (backref above diminishing agency). That this is an avenue of activist and grassroots work in its own right.
+
+
+label from approach 3 C7
+
+[TODO diagram: taking external *protective* action as collectives, surfacing, challenging, pushing for better enforcement of existing regulation]
