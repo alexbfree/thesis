@@ -1,6 +1,6 @@
 Appendices {.unnumbered}
 ===========
 
-### Appendix 1 {.unnumbered}
+### Appendix A {.unnumbered}
 
-### Appendix 2 {.unnumbered}
+### Appendix B {.unnumbered}
