@@ -122,7 +122,7 @@ By making this distinction between the two types of information which people mig
 
 (ii) to acquire _information about oneself_, so that one might gain insights into one's own behaviour and gain personal benefits from those insights or them to make changes in one's life. This is **Life Information Utilisation (LIU)**.
 
-The two distinct processes that individuals might go through in pursuit of these motives are exemplified in Figure 30. PDEC is a process of holding organisations to account over and managing _what happens to personal data_, often regardless of what it means, whereas LIU is more concerned with _what the data means_ and its inherent value as encoded life information, regardless of where it is stored and how it is used[^18]. This novel way of modelling the motivations for data interaction were first proposed in my 2021 workshop paper [@bowyer2021].
+The two distinct processes that individuals might go through in pursuit of these motives are exemplified in Figure 30. PDEC is a process of holding organisations to account over and managing _what happens to personal data_, often regardless of what it means, whereas LIU is more concerned with _what the data means_ and its inherent value as encoded life information, regardless of where it is stored and how it is used[^18]. This novel way of modelling the motivations for data interaction were first proposed in my 2021 workshop paper [@bowyer2021twopurposes].
 
 ![Figure 30: The Two Motivations for HDR: Controlling your personal data ecosystem and utilising your information about your life, with 'idealised'[^19] processes illustrated](./src/figs/fig30-the-two-motivations-for-hdr.jpg)
 
@@ -483,7 +483,7 @@ The first challenge in designing such as a system is to consider what data will 
 
 ![Figure X: High Level Data Types](./src/figs/figX-data-types.jpg)
 
-Then, considering the earlier observation by myself [@bowyer2011] and proponents of temporal PIM systems [[2.2.2](#2.2.2-temporal)] that time can be used as a unifying concept for personal information, I considered how we might represent occurrences within personal data as _happenings_, anchored against a particular point in time. In effect, this would focus on different properties of the data, much like Karger's _lenses_ [@karger2005; #2.2.2-contextual].
+Then, considering the earlier observation by myself [@bowyer2011] and proponents of temporal PIM systems [[2.2.2](#2.2.2-temporal)] that time can be used as a unifying concept for personal information, I considered how we might represent occurrences within personal data as _happenings_, anchored against a particular point in time. In effect, this would focus on different properties of the data, much like Karger's _lenses_ [@karger2005; [2.2.2](#2.2.2-contextual)].
 
 ![Figure X: Happenings](./src/figs/figX-happenings.jpg)
 
