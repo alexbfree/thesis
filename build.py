@@ -158,6 +158,8 @@ def buildCoversheet(outputPath):
             item["title"]="6 Discussion I: An Understanding of Human Data Relations"
         elif chap==7:
             item["title"]="7 Discussion II: Designing and Pursuing Better Human Data Relations"
+        elif chap==8:
+            item["title"]="8 Conclusion"
         else:
             item["title"] = "Chapter {}".format(chap)
 

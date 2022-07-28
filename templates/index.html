@@ -99,6 +99,19 @@
 
               </tr>
               {% endfor %}
+
+              <tr>
+                <td>
+                  <a href="./html/appendices.html">Appendices</a>
+                </td>
+
+                {% for format in build_formats %}
+                <td>
+                  <a href="./{{format}}/appendices.{{format}}">appendices.{{format}}</a>
+                </td>
+                {% endfor %}
+              </tr>
+
             </tbody>
           </table>
 

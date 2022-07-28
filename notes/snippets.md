@@ -211,3 +211,7 @@ APple bit c7
 label from approach 3 C7
 
 [TODO diagram: taking external *protective* action as collectives, surfacing, challenging, pushing for better enforcement of existing regulation]
+
+chopped from c7 intro - now not needed because 7.5 is in c8
+
+Section 7.5 concludes the thesis, summarising the insights presented in 7.3 and the change trajectories presented in 7.4, reflecting on my journey as a researcher and summarising the thesis' contributions as a whole.
