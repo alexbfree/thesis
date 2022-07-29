@@ -6,6 +6,8 @@ Discussion II: Designing and Pursuing Better Human Data Relations {#chapter-7}
 Introduction & Background
 ----------------
 
+[TODO EXPAND THE ORIGINAL RESEARCH QUESTION EXPLICITLY HERE, USING THE CUT MATERIAL FROM CHAPTER 2]
+
 Through the Case Studies (Chapter 4 & 5) and the discussion in Chapter 6, a clear understanding of what people want from direct and indirect data relations (RQ1 & RQ2) has been established. In this chapter, we turn our attention from theory to practice, from what is needed to *what is possible*. Specifically, this chapter will return to the overall research question and consider _"How might [better Human Data Relations] be achieved?"_, and answer this question by describing practical approaches for future research, innovation and policy that are either novel or already emergent.
 
 This chapter is deliberately broad and open ended. It does not pretend to be complete or definitive in its interpretation of the outlook for HDR. It is not a roadmap, but rather a snapshot of ongoing work, identified challenges and known opportunities, forming an **anthology of reference material**, based on my research and design experience from my six years working to understand and advance HDR.
@@ -91,13 +93,13 @@ Table: Table 15. **Eight lenses on data**.{#table-15}
 |Data as currency|Many data-centric services require data to be sacrificed in exchange for access to functionality, and some businesses now explicitly enable you to sell your own data. This lens highlights that data can be thought of as a tradable asset, and invites consideration of issues of data's worth, individual privacy, exploitation and loss of control.|
 |Data as a medium for thinking, communicating and expression|Some people collect and organise data into curated collections, or use it to convey facts and ideas, to persuade or to evoke an emotional impact. This lens is useful to consider data uses such as lists, annotation, curation, editing, remixing, visualisation and producing different views of data for different audiences.|
 
-When considering HDR, it is important to recognise that people may think of their personal data through any or all of these _'lenses'_ [@karger2005;2.2.2] at any given time, and any process or system design involving data interaction should take these into account.
+When considering HDR, it is important to recognise that people may think of their personal data through any or all of these _'lenses'_ [@karger2005;2.2.2] at any given time, and any process or system design involving data interaction should take these into account, which means that different informational representations might be needed at different times, bringing different aspects of the data to the forefront.
 
-Looking across this set of lenses, it is possible to identify four specific roles that data can serve:
+Looking across this set of lenses, it is possible to identify four specific _roles_ that data can serve:
 
 1. Data has a role as an **artifact of value** to your life;
 2. Data has a role in **informing** you about yourself, the world, and the prior or recent actions of others that may affect you;
-3. Data has a role as **a usable material with which to effect change** in your life;
+3. Data has a role as **a useable<sup>[15](#fn15)</sup> material with which to effect change** in your life;
 4. Data has a role as **a means to monitor changes** in data holders' behaviours, digital influences upon you or changes within your life.
 
 ### Human Data Interaction or Human Information Interaction?{#7.2.2}
@@ -690,3 +692,9 @@ Across the MyData and PDE / HDR space, many small businesses have been establish
 - With several customers including non-profit research organisations, universities, researchers, consumer organisations, local authorities and transport providers, Hestia.ai has proven that there is a **paying market for _data access and understanding services_** [@hestia2022realization], which are needed for the reasons outlined in Approach 1 [[7.4.2](#7.4.2)] and Approach 3 [[7.4.4](#7.4.4)].
 
 Looking at Approach 4 as a whole, this section has shown that pursuing HDR is not purely a data interaction design problem, nor solely a political problem, nor solely a technical problem. It is all of these, but also, it is a business problem. In our capitalist society it is essential to find a path to better HDR that companies can get behind. And this approach too has shown that motivation and education go hand in hand with all of the above. It is not just a case of building new things, it's about beginning and catalysing a cycle of constant feedback, of data-enabled design and action research or iterative software and business model development - finding what works, championing it, communicating it and selling it.
+
+Summation: Addressing the Expanded Research Question{#7.5}
+----------------------------------------------------
+[TODO write this 2 paragraphs now that thesis conclusion has moved out to 8. It will be about how we address (not answer) the expanded research question.]
+
+---
