@@ -38,7 +38,7 @@ def buildThesis(format):
 
     # Finish the bulk of arguments
     args.append("src/bibliography.md") # this always comes last after the chapters
-    args.extend(["-s", "--toc", "--toc-depth=3", "--self-contained", "--number-sections", "--citeproc", "--output={}{}".format(outputPath, filename)])
+    args.extend(["-s", "--toc", "--toc-depth=3", "--self-contained", "--number-sections", "--top-level-division=chapter", "--citeproc", "--output={}{}".format(outputPath, filename)])
 
     # Add for pdf (avoid latex pdfs)
 
