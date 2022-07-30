@@ -101,4 +101,7 @@ Lists of Figures by Chapter {.unnumbered}
 * **[Figure 7.35](#figure-7.35)** - SILVER Health Data Viewing Interface
 * **[Figure 7.36](#figure-7.36)** - Summary of Generalised Change Strategies for Pursuing Better HDR, Using the ToC Model
 
+### Figures in Appendix D {.unnumbered}
+
+* **[Figure D.1](#figure-D.1)** - Private Data Viewing Monitor with Viewing Glasses
 ---

@@ -5,11 +5,16 @@ Appendices {.unnumbered}
 
 See description in [1.3.1](#1.3.1)
 
-### Appendix B: Case Study Two Methodology {.unnumbered}
+### Appendix B: Case Study Two Methodology: Additional Details {.unnumbered}
 
 
 ### Appendix C: Ethics Approvals {.unnumbered}
 
+### Appendix D: The Private Data Viewing Monitor {.unnumbered}
+
+By removing the filter layer on an old monitor and modifying cinema IMAX glasses, a monitor was created that only allowed viewing by the holder of the viewing glasses, which would be ideal for interviewing someone about their data while respecting privacy. Face to face interviewing had to be abandoned due to COVID-19, so this technique was sadly never used in practice.
+
+![Figure D.1: Private Data Viewing Monitor with Viewing Glasses](./src/figs/figD.1-private-viewing-monitor.jpg){#figure-D.1}
 
 Index of Key Ideas, Insights and Contributions {#hdr-glossary .unnumbered}
 ===============================================
