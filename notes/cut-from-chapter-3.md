@@ -66,3 +66,21 @@ Because of the overlapping of RQs 1 and 2 in Case Study One and Two, I have stru
 * Chapter 5 details Case Study Two in the context of both RQ1 & RQ2.
 * Chapter 6 is the first discussion chapter, which separately unifies RQ1 findings and RQ2 findings, so that they can be referenced in general terms as distinct understanding of people's wants in their direct relationships to data (RQ1) and their wants in relationships with those who hold data about (i.e. their indirect relationships to data) (RQ2), drawing from insights that span both case studies.
 * Chapter 7 is the concluding discussion chapter, which examines how those needs identified in Chapters 4, 5 and 6 might be achieved in practice, through software development, education and civic action. This covers all three research subquestions and draws these together to address the main research question.
+
+
+
+----
+
+and how they want it to be used, and how could people's desires for the role data plays in their lives be brought closer to reality
+
+
+----
+
+In this thesis, and its title I use the term _'human data relations'_ to encompass both of these aspects - human-data relations (the individual's relationship to their data, as imagined by HDI), but also human data relations, i.e. human relationships that involve data.
+
+----
+
+In parallel to this, I was began to conduct my own experiments using GDPR to see and explore my own data. This allowed me to sensitise myself to the research space, and to enhance my understanding of RQ3 (finding out more about what is and is not possible in practice when it comes to everyday personal data access) [TODO deformalise RQ3] but also crucially it enabled me to become a participant in my own research, enabling a deeper understanding of this research context.
+
+
+-----
