@@ -210,9 +210,9 @@ The work exploring shared data interaction in Early Help carried out in Case Stu
 
 - "[Human-data interaction in the context of care: Co-designing family civic data interfaces and practices](https://doi.org/10.1145/3290607.3312998)" [@bowyer2019]
 
-This work was also presented at the conference in the form of a poster, which is shown in Figure X. A full journal paper of Case Study One is in prep.
+This work was also presented at the conference in the form of a poster, which is shown in [Figure 1.1](#figure-1.1). A full journal paper of Case Study One is in prep.
 
-![Figure X: Poster Presentation of Case Study One](./src/figs/figX-hdi-in-care-poster.png)
+![Figure 1.1: Poster Presentation of Case Study One](./src/figs/fig1.1-hdi-in-care-poster.png){#figure-1.1}
 
 #### Publication from Case Study Two{#1.3.2.2}
 
@@ -246,9 +246,9 @@ The structure of this thesis{#1.4}
 ----------------------------
 [TODO address JG feedback]
 
-The overall structure of this thesis is illustrated in Figure X. This introduction is followed by a literature review [[Chapter 2](#chapter-2)] and a methodology chapter [[Chapter 3](#chapter-3)]. Both research questions RQ1 and RQ2 are examined in both Case Studies, and these studies are documented as self-contained pieces of research in [[Chapter 4](#chapter-4)] and [[Chapter 5](#chapter-5)] respectively. In [[Chapter 6](#chapter-6)] the findings and insights from the Case Studies are synthesised into common findings as to what people want from data and from data holders, which concludes the empirical investigation of the two research questions. [[Chapter 7](#chapter-7)] looks beyond the theoretical to the practical, setting the stage for future research and innovation in the HDR landscape, building on both the research conclusions in Chapter 6 as well as my practical experiences from other related research and development activities conducted outside of this PhD research but during the same timeframe. Each chapter finishes with a summation section. [Chapter 8](#chapter-8) concludes the thesis.
+The overall structure of this thesis is illustrated in [Figure 1.2](#figure-1.2). This introduction is followed by a literature review [[Chapter 2](#chapter-2)] and a methodology chapter [[Chapter 3](#chapter-3)]. Both research questions RQ1 and RQ2 are examined in both Case Studies, and these studies are documented as self-contained pieces of research in [[Chapter 4](#chapter-4)] and [[Chapter 5](#chapter-5)] respectively. In [[Chapter 6](#chapter-6)] the findings and insights from the Case Studies are synthesised into common findings as to what people want from data and from data holders, which concludes the empirical investigation of the two research questions. [[Chapter 7](#chapter-7)] looks beyond the theoretical to the practical, setting the stage for future research and innovation in the HDR landscape, building on both the research conclusions in Chapter 6 as well as my practical experiences from other related research and development activities conducted outside of this PhD research but during the same timeframe. Each chapter finishes with a summation section. [Chapter 8](#chapter-8) concludes the thesis.
 
-![Figure X: The Structure of this Thesis](./src/figs/figX-thesis-structure.jpg)
+![Figure 1.2: The Structure of This Thesis](./src/figs/fig1.2-thesis-structure.jpg){#figure-1.2}
 
 [Chapter 2](#chapter-2) is a literature review divided into three key sections. The first [[2.1](#2.1)] examines the difference between data and information, outlines the central role data has taken in our society, why people need effective access to their data and how laws have been introduced to try and deliver this. The second [[2.2](#2.2)] serves as history of personal data interaction, from Personal Information Management to the emergence of complex digital lives involving relationships with many data-holding providers. Finally [[2.3](#2.3)] charts a path from HCI and Human-Data Interaction foundations through to the embracing of sociotechnical thinking around data and the current bleeding edge [@dictBleedingEdge] of human-centred innovation, leading to the primary empirical Research Question (RQ) of this thesis: _"What relationship do people need with their personal data?"_ [[2.4](#RQ)].
 

@@ -21,256 +21,84 @@ Lists of Tables by Chapter {.unnumbered}
 Lists of Figures by Chapter {.unnumbered}
 ---------------------------
 
-### Figures in Chapter N {.unnumbered}
+### Figures in Chapter 1 {.unnumbered}
 
-* **Figure N.n** - Description goes here
+* **[Figure 1.1](#figure-1.1)** - Poster Presentation of Case Study One
+* **[Figure 1.2](#figure-1.2)** - The Structure of This Thesis
 
-Index of Key Ideas, Insights and Contributions {.unnumbered}
-===================================
+### Figures in Chapter 2 {.unnumbered}
 
-* **Categories of Family Civic Data** - [ADD SECTIONREF]
-* **Categories of Personal Data** - [ADD SECTIONREF]
-* **Data Access & Understanding Services** - [ADD SECTIONREF]
-* **Data Cards** - [ADD SECTIONREF]
-* **Data Wants** - [ADD SECTIONREF]
-* **Ecosystem Information** - [ADD SECTIONREF]
-* **Ecosystem Negotiability** - [ADD SECTIONREF]
-* **Free Data Interfaces** - [ADD SECTIONREF]
-* **Human Data Relations** - [ADD SECTIONREF]
-* **Human Information Operating System** - [ADD SECTIONREF]
-* **Human Information** - see Life Information and Ecosystem Information
-* **Inclusive Data Flows** - [ADD SECTIONREF]
-* **Information Standards** - [ADD SECTIONREF]
-* **Landscape of HDR Opportunity** - [ADD SECTIONREF]
-* **Life Concepts** - [ADD SECTIONREF]
-* **Life Information Utilisation** - [ADD SECTIONREF]
-* **Life Information** - [ADD SECTIONREF]
-* **Life Interface Design** - [ADD SECTIONREF]
-* **Life Partitioning** - [ADD SECTIONREF]
-* **Locus of Decision-making** - [ADD SECTIONREF]
-* **Perceived Individual Power** - [ADD SECTIONREF]
-* **Personal Data Diaspora, the** - [ADD SECTIONREF]
-* **Personal Data Ecosystem Control** - [ADD SECTIONREF]
-* **Personal Data as a Proxy for Involvement** - [ADD SECTIONREF]
-* **Personal Data Stewardship** - [ADD SECTIONREF]
-* **Pushing the Seams** - [ADD SECTIONREF]
-* **Proxy Representations of Immobile Data** - [ADD SECTIONREF]
-* **Shared Data Interaction** - [ADD SECTIONREF]
-* **Surface Information Injustices** - [ADD SECTIONREF]
-* **Storyboarding Cards** - [ADD SECTIONREF]
-* **Trust in Providers, effects upon** - [ADD SECTIONREF]
-* **Types of Personal Data (by origin)** - [ADD SECTIONREF]
-* **Useability**<sup>[15](#fn15)<sup> (as distinct from Usability) - [6.1.3](#want-d3)]
+* **[Figure 2.1](#figure-2.1)** - The Wisdom Curve: Making Data into Meaningful Information
+* **[Figure 2.2](#figure-2.2)** - Li _et al._'s Stage-based Model of Personal Informatics Systems
 
-### HDR Wants {.unnumbered}
+### Figures in Chapter 3 {.unnumbered}
 
-* **[Direct Data Want 1](#want-d1): Data Visibility** - [ADD SECTIONREF]
-* **[Direct Data Want 2](#want-d2): Data Understanding** - [ADD SECTIONREF]
-* **[Direct Data Want 3](#want-d3): Data Useability**<sup>[15](#fn15)<sup> - [ADD SECTIONREF]
-* **[Indirect Data Want 1](#want-i1): Process Transparency** - [ADD SECTIONREF]
-* **[Indirect Data Want 2](#want-i2): Individual Oversight** - [ADD SECTIONREF]
-* **[Indirect Data Want 3](#want-i3): Involvement in Decision-making** - [ADD SECTIONREF]
+* **[Figure 3.1](#figure-3.1)** - My Action Research Approach
+* **[Figure 3.2](#figure-3.2)** - Research Activities and Contexts
+* **[Figure 3.3](#figure-3.3)** - "Family Facts" -- What is Data?
+* **[Figure 3.4](#figure-3.4)** - Walls of Data -- Sensitising Participants to the World of Commercially-held Data and GDPR
+* **[Figure 3.5](#figure-3.5)** - Sentence Ranking -- Bringing Support Workers and Families to a Shared Problem Space
+* **[Figure 3.6](#figure-3.6)** - Family Civic Data Cards -- Things to Think With
+* **[Figure 3.7](#figure-3.7)** - Personal Data Examples -- Making Data Relatable
+* **[Figure 3.8](#figure-3.8)** - Home Interviewing: Card Sorting With a Family in Their Living Room
+* **[Figure 3.9](#figure-3.9)** - Ideation Grids -- Combining Random Design Ingredients to Generate New Ideas
+* **[Figure 3.10](#figure-3.10)** - Group Poster Design -- A Participant-designed Poster to Advertise Features of Imagined Data Interface Products
+* **[Figure 3.11](#figure-3.11)** - Storyboarding Cards -- A Collaboratively-constructed Narrative Created through Discussion From a Palette of Possible Parent and Staff Actions
+* **[Figure 3.12](#figure-3.12)** - Thematic Analysis of Qualitative Data using Quirkos for Case Study One
+* **[Figure 3.13](#figure-3.13)** - Spreadsheet-based Quantitative Analysis of Interview Data for Case Study Two
+* **[Figure 3.14](#figure-3.14)** - Pilot Study Recruitment Poster
 
-### HDR Objectives {.unnumbered}
+### Figures in Chapter 4 {.unnumbered}
 
-* **[HDR Objective 1](#objective-1): Data Awareness & Understanding** - [ADD SECTIONREF]
-* **[HDR Objective 2](#objective-2): Data Useability**<sup>[15](#fn15)</sup> - [ADD SECTIONREF]
-* **[HDR Objective 3](#objective-3): Ecosystem Awareness & Understanding** - [ADD SECTIONREF]
-* **[HDR Objective 4](#objective-4): Ecosystem Negotiability** - [ADD SECTIONREF]
-* **[HDR Objective 5](#objective-5): Effective, Commercially Viable and Desirable HDR Systems** - [ADD SECTIONREF]
+* **[Figure 4.1](#figure-4.1)** - Participants' Shared Values Deduced from Sentence Rankings Data
+* **[Figure 4.2](#figure-4.2)** - Current Model of Data Interaction, and Proposed Model of Shared Data Interaction
 
-### HDR Obstacles {.unnumbered}
+### Figures in Chapter 5 {.unnumbered}
 
-* **Closed, Insular and Introspective Practices** - [ADD SECTIONREF]
-* **Diminishing Individual Agency** - [ADD SECTIONREF]
-* **Immobile Data** - [ADD SECTIONREF]
-* **Inaccessible Data** - [ADD SECTIONREF]
-* **Increasing Data Holder Hegemony** - [ADD SECTIONREF]
-* **Insufficient Machine Understanding of Human Data** - [ADD SECTIONREF]
-* **Intractable Data Self, the** - [ADD SECTIONREF]
-* **Invisible Data** - [ADD SECTIONREF]
-* **Lack of Individual Demand** - [ADD SECTIONREF]
-* **Lack of Interoperability** - [ADD SECTIONREF]
-* **Lack of Provider Investment** - [ADD SECTIONREF]
-* **Non-Interrogable Data** - [ADD SECTIONREF]
-* **Unmalleable Data** - [ADD SECTIONREF]
-* **Unrelatable Data** - [ADD SECTIONREF]
+* **[Figure 5.1](#figure-5.1)** - A Journey Map of Each Participant's Study Progression
+* **[Figure 5.2](#figure-5.2)** - An Example Life Sketch from Interview 1, with Data Handling Companies in Red, Data Types in Blue, and Feelings in Green
+* **[Figure 5.3](#figure-5.3)** - Sankey Overview of Participants' GDPR Requests
+* **[Figure 5.4](#figure-5.4)** - Longitudinal Distribution of Net Changes in Participants' Perceived Power and Trust Scores
+* **[Figure 5.5](#figure-5.5)** - Perceived Power Balance Between Individual and Data Holder at Different Stages of the GDPR/Study Process
+* **[Figure 5.6](#figure-5.6)** - Participants' Perceived Trust in Provider at Different Stages of the GDPR/Study Process
 
-### HDR Insights & Approaches {.unnumbered}
+### Figures in Chapter 7 {.unnumbered}
 
-* **[HDR Insight 1](#insight-1): Life Information Makes Data Relatable** - [ADD SECTIONREF]
-* **[HDR Insight 2](#insight-2): Data Needs to be United and Unified** - [ADD SECTIONREF]
-* **[HDR Insight 3](#insight-3): Data Must Be Transformed into a Versatile Material.** - [ADD SECTIONREF]
-* **[HDR Insight 4](#insight-4): Ecosystem Information Is an Antidote to Digital Life Complexity**] - [ADD SECTIONREF]
-* **[HDR Insight 5](#insight-5): We Must Know Data's Provenance.** - [ADD SECTIONREF]
-* **[HDR Insight 6](#insight-6): Data Holders use Four Levers of Infrastructural Power.**] - [ADD REF]
-* **[HDR Insight 7](#insight-7): Human-centred Information Systems Must Serve Human Values, Relieve Pain and Deliver New Life Capabilities.** - [ADD REF]
-* **[HDR Insight 8](#insight-8): We Need to Teach Computers To Understand Human Information.** - [ADD REF]
-* **[HDR Insight 9](#insight-9): Individual GDPR requests can compel companies to change data practices.** - [ADD REF]
-* **[HDR Insight 10](#insight-10): Collectives can compare and unify their data and use it to demand change.** - [ADD REF]
-* **[HDR Insight 11](#insight-11): Automating the Identification of Entities can enhance Machine Understanding and Unburden Life Interface Users.**
-* **[HDR Insight 12](#insight-12): The 'Seams' of Digital Services need to be identified, exploited and protected.** - [ADD REF]
-* **[HDR Insight 13](#insight-13): It is possible to demonstrate business benefits of Transparency and Human-centricity.** - [ADD REF]
-* **[HDR Approach 1](#approach-1): Discovery-Driven Activism** - [ADD SECTIONREF]
-* **[HDR Approach 2](#approach-2): Building the Human-centric Future** - [ADD SECTIONREF]
-* **[HDR Approach 3](#approach-3): Defending User Autonomy and Hacking the Information Landscape** - [ADD SECTIONREF]
-* **[HDR Approach 4](#approach-4): Teaching, Championing and Selling the HDR Vision** - [ADD SECTIONREF]
-* **Data Access & Understanding Services** - [ADD SECTIONREF]
-* **Auditing Data Holders** - [ADD SECTIONREF]
-* **Life Partitioning** - [ADD SECTIONREF]
-* **Entity Extraction** - [ADD SECTIONREF]
-* **Digital Self Curation** - [ADD SECTIONREF]
-* **Inclusive Data Flows** - [ADD SECTIONREF]
-* **Surface Information Injustices** - [ADD SECTIONREF]
-* **Data Literacy in an HDR Context** - [ADD SECTIONREF]
+* **[Figure 7.1](#figure-7.1)** - The Two Motivations for HDR: Controlling Your Personal Data Ecosystem and Utilising Your Information About Your Life, with 'Idealised' Processes Illustrated
+* **[Figure 7.2](#figure-7.2)** - Mapping the Six Wants into Objectives for the HDR Opportunity Landscape
+* **[Figure 7.3](#figure-7.3)** - Obstacles and Resulting Insights in the HDR Opportunity Landscape
+* **[Figure 7.4](#figure-7.4)** - Life Concept Modelling
+* **[Figure 7.5](#figure-7.5)** - Mockup of a Unified TV Viewing History Interface
+* **[Figure 7.6](#figure-7.6)** - SubsCrab: An Example Application for Ecosystem Detection and Visualisation
+* **[Figure 7.7](#figure-7.7)** - Some of the Many Aspects of Metadata that Might Exist About a Datapoint or Dataset
+* **[Figure 7.8](#figure-7.8)** - The Panopticon Structure of the Illinois State Penitentiary
+* **[Figure 7.9](#figure-7.9)** - Human Values, as Identified in BBC R&D Research Funded by Nesta
+* **[Figure 7.10](#figure-7.10)** - A Contact-and-Calendar-centric PDS Approach
+* **[Figure 7.11](#figure-7.11)** - The Scattered Data Relating to a Vacation
+* **[Figure 7.12](#figure-7.12)** - Mockup of a Unified Interface for a Vacation
+* **[Figure 7.13](#figure-7.13)** - Annotating Data with Semantic Context
+* **[Figure 7.14](#figure-7.14)** - Theory of Change [ToC]\: The Four Dimensions of Change
+* **[Figure 7.15](#figure-7.15)** - HDR Approach 1: Discovery-Driven Activism
+* **[Figure 7.16](#figure-7.16)** - HDR Approach 2: Building the Human-centric Future
+* **[Figure 7.17](#figure-7.17)** - Conceptual Model for a Personal Data Store System
+* **[Figure 7.18](#figure-7.18)** - High Level Data Types
+* **[Figure 7.19](#figure-7.19)** - Life Information Modelled as Happenings
+* **[Figure 7.20](#figure-7.20)** - A Simple PDS Life Information Presentation Model
+* **[Figure 7.21](#figure-7.21)** - Mockup of Life Information Presented in a PDS Interface
+* **[Figure 7.22](#figure-7.22)** - Life Partitioning Analogy using a Cluedo™ board
+* **[Figure 7.23](#figure-7.23)** - Mockup: Browsing By Areas of Life
+* **[Figure 7.24](#figure-7.24)** - Identifying Entity Associations in Data
+* **[Figure 7.25](#figure-7.25)** - Facebook's World2vec Model, Semantically Modelling Human Information from Social Media Posts on Facebook
+* **[Figure 7.26](#figure-7.26)** - Identifying the Attributes of Data
+* **[Figure 7.27](#figure-7.27)** - Determining The Nature of a Piece of Data
+* **[Figure 7.28](#figure-7.28)** - Attributes of Data
+* **[Figure 7.29](#figure-7.29)** - Actions One Might Perform on Life Information
+* **[Figure 7.30](#figure-7.30)** - Questions One Might Ask of Life Information
+* **[Figure 7.31](#figure-7.31)** - Example Taxonomies For Life Information Navigation
+* **[Figure 7.32](#figure-7.32)** - HDR Approach 3: Defending User Autonomy and Hacking the Information Landscape
+* **[Figure 7.33](#figure-7.33)** - The Modern 'Black Box' View of Technology
+* **[Figure 7.34](#figure-7.34)** - HDR Approach 4: Winning Hearts and Minds: Teaching, Championing and Selling the Vision
+* **[Figure 7.35](#figure-7.35)** - SILVER Health Data Viewing Interface
+* **[Figure 7.36](#figure-7.36)** - Summary of Generalised Change Strategies for Pursuing Better HDR, Using the ToC Model
 
-
-[TODO Move the following Glossary to the end, after references]
-
-Glossary of Pre-Existing Abbreviations, Names and Terms {#glossary .unnumbered}
-========================================================
-
-* **Action (stage of Personal Informatics)** - see SI
-* **Action Research** -
-* **Accessibility Tags (ARIA)** -
-* **Activism** -
-* **Agency** -
-* **BBC R&D** -
-* **CHC - Connected Health Cities** -
-* **Civic Hacking** -
-* **Collection (stage of Personal Informatics)** - see SI
-* **Consent, Dynamic** -
-* **Consent, Informed** -
-* **Constructivism** -
-* **Conceptual Anchors** -
-* **Context-aware Computing** -
-* **Cornmarket** -
-* **Critical Algorithm Studies** -
-* **Data Access and Understanding Services** -
-* **Data Brokers** -
-* **Data Download Portal** -
-* **Data Flow Auditing** -
-* **Data Justice** -
-* **Data Portability Request** -
-* **Data Provenance** -
-* **Data Self** -
-* **Data Transcendence** -
-* **Data (general)** -
-* **Data, Civic / Family Civic** -
-* **Data, Acquired** -
-* **Data, Derived** -
-* **Data, Metadata** -
-* **Data, Observed** -
-* **Data, Volunteered** -
-* **Data, Trapped** -
-* **DERC** -
-* **Design, Adversarial** -
-* **Design, Design After** -
-* **Design, Disrespectful** -
-* **Design, Experience-centred** -
-* **Design, User-centred Design** -
-* **Design, Value-centred Design** -
-* **Device Tenancy** -
-* **Digital Civics** -
-* **Digital Self** - see Data Self
-* **DIKW pyramid** -
-* **DPA - Data Protection Authority** -
-* **DPO - Data Protection Officer** -
-* **EPSRC** -
-* **Early Help** -
-* **Effective Access** -
-* **Embodied Interaction** -
-* **Empowerment in Use** -
-* **Entities** -
-* **Explainable AI** -
-* **Faceted Search** -
-* **Entity Extraction** -
-* **File Biography** -
-* **Files, why they need to die** -
-* **GDPR** - General Data Protection Regulation [[REF] () ]
-* **Gatekeeper**-
-* **HCI - Human Computer Interaction** -
-* **HDI - Human Data Interaction** -
-* **Hestia.ai** -
-* **HestiaLabs** -
-* **HII - Human Information Interaction** -
-* **Humane Technology** -
-* **ICO - Information Commissioner's Office** -
-* **Ideation Grids** -
-* **Information (general)** -
-* **Information, Human** -
-* **Information, Life** -
-* **Information, Ecosystem** -
-* **Information Landscape** -
-* **Infrastructural Power, and its Four Levers** -
-* **Integration (stage of Personal Informatics)** - see Self Informatics
-* **Keeping** -
-* **Legibility** -
-* **Lifelogging** -
-* **Lifestreams** -
-* **Lenses** -
-* **Life Sketching** -
-* **Magical Design** -
-* **MyData** -
-* **Negotiability**
-* **NER - Named Entity Recognition** - see Entity Extraction
-* **Open Lab** -
-* **Orienteering** -
-* **PDS - Personal Data Store**- See Personal Data Lockers
-* **PIM - Personal Information Management** -
-* **PIM systems, contextual** -
-* **PIM systems, networked** -
-* **PIM systems, semantic** -
-* **PIM systems, spatial** -
-* **PIM systems, subjective** -
-* **PIM systems, temporal** -
-* **PIMS** - Personal Information Management Services - See Personal Data Lockers
-* **Participatory Action Research**
-* **PDE - Personal Data Economy** -
-* **Personal Data Ecosystem** -
-* **Personal Data Lockers** -
-* **Personal Data Vault** - See Personal Data Lockers
-* **Personal Informatics** - see SI
-* **Preparation (stage of Personal Informatics)** - see SI
-* **Perspectives** -
-* **Point of Severance** -
-* **Power - Behavioural Influence** -
-* **Power - Interpretative Influence** -
-* **Power - Network Centrality** -
-* **Power, Authority** -
-* **Power, Disciplinary** -
-* **Power, Infrastructural** -
-* **Power, Interpretive** -
-* **Power, Processual** -
-* **Power, Rational** -
-* **Power, Resource Control** -
-* **Power, Socially-shaped** -
-* **Power, Systems/Structural** - see Infrastructural Power
-* **Power, Zero Sum** -
-* **Pragmatism** -
-* **QSM - Quantified Self Movement** - see SI
-* **Reflection (stage of Personal Informatics)** - see SI
-* **Recursive Public** -
-* **Reminding** -
-* **SAR - Subject Access Request** -
-* **SI - Self Informatics** - Self Informatics [[REF] () ]
-* **SILVER** -
-* **Sitra** -
-* **Scraping** -
-* **Seams** -
-* **Subjective Classification Principle** -
-* **Subjective Importance Principle** -
-* **Subjective Context Principle** -
-* **Support Worker** -
-* **Supported Family** -
-* **Text Mining** -
-* **ToC - Theories of Change** -
-* **Timelines** -
-* **TrackerControl** - see Data Flow Auditing.
-* **Troubled Families** -
-* **VRM - Vendor Relationship Management** -
-* **Web Augmentation** -
-* **Web Extensions** -
-* **world2vec** -
-
-[TODO add all the actions from 2.1.4, 2.2.2, 2.2.3 here]
+---

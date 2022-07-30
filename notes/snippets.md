@@ -215,3 +215,6 @@ label from approach 3 C7
 chopped from c7 intro - now not needed because 7.5 is in c8
 
 Section 7.5 concludes the thesis, summarising the insights presented in 7.3 and the change trajectories presented in 7.4, reflecting on my journey as a researcher and summarising the thesis' contributions as a whole.
+
+
+![Figure 10: Sketching Dialogue -- An example life sketch created by a participant and annotated during discussion](./src/figs/fig10-sketch-interview.png) - change to ref to figure in chapter 5

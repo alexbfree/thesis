@@ -48,3 +48,21 @@ As a front-end developer embedded within the SILVER project, I was responsible t
 
 
 ![Figure 19: A Model for Personal Data -- Developing a common model for personal data imported into a PDS a part of BBC Cornmarket R&D work](./src/figs/fig19-life-modelling.jpg)
+
+
+
+----
+
+
+### Thesis structure approach
+
+[TODO CUT THIS SECTION AND COVER IT IN INTRO]
+
+In writing up this thesis, I made a choice to foreground my two most major research activities as Case Studies, and not to detail the other activities carried out beyond the high level summaries included in this chapter. Case Study One and Two both span research questions RQ1 and RQ2 (see [Figure 3.2](#figure-3.2) in section 3.4) as they explore both people's direct relationship with data _and_ the relationships people have that indirectly involve data. The learnings that allow me to explore and draw conclusions that serve RQ3 [TODO deformalise RQ3] come from a variett of practical activities, described in 3.4.3 above, all focused on designing and bringing about better human data relations in practice.
+
+Because of the overlapping of RQs 1 and 2 in Case Study One and Two, I have structured the subsequent chapters as follows:
+
+* Chapter 4 details Case Study One in the context of both RQ1 & RQ2.
+* Chapter 5 details Case Study Two in the context of both RQ1 & RQ2.
+* Chapter 6 is the first discussion chapter, which separately unifies RQ1 findings and RQ2 findings, so that they can be referenced in general terms as distinct understanding of people's wants in their direct relationships to data (RQ1) and their wants in relationships with those who hold data about (i.e. their indirect relationships to data) (RQ2), drawing from insights that span both case studies.
+* Chapter 7 is the concluding discussion chapter, which examines how those needs identified in Chapters 4, 5 and 6 might be achieved in practice, through software development, education and civic action. This covers all three research subquestions and draws these together to address the main research question.
