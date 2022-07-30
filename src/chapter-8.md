@@ -1,5 +1,14 @@
 Conclusion {#chapter-8}
-==========
+===========
+
+In this chapter, I will reflect on my journey as a researcher, activist and innovator through this work, and contextualise the contributions of the thesis in terms of their legacy and future value.
+
+Personal Reflection
+-------------------
+[TODO write personal reflection using material from C1 plus new]
+
+Legacy of This Thesis to The Future of Human Data Relations
+-----------------------------------------------------------
 
 This thesis offers **a detailed understanding of individual needs around data interaction and data-centric service relationships** [[Chapter 6](#chapter-6)], backed by empirical participatory action research in both public sector and private sector Case Studies [[Chapter 4](#chapter-4); [Chapter 5](#chapter-5)], providing a clear answer to the two primary research questions [RQ1](#RQ1) and [RQ2](#RQ2) : People want **visible, understandable and useable**<sup>[15](#fn15)</sup> **data**, **process transparency, individual oversight capabilities and involvement in decision-making**.
 

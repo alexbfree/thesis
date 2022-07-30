@@ -64,7 +64,7 @@ Lists of Figures by Chapter {.unnumbered}
 
 ### Figures in Chapter 7 {.unnumbered}
 
-* **[Figure 7.1](#figure-7.1)** - The Two Motivations for HDR: Controlling Your Personal Data Ecosystem and Utilising Your Information About Your Life, with 'Idealised' Processes Illustrated
+* **[Figure 7.1](#figure-7.1)** - The Two Motivations for HDR: Controlling Your Personal Data Ecosystem and Utilising Your Information About Your Life
 * **[Figure 7.2](#figure-7.2)** - Mapping the Six Wants into Objectives for the HDR Opportunity Landscape
 * **[Figure 7.3](#figure-7.3)** - Obstacles and Resulting Insights in the HDR Opportunity Landscape
 * **[Figure 7.4](#figure-7.4)** - Life Concept Modelling

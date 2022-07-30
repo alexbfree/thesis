@@ -52,7 +52,7 @@ This dual approach of focusing the PhD on empirical grounded academic research, 
 
 I will now explain the primary contributions of this thesis [[1.2](#1.2)], and the publications resulting from the research [[1.3](#1.3)], before explaining the structure of the thesis across the subsequent chapters [[1.4](#1.4)].
 
-Nature and Contributions of the thesis{#1.2}
+Nature and Contributions of the Thesis{#1.2}
 --------------------------------------
 [TODO address JG feedback]
 

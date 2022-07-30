@@ -1,47 +1,21 @@
 Appendices {.unnumbered}
 ===========
 
-### Appendix A {.unnumbered}
+### Appendix A: The Pilot Study {.unnumbered}
 
-### Appendix B {.unnumbered}
+See description in [1.3.1](#1.3.1)
+
+### Appendix B: Case Study Two Methodology {.unnumbered}
 
 
-Index of Key Ideas, Insights and Contributions {.unnumbered}
-===================================
+### Appendix C: Ethics Approvals {.unnumbered}
 
-* **Categories of Family Civic Data** - [ADD SECTIONREF]
-* **Categories of Personal Data** - [ADD SECTIONREF]
-* **Data Access & Understanding Services** - [ADD SECTIONREF]
-* **Data Cards** - [ADD SECTIONREF]
-* **Data Wants** - [ADD SECTIONREF]
-* **Ecosystem Information** - [ADD SECTIONREF]
-* **Ecosystem Negotiability** - [ADD SECTIONREF]
-* **Free Data Interfaces** - [ADD SECTIONREF]
-* **Human Data Relations** - [ADD SECTIONREF]
-* **Human Information Operating System** - [ADD SECTIONREF]
-* **Human Information** - see Life Information and Ecosystem Information
-* **Inclusive Data Flows** - [ADD SECTIONREF]
-* **Information Standards** - [ADD SECTIONREF]
-* **Landscape of HDR Opportunity** - [ADD SECTIONREF]
-* **Life Concepts** - [ADD SECTIONREF]
-* **Life Information Utilisation** - [ADD SECTIONREF]
-* **Life Information** - [ADD SECTIONREF]
-* **Life Interface Design** - [ADD SECTIONREF]
-* **Life Partitioning** - [ADD SECTIONREF]
-* **Locus of Decision-making** - [ADD SECTIONREF]
-* **Perceived Individual Power** - [ADD SECTIONREF]
-* **Personal Data Diaspora, the** - [ADD SECTIONREF]
-* **Personal Data Ecosystem Control** - [ADD SECTIONREF]
-* **Personal Data as a Proxy for Involvement** - [ADD SECTIONREF]
-* **Personal Data Stewardship** - [ADD SECTIONREF]
-* **Pushing the Seams** - [ADD SECTIONREF]
-* **Proxy Representations of Immobile Data** - [ADD SECTIONREF]
-* **Shared Data Interaction** - [ADD SECTIONREF]
-* **Surface Information Injustices** - [ADD SECTIONREF]
-* **Storyboarding Cards** - [ADD SECTIONREF]
-* **Trust in Providers, effects upon** - [ADD SECTIONREF]
-* **Types of Personal Data (by origin)** - [ADD SECTIONREF]
-* **Useability**<sup>[15](#fn15)<sup> (as distinct from Usability) - [6.1.3](#want-d3)]
+
+Index of Key Ideas, Insights and Contributions {#hdr-glossary .unnumbered}
+===============================================
+
+This section serves as both a glossary to explain abbreviations and existing terms used, as well as an index to easily locate key HDR-related concepts, ideas and contributions within this thesis.
+
 
 ### HDR Wants {.unnumbered}
 
@@ -91,168 +65,206 @@ Index of Key Ideas, Insights and Contributions {.unnumbered}
 * **[HDR Insight 10](#insight-10): Collectives can compare and unify their data and use it to demand change.** - [ADD REF]
 * **[HDR Insight 11](#insight-11): Automating the Identification of Entities can enhance Machine Understanding and Unburden Life Interface Users.**
 * **[HDR Insight 12](#insight-12): The 'Seams' of Digital Services need to be identified, exploited and protected.** - [ADD REF]
-* **[HDR Insight 13](#insight-13): It is possible to demonstrate business benefits of Transparency and Human-centricity.** - [ADD REF]
+* **[HDR Insight 13](#insight-13): It is Possible (and Necessary) to Demonstrate Business Benefits of Transparency and Human-centricity.** - [ADD REF]
+
+### HDR Approaches {.unnumbered}
+
 * **[HDR Approach 1](#approach-1): Discovery-Driven Activism** - [ADD SECTIONREF]
 * **[HDR Approach 2](#approach-2): Building the Human-centric Future** - [ADD SECTIONREF]
 * **[HDR Approach 3](#approach-3): Defending User Autonomy and Hacking the Information Landscape** - [ADD SECTIONREF]
 * **[HDR Approach 4](#approach-4): Teaching, Championing and Selling the HDR Vision** - [ADD SECTIONREF]
-* **Data Access & Understanding Services** - [ADD SECTIONREF]
+
+### Contributions and Major Concepts of This Thesis {.unnumbered}
+
 * **Auditing Data Holders** - [ADD SECTIONREF]
-* **Life Partitioning** - [ADD SECTIONREF]
-* **Entity Extraction** - [ADD SECTIONREF]
-* **Digital Self Curation** - [ADD SECTIONREF]
-* **Inclusive Data Flows** - [ADD SECTIONREF]
-* **Surface Information Injustices** - [ADD SECTIONREF]
+* **Categories of Family Civic Data** - [ADD SECTIONREF]
+* **Categories of Personal Data** - [ADD SECTIONREF]
+* **Data Access & Understanding Services** - [ADD SECTIONREF]
 * **Data Literacy in an HDR Context** - [ADD SECTIONREF]
+* **Data Cards** - [ADD SECTIONREF]
+* **Data Wants** - [ADD SECTIONREF]
+* **Digital Self Curation** - [ADD SECTIONREF]
+* **Ecosystem Information** - [ADD SECTIONREF]
+* **Ecosystem Negotiability** - [ADD SECTIONREF]
+* **Free Data Interfaces** - [ADD SECTIONREF]
+* **Human Data Relations** - [ADD SECTIONREF]
+* **Human Information Operating System** - [ADD SECTIONREF]
+* **Human Information** - see Life Information and Ecosystem Information
+* **Inclusive Data Flows** - [ADD SECTIONREF]
+* **Information Standards** - [ADD SECTIONREF]
+* **Inclusive Data Flows** - [ADD SECTIONREF]
+* **Landscape of HDR Opportunity** - [ADD SECTIONREF]
+* **Life Concepts** - [ADD SECTIONREF]
+* **Life Information Utilisation** - [ADD SECTIONREF]
+* **Life Information** - [ADD SECTIONREF]
+* **Life Interface Design** - [ADD SECTIONREF]
+* **Life Partitioning** - [ADD SECTIONREF]
+* **Locus of Decision-making** - [ADD SECTIONREF]
+* **Perceived Individual Power** - [ADD SECTIONREF]
+* **Personal Data Diaspora, the** - [ADD SECTIONREF]
+* **Personal Data Ecosystem Control** - [ADD SECTIONREF]
+* **Personal Data as a Proxy for Involvement** - [ADD SECTIONREF]
+* **Personal Data Stewardship** - [ADD SECTIONREF]
+* **Pushing the Seams** - [ADD SECTIONREF]
+* **Proxy Representations of Immobile Data** - [ADD SECTIONREF]
+* **Shared Data Interaction** - [ADD SECTIONREF]
+* **Surface Information Injustices** - [ADD SECTIONREF]
+* **Storyboarding Cards** - [ADD SECTIONREF]
+* **Trust in Providers, effects upon** - [ADD SECTIONREF]
+* **Types of Personal Data (by origin)** - [ADD SECTIONREF]
+* **Useability**<sup>[15](#fn15)<sup> (as distinct from Usability) - [6.1.3](#want-d3)]
 
-
-[TODO Move the following Glossary to the end, after references]
+[PRODUCTION TODO Move the following Glossary to the end, after references]
 
 Glossary of Pre-Existing Abbreviations, Names and Terms {#glossary .unnumbered}
 ========================================================
 
 * **Action (stage of Personal Informatics)** - see SI
-* **Action Research** -
-* **Accessibility Tags (ARIA)** -
-* **Activism** -
-* **Agency** -
-* **BBC R&D** -
-* **CHC - Connected Health Cities** -
-* **Civic Hacking** -
+* **Action Research** - [ADD SECTIONREF] [ADD DEFINITION]
+* **Accessibility Tags (ARIA)** - [ADD SECTIONREF] [ADD DEFINITION]
+* **Activism** - [ADD SECTIONREF] [ADD DEFINITION]
+* **Agency** - [ADD SECTIONREF] [ADD DEFINITION]
+* **BBC R&D** - [ADD SECTIONREF] [ADD DEFINITION]
+* **CHC - Connected Health Cities** - [ADD SECTIONREF] [ADD DEFINITION]
+* **Civic Hacking** - [ADD SECTIONREF] [ADD DEFINITION]
 * **Collection (stage of Personal Informatics)** - see SI
-* **Consent, Dynamic** -
-* **Consent, Informed** -
-* **Constructivism** -
-* **Conceptual Anchors** -
-* **Context-aware Computing** -
-* **Cornmarket** -
-* **Critical Algorithm Studies** -
-* **Data Access and Understanding Services** -
-* **Data Brokers** -
-* **Data Download Portal** -
-* **Data Flow Auditing** -
-* **Data Justice** -
-* **Data Portability Request** -
-* **Data Provenance** -
-* **Data Self** -
-* **Data Transcendence** -
-* **Data (general)** -
-* **Data, Civic / Family Civic** -
-* **Data, Acquired** -
-* **Data, Derived** -
-* **Data, Metadata** -
-* **Data, Observed** -
-* **Data, Volunteered** -
-* **Data, Trapped** -
-* **DERC** -
-* **Design, Adversarial** -
-* **Design, Design After** -
-* **Design, Disrespectful** -
-* **Design, Experience-centred** -
-* **Design, User-centred Design** -
-* **Design, Value-centred Design** -
-* **Device Tenancy** -
-* **Digital Civics** -
+* **Consent, Dynamic** - [ADD SECTIONREF] [ADD DEFINITION]
+* **Consent, Informed** - [ADD SECTIONREF] [ADD DEFINITION]
+* **Constructivism** - [ADD SECTIONREF] [ADD DEFINITION]
+* **Conceptual Anchors** - [ADD SECTIONREF] [ADD DEFINITION]
+* **Context-aware Computing** - [ADD SECTIONREF] [ADD DEFINITION]
+* **Cornmarket** - [ADD SECTIONREF] [ADD DEFINITION]
+* **Critical Algorithm Studies** - [ADD SECTIONREF] [ADD DEFINITION]
+* **Data Access and Understanding Services** - [ADD SECTIONREF] [ADD DEFINITION]
+* **Data Brokers** - [ADD SECTIONREF] [ADD DEFINITION]
+* **Data Download Portal** - [ADD SECTIONREF] [ADD DEFINITION]
+* **Data Flow Auditing** - [ADD SECTIONREF] [ADD DEFINITION]
+* **Data Justice** - [ADD SECTIONREF] [ADD DEFINITION]
+* **Data Portability Request** - [ADD SECTIONREF] [ADD DEFINITION]
+* **Data Provenance** - [ADD SECTIONREF] [ADD DEFINITION]
+* **Data Self** - [ADD SECTIONREF] [ADD DEFINITION]
+* **Data Transcendence** - [ADD SECTIONREF] [ADD DEFINITION]
+* **Data (general)** - [ADD SECTIONREF] [ADD DEFINITION]
+* **Data, Civic / Family Civic** - [ADD SECTIONREF] [ADD DEFINITION]
+* **Data, Acquired** - [ADD SECTIONREF] [ADD DEFINITION]
+* **Data, Derived** - [ADD SECTIONREF] [ADD DEFINITION]
+* **Data, Metadata** - [ADD SECTIONREF] [ADD DEFINITION]
+* **Data, Observed** - [ADD SECTIONREF] [ADD DEFINITION]
+* **Data, Volunteered** - [ADD SECTIONREF] [ADD DEFINITION]
+* **Data, Trapped** - [ADD SECTIONREF] [ADD DEFINITION]
+* **DERC** - [ADD SECTIONREF] [ADD DEFINITION]
+* **Design, Co-** - [ADD SECTIONREF] [ADD DEFINITION]
+* **Design, Adversarial** - [ADD SECTIONREF] [ADD DEFINITION]
+* **Design, Design After** - [ADD SECTIONREF] [ADD DEFINITION]
+* **Design, Disrespectful** - [ADD SECTIONREF] [ADD DEFINITION]
+* **Design, Experience-centred** - [ADD SECTIONREF] [ADD DEFINITION]
+* **Design, User-centred Design** - [ADD SECTIONREF] [ADD DEFINITION]
+* **Design, Value-centred Design** - [ADD SECTIONREF] [ADD DEFINITION]
+* **Device Tenancy** - [ADD SECTIONREF] [ADD DEFINITION]
+* **Digital Civics** - [ADD SECTIONREF] [ADD DEFINITION]
 * **Digital Self** - see Data Self
 * **DIKW pyramid** - see Wisdom Curve
-* **DPA - Data Protection Authority** -
-* **DPO - Data Protection Officer** -
-* **EPSRC** -
-* **Early Help** -
-* **Effective Access** -
-* **Embodied Interaction** -
-* **Empowerment in Use** -
-* **Entities** -
-* **Explainable AI** -
-* **Faceted Search** -
-* **Entity Extraction** -
-* **File Biography** -
-* **Files, why they need to die** -
+* **DPA - Data Protection Authority** - [ADD SECTIONREF] [ADD DEFINITION]
+* **DPO - Data Protection Officer** - [ADD SECTIONREF] [ADD DEFINITION]
+* **EPSRC** - [ADD SECTIONREF] [ADD DEFINITION]
+* **Early Help** - [ADD SECTIONREF] [ADD DEFINITION]
+* **Effective Access** - [ADD SECTIONREF] [ADD DEFINITION]
+* **Embodied Interaction** - [ADD SECTIONREF] [ADD DEFINITION]
+* **Empowerment in Use** - [ADD SECTIONREF] [ADD DEFINITION]
+* **Entities** - [ADD SECTIONREF] [ADD DEFINITION]
+* **Entity Extraction** - [ADD SECTIONREF] [ADD DEFINITION]
+* **Explainable AI** - [ADD SECTIONREF] [ADD DEFINITION]
+* **Faceted Search** - [ADD SECTIONREF] [ADD DEFINITION]
+* **Entity Extraction** - [ADD SECTIONREF] [ADD DEFINITION]
+* **Entity Extraction** - [ADD SECTIONREF] [ADD DEFINITION]
+* **Entity Extraction** - [ADD SECTIONREF] [ADD DEFINITION]
+* **File Biography** - [ADD SECTIONREF] [ADD DEFINITION]
+* **Files, why they need to die** - [ADD SECTIONREF] [ADD DEFINITION]
 * **GDPR** - General Data Protection Regulation [[REF] () ]
-* **Gatekeeper**-
-* **HCI - Human Computer Interaction** -
-* **HDI - Human Data Interaction** -
-* **Hestia.ai** -
-* **HestiaLabs** -
-* **HII - Human Information Interaction** -
-* **Humane Technology** -
-* **ICO - Information Commissioner's Office** -
-* **Ideation Grids** -
-* **Information (general)** -
-* **Information, Human** -
-* **Information, Life** -
-* **Information, Ecosystem** -
-* **Information Landscape** -
-* **Infrastructural Power, and its Four Levers** -
+* **Gatekeeper**- [ADD SECTIONREF] [ADD DEFINITION]
+* **HCI - Human Computer Interaction** - [ADD SECTIONREF] [ADD DEFINITION]
+* **HDI - Human Data Interaction** - [ADD SECTIONREF] [ADD DEFINITION]
+* **Hestia.ai** - [ADD SECTIONREF] [ADD DEFINITION]
+* **HestiaLabs** - [ADD SECTIONREF] [ADD DEFINITION]
+* **HII - Human Information Interaction** - [ADD SECTIONREF] [ADD DEFINITION]
+* **Humane Technology** - [ADD SECTIONREF] [ADD DEFINITION]
+* **ICO - Information Commissioner's Office** - [ADD SECTIONREF] [ADD DEFINITION]
+* **Ideation Grids** - [ADD SECTIONREF] [ADD DEFINITION]
+* **Information (general)** - [ADD SECTIONREF] [ADD DEFINITION]
+* **Information, Human** - [ADD SECTIONREF] [ADD DEFINITION]
+* **Information, Life** - [ADD SECTIONREF] [ADD DEFINITION]
+* **Information, Ecosystem** - [ADD SECTIONREF] [ADD DEFINITION]
+* **Information Landscape** - [ADD SECTIONREF] [ADD DEFINITION]
+* **Infrastructural Power, and its Four Levers** - [ADD SECTIONREF] [ADD DEFINITION]
 * **Integration (stage of Personal Informatics)** - see Self Informatics
-* **Keeping** -
-* **Legibility** -
-* **Lifelogging** -
-* **Lifestreams** -
-* **Lenses** -
-* **Life Sketching** -
-* **Magical Design** -
-* **MyData** -
-* **Negotiability**
+* **Keeping** - [ADD SECTIONREF] [ADD DEFINITION]
+* **Legibility** - [ADD SECTIONREF] [ADD DEFINITION]
+* **Lifelogging** - [ADD SECTIONREF] [ADD DEFINITION]
+* **Lifestreams** - [ADD SECTIONREF] [ADD DEFINITION]
+* **Lenses** - [ADD SECTIONREF] [ADD DEFINITION]
+* **Life Sketching** - [ADD SECTIONREF] [ADD DEFINITION]
+* **Magical Design** - [ADD SECTIONREF] [ADD DEFINITION]
+* **MyData** - [ADD SECTIONREF] [ADD DEFINITION]
+* **Negotiability** - [ADD SECTIONREF] [ADD DEFINITION]
 * **NER - Named Entity Recognition** - see Entity Extraction
-* **Open Lab** -
-* **Orienteering** -
-* **PDS - Personal Data Store**- See Personal Data Lockers
-* **PIM - Personal Information Management** -
-* **PIM systems, contextual** -
-* **PIM systems, networked** -
-* **PIM systems, semantic** -
-* **PIM systems, spatial** -
-* **PIM systems, subjective** -
-* **PIM systems, temporal** -
+* **Open Lab** - [ADD SECTIONREF] [ADD DEFINITION]
+* **Orienteering** - [ADD SECTIONREF] [ADD DEFINITION]
+* **PDS - Personal Data Store** - See Personal Data Lockers
+* **PIM - Personal Information Management** - [ADD SECTIONREF] [ADD DEFINITION]
+* **PIM systems, contextual** - [ADD SECTIONREF] [ADD DEFINITION]
+* **PIM systems, networked** - [ADD SECTIONREF] [ADD DEFINITION]
+* **PIM systems, semantic** - [ADD SECTIONREF] [ADD DEFINITION]
+* **PIM systems, spatial** - [ADD SECTIONREF] [ADD DEFINITION]
+* **PIM systems, subjective** - [ADD SECTIONREF] [ADD DEFINITION]
+* **PIM systems, temporal** - [ADD SECTIONREF] [ADD DEFINITION]
 * **PIMS** - Personal Information Management Services - See Personal Data Lockers
-* **Participatory Action Research**
-* **PDE - Personal Data Economy** -
-* **Personal Data Ecosystem** -
-* **Personal Data Lockers** -
+* **Participatory Action Research** - see Action Research
+* **PDE - Personal Data Economy** - [ADD SECTIONREF] [ADD DEFINITION]
+* **Personal Data Ecosystem** - [ADD SECTIONREF] [ADD DEFINITION]
+* **Personal Data Lockers** - [ADD SECTIONREF] [ADD DEFINITION]
 * **Personal Data Vault** - See Personal Data Lockers
 * **Personal Informatics** - see SI
 * **Preparation (stage of Personal Informatics)** - see SI
-* **Perspectives** -
-* **Point of Severance** -
-* **Power - Behavioural Influence** -
-* **Power - Interpretative Influence** -
-* **Power - Network Centrality** -
-* **Power, Authority** -
-* **Power, Disciplinary** -
-* **Power, Infrastructural** -
-* **Power, Interpretive** -
-* **Power, Processual** -
-* **Power, Rational** -
-* **Power, Resource Control** -
-* **Power, Socially-shaped** -
+* **Perspectives** - [ADD SECTIONREF] [ADD DEFINITION]
+* **Point of Severance** - [ADD SECTIONREF] [ADD DEFINITION]
+* **Power - Behavioural Influence** - [ADD SECTIONREF] [ADD DEFINITION]
+* **Power - Interpretative Influence** - [ADD SECTIONREF] [ADD DEFINITION]
+* **Power - Network Centrality** - [ADD SECTIONREF] [ADD DEFINITION]
+* **Power, Authority** - [ADD SECTIONREF] [ADD DEFINITION]
+* **Power, Disciplinary** - [ADD SECTIONREF] [ADD DEFINITION]
+* **Power, Infrastructural** - [ADD SECTIONREF] [ADD DEFINITION]
+* **Power, Interpretive** - [ADD SECTIONREF] [ADD DEFINITION]
+* **Power, Processual** - [ADD SECTIONREF] [ADD DEFINITION]
+* **Power, Rational** - [ADD SECTIONREF] [ADD DEFINITION]
+* **Power, Resource Control** - [ADD SECTIONREF] [ADD DEFINITION]
+* **Power, Socially-shaped** - [ADD SECTIONREF] [ADD DEFINITION]
 * **Power, Systems/Structural** - see Infrastructural Power
-* **Power, Zero Sum** -
-* **Pragmatism** -
+* **Power, Zero Sum** - [ADD SECTIONREF] [ADD DEFINITION]
+* **Pragmatism** - [ADD SECTIONREF] [ADD DEFINITION]
 * **QSM - Quantified Self Movement** - see SI
 * **Reflection (stage of Personal Informatics)** - see SI
-* **Recursive Public** -
-* **Reminding** -
-* **SAR - Subject Access Request** -
+* **Recursive Public** - [ADD SECTIONREF] [ADD DEFINITION]
+* **Reminding** - [ADD SECTIONREF] [ADD DEFINITION]
+* **SAR - Subject Access Request** - [ADD SECTIONREF] [ADD DEFINITION]
 * **SI - Self Informatics** - Self Informatics [[REF] () ]
-* **SILVER** -
-* **Sitra** -
-* **Scraping** -
-* **Seams** -
-* **Subjective Classification Principle** -
-* **Subjective Importance Principle** -
-* **Subjective Context Principle** -
-* **Support Worker** -
-* **Supported Family** -
-* **Text Mining** -
-* **ToC - Theories of Change** -
-* **Timelines** -
+* **SILVER** - [ADD SECTIONREF] [ADD DEFINITION]
+* **Sitra** - [ADD SECTIONREF] [ADD DEFINITION]
+* **Scraping** - [ADD SECTIONREF] [ADD DEFINITION]
+* **Seams** - [ADD SECTIONREF] [ADD DEFINITION]
+* **Subjective Classification Principle** - [ADD SECTIONREF] [ADD DEFINITION]
+* **Subjective Importance Principle** - [ADD SECTIONREF] [ADD DEFINITION]
+* **Subjective Context Principle** - [ADD SECTIONREF] [ADD DEFINITION]
+* **Support Worker** - [ADD SECTIONREF] [ADD DEFINITION]
+* **Supported Family** - [ADD SECTIONREF] [ADD DEFINITION]
+* **Text Mining** - [ADD SECTIONREF] [ADD DEFINITION]
+* **ToC - Theories of Change** - [ADD SECTIONREF] [ADD DEFINITION]
+* **Timelines** - [ADD SECTIONREF] [ADD DEFINITION]
 * **TrackerControl** - see Data Flow Auditing.
-* **Troubled Families** -
-* **VRM - Vendor Relationship Management** -
-* **Web Augmentation** -
-* **Web Extensions** -
-* **Wisdom Curve** -
-* **world2vec** -
+* **Troubled Families** - [ADD SECTIONREF] [ADD DEFINITION]
+* **VRM - Vendor Relationship Management** - [ADD SECTIONREF] [ADD DEFINITION]
+* **Web Augmentation** - [ADD SECTIONREF] [ADD DEFINITION]
+* **Web Extensions** - [ADD SECTIONREF] [ADD DEFINITION]
+* **Wisdom Curve** - [ADD SECTIONREF] [ADD DEFINITION]
+* **world2vec** - [ADD SECTIONREF] [ADD DEFINITION]
 
 [TODO add all the actions from 2.1.4, 2.2.2, 2.2.3 here]

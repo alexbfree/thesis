@@ -88,7 +88,7 @@ This strand will be addressed in parallel to RQ1 and RQ2, so that practical disc
 Overview of Research Contexts and Activities{#3.4}
 --------------------------------------------
 
-![Figure 3.2: Research Activities and Contexts](./src/figs/fig04-activities-and-contexts.jpg){#figure-3.2}
+![Figure 3.2: Research Activities and Contexts](./src/figs/fig3.2-activities-and-contexts.jpg){#figure-3.2}
 [TODO: UPDATE Figure 3.2 to diminish BBC and add Hestia and remove RQ3/Case Study Three.]
 
 As explained in the last section, the three sub-research questions RQ1, RQ2 and RQ3 [TODO deformalise RQ3] have been addressed in parallel throughout this research. They can be considered as three parallel trajectories of research and learning, each informed by some or all of my research activities as they progress, in cycles of action research as described in section 3.2 above. Figure 3.2 shows these three parallel research objectives as downward arrows. Considered as three areas of understanding, RQ1 can be seen as understanding personal _data_, RQ2 as understanding data in _relationships_, [TODO de-formalize RQ3] and RQ3 as understanding how to reconfigure data interaction in _practice_. [Figure 3.2](#figure-3.2) also illustrates how the three contexts of study, addressed through two major case studies and a number of other activities, which I will explain below, contribute to advancing my understanding of each area - with the positioning of the box over an arrow indicating that it contributes to that area of understanding.
@@ -188,8 +188,7 @@ Sometimes sensitisation activities can also serve an additional purpose of bring
 
 ![Figure 3.6: Family Civic Data Cards -- Things to Think With](./src/figs/fig3.6-data-cards.jpg){#figure-3.6}
 
-![Figure 3.7: Personal Data Examples -- Making Data Relatable](./src/figs/fig3.7-personal-data-examples.jpg){#figure-3.7}
-[TODO ADD THE PERSONAL DATA TYPES SLIDE FILE]
+![Figure 3.7: Personal Data Examples -- Making Data Relatable](./src/figs/fig3.7-personal-data-examples.png){#figure-3.7}
 [TODO ADD TEXT REFERENCING FIGURE 3.7]
 
 ![Figure 3.8: Home Interviewing: Card Sorting With a Family in Their Living Room](./src/figs/fig3.8-home-visit.jpg){#figure-3.8}
