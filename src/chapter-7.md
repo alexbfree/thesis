@@ -7,6 +7,9 @@ Introduction & Background
 ----------------
 
 [TODO EXPAND THE ORIGINAL RESEARCH QUESTION EXPLICITLY HERE, USING THE CUT MATERIAL FROM CHAPTER 2]
+[THROW BACK TO informing self as adversarial designer 3.2]
+[also more UCD than PD (3.2)]
+[formulate the link from Participatory action research to practical peripheral design and development and activism and recursive public -- maybe within 7.2.5 not here?]
 
 Through the Case Studies (Chapter 4 & 5) and the discussion in Chapter 6, a clear understanding of what people want from direct and indirect data relations (RQ1 & RQ2) has been established. In this chapter, we turn our attention from theory to practice, from what is needed to *what is possible*. Specifically, this chapter will return to the overall research question and consider _"How might [better Human Data Relations] be achieved?"_, and answer this question by describing practical approaches for future research, innovation and policy that are either novel or already emergent.
 
