@@ -82,5 +82,9 @@ In this thesis, and its title I use the term _'human data relations'_ to encompa
 
 In parallel to this, I was began to conduct my own experiments using GDPR to see and explore my own data. This allowed me to sensitise myself to the research space, and to enhance my understanding of RQ3 (finding out more about what is and is not possible in practice when it comes to everyday personal data access) [TODO deformalise RQ3] but also crucially it enabled me to become a participant in my own research, enabling a deeper understanding of this research context.
 
+----
+
+In chapter 7, a similar approach was used, although in this case as this was not a participatory engagement, the source text was my own captured field notes informed by design materials and other digital files created as part of the research placement.
+
 
 -----
