@@ -86,5 +86,22 @@ In parallel to this, I was began to conduct my own experiments using GDPR to see
 
 In chapter 7, a similar approach was used, although in this case as this was not a participatory engagement, the source text was my own captured field notes informed by design materials and other digital files created as part of the research placement.
 
-
 -----
+
+cut from epistemology section:
+
+
+
+
+
+ but are constantly tested and re-evaluated by their practical experiences of the world. In particular
+
+To me this is an overriding truth about reality and this focus on understanding change, as perceived by individuals, is a key research motivation. Where constructivists may focus more upon deeply understanding an individual's reality at a moment in time, .
+
+I also look to
+
+
+
+ At this point we must consider the individual's motivation for constructing and pragmatically changing their concepts of the world, and to understand this we can look to _objectivism_ [@peikoff1993], the philosophy put forward by Ayn Rand, which is a belief that the mind, informed by the senses, is the means by which we discover truths about the world, and it does so by forming concepts and using _inductive reasoning_ [@smith2011] (in essence, "if these things are true then what else must be true?") to acquire knowledge).
+
+Objectivism also states As a final philosophical element to incorporate,
