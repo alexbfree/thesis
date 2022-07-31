@@ -1,16 +1,21 @@
 Appendices {.unnumbered}
 ===========
 
-### Appendix A: The Pilot Study {.unnumbered}
+### Appendix A: The Pilot Study {#appendix-a .unnumbered}
 
 See description in [1.3.1](#1.3.1)
 
-### Appendix B: Case Study Two Methodology: Additional Details {.unnumbered}
+### Appendix B: Case Study One Methodology: Additional Details (Storyboarding Cards) {#appendix-b .unnumbered}
 
+[PRODUCTION TODO: ADD STORYBOARDING TEXT FROM JOURNAL PAPER]
 
-### Appendix C: Ethics Approvals {.unnumbered}
+### Appendix C: Case Study Two Methodology: Additional Details {#appendix-c .unnumbered}
 
-### Appendix D: The Private Data Viewing Monitor {.unnumbered}
+[PRODUCTION TODO: ADD ADDITIONAL MATERIAL FROM CHI 2022 PAPER]
+
+### Appendix D: Ethics Approvals {#appendix-d .unnumbered}
+
+### Appendix E: The Private Data Viewing Monitor {#appendix-e .unnumbered}
 
 By removing the filter layer on an old monitor and modifying cinema IMAX glasses, a monitor was created that only allowed viewing by the holder of the viewing glasses, which would be ideal for interviewing someone about their data while respecting privacy. Face to face interviewing had to be abandoned due to COVID-19, so this technique was sadly never used in practice.
 
@@ -91,6 +96,8 @@ This section serves as both a glossary to explain abbreviations and existing ter
 * **Digital Self Curation** - [ADD SECTIONREF]
 * **Ecosystem Information** - [ADD SECTIONREF]
 * **Ecosystem Negotiability** - [ADD SECTIONREF]
+* **Family Design Games** - [ADD SECTIONREF]
+* **Family Facts** - [ADD SECTIONREF]
 * **Free Data Interfaces** - [ADD SECTIONREF]
 * **Human Data Relations** - [ADD SECTIONREF]
 * **Human Information Operating System** - [ADD SECTIONREF]
@@ -130,6 +137,8 @@ Glossary of Pre-Existing Abbreviations, Names and Terms {#glossary .unnumbered}
 * **Activism** - [ADD SECTIONREF] [ADD DEFINITION]
 * **Agency** - [ADD SECTIONREF] [ADD DEFINITION]
 * **BBC R&D** - [ADD SECTIONREF] [ADD DEFINITION]
+* **Boundary Objects**  - [ADD SECTIONREF] [ADD DEFINITION]
+* **Card Sorting** - [ADD SECTIONREF] [ADD DEFINITION]
 * **CHC - Connected Health Cities** - [ADD SECTIONREF] [ADD DEFINITION]
 * **Civic Hacking** - [ADD SECTIONREF] [ADD DEFINITION]
 * **Collection (stage of Personal Informatics)** - see SI
@@ -138,6 +147,7 @@ Glossary of Pre-Existing Abbreviations, Names and Terms {#glossary .unnumbered}
 * **Constructivism** - [ADD SECTIONREF] [ADD DEFINITION]
 * **Conceptual Anchors** - [ADD SECTIONREF] [ADD DEFINITION]
 * **Context-aware Computing** - [ADD SECTIONREF] [ADD DEFINITION]
+* **Co-experience** - [ADD SECTIONREF] [ADD DEFINITION]
 * **Cornmarket** - [ADD SECTIONREF] [ADD DEFINITION]
 * **Critical Algorithm Studies** - [ADD SECTIONREF] [ADD DEFINITION]
 * **Data Access and Understanding Services** - [ADD SECTIONREF] [ADD DEFINITION]
@@ -169,6 +179,7 @@ Glossary of Pre-Existing Abbreviations, Names and Terms {#glossary .unnumbered}
 * **Digital Civics** - [ADD SECTIONREF] [ADD DEFINITION]
 * **Digital Self** - see Data Self
 * **DIKW pyramid** - see Wisdom Curve
+* **Double Diamond** - [ADD SECTIONREF] [ADD DEFINITION]
 * **DPA - Data Protection Authority** - [ADD SECTIONREF] [ADD DEFINITION]
 * **DPO - Data Protection Officer** - [ADD SECTIONREF] [ADD DEFINITION]
 * **EPSRC** - [ADD SECTIONREF] [ADD DEFINITION]
@@ -180,8 +191,6 @@ Glossary of Pre-Existing Abbreviations, Names and Terms {#glossary .unnumbered}
 * **Entity Extraction** - [ADD SECTIONREF] [ADD DEFINITION]
 * **Explainable AI** - [ADD SECTIONREF] [ADD DEFINITION]
 * **Faceted Search** - [ADD SECTIONREF] [ADD DEFINITION]
-* **Entity Extraction** - [ADD SECTIONREF] [ADD DEFINITION]
-* **Entity Extraction** - [ADD SECTIONREF] [ADD DEFINITION]
 * **Entity Extraction** - [ADD SECTIONREF] [ADD DEFINITION]
 * **File Biography** - [ADD SECTIONREF] [ADD DEFINITION]
 * **Files, why they need to die** - [ADD SECTIONREF] [ADD DEFINITION]
@@ -246,6 +255,7 @@ Glossary of Pre-Existing Abbreviations, Names and Terms {#glossary .unnumbered}
 * **Power, Systems/Structural** - see Infrastructural Power
 * **Power, Zero Sum** - [ADD SECTIONREF] [ADD DEFINITION]
 * **Pragmatism** - [ADD SECTIONREF] [ADD DEFINITION]
+* **Priming a Discussion** - [ADD SECTIONREF] [ADD DEFINITION]
 * **QSM - Quantified Self Movement** - see SI
 * **Reflection (stage of Personal Informatics)** - see SI
 * **Recursive Public** - [ADD SECTIONREF] [ADD DEFINITION]
@@ -263,6 +273,7 @@ Glossary of Pre-Existing Abbreviations, Names and Terms {#glossary .unnumbered}
 * **Supported Family** - [ADD SECTIONREF] [ADD DEFINITION]
 * **Text Mining** - [ADD SECTIONREF] [ADD DEFINITION]
 * **ToC - Theories of Change** - [ADD SECTIONREF] [ADD DEFINITION]
+* **Things to Think With** - [ADD SECTIONREF] [ADD DEFINITION]
 * **Timelines** - [ADD SECTIONREF] [ADD DEFINITION]
 * **TrackerControl** - see Data Flow Auditing.
 * **Troubled Families** - [ADD SECTIONREF] [ADD DEFINITION]
