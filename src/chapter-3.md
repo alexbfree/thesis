@@ -1,4 +1,4 @@
-For the main study, participants were invited by local care authorities, simplifying recruitment.Methodology {#chapter-3}
+Methodology {#chapter-3}
 =======================
 
 > _"Research is defining the invisible."_ -― Steven Magee (author and researcher)
