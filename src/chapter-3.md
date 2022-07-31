@@ -257,15 +257,15 @@ All research activities referenced in this thesis were planned in advance, with 
 
 4. _Adapting to COVID-19_: As COVID-19 changed working and living conditions in early 2020, Case Study Two was adapted to no longer rely on face-to-face engagement. The in-person privacy monitor approach mentioned above was abandoned and replaced with an online Zoom-based approach. In this model, participants would share parts of their data using screen sharing instead, and could move windows off screen to protect their privacy. The full study plan for Case Study Two was rewritten for online-based participation and was re-approved by the Ethics Board.
 
-Summation: [TODO Write title here]
-----------------------------------
+Summation: Towards an Understanding of Human Data Relations and Beyond
+----------------------------------------------------------------------
 
-![Figure 3.14: Research Activities and Contexts](./src/figs/fig3.14-activities-and-contexts.jpg){#figure-3.14}
-[TODO: UPDATE Figure 3.14 to diminish BBC and add Hestia and remove RQ3/Case Study Three.]
+![Figure 3.14: How the Case Studies and Peripheral Activities Contribute to This Thesis](./src/figs/fig3.14-rqs-and-activities.jpg){#figure-3.14}
 
-As explained XXX, the three sub-research questions RQ1, RQ2 and RQ3 [TODO deformalise RQ3] have been addressed in parallel throughout this research. They can be considered as three parallel trajectories of research and learning, each informed by some or all of my research activities as they progress, in cycles of action research as described in section 3.2 above. Figure 3.2 shows these three parallel research objectives as downward arrows. Considered as three areas of understanding, RQ1 can be seen as understanding personal _data_, RQ2 as understanding data in _relationships_, [TODO de-formalize RQ3] and RQ3 as understanding how to reconfigure data interaction in _practice_. [Figure 3.2](#figure-3.2) also illustrates how the three contexts of study, addressed through two major case studies and a number of other activities, which I will explain below, contribute to advancing my understanding of each area - with the positioning of the box over an arrow indicating that it contributes to that area of understanding.
+As established earlier [[1.4](#1.4); [3.2](#3.2)], the primary focus of the empirical participatory co-design research in this PhD is to arrive at an understanding of what people need from data and in relationships involving data. [Figure 3.14](#figure-3.14) shows three parallel research objectives as downward arrows, considered as three trajectories of evolving understanding. The first two of these correspond to [RQ1](#RQ1) (which can be seen as understanding personal _data_), and [RQ2](#RQ2) (which can be seen as as understanding data in _relationships_). The positioning of activites as boxes along these arrows throughout the period of this PhD, indicates that that activity contributes to that area of understanding, and collectively this shows how all activities contribute towards delivering that understanding in [Chapter 6](#chapter-6) as an answer to [RQ1](#RQ1) and [RQ2](#RQ2).
 
-[TODO Write Summation of Methodology]
+[Figure 3.14](#figure-3.14) also shows how the peripheral adversarial design activities run alongside the Case Studies, developing an understanding of how human relationships with data can be improved _in practice_ (the third downward arrow). These peripheral activities (which will not be detailed until [Chapter 7](#chapter-7), specifically in [7.1.1](#7.1.1)) have informed the participatory research work throughout the PhD, and vice-versa, in line with the action research approach shown in [Figure 3.1](#figure-3.1).
 
+Using the methodologies in this chapter, Case Studies One and Two will answer [RQ1](#RQ1) and [RQ2](#RQ2), with the findings across the two studies being synthesised in [Chapter 6](#chapter-6), before [Chapter 7](#chapter-7) moves forward from investigatory research into adversarial design and activism techniques (detailed in that chapter), to chart opportunities for bringing the identified individual needs into reality.
 
 ---
