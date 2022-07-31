@@ -112,6 +112,7 @@ This section serves as both a glossary to explain abbreviations and existing ter
 * **Life Interface Design** - [ADD SECTIONREF]
 * **Life Partitioning** - [ADD SECTIONREF]
 * **Locus of Decision-making** - [ADD SECTIONREF]
+* **Meaning in Data** - [ADD SECTIONREF]
 * **Perceived Individual Power** - [ADD SECTIONREF]
 * **Personal Data Diaspora, the** - [ADD SECTIONREF]
 * **Personal Data Ecosystem Control** - [ADD SECTIONREF]
@@ -141,6 +142,7 @@ Glossary of Pre-Existing Abbreviations, Names and Terms {#glossary .unnumbered}
 * **Card Sorting** - [ADD SECTIONREF] [ADD DEFINITION]
 * **CHC - Connected Health Cities** - [ADD SECTIONREF] [ADD DEFINITION]
 * **Civic Hacking** - [ADD SECTIONREF] [ADD DEFINITION]
+* **Civil Libertarianism** - [ADD SECTIONREF] [ADD DEFINITION]
 * **Collection (stage of Personal Informatics)** - see SI
 * **Consent, Dynamic** - [ADD SECTIONREF] [ADD DEFINITION]
 * **Consent, Informed** - [ADD SECTIONREF] [ADD DEFINITION]
@@ -204,6 +206,7 @@ Glossary of Pre-Existing Abbreviations, Names and Terms {#glossary .unnumbered}
 * **Humane Technology** - [ADD SECTIONREF] [ADD DEFINITION]
 * **ICO - Information Commissioner's Office** - [ADD SECTIONREF] [ADD DEFINITION]
 * **Ideation Grids** - [ADD SECTIONREF] [ADD DEFINITION]
+* **Individualism** - [ADD SECTIONREF] [ADD DEFINITION]
 * **Information (general)** - [ADD SECTIONREF] [ADD DEFINITION]
 * **Information, Human** - [ADD SECTIONREF] [ADD DEFINITION]
 * **Information, Life** - [ADD SECTIONREF] [ADD DEFINITION]

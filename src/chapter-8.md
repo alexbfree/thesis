@@ -1,6 +1,8 @@
 Conclusion {#chapter-8}
 ===========
 
+> _"What drives and drags the world are not machines, but ideas."_ -- Victor Hugo
+
 In this chapter, I will reflect on my journey as a researcher, activist and innovator through this work, and contextualise the contributions of the thesis in terms of their legacy and future value.
 
 Personal Reflection
