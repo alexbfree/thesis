@@ -109,8 +109,8 @@ This concept emerged in part from the participants in the first phase (see below
 
 | Workshop | Engagement | Phase | Number of Participants | Activities |
 |:---------:|------------------|:--:|----------------|-----------------|
-| Workshop A | Design Workshop for Families | 1 | 8 adults and 9 children from 5 supported families | - Data Card Sorting<br/>- Sentence Ranking<br/>- Ideation Grids <br/>- Poster Design<br/>- Scenario Discussion |
-| Workshop B<br/>(2 instances) | Design Workshop for Staff | 1 | 36 support workers & related staff (in total) | - Data Card Sorting<br/>- Sentence Ranking<br/>- Ideation Grids<br/>- Poster Design<br/>- Scenario Discussion<br/>- Interface Discussion |
+| Workshop A | Design Workshop for Families | 1 | 8 adults and 9 children from 5 supported families | - Data Card Sorting<br/>- Sentence Ranking<br/>- Ideation Decks <br/>- Poster Design<br/>- Scenario Discussion |
+| Workshop B<br/>(2 instances) | Design Workshop for Staff | 1 | 36 support workers & related staff (in total) | - Data Card Sorting<br/>- Sentence Ranking<br/>- Ideation Decks<br/>- Poster Design<br/>- Scenario Discussion<br/>- Interface Discussion |
 | Workshop C | Combined Staff and Parents' Design Workshop | 2 | 3 support workers and 4 parents from supported families | - Sentence Ranking<br/>- Storyboarding Practice<br/>- Scenario-based Storyboarding |
 
 Table: Table 4 - Case Study One Group Design Workshops.

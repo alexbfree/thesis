@@ -41,7 +41,7 @@ Lists of Figures by Chapter {.unnumbered}
 * **[Figure 3.6](#figure-3.6)** - Family Civic Data Cards -- Things to Think With
 * **[Figure 3.7](#figure-3.7)** - Personal Data Examples -- Making Data Relatable
 * **[Figure 3.8](#figure-3.8)** - Home Interviewing: Card Sorting With a Family in Their Living Room
-* **[Figure 3.9](#figure-3.9)** - Ideation Grids -- Combining Random Design Ingredients to Generate New Ideas
+* **[Figure 3.9](#figure-3.9)** - Ideation Decks -- Combining Random Design Ingredients to Generate New Ideas
 * **[Figure 3.10](#figure-3.10)** - Group Poster Design -- A Participant-designed Poster to Advertise Features of Imagined Data Interface Products
 * **[Figure 3.11](#figure-3.11)** - Storyboarding Cards -- A Collaboratively-constructed Narrative Created through Discussion From a Palette of Possible Parent and Staff Actions
 * **[Figure 3.12](#figure-3.12)** - Thematic Analysis of Qualitative Data using Quirkos for Case Study One
