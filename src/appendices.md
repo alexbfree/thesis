@@ -5,6 +5,8 @@ Appendices {.unnumbered}
 
 See description in [1.3.1](#1.3.1)
 
+[PRODUCTION TODO: ADD PILOT STUDY PAPER HERE]
+
 ### Appendix B: Case Study One Methodology: Additional Details (Storyboarding Cards) {#appendix-b .unnumbered}
 
 [PRODUCTION TODO: ADD STORYBOARDING TEXT FROM JOURNAL PAPER]
@@ -13,9 +15,41 @@ See description in [1.3.1](#1.3.1)
 
 [PRODUCTION TODO: ADD ADDITIONAL MATERIAL FROM CHI 2022 PAPER]
 
-### Appendix D: Ethics Approvals {#appendix-d .unnumbered}
+### Appendix D: Periperal Research Settings: Additional Details {#appendix-d .unnumbered}
 
-### Appendix E: The Private Data Viewing Monitor {#appendix-e .unnumbered}
+#### BBC R&D's Cornmarket Project{#d.1 .unnumbered}
+
+I took a three-month sabbatical from my PhD in the summer of 2020. I was remotely embedded within a full-time research internship into the British Broadcasting Corporation (BBC)'s Research and Development (R&D) department, working with specialists, designers, researchers and developers on an exploratory research project codenamed _'Cornmarket'_. I continued this involvement as a part-time research consultant and critical friend for a further 5 months after the conclusion of the initial three-month placement.
+
+As part of its Royal Charter, one of the BBC's lesser known obligations is to maintain a 'centre of excellence' for research and development in broadcasting and electronic media [TODO ADD REF BBC Charter], and to this end it employs over 200 researchers in its R&D department looking at everything from AV engineering and production tools to new forms of media, virtual reality, digital wellbeing and human data interaction. The Cornmarket project, launched in 2019, is a BBC-internal human-data interaction research project which explores a possible role for the BBC as it moves beyond broadcast television, using its public service responsibility to guide citizens to a position of empowerment within today's digital landscape - encompassing not just entertainment but health, finance and self-identity. Due to its unique funding from UK-wide TV licensing and its duties to not only entertain but to inform and educate the general public, the BBC is uniquely placed to take a more human-centred approach than commercial innovators in this space as it needs only to deliver value, not profit. The project is exploring the use of Solid [@bernersLee2022inruptSolid] technology to build a working Personal Data Store (PDS) prototype [[2.3.4](#2.3.4)] while also developing, iterating and trialling user interface designs and conducting participatory research interviews and activities all to explore what for a BBC PDS might take and what features its potential users might value.
+
+The proposed BBC PDS product would allow people to populate a PDS with personal data from APIs and data downloads from a variety of services including BBC iPlayer, Netflix, All4, Spotify, Instagram, Strava, Apple Health, banks and finance companies, as well as social media companies such as Facebook, LinkedIn and Twitter, and then to use these combined data sources to create personal _"profiles"_ for Health, Finance, Media (i.e. entertainment) and Core, within which various data insights, visualisations, capabilities would be delivered. One feature the work explores in depth as potentially valuable to users is the ability to include and exclude certain datapoints from the imported viewing history data in order to present a more accurate, curated view of oneself that could then be fed back to other applications such as BBC Sounds to give better content recommendations.
+
+With a cross-disciplinary team of around 20 people including architects, developers, user experience designers, product designers, innovators, participatory researchers and marketers, and funding to outsource public engagement research to agencies, this project represents a significant player in the emerging personal data economy [[2.3.4](#2.3.4)]. As such the Cornmarket project is a fertile ground in which to learn more from practitioners in the PDE space and to test the learnings of this thesis in practice while also finding deeper insights in response to my research questions - in particular RQ3 which is concerned with the building of more human-centric personal data interfaces in practice.
+
+Much of the work I did during this extended internship can be seen in the designs within [7.4.3](#7.4.3), as well as the research report I wrote [TODO ADD REF TO RESEARCH REPORT] and internship writeup [TODO ADD REF TO INTERNSHIP WRITEUP]. My work with the Cornmarket project can be seen as the conclusion of one of several action research cycles within my PhD [3.2.2](#3.2.2).
+
+#### Sitra/Hestia.ai's digipower Project{#d.2 .unnumbered}
+
+[TODO Describe Digipower here]
+
+[@härkönen2022report]
+[@ [@bowyer2022hestia; @pidoux2022]]
+.. and I continue with Hestia
+
+#### Connected Health Cities (CHC)'s SILVER Project{#d.3 .unnumbered}
+
+[TODO More description about Silver Dev here]
+
+#### Digital Economy Research Centre (DERC)'s Healthy Eating Web Augmentation Project{#d.4 .unnumbered}
+
+[TODO Describe DERC project work here]
+
+### Appendix E: Ethics Approvals {#appendix-e .unnumbered}
+
+[PRODUCTION TODO: ADD ETHICS APPROVALS HERE]
+
+### Appendix F: The Private Data Viewing Monitor {#appendix-f .unnumbered}
 
 By removing the filter layer on an old monitor and modifying cinema IMAX glasses, a monitor was created that only allowed viewing by the holder of the viewing glasses, which would be ideal for interviewing someone about their data while respecting privacy. Face to face interviewing had to be abandoned due to COVID-19, so this technique was sadly never used in practice.
 
@@ -137,6 +171,7 @@ Glossary of Pre-Existing Abbreviations, Names and Terms {#glossary .unnumbered}
 * **Accessibility Tags (ARIA)** - [ADD SECTIONREF] [ADD DEFINITION]
 * **Activism** - [ADD SECTIONREF] [ADD DEFINITION]
 * **Agency** - [ADD SECTIONREF] [ADD DEFINITION]
+* **Barriers Cascade** - [ADD SECTIONREF] [ADD DEFINITION]
 * **BBC R&D** - [ADD SECTIONREF] [ADD DEFINITION]
 * **Boundary Objects**  - [ADD SECTIONREF] [ADD DEFINITION]
 * **Card Sorting** - [ADD SECTIONREF] [ADD DEFINITION]
@@ -196,7 +231,7 @@ Glossary of Pre-Existing Abbreviations, Names and Terms {#glossary .unnumbered}
 * **Entity Extraction** - [ADD SECTIONREF] [ADD DEFINITION]
 * **File Biography** - [ADD SECTIONREF] [ADD DEFINITION]
 * **Files, why they need to die** - [ADD SECTIONREF] [ADD DEFINITION]
-* **GDPR** - General Data Protection Regulation [[REF] () ]
+* **GDPR - General Data Protection Regulation** - [ADD SECTIONREF] [ADD DEFINITION]
 * **Gatekeeper**- [ADD SECTIONREF] [ADD DEFINITION]
 * **HCI - Human Computer Interaction** - [ADD SECTIONREF] [ADD DEFINITION]
 * **HDI - Human Data Interaction** - [ADD SECTIONREF] [ADD DEFINITION]
@@ -260,6 +295,7 @@ Glossary of Pre-Existing Abbreviations, Names and Terms {#glossary .unnumbered}
 * **Pragmatism** - [ADD SECTIONREF] [ADD DEFINITION]
 * **Priming a Discussion** - [ADD SECTIONREF] [ADD DEFINITION]
 * **QSM - Quantified Self Movement** - see SI
+* **R&D - Research & Development** - [ADD SECTIONREF] [ADD DEFINITION]
 * **Reflection (stage of Personal Informatics)** - see SI
 * **Recursive Public** - [ADD SECTIONREF] [ADD DEFINITION]
 * **Reminding** - [ADD SECTIONREF] [ADD DEFINITION]

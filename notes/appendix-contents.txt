@@ -3,9 +3,6 @@ Appendix Contents
 c3
 
 - CHI 2018 paper (referenced in C3)
-- Report about smartphone usefulness (referenced in C3)
-- One pager about Digital Life Interview 2017 (TO WRITE) (referenced in C3)
-- Three pager about Findings from Self GDPR experiments (TO WRITE) (referenced in C3)
 - disruption paper (referenced in C3)
 - ETHICS
 
@@ -15,11 +12,9 @@ c4
 - list of sentences Sn etc - from paper
 - list of quotes, SQnn etc - from the back of the paper. "Due to the size of the corpus, only those quotes referenced in the paper are included".
 
-
 c5
 - GDPR request examples
 - blank spreadsheet examples
-
 
 quotes to added to what's in the paper
 
