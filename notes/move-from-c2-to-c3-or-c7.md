@@ -18,6 +18,12 @@ By adopting both a participatory design and technical strategist's standpoint, b
 I will seek to synthesise an understanding of the technical, legal, policy, economic and social realities of the PDE landscape itself, sufficient to inform the design of PDE processes and systems. Thinking of the barriers cascade in the SI space [@li2010], what barriers exist that inhibit the building or adoption of PDE human-centric technologies? What opportunities might make it easier to overcome these barriers and to catalyse progress toward the human-centric agenda as envisioned in the MyData declaration? What are the key challenges faced when we attempt to build human-centric technologies in today's world? By applying learnings about human experiences and attitudes to the data-centric world to the practice of PDE design & development, can we more clearly map the road ahead and define a research agenda for the next step of tackling the PDE challenge?
 
 
+----
+
+as this peripheral work has informed and allowed me to build upon the core HDR understanding from the investigativeal research, and much of the work has often aligned well to the six data wants [[Chapter 6](#chapter-6)]
+
+\
+ answer this question by describing practical approaches for future research, innovation and policy that are either novel or already emergent.
 
 ------
 
@@ -44,3 +50,13 @@ from C3 Contexts
 
 SILVER context dev sided
 Because it was aiming to build a real-world technical solution, this would provide practical insights that would serve RQ3 [TODO remove], and as
+
+
+---
+
+cut from c7 intro
+
+The shape this chapter takes is to  then to to illustrate what specific **obstacles** and **opportunities** are relevant when attempting to pursue those objectives, as well as to highlight specific **designerly insights** that are relevant.
+
+
+ In 7.4.1 I introduce the concept of , which are used as a framing device for structuring the four approaches to pursuing change that follow in 7.4.2 to 7.4.5. Each for these four approach sections is modelled as a different possible trajectories for change.

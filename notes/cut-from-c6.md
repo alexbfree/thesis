@@ -1,0 +1,1 @@
+In Case Study One participants recognised that it will take proactive action, not just by frontline workers but system designers and management policymakers, to challenge the prevalence of data-centric norms (4.3.4.3).

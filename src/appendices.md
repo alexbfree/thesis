@@ -130,6 +130,7 @@ This section serves as both a glossary to explain abbreviations and existing ter
 * **Digital Self Curation** - [ADD SECTIONREF]
 * **Ecosystem Information** - [ADD SECTIONREF]
 * **Ecosystem Negotiability** - [ADD SECTIONREF]
+* **Empowerment (in the context of data wants)** - [6.3](#6.3)
 * **Family Design Games** - [ADD SECTIONREF]
 * **Family Facts** - [ADD SECTIONREF]
 * **Free Data Interfaces** - [ADD SECTIONREF]
@@ -286,12 +287,16 @@ Glossary of Pre-Existing Abbreviations, Names and Terms {#glossary .unnumbered}
 * **Power, Disciplinary** - [ADD SECTIONREF] [ADD DEFINITION]
 * **Power, Infrastructural** - [ADD SECTIONREF] [ADD DEFINITION]
 * **Power, Interpretive** - [ADD SECTIONREF] [ADD DEFINITION]
+* **Power, (power to)** - [ADD SECTIONREF] [ADD DEFINITION]
+* **Power (power over)** - [ADD SECTIONREF] [ADD DEFINITION]
 * **Power, Processual** - [ADD SECTIONREF] [ADD DEFINITION]
 * **Power, Rational** - [ADD SECTIONREF] [ADD DEFINITION]
 * **Power, Resource Control** - [ADD SECTIONREF] [ADD DEFINITION]
+* **Power, Social** - [ADD SECTIONREF]
 * **Power, Socially-shaped** - [ADD SECTIONREF] [ADD DEFINITION]
 * **Power, Systems/Structural** - see Infrastructural Power
 * **Power, Zero Sum** - [ADD SECTIONREF] [ADD DEFINITION]
+* **Power Imbalance (over Personal Data)** - [ADD SECTIONREF] [ADD DEFINITION]
 * **Pragmatism** - [ADD SECTIONREF] [ADD DEFINITION]
 * **Priming a Discussion** - [ADD SECTIONREF] [ADD DEFINITION]
 * **QSM - Quantified Self Movement** - see SI
