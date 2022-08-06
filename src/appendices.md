@@ -314,6 +314,8 @@ This section serves as both a glossary to explain abbreviations and existing ter
 * **Data Literacy in an HDR Context** - [ADD SECTIONREF]
 * **Data Cards** - [ADD SECTIONREF]
 * **Data Wants** - [ADD SECTIONREF]
+* **Data Relations, Direct** - [ADD SECTIONREF]
+* **Data Relations, Indirect** - [ADD SECTIONREF]
 * **Digital Self Curation** - [ADD SECTIONREF]
 * **Ecosystem Information** - [ADD SECTIONREF]
 * **Ecosystem Negotiability** - [ADD SECTIONREF]
