@@ -3,7 +3,11 @@ Conclusion {#chapter-8}
 
 > _"What drives and drags the world are not machines, but ideas."_ -- Victor Hugo
 
-In this chapter, I will reflect on my journey as a researcher, activist and innovator through this work, and contextualise the contributions of the thesis in terms of their legacy and future value.
+Section [6.3](#6.3) concluded the academic inquiry part of the thesis with a clear answer to what sort of relationship people need with their personal data in order to be empowered - they need visible, understandable and useable data, as well as process transparency, individual oversight and decision-making involvement.
+
+Section [7.5](#7.5) summarised the outlook on improving Human Data Relations, through four approaches or trajectories for producing change in the HDR landscape - discovery-driven activism, building human-centric life interfaces, defending and exploiting the seams of the information landscape, and championing and teaching the HDR vision.
+
+In this chapter, I will bring the two parts of the thesis together, reflecting on my journey as a researcher, activist and innovator through this work, and contextualising the contributions of the thesis in terms of their legacy and future value.
 
 Personal Reflection
 -------------------

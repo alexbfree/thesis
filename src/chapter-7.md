@@ -703,7 +703,12 @@ Summation: Addressing the Expanded Research Question{#7.5}
 
 This chapter examined the expanded research question [[7.1.1](#exRQ)] of how better Human Data Relations might be achieved in practice. Through detailed practical examples drawn from the peripheral research settings [[7.1.1](#7.1.2)] and elsewhere, I have identified key obstacles [[7.3](#7.3); [Figure 7.3](#7.3)] to better HDR including invisible, inaccessible, scattered, immobile, unmalleable, or unrelatable data; the complexity of current personal data ecosystems; a lack of metadata and machine understanding;  the ongoing exertion of power by introspective data holders to diminish user agency; and a lack of demand and investment in HDR.
 
-Building upon the 13 insights introduced throughout [7.3](#7.3) and [7.4](#7.4), I have, as illustrated in Figures [15](#figure-15), [16](#figure-16), [32](#figure-32), and [34](#figure-34)], described four distinct trajectories for improving HDR, which provide not a complete answer, but address, that expanded reseach question.
+Building upon the 13 insights introduced throughout [7.3](#7.3) and [7.4](#7.4), I have, as illustrated in Figures [15](#figure-15), [16](#figure-16), [32](#figure-32), and [34](#figure-34)], described four distinct trajectories for improving HDR, which provide not a complete answer, but provide steps to begin to address that [expanded reseach question](#exRQ):
+
+  1. **Discovery-Driven Activism** [[7.4.2](#7.4.2)]
+  2. **Building the Human-Centric Future**  [[7.4.3](#7.4.3)]
+  3. **Defending User Autonomy and Hacking the Information Landscape** [[7.4.4](#7.4.4)]
+  4. **Teaching, Championing and Selling the HDR Vision** [[7.4.5](#7.4.5)]
 
 The common elements of these four approaches are summarised in abstract in [Figure 7.36](#figure-7.36) above, and can be considered in terms of the the four ToC quadrants:
 
@@ -712,6 +717,6 @@ The common elements of these four approaches are summarised in abstract in [Figu
 - _**Influence & Motivate**_ (IE): In this quadrant, individuals' relationships with data and with data holders, as well as data holders and policymakers' relationships, can be improved. For us, as external actors seeking change, the task is to influence the many parties by showcasing and facilitating newly created structures and capabilities, and to harness our new collective knowledge to advocate the benefits of changing data-related behaviours.
 - _**Educate & Empower**_ (II): In this quadrant, individuals' ways of thinking about data and data holders grow and evolve towards a state we could call _'feeling empowered'_ [[6.3](#6.3)], which would show true progress in delivering the better HDR that participants of this thesis's research called for. This change is driven through education, improving Human Data Relations literacy, and through the experience of new capabilities and changed relationships with data and with data holders that can empower individuals to hold a more aware and equitable position in those relationships and in their digital life.
 
-Taken together, these various efforts show how better HDR might be achievable in practice, even despite the identified obstacles. The glossary [#hdr-glossary] included at the back of this thesis provides a convenient way for future researchers, innovators, activities and HDR reformers to quickly locate insights and designs of value within this chapter and the wider thesis, so that others can build on this research to pursue improved Human Data Relations. In the [next and final chapter](#chapter-8), the legacy and contributions of the thesis are discussed in more detail.
+Taken together, these various efforts show how better HDR might be achievable in practice, even despite the identified obstacles. The [glossary](#hdr-glossary) included at the back of this thesis provides a convenient way for future researchers, innovators, activities and HDR reformers to quickly locate insights and designs of value within this chapter and the wider thesis, so that others can build on this research to pursue improved Human Data Relations. In the [next and final chapter](#chapter-8), the legacy and contributions of the thesis are discussed in more detail.
 
 ---

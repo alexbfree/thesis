@@ -1,9 +1,9 @@
 Appendices {.unnumbered}
 ===========
 
-### Appendix A: The Pilot Study {#appendix-a .unnumbered}
+### Appendix A: The Pilot Study: CHI 2018 Paper {#appendix-a .unnumbered}
 
-See description in [1.3.1](#1.3.1)
+For additional context, see [1.3.1](#1.3.1).
 
 [PRODUCTION TODO: ADD PILOT STUDY PAPER HERE]
 
