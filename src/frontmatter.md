@@ -101,7 +101,14 @@ Lists of Figures by Chapter {.unnumbered}
 * **[Figure 7.35](#figure-7.35)** - SILVER Health Data Viewing Interface
 * **[Figure 7.36](#figure-7.36)** - Summary of Generalised Change Strategies for Pursuing Better HDR, Using the ToC Model
 
-### Figures in Appendix D {.unnumbered}
+### Figures in Appendix C {.unnumbered}
 
-* **[Figure D.1](#figure-D.1)** - Private Data Viewing Monitor with Viewing Glasses
+* **[Figure C.1](#figure-C.1)** - Screenshot From Quirkos During Coding Process
+* **[Figure C.2](#figure-C.2)** - Screenshot From Quirkos at End of Coding Process
+* **[Figure C.3](#figure-C.3)** - Screenshot From Workflowy During Theme Construction
+
+### Figures in Appendix F {.unnumbered}
+
+* **[Figure F.1](#figure-D.1)** - Private Data Viewing Monitor with Viewing Glasses
+
 ---
