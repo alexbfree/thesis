@@ -13,9 +13,9 @@ See description in [1.3.1](#1.3.1)
 
 ### Appendix C: Case Study Two Methodology: Additional Details {#appendix-c .unnumbered}
 
-In this section, the methodology used for the analysis of data from Case Study Two is explained. The content of this appendix is identical to Appendix 3 in the Supplemental Materials of the CHI 2022 paper from this study [@bowyer2022gdpr].
+In this section, the methodology used for the analysis of data from Case Study Two is explained. The content of this appendix is identical to Appendix 3 in the Supplemental Materials of the CHI 2022 paper from this study [@bowyer2022gdpr]. Case Study Two was written first as a paper and then expanded to produce Chapter 5. While the paper was co-written, Chapter 5 was written entirely by Alex Bowyer.
 
-All coding was carried out by the Alex Bowyer and Jack Holt, who followed the following process over a nine-month period, comprising at least 200 person-hours:
+All coding was carried out by Alex Bowyer and Jack Holt, who followed the following process over a nine-month period, comprising at least 200 person-hours:
 
  1. **EXTRACTION AND ANALYSIS OF SEMI-QUANTITATIVE DATA**: Identifying closed question (or brief) responses that might be processable quantitatively.
  2. **TEXT FILE PROCESSING**: Splitting, organising, anonymising and some cleaning of auto-transcribed and time-coded text files.
