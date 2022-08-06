@@ -53,7 +53,7 @@ The semi-quantitative data areas captured or derived from captured data were:
 
 **2. Text File Processing (Splitting & Recombination)**
 
-The researchers then moved on to prepare for the fully qualitative analysis. All interview audio was auto-transcribed using Zoom and Google Recorder, and then the generated text files were cleaned. Cleaning consisted of listening to sections of audio where transcription seemed inaccurate and correcting the transcripts. Due to the volume of data this cleaning was not done for all texts, only where ambiguity or typos meant it was needed for accurate coding and for quotes. Some anonymisation of source texts was also carried out at this stage and later, with a particular focus on quotes included in the chapter. The researchers used this data preparation stage as an initial means of (re)familiarising with the dataset. With reference to the structured interview schedules, the initial 33 text transcripts were split up by participant, company and topic using the labelling scheme outlined in ['Text File Labelling Strategy'](#C-labelling) below.
+The researchers then moved on to prepare for the fully qualitative analysis. All interview audio was auto-transcribed using Zoom and Google Recorder, and then the generated text files were cleaned. Cleaning consisted of listening to sections of audio where transcription seemed inaccurate and correcting the transcripts. Due to the volume of data this cleaning was not done for all texts, only where ambiguity or typos meant it was needed for accurate coding and for quotes. Some anonymisation of source texts was also carried out at this stage and later, with a particular focus on quotes included in the chapter. The researchers used this data preparation stage as an initial means of (re)familiarising with the dataset. With reference to the structured interview schedules, the initial 33 text transcripts were split up by participant, company and topic using the labelling scheme outlined in 'Text File Labelling Strategy' below.
 
 At the end of this process, roughly 100 'pieces' had been identified for each participant (slightly more for P11 whose interview 1 covered a broader scope and considerably less for P9 who only did interview 1).
 
@@ -120,7 +120,7 @@ The themes are broken down in detail in [5.4](#5.4) and can be summarised as:
 
 In all, the process from commencing data analysis to writing up thematic findings in the chapter took over 200 person-hours over a 9-month period from January to September 2020.
 
-**Text File Labelling Strategy used in Stage 2** {#C-labelling}
+**Text File Labelling Strategy used in Stage 2**
 
 In stage 2, text files were initially broken down into small pieces and labelled according to the following strategy:
 

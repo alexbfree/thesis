@@ -1,9 +1,9 @@
 Discussion II: Designing and Pursuing Better Human Data Relations {#chapter-7}
-=======================
+========================
 
 > _"Civilizations advance not by the technology they know about, but by the technology they don't have to know about."_ -- Anonymous proverb
 
-Introduction & Background
+Introduction & Background{#7.1}
 ----------------
 
 ### Objectives and Approach for this Chapter
