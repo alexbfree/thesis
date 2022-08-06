@@ -31,7 +31,29 @@ It has been a tremendous privilege to spend six years understanding in great det
 ### Research Objectives and Purpose{#1.1.2}
 [TODO address JG feedback]
 
-Given the societal importance of this problem as outlined at the start, the goal of this research and of this thesis is **to produce knowledge and insights** that can enable researchers, innovators and activists to make progress in **redressing the power balance between individuals and data holders** and in delivering **increased agency and negotiability** to individuals. Informed by a constructivist ontology and a pragmatist epistemology (further detailed in [Chapter 3](#chapter-3)), and employing a multi-disciplinary _Digital Civics_ [@vlachokyriakos2016] approach, this objective will be approached by conducting participatory research in relevant contexts, to understand and synthesise a clear model of how people relate to data, how they understand and use it, and what they need from it in order to thrive and to meet their own goals.
+The aim of this thesis is to research **how people relate to data**, how they understand and use it, and **what they need from it and its holders** in order to thrive and to meet their own goals.
+
+The thesis is informed by a constructivist ontology and a pragmatist, individualist epistemology [[3.1](#3.1)), and employs a multi-disciplinary _Digital Civics_ [@vlachokyriakos2016] approach, conducting an academic inquiry to answer two key research questions (RQ):
+
+- **RQ1. What is the human experience of personal data, and what do people want from their data?**
+- **RQ2. What role does data play in people's service relationships, and how could relationships involving data be improved?**
+
+This thesis assumes that if the **asymmetry over data access and use between individuals and organisations holding data is to be addressed**, that a greater understanding of current data use issues is needed by all parties, and that the **production of knowledge and insights** is therefore a vital first step towards the pursuit of a more balanced model of data use that can deliver **increased agency and negotiability**. To acquire this understanding, a participatory research design is employed, collecting interview transcripts from two contexts to enable qualitative analysis that can identify themes to inform a descriptive model of human-centred data empowerment.
+
+The thesis reports on two studies that invited participants to _'look behind the curtain'_ of previously opaque data-centric organisations they interact with, consider more deeply the collection, storage and use of their personal data by service organisations. In both cases the focus was upon examining current practices, identifying attitudes to those practices, and imagining alternative designs and approaches for data use by service providers and the participants themselves. The participants of the two studies are:
+
+  **Case Study One**: Supported families, who meet with _'Early Help'_ support workers (whose role is to access civic data to understand and empower those individuals to improve their lives) [[Chapter 4](#chapter-4)]; and
+  **Case Study Two**: Ordinary British and European citizens, who gained new legal rights via 2018's _GDPR_ legislation [[2.1.3](#2.1.3)], enabling them to request copies of held personal data along with other relevant information from the companies and service providers in their lives [[Chapter 5](#chapter-5)].
+
+UP TO HERE
+WORKING THROUGH JG COMMENTS
+
+
+participatory research that aims to collect interview transcripts and other data as primary data sources that can be examined to
+
+conduct participatory research in two different contexts to understand and synthesise a clear model of
+
+Given the societal importance of this problem as outlined at the start, the goal of this research and of this thesis is **to produce knowledge and insights** that can enable researchers, innovators and activists to make progress in **redressing the power balance between individuals and data holders** and in delivering **increased agency and negotiability** to individuals. Informed by , this objective will be approached by conducting participatory research in relevant contexts, to understand and synthesise a clear model of how people relate to data, how they understand and use it, and what they need from it in order to thrive and to meet their own goals.
 
 To do this, two key settings in which individuals have some remit to _'look behind the curtain'_ of the previously opaque data-centric organisations they interact with have been identified, creating spaces where individuals can be interviewed and probed to uncover their attitudes and desires:
 
