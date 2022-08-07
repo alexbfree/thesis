@@ -15,7 +15,7 @@ To address this power imbalance, people need to achieve **a more effective relat
 This thesis focuses on the apparent power imbalance and explores ways in which individual agency, legibility and negotiability can be improved. First, through academic inquiry, it makes a novel contribution to knowledge, examining deeply how people relate to data, what capabilities people need, and how they would like service providers to handle their data. The thesis takes a broader perspective than current work in the field of Human-Computer Interaction (HCI), which tends to focus upon the mechanisms by which humans interact with data without considering the problem of asymmetric power over data from a sociotechnical perspective, which is necessary if societal benefits are to be achieved.
 
 ### Personal Motivation and Context{#1.1.1}
-[TODO update per JG feedback - split into short motivation here, and longer reflection later (7.5/8?)]
+[TODO update per JG feedback - split into short motivation here, and longer reflection later (8.1)]
 
 This PhD and this thesis represent the culmination of my lifelong passion to help people get more value from our computers. Over 30 years ago, I learned from an early age about computers by programming my Acorn Electron, one of the many 1980s home computers that taught their users that the computer was a tool to be exploited, one that you could master and bend to your will. In my formative years at University and beyond, I lived through the birth of the public Internet and marvelled at the ability for computers to connect people across the world, empower individuals as creators, innovators and broadcasters, level the playing field and transform the way people interact. Keenly tracking and embracing the Web 2.0 revolution while observing the digitisation and disruption of so many industries, I became fascinated with the ways in which humans were shaping computer systems which in turn were shaping our habits and our society.
 
@@ -29,14 +29,13 @@ It has been a tremendous privilege to spend six years understanding in great det
 [^2]: http://bitnorth.com/shortbits/
 
 ### Research Objectives and Purpose{#1.1.2}
-[TODO address JG feedback]
 
 The aim of this thesis is to research **how people relate to data**, how they understand and use it, and **what they need from it and its holders** in order to thrive and to meet their own goals.
 
 The thesis is informed by a constructivist ontology and a pragmatist, individualist epistemology [[3.1](#3.1)), and employs a multi-disciplinary _Digital Civics_ [@vlachokyriakos2016] approach, conducting an academic inquiry to answer two key research questions (RQ):
 
-- **RQ1. What is the human experience of personal data, and what do people want from their data?**
-- **RQ2. What role does data play in people's service relationships, and how could relationships involving data be improved?**
+- **RQ1. What is the human experience of personal data, and what do people want from their data?** [[3.3.1](#RQ1)]
+- **RQ2. What role does data play in people's service relationships, and how could relationships involving data be improved?** [[3.3.2](#RQ2)]
 
 This thesis assumes that if the **asymmetry over data access and use between individuals and organisations holding data is to be addressed**, that a greater understanding of current data use issues is needed by all parties, and that the **production of knowledge and insights** is therefore a vital first step towards the pursuit of a more balanced model of data use that can deliver **increased agency and negotiability**. To acquire this understanding, a participatory research design is employed, collecting interview transcripts from two contexts to enable qualitative analysis that can identify themes to inform a descriptive model of human-centred data empowerment.
 
@@ -47,13 +46,12 @@ The thesis reports on two studies that invited participants to _'look behind the
 
 Through comparative analysis of the two case studies, commonalities in individual attitudes and understandings serve to validate each other, and allow the expression of clear insights about people's relationships to personal data that can serve as answers to the two RQs. This **synthesis and analyis of interview data** forms the core academic research of this PhD [[Chapter 6](#chapter-6)].
 
-This research is situated in the Human-Computer Interaction (HCI) discipline, which means that **design** (both participatory co-design and expert-informed user-centred design [[3.5](#3.5)]) forms a key part of the approach to exploring the problem space. Within this space, there has been a great deal of focus on direct interaction with data and upon interface design, but more sociotechnical examination of individual attitudes to data and individual needs in a data-centric context is an under-researched area. To support the creation of improved interfaces and processes that can redress the power imbalance, this thesis focuses upon the **generation of a descriptive model to address the research gap**, producing detailed models and insights that recognise the multi-party complexity of data interaction today and thus are more useful to inform future design and innovation that could build systems that recognise the unique challenges of the status quo.
+This research is situated in the Human-Computer Interaction (HCI) discipline, which means that **design** (both participatory co-design and expert-informed user-centred design [[3.5](#3.5)]) forms a key part of the approach to exploring the problem space. Within this space, there has been a great deal of focus on direct interaction with data and upon interface design, but more sociotechnical examination of individual attitudes to data and individual needs in a data-centric context is an under-researched area. To support the creation of improved interfaces and processes that can redress the power imbalance, this thesis focuses upon the **generation of a descriptive model to address the research gap**, producing detailed models and insights that recognise the multi-party complexity of data interaction today and thus can be directly of use to inform future design and innovation in the building of systems that recognise the unique challenges of the status quo.
 
 In particular, in [Chapter 7](#chapter-7) this thesis moves beyond academic inquiry and provides **designerly thoughts, models and ideas** that explore how the findings from the academic inquiry could be applied in practice, expanding the scope of the thesis from merely understanding the world towards planning how to change it. Given the scale of the sociotechnical design challenge society faces, this thesis does not carry out _'in the wild'_ evaluation of particular data interaction approaches or interface designs. Instead, drawing upon **direct experience in related industrial research** as well as the work of other researchers and innovators in this space, this thesis prioritises the documentation of obstacles, important insights and oppoortunities for future work. The primary contribution here, as the thesis concludes, is to **map out current, emergent and future approaches for improving people's agency and negotiability**, enabling future research, design and innovation work to pursue these goals with a more targeted and well-understood approach, both philosophically and in practice.
 
 Nature and Contributions of the Thesis{#1.2}
 --------------------------------------
-[TODO address JG feedback]
 
 This section lists the contributions (**Cn**) of this thesis, specifically:
 
@@ -65,17 +63,19 @@ This section lists the contributions (**Cn**) of this thesis, specifically:
 
 ### An Understanding of what People want from Personal Data{#1.2.1}
 
-**C1: An understanding of what People want in Direct Data Relations**
+Through the concluding sections of Chapters [4](#chapter-4) and [5](#chapter-5), the reader will be able to see that research participants across both studies (and the pilot study) shared common issues around personal data. These commonalities provide the answers to [RQ1](#RQ1) and [RQ2](#RQ2), which form the first two contributions C1 and C2:
 
-Through the concluding sections of Chapters 4 and 5, the reader will be able to see that research participants across both studies (and the pilot study) shared common issues around personal data. In section [6.1](#6.1) of Chapter 6, those commonalities that address RQ1 *what people need in direct data relations* are specifically expressed in answer to that question as three specific needs:
+**C1: An understanding of What People Want in Direct Data Relations**
+
+Section [6.1](#6.1) answers [RQ1](#RQ1) by explaining people's three specific needs for direct relations with data:
 
 - for data to be **visible** [[6.1.1](#6.1.1)],
 - **understandable** [[6.1.2](#6.1.2)], and
 - **useable**<sup>[15](#fn15)</sup> [[6.1.3](#6.1.3)].
 
-**C2: An Understanding of what People want in Indirect Data Relations**
+**C2: An Understanding of What People Want in Indirect Data Relations**
 
-Similarly, in section [6.2](#6.2) of Chapter 6, those commonalities that address RQ2 -- *what people need when they have an indirect relationship to their data because it is held by someone else* (such as their service provider) -- are specifically expressed to answer RQ2 as three specific needs:
+Section [6.2](#6.2) answers [RQ2](#RQ2) by explaining the three things people need when they have an indirect relationship to their data because it is held by someone else, such as a service provider :
 
 - **process transparency** [[6.2.1](#6.2.1)],
 - **individual oversight** [[6.2.2](#6.2.2)], and
@@ -83,81 +83,92 @@ Similarly, in section [6.2](#6.2) of Chapter 6, those commonalities that address
 
 ### Establishing a new field: Human Data Relations{#1.2.2}
 
-**C3: The synthesis and formulation of the field of Human Data Relations (HDR)**.
+**C3: The Synthesis and Formulation of the Field of Human Data Relations (HDR)**.
 
-At the highest level, the contribution of this thesis is to establish and map out a new field of research and innovation, **Human Data Relations** (HDR). This begins with a broad literature review in [Chapter 2](#chapter-2) of prior areas of research and established thinking that contribute to this field, specifically the problems of data-centricism and limited access to data [[2.1](#2.1)], a review of prior work in personal information management and interaction [[2.2](#2.2)], and of existing research and innovation around human-centric perspectives on data [[2.3](#2.3)].
-The HDR field is then explored and understood through the two research questions RQ1 [[3.3.1](#RQ1)] and RQ2 [[3.3.2](#RQ2)]. Both RQs are explored through participatory research and qualitative data analysis across the two contexts of [Chapter 4](#chapter-4) and [Chapter 5](#chapter-4), contributing to a synthesis in [Chapter 6](#chapter-6) of what people want in direct data interaction [RQ1, [6.1](#6.1)] and in relationships that involve the use of personal data by the other party [RQ2, [6.2](#6.2)].
-Finally in Chapter 7, the field of HDR is refined [[7.2](#7.2)], and a landscape of possible approaches to improve HDR is mapped out, including the identification of specific obstacles to progress [[7.3](#7.3)] and possible approaches that could be explored [[7.4](#7.3)].
+At the highest level, this thesis contributes a new field of research and innovation, **Human Data Relations (HDR)**. [Chapter 2](#chapter-2) reviews existing literature and prior work to explain the problems of data-centricism and limited access to data [[2.1](#2.1)]; personal information management and interaction [[2.2](#2.2)]; and human-centric perspectives on data [[2.3](#2.3)].
+From this baseline, the participatory academic inquiry into the lived realities data relationships described in Chapters [4](#chapter-4), [5](#chapter-5), and [6](#chapter-6), leads to a synthesis of what people need in data relations.
+[Chapter 7](#chapter-7) maps out and contextualises both existing work and new designerly insights and models that could service those needs, and formalises the pursuit a defined field of academic and practical endeavour, Human Data Relations [[7.2](#7.2)] as the pursuit of four specific objectives:
+
+  - **data awareness and understanding**
+  - **data useability**
+  - **ecosystem awareness and understanding**
+  - **ecosystem negotiability**
 
 **C4: A clear delineation of two primary motivators for individuals seeking better HDR**
 
-In [7.2.3](#7.2.3), informed by both participatory research within this thesis and by the research and design activities conducted in external research settings [7.1.2](#7.1.2), I outline a first top-level perspective on the HDR space, that there are two key reasons why people need good data relations:
+[7.2.3](#7.2.3), informed by both the Case Studies and the peripheral activities [[7.1.2](#7.1.2)], clarifies the two driving motivations for pursuing better HDR:
 
 - **Life Information Utilisation**, and
 - **Personal Data Ecosystem Control**.
 
-**C5: A map of the HDR landscape, identifying obstacles, insights and opportunities**
+**C5: A map of the HDR landscape, identifying obstacles and insights**
 
-The goal of this thesis is to set the stage for future research and innovation in the newly-defined space of Human Data Relations. While evaluating methods and approaches 'in the wild' was well-beyond the scope of this thesis, my involvement in external research settings allowed a broad and grounded understanding of the HDR landscape and its practicalities to be formed, such that the landscape can be mapped from multiple perspectives.
+The goal of this thesis is to set the stage for future research and innovation in the newly-defined space of Human Data Relations. Across sections [7.3](#7.3) and [7.4](#7.4), the landscape of HDR is mapped out from multiple perspectives.
 
-[TODO Only highlight these lists here, move the full lists to 7.5/8?]
+[7.3](#7.3) maps out eight obstacles to the pursuit of the HDR objectives, as well as four obstacles that exist in the solution space across all four, including:
 
-In [7.3](#7.3) the specific wants mentioned above in C2 and C3 are reduced to four simple objectives for effective HDR:
+  - the personal data diaspora,
+  - the intractable data self,
+  - immobile, illegible and unmalleable data,
+  - hegemony and active diminishing of user agency by data holders,
+  - closed, introspective and insular practices,
+  - a lack of demand and investment in HDR from individuals and organisations, and
+  - insufficient machine understanding of human data
 
-- data awareness and understanding
-- data useability
-- ecosystem awareness and understanding
-- ecosystem negotiability
+To begin to address these obstacles, [thirteen insights](#hdr-insights) are explained that could seed future research and innovation towards tackling these obstacles:
 
-[TODO summarise this list]
-The same section then continues to map out eight obstacles to better HDR that exist in these four areas, as well as four obstacles that exist in the solution space across all four:
+    [1](#insight-1). Life information makes data relatable.
+    [2](#insight-2). Data needs to be united and unified.
+    [3](#insight-3). Data must be transformed into a versatile material.
+    [4](#insight-4). Ecosystem information is an antidote to digital life complexity.
+    [5](#insight-5). We must know data's provenance.
+    [6](#insight-6). Data holders exploit four levers of power to manipulate the digital landscape.
+    [7](#insight-7). We need new human-centred information systems that serve human values, relieve pain and deliver new life capabilities.
+    [8](#insight-8). We need to teach computers to understand human information.
+    [9](#insight-9). Individual GDPR requests can compel companies to change data practices.
+    [10](#insight-10). Collectives can compare and unify their data and use it to demand change.
+    [11](#insight-11). Automating the identification of entities can enhance machine understanding and unburden life interface users.
+    [12](#insight-12). The 'seams' of Digital Services need to be identified, exploited and protected.
+    [13](#insight-13). It is possible (and necessary) to demonstrate business benefits of transparency and human-centricity.
 
-1. The Personal Data Diaspora
-2. Illegible Data
-3. Data that isn't free
-4. Unmalleable and non-interrogable data
-5. Hegemony through data holding
-6. A trend of actively diminishing of users' agency
-7. Closed, insular & introspective practices
-8. The intractable data self
-9. A lack of HDR demand from individuals
-10. A lack of HDR demand from organisations
-11. A lack of interoperability
-12. Insufficient machine understanding of human data.
+**C6: Four identified trajectories for advancing Human Data Relations**
 
-To begin to address these obstacles, seven insights are offered that could seed future research and innovation towards tackling these obstacles:
+Section [7.4](#7.4) explains, with detailed real-world examples and original design work from the author's peripheral work in industry, four distinct approaches for furthering the cause of HDR:
 
-[TODO summarise this list?]
-1. Life information makes data relatable.
-2. Ecosystem information is an antidote to digital life complexity.
-3. Life & ecosystem information should be useable as a material.
-4. Data needs provenance.
-5. Data holders exploit four levers of power to manipulate the digital landscape.
-6. Semantic analysis and information standards can transform data storage and facilitate human-centric interface building.
-7. New life capabilities and pain relievers drive user demand.
-8. Better HDR can deliver business value through increased accuracy and consent, and decreased liability.
+    1. **Discovery-Driven Activism** [[7.4.2](#approach-1)]
+    2. **Building the Human-Centric Future** [[7.4.3](#approach-2)]
+    3. **Defending User Autonomy and Hacking the Information Landscape** [[7.4.4](#approach-3)]
+    4. **Teaching, Championing and Selling the HDR Vision** [[7.4.5](#approach-4)]
 
-[TODO highlight the conception of HDR literacy, possibly as distinct contribution?]
+**C7: A reframing of data literacy for the HDR space**
+
+Section [7.4.5.1](#7.4.5.1) broadens existing conceptions of _data literacy_ that include critical thinking, numerical analysies and arguing using data, to describe additional skills that people will need to develop if they are to become fully _**HDR literate**_:
+
+    - appreciating the value of personal data;
+    - understanding the implications of organisational data use;
+    - recognising why portable data and app/data separation is important;
+    - knowing how to exercise data rights and evaluate responses;
+    - identifying diminishing agency and erosions of a free and fair information landscape.
 
 ### Additional contributions in the Early Help and Civic Data Use context{#1.2.3}
 
-**C6: Validation and enumeration of supported families' attitudes and needs around civic data**
+**C8: Validation and enumeration of supported families' attitudes and needs around civic data**
 
-The early research carried out of my pilot study [[1.3.1](#1.3.1)], continued in Case Study One [[Chapter 4](#chapter-4)], served an important purpose to validate that people do feel the effects of the data records about them, and do want access. Prior to this research, colleagues speculated that people would not really care about their data, but in fact these studies found evidence that people want **continuing rights, control and visibility over their personal data**, so that it remains **fair, accurate and meaningful**.  Furthermore the lived experiences of supported families show how **data can become a proxy for human involvement**, and that this can be harmful and disempowering. In particular, my research shows that:
+The pilot study [[1.3.1](#1.3.1)] and its continuation through Case Study One [[Chapter 4](#chapter-4)] was useful to validate that people do feel the effects of data records about them and, contrary to early expectations, do care about data access. People want **continuing rights, control and visibility over their personal data**, so that it remains **fair, accurate and meaningful**.  Furthermore the lived experiences of supported families show how **data can become a proxy for human involvement**, and that this can be harmful and disempowering. In particular:
 
 - Supported families need **meaningful interaction** with and through data,
 - They need to be **given a voice** to explain, challenge or add context to data, and
 - **Transparency over data can improve trust** in support services.
 
-**C7: _Shared Data Interaction_: A proposed model for more efficient and empowering social support relationships that embraces human-centricity**.
+**C9: _Shared Data Interaction_: A proposed model for more efficient and empowering social support relationships that embraces human-centricity**.
 
-Given the conflicting goals of support service providers wanting to be more data-centric to improve accuracy [[4.1.2](#4.1.2), [4.2.3](#4.2.3)] while supported families want a more human, less data-centric treatment, I created a model that has the potential to address both parties' needs and enhance the support relationship: _Shared Data Interaction_ [[4.2.4](#4.2.4)]. While this was not evaluated in the field, it is consistent with emergent practices [[4.3.1](#4.3.1)], and when explored thoroughly by both parties in Case Study One - especially in phase 2 [[Table 3.1](#table-3.1)] - was perceived to be beneficial. The benefits (and challenges) of such an approach are explored thoroughly in [[4.4.2](#4.4.2)]. At the level of multi-party collaboration, further evidence for the effectiveness of bringing people together around representations of data is found at the meta level of this research - specifically in the success of the methodologies [[3.5.2](#3.5.2)] I used in both Early Help studies, echoing other researchers' work on _boundary objects_ [@star1989] and _'things to think with'_ [@brandt2004].
+Support service providers want to be more data-centric to improve accuracy [[4.1.2](#4.1.2), [4.2.3](#4.2.3)], while supported families want a more human, less data-centric treatment. [[4.2.4](#4.2.4)] describes a novel model that has the potential to address both parties' conflicting needs and enhance the support relationship: _Shared Data Interaction_. While this was not evaluated in the field, it is consistent with emergent practices [[4.3.1](#4.3.1)], and, after thorough exploration by participants [[Table 3.1](#table-3.1)] - was perceived to be beneficial. The benefits (and challenges) of such an approach are explored thoroughly in [[4.4.3](#4.4.3)]. The success of this study's methodology [[3.5.2](#3.5.2)] provides further evidence for the effectiveness of bringing people together around representations of data, echoing other researchers' work on _boundary objects_ [@star1989] and _'things to think with'_ [@brandt2004].
 
 ### Additional contributions in the context of GDPR and Everyday Data Access{#1.2.4}
 
-**C8: A model to understand the five different origins of held personal data**
+**C10: A model to understand the five different origins of held personal data**
 
-Through the analysis of privacy policies and GDPR legislation conducting during the design and interview phases of Case Study Two, I produced a model of the five different types of data organisations can hold about individuals [[Table 5.X](#table-5.X)]:
+[[Table 5.X](#table-5.X)] describes five different types of data organisations can hold about individuals:
 
 - **Volunteered Data**
 - **Observed Data**
@@ -165,27 +176,27 @@ Through the analysis of privacy policies and GDPR legislation conducting during 
 - **Acquired Data**
 - **Metadata**
 
-This model has been used as both during design and ideation sessions at BBC R&D as well as being used and cited within Sitra/Hestia.ai's digipower study, both as a model for explaining data holding to participants and as a frame for data analysis [@bowyer2022hestia; @pidoux2022].
+This model has been used as both during design and ideation sessions at BBC R&D as well as being used and cited within Sitra/Hestia.ai's digipower study, both for explaining data holding to participants and as a frame for data analysis [@bowyer2022hestia; @pidoux2022].
 
-**C9: A rich understanding of the lived experience of accessing data using GDPR rights and of motivations for GDPR data access**
+**C11: A rich understanding of the lived experience of accessing data using GDPR rights and of motivations for GDPR data access**
 
-Case Study Two fills a critical research gap in understanding the human experience of using GDPR to access one's personal data: confirming past findings that compliance is poor and returned data often incomplete [@ausloos2018], but going much deeper [[5.4](#5.4)] in uncovering specific attitudes such as **resignation about data sacrifice**, **disappointment in GPDR handling** by service providers, and **a lack of answers to questions**. Specific motivations for GDPR data access (and hence more widely for HDR) are enumerated, which provides a valuable starting set of requirements for future research and innovation (see [Table 5.X](#table-5.X) and the supplemental materials of [@bowyer2022gdpr]).
+Case Study Two fills a research gap in understanding the human experience of using GDPR to access one's personal data. The findings [[5.4](#5.4)] confirm previous research that compliance is poor and returned data often incomplete [@ausloos2018], and contribute new knowledge by uncovering specific attitudes such as **resignation about data sacrifice**, **disappointment in GPDR handling** by service providers, and **a lack of answers to questions**. Specific motivations for GDPR data access (and hence more widely for HDR) are enumerated, which provides a valuable starting set of requirements for future research and innovation (see [Table 5.X](#table-5.X) and the supplemental materials of [@bowyer2022gdpr]).
 
-**C10: Evidence for the impact of knowledge about data handling practices on provider trust and perceived individual power**
+**C12: Evidence for the impact of knowledge about data handling practices on provider trust and perceived individual power**
 
 A particularly novel and surprising discovery from Case Study Two was that the use of GDPR rights and privacy policy analyses to scrutinise data-holding service providers often resulted in a **decrease in trust** in those same data holders. At the same time, GDPR use on the whole failed to provide a net increase in perceived individual power; it was **not empowering** people and hence not meeting its own goals. Further analysis of these patterns also showed that **data handling practices are critical to trust and consumer loyalty** [[5.3.4](#5.3.4); [5.5.2](#5.5.2)]].
 
-**C11: Guidance for policymakers, data holders and individuals on how to improve HDR**
+**C13: Guidance for policymakers, data holders and individuals on how to improve HDR**
 
 Synthesis and analysis of participant experiences in Case Study Two enabled the production of specific guidance [[5.5](#5.5)] for parties involved in data relationships:
 
-1. Policymakers and DPOs should do better at **enforcing GDPR rights**, and regulate to **improve response quality** and legislate to mandate data holders to **support data subjects in understanding data**.
-2. Data-holding service providers should **improve transparency** over data and data handling process, and could seize the opportunities of **more inclusive and collaborative models of individual data access** to improve trust, empower users and reduce their own liability.
-3. Individuals should recognise the critical role of held personal data in modern life, embrace opportunities to **access and exploit their own data** and **use data access rights to hold service providers to account**.
+  1. Policymakers and DPOs should do better at **enforcing GDPR rights**, and regulate to **improve response quality** and legislate to mandate data holders to **support data subjects in understanding data**.
+  2. Data-holding service providers should **improve transparency** over data and data handling process, and could seize the opportunities of **more inclusive and collaborative models of individual data access** to improve trust, empower users and reduce their own liability.
+  3. Individuals should recognise the critical role of held personal data in modern life, embrace opportunities to **access and exploit their own data** and **use data access rights to hold service providers to account**.
 
-**C12: A proto-methodology for educating individuals about held data, data access and the data ecosystem**
+**C14: A proto-methodology for educating individuals about held data, data access and the data ecosystem**
 
-While it was not designed as as methodological contribution nor formally evaluated as such within the scope of this thesis, the guided-data-retrieval-and-interview approach of Case Study Two [[5.2](#5.2)] has proven to be **highly valuable and replicable** as means to connect people with their held data and conduct research at that intersection point. Indeed my creation of this methodology was the primary reason why I was approached and employed as lead researcher of Hestia.ai/Sitra's digipower investigation [@härkönen2022project], which **adopted Case Study Two's methodology**, with some adaptation and broadening of scope, for an important EU study auditing and understanding the power of data holders in the data economy [@bowyer2022hestia; @pidoux2022; @härkönen2022report].
+While it was not designed as as methodological contribution nor formally evaluated as such within the scope of this thesis, the guided-data-retrieval-and-interview approach of Case Study Two [[5.2](#5.2)] has proven to be **highly valuable and replicable** as means to connect people with their held data and conduct research at that intersection point. The creation of this methodology resulted in this author being approached and employed as lead researcher of Hestia.ai/Sitra's digipower investigation [@härkönen2022project], which **adopted Case Study Two's methodology**, with some adaptation and broadening of scope, for an extensive EU study auditing and understanding the power of data holders in the data economy [@bowyer2022hestia; @pidoux2022; @härkönen2022report].
 
 Publications arising from and connected to this research{#1.3}
 --------------------------------------------------------

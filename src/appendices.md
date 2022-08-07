@@ -282,7 +282,7 @@ This section serves as both a glossary to explain abbreviations and existing ter
 * **Unmalleable Data** - [ADD SECTIONREF]
 * **Unrelatable Data** - [ADD SECTIONREF]
 
-### HDR Insights & Approaches {.unnumbered}
+### HDR Insights & Approaches {#hdr-insights .unnumbered}
 
 * **[HDR Insight 1](#insight-1): Life Information Makes Data Relatable** - [ADD SECTIONREF]
 * **[HDR Insight 2](#insight-2): Data Needs to be United and Unified** - [ADD SECTIONREF]
