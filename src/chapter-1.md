@@ -32,10 +32,10 @@ It has been a tremendous privilege to spend six years understanding in great det
 
 The aim of this thesis is to research **how people relate to data**, how they understand and use it, and **what they need from it and its holders** in order to thrive and to meet their own goals.
 
-The thesis is informed by a constructivist ontology and a pragmatist, individualist epistemology [[3.1](#3.1)), and employs a multi-disciplinary _Digital Civics_ [@vlachokyriakos2016] approach, conducting an academic inquiry to answer two key research questions (RQ):
+The thesis is informed by a constructivist ontology and a pragmatist, individualist epistemology [[3.1](#3.1)], and employs a multi-disciplinary _Digital Civics_ [@vlachokyriakos2016] approach, conducting an academic inquiry to answer two key research questions (RQ):
 
-- **RQ1. What is the human experience of personal data, and what do people want from their data?** [[3.3.1](#RQ1)]
-- **RQ2. What role does data play in people's service relationships, and how could relationships involving data be improved?** [[3.3.2](#RQ2)]
+  - **RQ1. What is the human experience of personal data, and what do people want from their data?** [[3.3.1](#RQ1)]
+  - **RQ2. What role does data play in people's service relationships, and how could relationships involving data be improved?** [[3.3.2](#RQ2)]
 
 This thesis assumes that if the **asymmetry over data access and use between individuals and organisations holding data is to be addressed**, that a greater understanding of current data use issues is needed by all parties, and that the **production of knowledge and insights** is therefore a vital first step towards the pursuit of a more balanced model of data use that can deliver **increased agency and negotiability**. To acquire this understanding, a participatory research design is employed, collecting interview transcripts from two contexts to enable qualitative analysis that can identify themes to inform a descriptive model of human-centred data empowerment.
 
@@ -98,8 +98,8 @@ From this baseline, the participatory academic inquiry into the lived realities 
 
 [7.2.3](#7.2.3), informed by both the Case Studies and the peripheral activities [[7.1.2](#7.1.2)], clarifies the two driving motivations for pursuing better HDR:
 
-- **Life Information Utilisation**, and
-- **Personal Data Ecosystem Control**.
+  - **Life Information Utilisation**, and
+  - **Personal Data Ecosystem Control**.
 
 **C5: A map of the HDR landscape, identifying obstacles and insights**
 
@@ -117,38 +117,38 @@ The goal of this thesis is to set the stage for future research and innovation i
 
 To begin to address these obstacles, [thirteen insights](#hdr-insights) are explained that could seed future research and innovation towards tackling these obstacles:
 
-    [1](#insight-1). Life information makes data relatable.
-    [2](#insight-2). Data needs to be united and unified.
-    [3](#insight-3). Data must be transformed into a versatile material.
-    [4](#insight-4). Ecosystem information is an antidote to digital life complexity.
-    [5](#insight-5). We must know data's provenance.
-    [6](#insight-6). Data holders exploit four levers of power to manipulate the digital landscape.
-    [7](#insight-7). We need new human-centred information systems that serve human values, relieve pain and deliver new life capabilities.
-    [8](#insight-8). We need to teach computers to understand human information.
-    [9](#insight-9). Individual GDPR requests can compel companies to change data practices.
-    [10](#insight-10). Collectives can compare and unify their data and use it to demand change.
-    [11](#insight-11). Automating the identification of entities can enhance machine understanding and unburden life interface users.
-    [12](#insight-12). The 'seams' of Digital Services need to be identified, exploited and protected.
-    [13](#insight-13). It is possible (and necessary) to demonstrate business benefits of transparency and human-centricity.
+  [1](#insight-1). Life information makes data relatable.
+  [2](#insight-2). Data needs to be united and unified.
+  [3](#insight-3). Data must be transformed into a versatile material.
+  [4](#insight-4). Ecosystem information is an antidote to digital life complexity.
+  [5](#insight-5). We must know data's provenance.
+  [6](#insight-6). Data holders exploit four levers of power to manipulate the digital landscape.
+  [7](#insight-7). We need new human-centred information systems that serve human values, relieve pain and deliver new life capabilities.
+  [8](#insight-8). We need to teach computers to understand human information.
+  [9](#insight-9). Individual GDPR requests can compel companies to change data practices.
+  [10](#insight-10). Collectives can compare and unify their data and use it to demand change.
+  [11](#insight-11). Automating the identification of entities can enhance machine understanding and unburden life interface users.
+  [12](#insight-12). The 'seams' of Digital Services need to be identified, exploited and protected.
+  [13](#insight-13). It is possible (and necessary) to demonstrate business benefits of transparency and human-centricity.
 
 **C6: Four identified trajectories for advancing Human Data Relations**
 
 Section [7.4](#7.4) explains, with detailed real-world examples and original design work from the author's peripheral work in industry, four distinct approaches for furthering the cause of HDR:
 
-    1. **Discovery-Driven Activism** [[7.4.2](#approach-1)]
-    2. **Building the Human-Centric Future** [[7.4.3](#approach-2)]
-    3. **Defending User Autonomy and Hacking the Information Landscape** [[7.4.4](#approach-3)]
-    4. **Teaching, Championing and Selling the HDR Vision** [[7.4.5](#approach-4)]
+  1. **Discovery-Driven Activism** [[7.4.2](#approach-1)]
+  2. **Building the Human-Centric Future** [[7.4.3](#approach-2)]
+  3. **Defending User Autonomy and Hacking the Information Landscape** [[7.4.4](#approach-3)]
+  4. **Teaching, Championing and Selling the HDR Vision** [[7.4.5](#approach-4)]
 
 **C7: A reframing of data literacy for the HDR space**
 
 Section [7.4.5.1](#7.4.5.1) broadens existing conceptions of _data literacy_ that include critical thinking, numerical analysies and arguing using data, to describe additional skills that people will need to develop if they are to become fully _**HDR literate**_:
 
-    - appreciating the value of personal data;
-    - understanding the implications of organisational data use;
-    - recognising why portable data and app/data separation is important;
-    - knowing how to exercise data rights and evaluate responses;
-    - identifying diminishing agency and erosions of a free and fair information landscape.
+  - appreciating the value of personal data;
+  - understanding the implications of organisational data use;
+  - recognising why portable data and app/data separation is important;
+  - knowing how to exercise data rights and evaluate responses;
+  - identifying diminishing agency and erosions of a free and fair information landscape.
 
 ### Additional contributions in the Early Help and Civic Data Use context{#1.2.3}
 
@@ -170,11 +170,11 @@ Support service providers want to be more data-centric to improve accuracy [[4.1
 
 [[Table 5.X](#table-5.X)] describes five different types of data organisations can hold about individuals:
 
-- **Volunteered Data**
-- **Observed Data**
-- **Derived Data**
-- **Acquired Data**
-- **Metadata**
+  - **Volunteered Data**
+  - **Observed Data**
+  - **Derived Data**
+  - **Acquired Data**
+  - **Metadata**
 
 This model has been used as both during design and ideation sessions at BBC R&D as well as being used and cited within Sitra/Hestia.ai's digipower study, both for explaining data holding to participants and as a frame for data analysis [@bowyer2022hestia; @pidoux2022].
 
@@ -196,7 +196,7 @@ Synthesis and analysis of participant experiences in Case Study Two enabled the 
 
 **C14: A proto-methodology for educating individuals about held data, data access and the data ecosystem**
 
-While it was not designed as as methodological contribution nor formally evaluated as such within the scope of this thesis, the guided-data-retrieval-and-interview approach of Case Study Two [[5.2](#5.2)] has proven to be **highly valuable and replicable** as means to connect people with their held data and conduct research at that intersection point. The creation of this methodology resulted in this author being approached and employed as lead researcher of Hestia.ai/Sitra's digipower investigation [@härkönen2022project], which **adopted Case Study Two's methodology**, with some adaptation and broadening of scope, for an extensive EU study auditing and understanding the power of data holders in the data economy [@bowyer2022hestia; @pidoux2022; @härkönen2022report].g
+While it was not designed as as methodological contribution nor formally evaluated as such within the scope of this thesis, the guided-data-retrieval-and-interview approach of Case Study Two [[5.2](#5.2)] has proven to be **highly valuable and replicable** as means to connect people with their held data and conduct research at that intersection point. The creation of this methodology resulted in this author being approached and employed as lead researcher of Hestia.ai/Sitra's digipower investigation [@härkönen2022project], which **adopted Case Study Two's methodology**, with some adaptation and broadening of scope, for an extensive EU study auditing and understanding the power of data holders in the data economy [@bowyer2022hestia; @pidoux2022; @härkönen2022report].
 
 Publications arising from and connected to this research{#1.3}
 --------------------------------------------------------
