@@ -53,7 +53,7 @@ In particular, in [Chapter 7](#chapter-7) this thesis moves beyond academic inqu
 Nature and Contributions of the Thesis{#1.2}
 --------------------------------------
 
-This section lists the contributions (**Cn**) of this thesis, specifically:
+This section lists the 14 major contributions (**Cn**) of this thesis, which can be summarised as:
 
 - an understanding of what people need when they relate to data [[1.2.1](#1.2.1)];
 - the establishment of the field of *Human Data Relations* [[1.2.2](#1.2.2)]; and
@@ -196,7 +196,7 @@ Synthesis and analysis of participant experiences in Case Study Two enabled the 
 
 **C14: A proto-methodology for educating individuals about held data, data access and the data ecosystem**
 
-While it was not designed as as methodological contribution nor formally evaluated as such within the scope of this thesis, the guided-data-retrieval-and-interview approach of Case Study Two [[5.2](#5.2)] has proven to be **highly valuable and replicable** as means to connect people with their held data and conduct research at that intersection point. The creation of this methodology resulted in this author being approached and employed as lead researcher of Hestia.ai/Sitra's digipower investigation [@härkönen2022project], which **adopted Case Study Two's methodology**, with some adaptation and broadening of scope, for an extensive EU study auditing and understanding the power of data holders in the data economy [@bowyer2022hestia; @pidoux2022; @härkönen2022report].
+While it was not designed as as methodological contribution nor formally evaluated as such within the scope of this thesis, the guided-data-retrieval-and-interview approach of Case Study Two [[5.2](#5.2)] has proven to be **highly valuable and replicable** as means to connect people with their held data and conduct research at that intersection point. The creation of this methodology resulted in this author being approached and employed as lead researcher of Hestia.ai/Sitra's digipower investigation [@härkönen2022project], which **adopted Case Study Two's methodology**, with some adaptation and broadening of scope, for an extensive EU study auditing and understanding the power of data holders in the data economy [@bowyer2022hestia; @pidoux2022; @härkönen2022report].g
 
 Publications arising from and connected to this research{#1.3}
 --------------------------------------------------------
