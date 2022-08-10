@@ -73,7 +73,7 @@ Section [6.2](#6.2) answers [RQ2](#RQ2) by explaining the three things people ne
 
 - **process transparency** [[6.2.1](#6.2.1)],
 - **individual oversight** [[6.2.2](#6.2.2)], and
-- **involvement** in processes and decision-making [[6.2.3](#6.2.3)].
+- **involvement** in processes and decision making [[6.2.3](#6.2.3)].
 
 ### Establishing a new field: Human Data Relations{#1.2.2}
 
