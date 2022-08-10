@@ -213,6 +213,7 @@ While the participant data in Case Study One and Two was largely free-flowing an
 
 ### Recruitment{#3.5.6}
 
+<a name="table-3.1"></a>
 | Research Activity | Engagement | Stage or Phase | Duration | Number of Participants | Recruitment Method |
 |---------|------------------------|------------|----------------|----------|------------------------|
 | Pilot Study | 4 x Home-based Interview | preliminary | 4 x 2 hours | 7 adults and 6 children from 4 families | Posters and Visits to Local Community Centre |
@@ -220,7 +221,7 @@ While the participant data in Case Study One and Two was largely free-flowing an
 | Case Study One | 2 x Group Design Workshop for Staff | 1B | 2 x 2 hours | 36 support workers & related staff | Selected by Local Authority Care Services |
 | Case Study One | 1 x Combined Staff and Parents Group Design Workshop | 2 | 1 x 2 hours | 3 support workers and 4 parents from supported families | Selected by Local Authority Care Services |
 
-Table: Table 3.1 - Context One (Civic Data & Early Help): Participants involved in  research activities leading into Case Study One.{#table-3.1}
+Table: Table 3.1 - Context One (Civic Data & Early Help): Participants involved in Research Activities leading into Case Study One.
 
 Tables [3.1](#table-3.1) and [3.2](#table-3.2) summarise the participants involved in this research. In Case Study One, recruitment was initially attempted using posters placed in local libraries [Figure 3.13](#figure-3.13) below. When this approach was unsuccessful, participants were successfully recruited with the assistance of a local community centre, which allowed me to visit a community social meeting and talk to residents about my study. This community was located in a low income area that was known to include a number of supported families; this was chosen with a view to reaching a similar population as SILVER.
 
@@ -228,6 +229,7 @@ For the main engagement of Case Study One, I was able to work with two local aut
 
 ![Figure 3.13: Recruitment Poster -- Poster Used to Recruit Participants for Pilot Study](./src/figs/fig3.13-recruitment-poster.png){#figure-3.13}
 
+<a name="table-3.2"></a>
 | Research Activity | Engagement | Stage or Phase | Duration | Number of Participants | Recruitment Method |
 |---------|------------------------|------------|----------------|----------|------------------------|
 | Pilot: Digital Life Mapping Study | 5 x 1-on-1 interview | preliminary | 5 x 2 hours | 5 adults | Convenience sample |
@@ -235,10 +237,10 @@ For the main engagement of Case Study One, I was able to work with two local aut
 | Case Study Two | 10 x 1-on-1 interview<br/>(Privacy Policy Reviewing) | 2 | 10 x 1 hour | 10 adults | Continuation[^3] |
 | Case Study Two | 10 x 1-on-1 interview<br/>(Viewing GDPR returns) | 3 | 10 x 2 hours | 10 adults | Continuation |
 
+Table: Table 3.2 - Context Two (Digital Life): Participants Involved in Digital Life Research Activities Leading into Case Study Two.
+
 [^3]:
 One participant withdrew from the study after the first interview of the Guided GDPR study due to COVID-19. The other 10 participants took part in all three stages.
-
-Table: Table 2 - Context Two (Digital Life): Participants Involved in Digital Life Research Activities Leading into Case Study Two.
 
 In Case Study Two, no special population was needed, as the issues of living in a data-centric world would be likely to affect everyone. Therefore, a convenience sample (largely 20-40 year old postgraduate students from Newcastle University) was used. Care was taken to find an even split of male and female participants, but other than that no selection criteria were applied. The participants for this study were thought likely to have a larger awareness of societal issues around personal data use and greater familiarity with participatory co-design than the average layperson, but this was considered an advantage as it would require less sensitisation.
 

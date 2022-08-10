@@ -3,7 +3,7 @@ Frontmatter {.unnumbered}
 
 ### Abstract {.unnumbered}
 
-Technologies including PCs, smartphones, and cloud computing have transformed the world: In our daily lives we interact with many businesses and public services who (to reduce costs) increasingly seek to rely on data collection and processing rather than face-to-face user interactions to inform their decisions. This creates an _imbalance of power_ between those who hold data and the individuals about whom data is stored, who cannot easily see their personal data or how it is used. This _Digital Civics_ PhD research explores, from a pragmatic, constructivist perspective, the topic of _Human Data Relations_. Through two qualitative case studies across public and private sectors, it answers the question, _"What relationship do people need with their personal data?"_. Case Study One focuses on _Early Help_ social care: Through four workshops with supported families, social workers and staff, a deep understanding of the individual perspective on civic personal data use is established. _Shared data interaction_ is explored as a means to shift the balance of power towards the individual while maintaining an effective care relationship. Case Study Two is a three-month study exploring 10 participants' experience of using _GDPR data access rights_ to view their own data, resulting in insights into individual needs and the challenges of data-centric service relationships, and recommendations for improvement of policies and practices. With reference to literature from the fields of _Personal Information Management_, _Human Data Interaction_ and _MyData_ personal data ecosystems, these case studies contribute to a unified understanding of _six core needs_ that people have in Human Data Relations. In the final chapter, the thesis discusses the _practical pursuit_ of these goals, drawing on first-hand knowledge acquired from expert participation in industrial research projects at BBC R&D and Hestia.ai/SITRA, mapping out the _landscape for future research and innovation_.
+Technologies including PCs, smartphones, and cloud computing have transformed the world: In our daily lives we interact with many businesses and public services who (to reduce costs) increasingly seek to rely on data collection and processing rather than face-to-face user interactions to inform their decisions. This creates an _imbalance of power_ between those who hold data and the individuals about whom data is stored, who cannot easily see their personal data or how it is used. This _Digital Civics_ PhD research explores, from a pragmatic, individualist, constructivist perspective, the topic of _Human Data Relations_. Through two qualitative case studies across public and private sectors, it answers the question, _"What relationship do people need with their personal data?"_. Case Study One focuses on _Early Help_ social care: Through four workshops with supported families, social workers and staff, a deep understanding of the individual perspective on civic personal data use is established. _Shared data interaction_ is explored as a means to shift the balance of power towards the individual while maintaining an effective care relationship. Case Study Two is a three-month study exploring 10 participants' experience of using _GDPR data access rights_ to view their own data, resulting in insights into individual needs and the challenges of data-centric service relationships, and recommendations for improvement of policies and practices. With reference to literature from the fields of _Personal Information Management_, _Human Data Interaction_ and _MyData_ personal data ecosystems, these case studies contribute to a unified understanding of _six core needs_ that people have in Human Data Relations. In the final chapter, the thesis discusses the _practical pursuit_ of these goals, drawing on first-hand knowledge acquired from expert participation in industrial research projects at BBC R&D and Hestia.ai/SITRA, mapping out the _landscape for future research and innovation_.
 
 Acknowledgements {.unnumbered}
 ==============================
@@ -14,9 +14,33 @@ Lists of Tables and Figures {.unnumbered}
 Lists of Tables by Chapter {.unnumbered}
 --------------------------
 
-### Tables in Chapter N {.unnumbered}
+### Tables in Chapter 3 {.unnumbered}
 
-* **Table N.n** - Description goes here
+* **[Table 3.1](#table-3.1)** - Context One (Civic Data & Early Help): Participants involved in Research Activities leading into Case Study One.
+* **[Table 3.2](#table-3.2)** - Context Two (Digital Life): Participants Involved in Digital Life Research Activities Leading into Case Study Two.
+
+### Tables in Chapter 4 {.unnumbered}
+
+* **[Table 4.1](#table-4.1)** - Example Categories of Family Civic Data
+* **[Table 4.2](#table-4.2)** - Case Study One Group Design Workshops
+* **[Table 4.3](#table-4.3)** - Theme 1 - Meaningful Data Interaction for Families: Subthemes & Participant Quotes
+* **[Table 4.4](#table-4.4)** - Theme 2 - Giving a Voice to the Family: Subthemes & Participant Quotes
+* **[Table 4.5](#table-4.5)** - Theme 3 - Earning Families' Trust Through Transparency: Subthemes & Participant Quotes
+
+### Tables in Chapter 5 {.unnumbered}
+
+* **[Table 5.1](#table-5.1)** - Types of Data Holding Organisation Targeted for GDPR Requests by Study Participants
+* **[Table 5.2](#table-5.2)** - Types of Personal Data Potentially Accessible from Data Holders via GDPR Rights
+* **[Table 5.3](#table-5.3)** - Presence and Quality Assessments of GDPR Responses by Data Type (as Percentages)
+* **[Table 5.4](#table-5.4)** - Best and Worst Data Holders in Different Categories, According to Participants' Judgements
+* **[Table 5.5](#table-5.5)** - Participants' Hopes, Imagined Data Uses and Goals for GDPR, as well as Resultant Outcomes
+* **[Table 5.6](#table-5.6)** - Theme 1 - Insufficient Transparency: Subthemes & Participant Quotes
+* **[Table 5.7](#table-5.7)** - Theme 2 - Confusing & Unusable Data: Subthemes & Participant Quotes
+* **[Table 5.8](#table-5.8)** - Theme 3 - Fragile Relationships: Subthemes & Participant Quotes
+
+### Tables in Chapter 7 {.unnumbered}
+
+* **[Table 7.1](#table-7.1)** - Eight Lenses on Personal Data
 
 Lists of Figures by Chapter {.unnumbered}
 ---------------------------

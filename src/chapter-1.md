@@ -162,7 +162,7 @@ Support service providers want to be more data-centric to improve accuracy [[4.1
 
 **C10: A model to understand the five different origins of held personal data**
 
-[[Table 5.X](#table-5.X)] describes five different types of data organisations can hold about individuals:
+[[Table 5.2](#table-5.2)] describes five different types of data organisations can hold about individuals:
 
   - **Volunteered Data**
   - **Observed Data**
@@ -174,7 +174,7 @@ This model has been used as both during design and ideation sessions at BBC R&D 
 
 **C11: A rich understanding of the lived experience of accessing data using GDPR rights and of motivations for GDPR data access**
 
-Case Study Two fills a research gap in understanding the human experience of using GDPR to access one's personal data. The findings [[5.4](#5.4)] confirm previous research that compliance is poor and returned data often incomplete [@ausloos2018], and contribute new knowledge by uncovering specific attitudes such as **resignation about data sacrifice**, **disappointment in GPDR handling** by service providers, and **a lack of answers to questions**. Specific motivations for GDPR data access (and hence more widely for HDR) are enumerated, which provides a valuable starting set of requirements for future research and innovation (see [Table 5.X](#table-5.X) and the supplemental materials of [@bowyer2022gdpr]).
+Case Study Two fills a research gap in understanding the human experience of using GDPR to access one's personal data. The findings [[5.4](#5.4)] confirm previous research that compliance is poor and returned data often incomplete [@ausloos2018], and contribute new knowledge by uncovering specific attitudes such as **resignation about data sacrifice**, **disappointment in GPDR handling** by service providers, and **a lack of answers to questions**. Specific motivations for GDPR data access (and hence more widely for HDR) are enumerated, which provides a valuable starting set of requirements for future research and innovation (see [Table 5.5](#table-5.5) and the supplemental materials of [@bowyer2022gdpr]).
 
 **C12: Evidence for the impact of knowledge about data handling practices on provider trust and perceived individual power**
 
