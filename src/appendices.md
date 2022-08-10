@@ -230,7 +230,9 @@ Much of the work I did during this extended internship can be seen in the design
 
 #### Digital Economy Research Centre (DERC)'s Healthy Eating Web Augmentation Project{#d.4 .unnumbered}
 
-[TODO Describe DERC project work here]
+As a software developer I have been aware for a long time that one of the biggest challenges in building new data interfaces is to gain programmatic access to the necessary data. As part of the trend towards cloud-based services and data-centric business practices, it has become increasingly difficult to access all of the data held about users by service providers. Application Programming Interfaces (APIs) are a technical means for programmers to access a user's data so that third party applications may be built using that data. Unfortunately, as a result of commercial incentives to lock users in and keep data trapped [@abiteboul2015; @bowyer2018freedata], much of users' data can no longer be accessed via APIs. While GDPR data portability requests do open up a new option for the use of one's provider-collected data in third party applications, this is an awkward and time-consuming route for both users and developers. _**Web augmentation**_ provides a third possible technical avenue for obtaining data from online service providers. It relies on the fact that a users data is loaded to the user's local machine and displayed within their web browser everytime a website is used, and therefore it is possible to extract that data from the browser using a browser extension. Similarly, once loaded into the browser, a provider's webpage can be modified to display additional data or useful human-centric functionality that the provider failed to provide. This
+
+In order to better understand what is and is not possible using this technique, I participated from 2018 to 2020 as a part time web developer in a project which was using the web augmentation technique to improve the information given to users of Just Eat, a takeaway food ordering platform in the UK, the theoretical basis for which was published in [@goffe2021; @goffe2022]. While this particular use case does not concern personal data, the technology being used by the project were considered highly relevant, and the goals of the research project were also human-centric, and consistent with this thesis's research goals - tackling the hegemony of service providers in order to better serve individual needs. This research project is tangential to this thesis, but is an example of the 'hacking the seams' approach detailed in [7.4.4](#7.4.4) and [Insight 12](#insight-12).
 
 ### Appendix E: Ethics Approvals {#appendix-e .unnumbered}
 
@@ -252,7 +254,7 @@ This section serves as both a glossary to explain abbreviations and existing ter
 
 * **[Direct Data Want 1](#want-d1): Data Visibility** - [ADD SECTIONREF]
 * **[Direct Data Want 2](#want-d2): Data Understanding** - [ADD SECTIONREF]
-* **[Direct Data Want 3](#want-d3): Data Useability**<sup>[15](#fn15)<sup> - [ADD SECTIONREF]
+* **[Direct Data Want 3](#want-d3): Data Useability**<sup>[13](#fn13)<sup> - [ADD SECTIONREF]
 * **[Indirect Data Want 1](#want-i1): Process Transparency** - [ADD SECTIONREF]
 * **[Indirect Data Want 2](#want-i2): Individual Oversight** - [ADD SECTIONREF]
 * **[Indirect Data Want 3](#want-i3): Involvement in Decision-making** - [ADD SECTIONREF]
@@ -260,7 +262,7 @@ This section serves as both a glossary to explain abbreviations and existing ter
 ### HDR Objectives {.unnumbered}
 
 * **[HDR Objective 1](#objective-1): Data Awareness & Understanding** - [ADD SECTIONREF]
-* **[HDR Objective 2](#objective-2): Data Useability**<sup>[15](#fn15)</sup> - [ADD SECTIONREF]
+* **[HDR Objective 2](#objective-2): Data Useability**<sup>[13](#fn13)</sup> - [ADD SECTIONREF]
 * **[HDR Objective 3](#objective-3): Ecosystem Awareness & Understanding** - [ADD SECTIONREF]
 * **[HDR Objective 4](#objective-4): Ecosystem Negotiability** - [ADD SECTIONREF]
 * **[HDR Objective 5](#objective-5): Effective, Commercially Viable and Desirable HDR Systems** - [ADD SECTIONREF]
@@ -349,7 +351,7 @@ This section serves as both a glossary to explain abbreviations and existing ter
 * **Storyboarding Cards** - [ADD SECTIONREF]
 * **Trust in Providers, effects upon** - [ADD SECTIONREF]
 * **Types of Personal Data (by origin)** - [ADD SECTIONREF]
-* **Useability**<sup>[15](#fn15)<sup> (as distinct from Usability) - [6.1.3](#want-d3)]
+* **Useability**<sup>[13](#fn13)<sup> (as distinct from Usability) - [6.1.3](#want-d3)]
 
 [PRODUCTION TODO Move the following Glossary to the end, after references]
 
@@ -494,7 +496,7 @@ Glossary of Pre-Existing Abbreviations, Names and Terms {#glossary .unnumbered}
 * **Recursive Public** - [ADD SECTIONREF] [ADD DEFINITION]
 * **Reminding** - [ADD SECTIONREF] [ADD DEFINITION]
 * **SAR - Subject Access Request** - [ADD SECTIONREF] [ADD DEFINITION]
-* **SI - Self Informatics** - Self Informatics [[REF] () ]
+* **SI - Self Informatics** - Self Informatics [[TODO REF] () ]
 * **SILVER** - [ADD SECTIONREF] [ADD DEFINITION]
 * **Sitra** - [ADD SECTIONREF] [ADD DEFINITION]
 * **Scraping** - [ADD SECTIONREF] [ADD DEFINITION]

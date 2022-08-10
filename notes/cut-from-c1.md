@@ -1,4 +1,12 @@
 
+As a graduate software engineer at IBM in the 2000s, I podcasted about new ways to be more productive with computers, and participated in an innovation club with colleagues imagining new ways to relate to digital information, and I gradually moved from back-end development to front-end development to user experience, getting closer to a place where I could help end users benefit from technology.
+
+
+Despite seeing further potential for smarter, more helpful computer systems through my participation in the Semantic Web community and being a senior developer of semantic text analysis software at Open Text, by 2014 it was beyond doubt to me that the
+
+-----
+
+
 The HDR field is then explored and understood through the two research questions RQ1 [[3.3.1](#RQ1)] and RQ2 [[3.3.2](#RQ2)]. Both RQs are explored through participatory research and qualitative data analysis across the two contexts of [Chapter 4](#chapter-4) and [Chapter 5](#chapter-4), contributing to a synthesis in [Chapter 6](#chapter-6) of what people want in direct data interaction [RQ1, [6.1](#6.1)] and in relationships that involve the use of personal data by the other party [RQ2, [6.2](#6.2)].
 Finally in Chapter 7, the field of HDR is refined [[7.2](#7.2)], and a landscape of possible approaches to improve HDR is mapped out, including the identification of specific obstacles to progress [[7.3](#7.3)] and possible approaches that could be explored [[7.4](#7.3)].
 
