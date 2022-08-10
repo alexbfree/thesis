@@ -9,7 +9,7 @@ Technologies including PCs, smartphones, and cloud computing have transformed th
 Dedication {.unnumbered}
 ==========
 
-_For **Rosie**, **Joey**, **Zach**, **Amy**, **Elliott** and **Lyla**, in the hope that you and your generation might discover a future where technology and personal data drive human flourishing more than corporate profit._
+_For **Rosie**, **Joey**, **Zach**, **Amy**, **Elliott** and **Lyla**, in the hope that you and your generation might experience a future where technology empowers individuals and personal data drives human flourishing more than corporate profit._
 
 Acknowledgements {.unnumbered}
 ==============================
@@ -30,7 +30,7 @@ I would like to thank, in reverse chronological order, my supervisors and all th
   - Madeline Balaam, for inspiration on participatory methods right at the start, and helping me develop a paper writing style;
   - Rachel Pattinson, for being the best CDT manager a postgraduate could hope for;
   - Alex, Fion, Glau, James, Sara, Paul, Nicola and all the other admin staff, for a million random assists;
-  - And also to Rob Comber, Simon Bowen and all the other lecturers who taught me valuable Digital Civics and research skills during the MRes that helped shape the researcher I am.
+  - And also, to Rob Comber, Simon Bowen and all the other lecturers who taught me valuable Digital Civics and research skills during the MRes that helped shape the researcher I am.
 
 I have been fortunate to take this journey with dozens of other researchers. I would like to especially thank:
 
@@ -38,7 +38,7 @@ I have been fortunate to take this journey with dozens of other researchers. I w
   - Sunil Rodger, for valuable moral support, writing camaraderie, and practical advice for the last two years; and
   - Stuart Wheater, for myriad data discussions and tactical discussions through a difficult period that often went beyond project business.
 
-Finally I would also like to thank, in no particular order:
+Finally, I would also like to thank, in no particular order:
 
   - Rebecca Nicholson, Sean Peacock, Jen Manuel, Rosie Bellini, Seb Prost, Kieran Cutting, James Hodge, Hazel Dixon and all the other Digital Civics PhDs whose company and mutual support I had the pleasure of during dozens of writing sessions;
   - Louis Goffe, Debbie Smart, Kat Jackson, Liam Spencer, Ruth McGovern and Kyle Montague for giving up their time to help run workshops with participants;
@@ -100,10 +100,10 @@ Lists of Figures by Chapter {.unnumbered}
 * **[Figure 3.4](#figure-3.4)** - Sentence Ranking -- Bringing Support Workers and Families to a Shared Problem Space
 * **[Figure 3.5](#figure-3.5)** - Family Civic Data Cards -- Things to Think With
 * **[Figure 3.6](#figure-3.6)** - Personal Data Examples -- Making Data Relatable
-* **[Figure 3.7](#figure-3.7)** - Home Interviewing: Card Sorting With a Family in Their Living Room
+* **[Figure 3.7](#figure-3.7)** - Home Interviewing: Card Sorting with a Family in Their Living Room
 * **[Figure 3.8](#figure-3.8)** - Ideation Decks -- Combining Random Design Ingredients to Generate New Ideas
 * **[Figure 3.9](#figure-3.9)** - Group Poster Design -- A Participant-designed Poster to Advertise Features of Imagined Data Interface Products
-* **[Figure 3.10](#figure-3.10)** - Storyboarding Cards -- A Collaboratively-constructed Narrative Created through Discussion From a Palette of Possible Parent and Staff Actions
+* **[Figure 3.10](#figure-3.10)** - Storyboarding Cards -- A Collaboratively-constructed Narrative Created through Discussion from a Palette of Possible Parent and Staff Actions
 * **[Figure 3.11](#figure-3.11)** - Thematic Analysis of Qualitative Data using Quirkos for Case Study One
 * **[Figure 3.12](#figure-3.12)** - Spreadsheet-based Quantitative Analysis of Interview Data for Case Study Two
 * **[Figure 3.13](#figure-3.13)** - Pilot Study Recruitment Poster
@@ -129,14 +129,14 @@ Lists of Figures by Chapter {.unnumbered}
 * **[Figure 7.2](#figure-7.2)** - Mapping the Six Wants into Objectives for the HDR Opportunity Landscape
 * **[Figure 7.3](#figure-7.3)** - Obstacles and Resulting Insights in the HDR Opportunity Landscape
 * **[Figure 7.4](#figure-7.4)** - Life Concept Modelling
-* **[Figure 7.5](#figure-7.5)** - Mockup of a Unified TV Viewing History Interface
+* **[Figure 7.5](#figure-7.5)** - Mock-up of a Unified TV Viewing History Interface
 * **[Figure 7.6](#figure-7.6)** - SubsCrab: An Example Application for Ecosystem Detection and Visualisation
 * **[Figure 7.7](#figure-7.7)** - Some of the Many Aspects of Metadata that Might Exist About a Datapoint or Dataset
 * **[Figure 7.8](#figure-7.8)** - The Panopticon Structure of the Illinois State Penitentiary
 * **[Figure 7.9](#figure-7.9)** - Human Values, as Identified in BBC R&D Research Funded by Nesta
 * **[Figure 7.10](#figure-7.10)** - A Contact-and-Calendar-centric PDS Approach
 * **[Figure 7.11](#figure-7.11)** - The Scattered Data Relating to a Vacation
-* **[Figure 7.12](#figure-7.12)** - Mockup of a Unified Interface for a Vacation
+* **[Figure 7.12](#figure-7.12)** - Mock-up of a Unified Interface for a Vacation
 * **[Figure 7.13](#figure-7.13)** - Annotating Data with Semantic Context
 * **[Figure 7.14](#figure-7.14)** - Theory of Change [ToC]\: The Four Dimensions of Change
 * **[Figure 7.15](#figure-7.15)** - HDR Approach 1: Discovery-Driven Activism
@@ -145,17 +145,17 @@ Lists of Figures by Chapter {.unnumbered}
 * **[Figure 7.18](#figure-7.18)** - High Level Data Types
 * **[Figure 7.19](#figure-7.19)** - Life Information Modelled as Happenings
 * **[Figure 7.20](#figure-7.20)** - A Simple PDS Life Information Presentation Model
-* **[Figure 7.21](#figure-7.21)** - Mockup of Life Information Presented in a PDS Interface
+* **[Figure 7.21](#figure-7.21)** - Mock-up of Life Information Presented in a PDS Interface
 * **[Figure 7.22](#figure-7.22)** - Life Partitioning Analogy using a Cluedo™ board
-* **[Figure 7.23](#figure-7.23)** - Mockup: Browsing By Areas of Life
+* **[Figure 7.23](#figure-7.23)** - Mock-up: Browsing by Areas of Life
 * **[Figure 7.24](#figure-7.24)** - Identifying Entity Associations in Data
 * **[Figure 7.25](#figure-7.25)** - Facebook's World2vec Model, Semantically Modelling Human Information from Social Media Posts on Facebook
 * **[Figure 7.26](#figure-7.26)** - Identifying the Attributes of Data
-* **[Figure 7.27](#figure-7.27)** - Determining The Nature of a Piece of Data
+* **[Figure 7.27](#figure-7.27)** - Determining the Nature of a Piece of Data
 * **[Figure 7.28](#figure-7.28)** - Attributes of Data
 * **[Figure 7.29](#figure-7.29)** - Actions One Might Perform on Life Information
 * **[Figure 7.30](#figure-7.30)** - Questions One Might Ask of Life Information
-* **[Figure 7.31](#figure-7.31)** - Example Taxonomies For Life Information Navigation
+* **[Figure 7.31](#figure-7.31)** - Example Taxonomies for Life Information Navigation
 * **[Figure 7.32](#figure-7.32)** - HDR Approach 3: Defending User Autonomy and Hacking the Information Landscape
 * **[Figure 7.33](#figure-7.33)** - The Modern 'Black Box' View of Technology
 * **[Figure 7.34](#figure-7.34)** - HDR Approach 4: Winning Hearts and Minds: Teaching, Championing and Selling the Vision
@@ -164,9 +164,9 @@ Lists of Figures by Chapter {.unnumbered}
 
 ### Figures in Appendix C {.unnumbered}
 
-* **[Figure C.1](#figure-C.1)** - Screenshot From Quirkos During Coding Process
-* **[Figure C.2](#figure-C.2)** - Screenshot From Quirkos at End of Coding Process
-* **[Figure C.3](#figure-C.3)** - Screenshot From Workflowy During Theme Construction
+* **[Figure C.1](#figure-C.1)** - Screenshot from Quirkos During Coding Process
+* **[Figure C.2](#figure-C.2)** - Screenshot from Quirkos at End of Coding Process
+* **[Figure C.3](#figure-C.3)** - Screenshot from Workflowy During Theme Construction
 
 ### Figures in Appendix F {.unnumbered}
 

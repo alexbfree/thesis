@@ -75,14 +75,14 @@ This produced too many files for import into Quirkos Cloud, so once organised by
 The majority of the analysis took place with the use of Quirkos Cloud [@quirkos2013], a computer-assisted qualitative data analysis software (CAQDAS) package that allows for collaborative analysis by more than one researcher. The 57 files from stage 3 were imported into Quirkos Cloud, with each having a unique number. The sources in Quirkos were labelled by Participant, Company and Topic for easy search and retrieval. The researchers then collaboratively coded sections of the interview transcripts to develop and ensure a consistent approach, based on established techniques [@braun2006; @huberman2002]. Codes were identified inductively and not according to a fixed or predetermined set. Once a baseline codeset and strategy had been established, they each coded sections of interviews in parallel, regularly regrouping to discuss generated codes and any new questions or challenges arising. At first, these codes were created in an unstructured/flat state with only occasional clustering on the Quirkos interface. Due to the volume of data, not every piece of every transcript was coded, however care was taken to ensure a representative sample of views from across the participant pool was included.
 These were clustered into loose code-topic areas, an example is shown in the following screenshot taken approximately 6 weeks into coding:
 
-![Figure C.1: Screenshot From Quirkos During Coding Process](./src/figs/figC.1-quirkos-coding.png){#figure-C.1}
+![Figure C.1: Screenshot from Quirkos During Coding Process](./src/figs/figC.1-quirkos-coding.png){#figure-C.1}
 
 **5. Reductive Cycles**
 
 As more codes were identified and structures and commonalities between them were formed, existing codes were merged or absorbed into one another and grouped together in small clusters. The researchers regularly met to discuss each other’s codes according to their context and occasionally amended wording or merged concepts that were labelled differently but semantically equivalent. All codes were checked and agreed between these two researchers. Over time, the codes were iteratively structured and restructured, creating top-level thematic clusters around different research questions that held multiple layers of related codes. These clusters were then summarised with a short sentence or paragraph of text, allowing summaries to be produced at different levels of hierarchy. These summaries were kept in the Description fields of codes in Quirkos and also in external structured text-based documents.
 These can be seen in the following screenshot, taken 5 months into coding:
 
-![Figure C.2: Screenshot From Quirkos at End of Coding Process](./src/figs/figC.2-quirkos-coding-at-end.png){#figure-C.2}
+![Figure C.2: Screenshot from Quirkos at End of Coding Process](./src/figs/figC.2-quirkos-coding-at-end.png){#figure-C.2}
 
 The above-pictured structure of the coded corpus at the end of the Quirkos Cloud phase was as follows:
 
@@ -110,7 +110,7 @@ Total codes = 645.
 
 Having produced the structure above as a reduced representation of _'what the codes say'_ that the participants think, the researchers used outlining tool Workflowy [@workflowy2010] to develop the arguments and primary narrative of the chapter into a structured three-theme-based summary of the most important items from these findings. The code hierarchy was used as source material to populate the three key themes with illustrative quotes and observed findings. An example from later in this process (around 8-9 months since Stage 1 began) is shown in the screenshot below:
 
-![Figure C.3: Screenshot From Workflowy During Theme Construction](./src/figs/figC.3-workflowy-theme-construction.png){#figure-C.3}
+![Figure C.3: Screenshot from Workflowy During Theme Construction](./src/figs/figC.3-workflowy-theme-construction.png){#figure-C.3}
 
 The themes are broken down in detail in [5.4](#5.4) and can be summarised as:
 
@@ -216,7 +216,7 @@ With a cross-disciplinary team of around 20 people including architects, develop
 
 Much of the work I did during this extended internship can be seen in the designs within [7.4.3](#7.4.3), as well as the research report I wrote [TODO ADD REF TO RESEARCH REPORT] and internship writeup [TODO ADD REF TO INTERNSHIP WRITEUP]. My work with the Cornmarket project can be seen as the conclusion of one of several action research cycles within my PhD [3.2.2](#3.2.2).
 
-#### Sitra/Hestia.ai's digipower Project{#d.2 .unnumbered}
+#### SITRA/Hestia.ai's digipower Project{#d.2 .unnumbered}
 
 [TODO Describe Digipower here]
 
@@ -498,7 +498,7 @@ Glossary of Pre-Existing Abbreviations, Names and Terms {#glossary .unnumbered}
 * **SAR - Subject Access Request** - [ADD SECTIONREF] [ADD DEFINITION]
 * **SI - Self Informatics** - Self Informatics [[TODO REF] () ]
 * **SILVER** - [ADD SECTIONREF] [ADD DEFINITION]
-* **Sitra** - [ADD SECTIONREF] [ADD DEFINITION]
+* **SITRA** - [ADD SECTIONREF] [ADD DEFINITION]
 * **Scraping** - [ADD SECTIONREF] [ADD DEFINITION]
 * **Seams** - [ADD SECTIONREF] [ADD DEFINITION]
 * **Subjective Classification Principle** - [ADD SECTIONREF] [ADD DEFINITION]

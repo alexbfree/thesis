@@ -25,14 +25,14 @@ In order to better understand what is and is not possible using this technique, 
 
 Within the personal data interface design context, I undertook my second embedded research activity within the PhD. For an eight month period (three months full time and five months part time) beginning in early summer of 2020, I was a research intern in the British Broadcasting Corporation's Research and Development department. The BBC has a public remit to carry out research and development in the broadcast, media and information space, including HDI [@bbcrd2017], and has over 200 researchers. I was assigned to a project codenamed Cornmarket, a collaboration between user experience designers, researchers and developers which aimed to explore a new role for the BBC in extending its public service role beyond broadcasting into personal data stewardship. The main task was to develop a prototype personal data locker into which people could store everyday data including TV and music media streaming data, health data, and financial data. This provided an excellent opportunity to put all of my learnings acquired thus far for all three RQs into practice, and further deepen my understanding of RQ3 - the barriers and opportunities to actually building new human-centric data interfaces in the real world. [TODO deformalise RQ3] Throughout the internship I was able to explore the problem space from many different angles - sharing my own research expertise, doing competitor analysis and background research, information architecture, data modelling, user experience and user-centred design, technology prototyping and supporting participatory research activities. This embedded research provided numerous new insights and an opportunity to iterate and develop my theories and models with BBC colleagues.
 
-#### Understanding the Power of Data: Sitra's #digipower Project with Hestia.ai
+#### Understanding the Power of Data: SITRA's #digipower Project with Hestia.ai
 
 [TODO add details here]
 
 
 ### Practical Data Experiments, Interface Design and Prototyping{#3.5.4}
 
-![Figure 14: Visual Design Mockup for Life Partitioning in a PDS -- A visual design mockup collaboratively created with BBC Research colleague Jasmine Cox](./src/figs/fig14-pds-partititioning.png)
+![Figure 14: Visual Design Mock-up for Life Partitioning in a PDS -- A visual design mock-up collaboratively created with BBC Research colleague Jasmine Cox](./src/figs/fig14-pds-partititioning.png)
 
 ![Figure 15: Prototype interface for GDPR Data Viewing -- A working prototype that I developed during a hack week at BBC R&D](./src/figs/fig15-prototype-gdpr-interface.png)
 
@@ -65,7 +65,7 @@ Because of the overlapping of RQs 1 and 2 in Case Study One and Two, I have stru
 * Chapter 4 details Case Study One in the context of both RQ1 & RQ2.
 * Chapter 5 details Case Study Two in the context of both RQ1 & RQ2.
 * Chapter 6 is the first discussion chapter, which separately unifies RQ1 findings and RQ2 findings, so that they can be referenced in general terms as distinct understanding of people's wants in their direct relationships to data (RQ1) and their wants in relationships with those who hold data about (i.e. their indirect relationships to data) (RQ2), drawing from insights that span both case studies.
-* Chapter 7 is the concluding discussion chapter, which examines how those needs identified in Chapters 4, 5 and 6 might be achieved in practice, through software development, education and civic action. This covers all three research subquestions and draws these together to address the main research question.
+* Chapter 7 is the concluding discussion chapter, which examines how those needs identified in Chapters 4, 5 and 6 might be achieved in practice, through software development, education and civic action. This covers all three research sub questions and draws these together to address the main research question.
 
 
 
