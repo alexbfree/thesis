@@ -704,7 +704,7 @@ Summation: Addressing the Expanded Research Question{#7.5}
 
 This chapter examined the expanded research question [[7.1.1](#exRQ)] of how better Human Data Relations might be achieved in practice. Through detailed practical examples drawn from the peripheral research settings [[7.1.1](#7.1.2)] and elsewhere, I have identified key obstacles [[7.3](#7.3); [Figure 7.3](#7.3)] to better HDR including invisible, inaccessible, scattered, immobile, unmalleable, or unrelatable data; the complexity of current personal data ecosystems; a lack of metadata and machine understanding;  the ongoing exertion of power by introspective data holders to diminish user agency; and a lack of demand and investment in HDR.
 
-Building upon the 13 insights introduced throughout [7.3](#7.3) and [7.4](#7.4), I have, as illustrated in Figures [15](#figure-15), [16](#figure-16), [32](#figure-32), and [34](#figure-34)], described four distinct trajectories for improving HDR, which provide not a complete answer, but provide steps to begin to address that [expanded reseach question](#exRQ):
+Building upon the 13 insights introduced throughout [7.3](#7.3) and [7.4](#7.4), I have, as illustrated in Figures [7.15](#figure-7.15), [7.16](#figure-7.16), [7.32](#figure-7.32), and [7.34](#figure-7.34), described four distinct trajectories for improving HDR, which provide not a complete answer, but provide steps to begin to address that [expanded research question](#exRQ):
 
   1. **Discovery-Driven Activism** [[7.4.2](#7.4.2)]
   2. **Building the Human-Centric Future**  [[7.4.3](#7.4.3)]
