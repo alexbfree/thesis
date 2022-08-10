@@ -1,12 +1,49 @@
 Frontmatter {.unnumbered}
 ===========
 
-### Abstract {.unnumbered}
+Abstract {#abstract .unnumbered}
+=========
 
-Technologies including PCs, smartphones, and cloud computing have transformed the world: In our daily lives we interact with many businesses and public services who (to reduce costs) increasingly seek to rely on data collection and processing rather than face-to-face user interactions to inform their decisions. This creates an _imbalance of power_ between those who hold data and the individuals about whom data is stored, who cannot easily see their personal data or how it is used. This _Digital Civics_ PhD research explores, from a pragmatic, individualist, constructivist perspective, the topic of _Human Data Relations_. Through two qualitative case studies across public and private sectors, it answers the question, _"What relationship do people need with their personal data?"_. Case Study One focuses on _Early Help_ social care: Through four workshops with supported families, social workers and staff, a deep understanding of the individual perspective on civic personal data use is established. _Shared data interaction_ is explored as a means to shift the balance of power towards the individual while maintaining an effective care relationship. Case Study Two is a three-month study exploring 10 participants' experience of using _GDPR data access rights_ to view their own data, resulting in insights into individual needs and the challenges of data-centric service relationships, and recommendations for improvement of policies and practices. With reference to literature from the fields of _Personal Information Management_, _Human Data Interaction_ and _MyData_ personal data ecosystems, these case studies contribute to a unified understanding of _six core needs_ that people have in Human Data Relations. In the final chapter, the thesis discusses the _practical pursuit_ of these goals, drawing on first-hand knowledge acquired from expert participation in industrial research projects at BBC R&D and Hestia.ai/SITRA, mapping out the _landscape for future research and innovation_.
+Technologies including PCs, smartphones, and cloud computing have transformed the world: In our daily lives we interact with many businesses and public services who (to reduce costs) increasingly seek to rely on data collection and processing rather than face-to-face user interactions to inform their decisions. This creates an _**imbalance of power**_ between those who hold data and the individuals about whom data is stored, who cannot easily see their personal data or how it is used. This _Digital Civics_ PhD research explores, from a pragmatic, individualist, constructivist perspective, the topic of _**Human Data Relations**_. Through two qualitative case studies across public and private sectors, it answers the question, _**"What relationship do people need with their personal data?"**_. Case Study One focuses on _Early Help_ social care: Through four workshops with supported families, social workers and staff, a deep understanding of the individual perspective on civic personal data use is established. _**Shared data interaction**_ is explored as a means to shift the balance of power towards the individual while maintaining an effective care relationship. Case Study Two is a three-month study exploring 10 participants' experience of using _**GDPR data access rights**_ to view their own data, resulting in insights into individual needs and the challenges of data-centric service relationships, and recommendations for improvement of policies and practices. With reference to literature from the fields of _Personal Information Management_, _Human Data Interaction_ and _MyData_ personal data ecosystems, these case studies contribute to a unified understanding of _**six core needs**_ that people have in Human Data Relations. In the final chapter, the thesis discusses the _practical pursuit_ of these goals, drawing on first-hand knowledge acquired from expert participation in industrial research projects at BBC R&D and Hestia.ai/SITRA, **_mapping out the landscape for future research and innovation_**.
+
+Dedication {.unnumbered}
+==========
+
+_For **Rosie**, **Joey**, **Zach**, **Amy**, **Elliott** and **Lyla**, in the hope that you and your generation might discover a future where technology and personal data drive human flourishing more than corporate profit._
 
 Acknowledgements {.unnumbered}
 ==============================
+
+No-one really knows how hard a PhD is until they are already well beyond the point of no return. It is demanding, challenging and often thankless and lonely work, working countless hours, striving to find meaning among masses of data or iterating endlessly to concisely express complex, nebulous and elusive ideas. It is an endeavour made even harder when one is a mature student with financial and parental responsibilities. At times, especially during the final unfunded writing-up period, the impacts upon my life and those around me have been huge and unreasonable. For this reason, the greatest thanks of all must go to my wife Joni, who has stood by me throughout, picking up the slack where I could not. She has endured the impacts of money, time, uncertainty and divided attention that this work has thrust upon our family. She has also provided practical help on countless occasions with everything from poster layout to time management to grammatical advice. I love you forever, Joni. Thank you.
+
+The next person I want to thank is Jack Holt, who dedicated many weeks and months of his life to collaborate with me to analyse of mountains of participant data from Case Study Two and to co-write the paper [@bowyer2022gdpr] with me. I have absolutely no doubt that without his dedication, it would have been impossible to complete and publish the study in any reasonable timeframe.
+
+I would like to thank, in reverse chronological order, my supervisors and all the other faculty and staff who have supported me on this six-year journey:
+
+  - Dave Kirk, for both detailed and high-level advice in bringing my thesis to conclusion during the final year;
+  - Jan Smeddinck, for calm, pragmatic and thorough feedback and encouragement on drafts and plans through the latter half of my research;
+  - Rob Wilson, for always reminding me to stay grounded in the data, and for his sage advice in matters sociotechnical and philosophical;
+  - Josephine Go Jeffries, for much-needed scrutiny and challenges to my writing and many detailed chapter draft reviews;
+  - Patrick Olivier, Pete Wright and Dave Kirk, for their continuing commitment to help me find ways to make the PhD financially viable through the finding and accommodating of peripheral paid work;
+  - Kyle Montague, for his valuable input on study design in the early stages of my PhD, and for advocating to protect my independence and integrity as a researcher during problematic negotiations with a partner organisation;
+  - Phil Lord, for assistance and advocacy with those same issues at a crucial time;
+  - Madeline Balaam, for inspiration on participatory methods right at the start, and helping me develop a paper writing style;
+  - Rachel Pattinson, for being the best CDT manager a postgraduate could hope for;
+  - Alex, Fion, Glau, James, Sara, Paul, Nicola and all the other admin staff, for a million random assists;
+  - And also to Rob Comber, Simon Bowen and all the other lecturers who taught me valuable Digital Civics and research skills during the MRes that helped shape the researcher I am.
+
+I have been fortunate to take this journey with dozens of other researchers. I would like to especially thank:
+
+  - Tom Maskell, for his help with wrestling with concepts around data access and involvement, and companionship on many bus commutes in the early years;
+  - Sunil Rodger, for valuable moral support, writing camaraderie, and practical advice for the last two years; and
+  - Stuart Wheater, for myriad data discussions and tactical discussions through a difficult period that often went beyond project business.
+
+Finally I would also like to thank, in no particular order:
+
+  - Rebecca Nicholson, Sean Peacock, Jen Manuel, Rosie Bellini, Seb Prost, Kieran Cutting, James Hodge, Hazel Dixon and all the other Digital Civics PhDs whose company and mutual support I had the pleasure of during dozens of writing sessions;
+  - Louis Goffe, Debbie Smart, Kat Jackson, Liam Spencer, Ruth McGovern and Kyle Montague for giving up their time to help run workshops with participants;
+  - Paul-Olivier Dehaye, Soheil Human, Jasmine Cox, Peter Wells, Ian Forrester, Tim Broom, Suzanne Clarke, Chris Gameson, Neelima Sailaja, Sarah Knowles, Kellie Morrissey, Vidya Sarangapani, Aare Puussaar, StJohn Deakins, Jay Rainey and all the other experts I had the pleasure to work with or learn from; and
+  - the participants themselves, who shall remain nameless but without which this work could not exist.
 
 Lists of Tables and Figures {.unnumbered}
 ==========================
