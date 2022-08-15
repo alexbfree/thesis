@@ -309,7 +309,11 @@ Here are just a few examples of the ways in which users' agency has been, and co
 - In an example from the public sector, through my work on the SILVER project [[3.4.1.1](#3.4.1.1)] just prior to the introduction of the GDPR in 2018, I heard whispers in at least one local authority of plans to 'shift from getting data collection consent from supported families towards simply informing them of our practices' (in other words, removing their choice). This shows that the instinct to further organisational interests over those of the individual is not limited to commercial data holders.
 - In a similar vein, in 2022 TikTok announced that it would rely on legitimate interest rather than consent when it comes to using users’ activity data to personalise the app experience, removing users’ ability to withdraw consent to such use. This plan has subsequently been paused after warnings that this might breach GDPR [@lomas2022].
 
-Unchecked, it is clear that trends to reduce users’ agency and further providers’ interests will continue, Therefore this trend to diminish users' agency is a particular obstacle that would need to explicitly targeted if data interfaces are to become more free-flowing [@bowyer2018freedata], and if the objective of ecosystem negotiability is to be realised. Somehow, the trend needs to be halted, before it can be reversed. Judging by the TikTok example, perhaps only regulatory changes can force such a change.
+Unchecked, it is clear that trends to reduce users’ agency and further providers’ interests at the expense of human autonomy will continue. Today's data-centric systems suffer from a lack of consideration to individual welfare by the organisations that hold and use personal data, precisely because a focus on data encourages the human end user perspective to be neglected, creating potential for harm:
+
+> _"There are certain things you do not in good conscience do to humans. To data, you can do whatever you like."_ [@sonnad2022]
+
+The trend to diminish users' agency is a particular obstacle that would need to explicitly targeted if data interfaces are to become more free-flowing [@bowyer2018freedata], and if the objective of ecosystem negotiability is to be realised. Somehow, the trend needs to be halted, before it can be reversed. Judging by the TikTok example, perhaps only regulatory changes can force such a change.
 
 #### The Intractable Data Self{#7.3.4.3 .unnumbered}
 
