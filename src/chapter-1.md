@@ -1,7 +1,7 @@
 Introduction{#chapter-1}
 =======================
 
-> _"My data is everywhere, and I am nowhere."_ -- Imogen Heap (musician and digital rights advocate), speaking at MyData 2019.
+> _"My data is everywhere, and I am nowhere."_ — Imogen Heap (musician and digital rights advocate), speaking at MyData 2019.
 
 Background and Motivation for this Research{#1.1}
 -------------------------------------------
@@ -270,6 +270,5 @@ The landscape of HDR is mapped out in two parts. First [[7.3](#7.3)], I outline 
 
 [Chapter 8](#chapter-8) is a brief conclusion of the thesis, summarising its contributions and positioning HDR and this thesis as call to arms for activist research and innovation that can tackle the power imbalance in society.
 [TODO check this once Chapter 8 is split out separately]
-
 
 ---

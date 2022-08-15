@@ -1,17 +1,20 @@
 Appendices {.unnumbered}
 ===========
 
-### Appendix A: The Pilot Study: CHI 2018 Paper {#appendix-a .unnumbered}
+Appendix A: The Pilot Study: CHI 2018 Paper {#appendix-a .unnumbered}
+===========
 
 For additional context, see [1.3.1](#1.3.1).
 
 [PRODUCTION TODO: ADD PILOT STUDY PAPER HERE]
 
-### Appendix B: Case Study One Methodology: Additional Details (Storyboarding Cards) {#appendix-b .unnumbered}
+Appendix B: Case Study One Methodology: Additional Details (Storyboarding Cards) {#appendix-b .unnumbered}
+===========
 
 [PRODUCTION TODO: ADD STORYBOARDING TEXT FROM JOURNAL PAPER]
 
-### Appendix C: Case Study Two Methodology: Additional Details {#appendix-c .unnumbered}
+Appendix C: Case Study Two Methodology: Additional Details {#appendix-c .unnumbered}
+===========
 
 In this section, the methodology used for the analysis of data from Case Study Two is explained. The content of this appendix is identical to Appendix 3 in the Supplemental Materials of the CHI 2022 paper from this study [@bowyer2022gdpr]. Case Study Two was written first as a paper and then expanded to produce Chapter 5. While the paper was co-written, Chapter 5 was written entirely by Alex Bowyer.
 
@@ -202,9 +205,10 @@ Format: `NN-pXX-iX-[….]-[company first three letters].txt`
 
 e.g. `01-p01-i3-Cred-Indr.txt` or `02-p01-i3-Genr-Wrap.txt`
 
-### Appendix D: Peripheral Research Settings: Additional Details {#appendix-d .unnumbered}
+Appendix D: Peripheral Research Settings: Additional Details {#appendix-d .unnumbered}
+===========
 
-#### BBC R&D's Cornmarket Project{#d.1 .unnumbered}
+## BBC R&D's Cornmarket Project{#d.1 .unnumbered}
 
 I took a three-month sabbatical from my PhD in the summer of 2020. I was remotely embedded within a full-time research internship into the British Broadcasting Corporation (BBC)'s Research and Development (R&D) department, working with specialists, designers, researchers and developers on an exploratory research project codenamed _'Cornmarket'_. I continued this involvement as a part-time research consultant and critical friend for a further 5 months after the conclusion of the initial three-month placement.
 
@@ -216,7 +220,7 @@ With a cross-disciplinary team of around 20 people including architects, develop
 
 Much of the work I did during this extended internship can be seen in the designs within [7.4.3](#7.4.3), as well as the research report I wrote [TODO ADD REF TO RESEARCH REPORT] and internship writeup [TODO ADD REF TO INTERNSHIP WRITEUP]. My work with the Cornmarket project can be seen as the conclusion of one of several action research cycles within my PhD [3.2.2](#3.2.2).
 
-#### SITRA/Hestia.ai's digipower Project{#d.2 .unnumbered}
+## SITRA/Hestia.ai's digipower Project{#d.2 .unnumbered}
 
 [TODO Describe Digipower here]
 
@@ -224,21 +228,23 @@ Much of the work I did during this extended internship can be seen in the design
 [@ [@bowyer2022hestia; @pidoux2022]]
 .. and I continue with Hestia
 
-#### Connected Health Cities (CHC)'s SILVER Project{#d.3 .unnumbered}
+## Connected Health Cities (CHC)'s SILVER Project{#d.3 .unnumbered}
 
 [TODO More description about Silver Dev here]
 
-#### Digital Economy Research Centre (DERC)'s Healthy Eating Web Augmentation Project{#d.4 .unnumbered}
+## Digital Economy Research Centre (DERC)'s Healthy Eating Web Augmentation Project{#d.4 .unnumbered}
 
-As a software developer I have been aware for a long time that one of the biggest challenges in building new data interfaces is to gain programmatic access to the necessary data. As part of the trend towards cloud-based services and data-centric business practices, it has become increasingly difficult to access all of the data held about users by service providers. Application Programming Interfaces (APIs) are a technical means for programmers to access a user's data so that third-party applications may be built using that data. Unfortunately, as a result of commercial incentives to lock users in and keep data trapped [@abiteboul2015; @bowyer2018freedata], much of users' data can no longer be accessed via APIs. While GDPR data portability requests do open up a new option for the use of one's provider-collected data in third-party applications, this is an awkward and time-consuming route for both users and developers. _**Web augmentation**_ provides a third possible technical avenue for obtaining data from online service providers. It relies on the fact that a user's data is loaded to the user's local machine and displayed within their web browser every time a website is used, and therefore it is possible to extract that data from the browser using a browser extension. Similarly, once loaded into the browser, a provider's webpage can be modified to display additional data or useful human-centric functionality that the provider failed to provide. This
+As a software developer I have been aware for a long time that one of the biggest challenges in building new data interfaces is to gain programmatic access to the necessary data. As part of the trend towards cloud-based services and data-centric business practices, it has become increasingly difficult to access all of the data held about users by service providers. Application Programming Interfaces (APIs) are a technical means for programmers to access a user's data so that third-party applications may be built using that data. Unfortunately, as a result of commercial incentives to lock users in and keep data trapped [@abiteboul2015; @bowyer2018freedata], much of users' data can no longer be accessed via APIs. While GDPR data portability requests do open up a new option for the use of one's provider-collected data in third-party applications, this is an awkward and time-consuming route for both users and developers. _**Web augmentation**_ provides a third possible technical avenue for obtaining data from online service providers. It relies on the fact that a user's data is loaded to the user's local machine and displayed within their web browser every time a website is used, and therefore it is possible to extract that data from the browser using a browser extension. Similarly, once loaded into the browser, a provider's webpage can be modified to display additional data or useful human-centric functionality that the provider failed to provide. [TODO CHECK I DIDN'T MISS SOMETHING OUT HERE]
 
 In order to better understand what is and is not possible using this technique, I participated from 2018 to 2020 as a part time web developer in a project which was using the web augmentation technique to improve the information given to users of Just Eat, a takeaway food ordering platform in the UK, the theoretical basis for which was published in [@goffe2021; @goffe2022]. While this particular use case does not concern personal data, the technology being used by the project were considered highly relevant, and the goals of the research project were also human-centric, and consistent with this thesis's research goals - tackling the hegemony of service providers in order to better serve individual needs. This research project is tangential to this thesis, but is an example of the 'hacking the seams' approach detailed in [7.4.4](#7.4.4) and [Insight 12](#insight-12).
 
-### Appendix E: Ethics Approvals {#appendix-e .unnumbered}
+Appendix E: Ethics Approvals {#appendix-e .unnumbered}
+===========
 
 [PRODUCTION TODO: ADD ETHICS APPROVALS HERE]
 
-### Appendix F: The Private Data Viewing Monitor {#appendix-f .unnumbered}
+Appendix F: The Private Data Viewing Monitor {#appendix-f .unnumbered}
+===========
 
 By removing the filter layer on an old monitor and modifying cinema IMAX glasses, a monitor was created that only allowed viewing by the holder of the viewing glasses, which would be ideal for interviewing someone about their data while respecting privacy. Face to face interviewing had to be abandoned due to COVID-19, so this technique was sadly never used in practice.
 

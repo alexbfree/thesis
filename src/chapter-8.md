@@ -1,7 +1,7 @@
 Conclusion {#chapter-8}
 ===========
 
-> _"What drives and drags the world are not machines, but ideas."_ -- Victor Hugo
+> _"What drives and drags the world are not machines, but ideas."_ — Victor Hugo
 
 Section [6.3](#6.3) concluded the academic inquiry part of the thesis with a clear answer to what sort of relationship people need with their personal data in order to be empowered - they need visible, understandable and useable data, as well as process transparency, individual oversight and decision-making involvement.
 
@@ -14,7 +14,7 @@ Personal Reflection
 
 As an experienced software engineer, power user and technology blogger, who had considered the loss of digital agency for many years [[1.1.1](#1.1.1)], my journey into this research space was an unusual one; I arrived with **already-formed ideas** about the nature of the problem. This was not an ideal match for the traditionally participant-led approach of HCI, where ideas and insights normally arise solely from one's participants. However, through the discipline of the Digital Civics programme and the experience of publishing peer-reviewed papers I successfully found ways to explore the research questions objectively. Recognising that HDR issues would be unlikely to surface organically, I was able to use careful sensitisation [[3.5.1](#3.5.1)], balanced and open questioning and neutrally-designed stimuli [[3.5.2](#3.5.2)] in a way that elevated **participant experience to be the primary source of data**, to produce findings and discursive conclusions that are as much the participants as my own.
 
-Along the way I discovered **vital areas of literature and existing work,** most notably the foundational work of Weiser, Abowd, Crabtree and others [[2.3.1](#2.3.1); [2.3.3](#2.3.3)], the sub-discipline of Human Data Interaction [[2.3.2](#2.3.2)] and the emergent innovation around Personal Data Ecosystems [[2.3.4](#2.3.4)]. Collectively, I now knew where to position my existing and newly discovered understandings into the existing research landscape.
+Along the way I discovered **vital areas of literature and existing work,** most notably the foundational work of Weiser, Abowd, Crabtree and others [[2.3.1](#2.3.1); [2.3.3](#2.3.3)], the sub-discipline of Human Data Interaction [[2.3.2](#2.3.2)] and the emergent innovation around Personal Data Ecosystems and _MyData_ [[2.3.4](#2.3.4)]. Collectively through these discoveries, I learned knew where to position my existing and newly-discovered understandings into the existing research landscape.
 
 As my understandings of Human Data Relations informed by the Case Studies coalesced into a clear, cross-validated understanding of what people want and need from data and from data holders [[Chapter 6](#chapter-6)], this gave me the confidence to **grow and evolve as a researcher**; moving from investigatory or theoretical research to more **practical, activist work** on how to begin to work towards delivering these new capabilities in practice, enabled by the models and ideas I was developing throughout the research.
 
@@ -45,3 +45,5 @@ With the inclusion of [Chapter 7](#chapter-7), the thesis goes much further than
 Through its Case Studies, this thesis has made additional contributions to the fields of Early Help and GDPR Data Access, as detailed in [[1.2.3](#1.2.3)] and [[1.2.4](#1.2.4)]. Nine publications, workshops and presentations of the work in this thesis have been delivered [[1.3](#1.3)], and the research has already contributed value to real-world industrial projects at BBC R&D in the UK, Hestia.ai in Switzerland and their client SITRA in Finland.
 
 Through the grounded practical references and examples provided and extensively detailed throughout Chapter 7, this work moves beyond simply conducting research to understand human personal data needs, and **sets the scene for an progressive and activist agenda** to realise those needs and reconfigure society to one where those human-centric needs are better met. It constitutes **a call to arms** for future research, innovation and activism in Human Data Relations, combined with a detailed guide to understand the data economy landscape, what needs to change, and an arsenal of **design and implementation strategies** for how that might be done by HDR reformers as they fulfil their role as a recursive public [[7.2.5](#7.2.5)]. Armed with these insights, future HDR reformers can drive us towards a better future to deliver increased agency for individuals, greater data use capabilities, and a more balanced landscape around the use of personal data by service providers.
+
+---

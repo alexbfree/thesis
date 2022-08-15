@@ -1,7 +1,7 @@
 Discussion I: An Understanding of Human Data Relations{#chapter-6}
 ======================================================
 
-> _"For a participatory system to work, you need: a plausible promise, an effective tool, and an acceptable bargain."_<br/> -- Clay Shirky (author and journalist focused on the social and economic effects of Internet technologies)
+> _"For a participatory system to work, you need: a plausible promise, an effective tool, and an acceptable bargain."_<br/> — Clay Shirky (author and journalist focused on the social and economic effects of Internet technologies)
 
 It will be already evident to the reader that there are significant overlaps and parallels to be drawn across the findings and discursive insights in Case Study One and Two. In this first discussion chapter, I will draw on both Chapter 4 and Chapter 5 to produce a unified summary of findings and insights in terms of the first two research sub questions RQ1 and RQ2.
 To recap on the research objectives expressed in [3.3](#3.3), these two RQs are:
@@ -157,3 +157,5 @@ Considering the societal level, these six wants show **how society should be rec
 innovation in data access and process involvement to flourish.
 
 The vision of these new empowered individuals, given new inclusive roles in the lives of their data, therefore, is the ultimate answer to [the research question](#RQ) this thesis set out to answer: This data-empowered and process-involved future is what better HDR looks like.
+
+---
