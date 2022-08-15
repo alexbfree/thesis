@@ -40,7 +40,7 @@ Finally, I would also like to thank, in no particular order:
   - Rebecca Nicholson, Sean Peacock, Jen Manuel, Rosie Bellini, Seb Prost, Megan Venn-Wycherley, Kieran Cutting, James Hodge, Hazel Dixon, Nataly Birbeck and all the other Digital Civics PhDs whose company and mutual support I enjoyed during dozens of writing sessions and discussions;
   - (Matt) Marshall for sharing his powerful script framework for markdown-based thesis writing and document generation, and supporting me in adapting it;
   - Louis Goffe, Debbie Smart, Kat Jackson, Liam Spencer, Ruth McGovern and Kyle Montague for giving up their time to help run workshops with participants;
-  - Paul-Olivier Dehaye, Soheil Human, Jasmine Cox, Peter Wells, Ian Forrester, Rhianne Jones, Tim Broom, Suzanne Clarke, Chris Gameson, Sarah Knowles, Kellie Morrissey, Aare Puussaar, StJohn Deakins, Michael Jelly, Jay Rainey, David Williams, Ben Wright, Paul Whittles and all the other lovely people I have had the pleasure to work with, ruminate with or learn from during this PhD;
+  - Paul-Olivier Dehaye, Soheil Human, Jasmine Cox, Peter Wells, Ian Forrester, Rhianne Jones, Tim Broom, Suzanne Clarke, Chris Gameson, Sarah Knowles, Kellie Morrissey, Aare Puussaar, Andy Dow, Xander Wilson, StJohn Deakins, Michael Jelly, Jay Rainey, David Williams, Ben Wright, Paul Whittles and all the other lovely people I have had the pleasure to work with, ruminate with or learn from during this PhD;
   - my parents Jim and Rosi Bowyer and my brother Jon Bowyer for their unquestioning love and support in an ever-changing world; and
   - the research participants themselves, who shall remain nameless but without which this work could not exist.
 
