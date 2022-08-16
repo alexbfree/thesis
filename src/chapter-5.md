@@ -27,7 +27,7 @@ However, it is not known how effective these offerings and processes are for ser
 
 [^11]: In this study and throughout this thesis, my usage of the word 'want' in the context of data capabilities deliberately includes both meanings of the word: the need or desire of the individual, but also that which they **lack** (see opening of Chapter 6).
 
-[^12]: At the time of writing (summer 2022) the GPDR legally applies in both the European Union and the United Kingdom (which adopted a copy of EU legislation when it left the EU in 2020), which have a total population of 513 million individuals [37]. GDPR rights are also conferred to any individual who is a customer of businesses with registered offices in EU or UK countries, meaning that these rights are in effect globally available for non-EU, non-UK users of many multi-national digital service providers.
+[^12]: At the time of writing (summer 2022) the GPDR legally applies in both the European Union and the United Kingdom (which adopted a copy of EU legislation when it left the EU in 2020), which have a total population of 513 million individuals [TODO Replace with reference 37]. GDPR rights are also conferred to any individual who is a customer of businesses with registered offices in EU or UK countries, meaning that these rights are in effect globally available for non-EU, non-UK users of many multi-national digital service providers.
 
 ### Current GDPR Research and its Limitations{#5.1.2}
 

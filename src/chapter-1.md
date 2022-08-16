@@ -194,7 +194,6 @@ While it was not designed as a methodological contribution nor formally evaluate
 
 Publications arising from and connected to this research{#1.3}
 --------------------------------------------------------
-[TODO address JG feedback]
 
 ### Pilot Study{#1.3.1}
 
@@ -239,11 +238,11 @@ During the PhD, I gave a number of additional presentations and published three 
 
 ### Publications from other work{#1.3.2.4}
 
-During the same timeframe as this PhD, I have also contributed to a number of publications tangential to my primary research agenda:
+During the same timeframe as this PhD, I have also contributed to a number of publications from peripheral work [[Appendix D](#appendix-d)] tangential to my primary research agenda:
 
 - As a researcher and developer on the Connected Health Cities SILVER project [[3.4.1.1](#3.4.1.1)], I contributed to work published through Newcastle University's internal report to CHC (not publicly available) and the [overall impact report](https://web.archive.org/web/20211225192408/https://www.chc-impact-report.co.uk/) [@ConnectedHealthCities2021impact,129-130], and more directly published [demonstration videos](https://eprints.ncl.ac.uk/273839) [@bowyer2019silvervideo] of a health data interface prototype developed by myself and Stuart Wheater.
 - As a researcher and developer on DERC's Healthy Eating project, I developed interface prototypes (no longer online) and was co-author to two research publications [at BCS 2021](https://doi.org/10.14236/ewic/HCI2021.16) [@goffe2021] and [in Interacting with Computers](https://doi.org/10.1093/iwc/iwac015) [@goffe2022].
-- As a research intern on BBC R&D's Cornmarket project [TODO ADD REF], I published an internal research report [TODO ADD REF] into personal data store design, as well as a 'stimulus presentation' to launch an internal hack week and a BBC blog article about the work (which was not officially published) [TODO ADD REF].
+- As a research intern on BBC R&D's Cornmarket project [@sharp2021], I published an internal research report [TODO ADD REF] into personal data store design, as well as a 'stimulus presentation' to launch an internal hack week and a BBC blog article about the work (which was not officially published) [TODO ADD REF].
 - As project leader, data access coach and researcher at Hestia.ai, I was a lead author on [a research report auditing the data economy](https://doi.org/10.5281/zenodo.6554177) [@bowyer2022hestia], and co-author on [a research report on power mechanisms in the data economy](https://doi.org/10.5281/zenodo.6554155) [@pidoux2022].
 
 The structure of this thesis{#1.4}
@@ -269,6 +268,5 @@ The overall structure of this thesis is illustrated in [Figure 1.2](#figure-1.2)
 The landscape of HDR is mapped out in two parts. First [[7.3](#7.3)], I outline the identified _obstacles_ to pursuit of the HDR objectives. Then [[7.4](#7.4)], using a _Theories of Change_ (ToC) framing, my identified _opportunities for progress_ are introduced, divided into _four different trajectories of change_ that could be executed to pursue better HDR. [7.3](#7.3) and [7.4](#7.4) are interspersed with actionable _insights_ that could help tackle the obstacles and pursue the change trajectories. [7.5](#7.5) is a summation of the chapter.
 
 [Chapter 8](#chapter-8) is a brief conclusion of the thesis, summarising its contributions and positioning HDR and this thesis as call to arms for activist research and innovation that can tackle the power imbalance in society.
-[TODO check this once Chapter 8 is split out separately]
 
 ---

@@ -117,7 +117,7 @@ The two distinct processes that individuals might go through in pursuit of these
 
 [^17]: Of course, there is some overlap; the reason that organisations hold data is so that they can interpret it (usually algorithmically) to inform decision making. In this way, organisations could be seen to be doing LIU of service users' lives for their own benefit. From a human-centric perspective, this grey area is situated as part of PDEC, as from the individual perspective, how organisations understand you through information will inform decisions that affect your life. Thus, this can be considered part of the reason why one might want to exert control over use of your data, rather than being part of exploiting data to gain self-insights and personal benefits.
 
-[^18]: The illustrated processes assume reliance on existing data access processes such as GDPR, where the only access is through provision of a copy of one's data. This is in fact, not ideal, as it creates divergent versions and will quickly become out-of-sync, however for the sake of simplicity this inefficiency is ignored here. Improvements upon this approach are explored in [TODO INSERT REF]
+[^18]: The illustrated processes assume reliance on existing data access processes such as GDPR, where the only access is through provision of a copy of one's data. This is in fact, not ideal, as it creates divergent versions and will quickly become out-of-sync, however for the sake of simplicity this inefficiency is ignored here. Improvements upon this approach are explored in [5.5.1](#5.5.1).
 
 #### Life Information Utilisation{#7.2.3.1}
 
@@ -189,7 +189,6 @@ To consider how to improve the useability of data, we must first consider what p
 
 It is **immobile**, in that it is very difficult to move a dataset out of the environment where it exists: most data exists in organisations' internal databases, where it is tightly coupled to technology stacks, interfaces and business processes that use it. Separating one's data from the service that holds the data is difficult and often impossible.
 
-[TODO possibly move this paragraph elsewhere to avoid repetition with previous section]
 This setting of personal data also explains why it is **inaccessible** to individuals (in the sense of 'effective access' [@gurstein2011]). Data access requests such as GDPR are typically satisfied by creating a copy of the data, which creates problems of delay, divergence and understanding. Even then, as Case Study Two showed, this is incomplete [[5.4.2.2](#5.4.2.2)] and much of the data is never made available. Its accessibility is also hindered by the technical nature of data. For organisational efficiency, data will often be stored in complex proprietary structures which are designed for the algorithmic efficiency of the specific operations the service provider wants to perform, rather than for general-purpose re-use.
 
 Evident from individuals' goals for use of their data [[Table 12](#table-12)] is that people need to be able to ask questions of their data. This highlights the problem that data is not **interrogable**. It must stand for itself, and there is no obvious way to ask a question about the meaning of the data or about what the data says about a particular question, without either the co-operation of the data holder, or advanced technical skills in querying and data analysis. To be able to ask questions of data, it needs to be malleable - one needs the ability to break it down, look at it from different perspectives, and reconstitute it in different ways. This requires more than just an ability to produce visual representations of the data, but an ability to **interact with the data** and produce new interpretations and insights that can help to answer specific questions.
@@ -402,7 +401,6 @@ To provide a structure for cataloguing the insights conveyed by this section, I 
 ![Figure 7.14: Theory of Change [ToC]\: The Four Dimensions of Change[^20]](./src/figs/fig7.14-dimensions-of-change.png){#figure-7.14}
 
 [^20]: Diagram used here unchanged from _Hivos ToC Guidelines_ [@vanEs2015, 90] under a CC-BY-NC-SA 3.0 license, whose authors state that this diagram was adapted from earlier work by Wilber (1996), Keystone (2008) and Retolaza (2010, 2012).
-[TODO footnotes may need renumbering now]
 
 [Figure 7.14](#figure-7.14) illustrates the aspects of ToC thinking that are important when using this frame. Specifically, desired changes can be broken down into:
 
@@ -617,7 +615,7 @@ It is bad enough when a particular technology blocks you from doing what you wan
 | These examples make it quite clear that Storni was right: product seams are the place where control can be asserted or regained. They are the setting for the battle for the freedom and integrity of today's information landscape, and it is important for HDR reform that this space is specifically targeted. The role of the HDR reformer here is twofold: |
 |   1) To **surface information injustices** and especially the closures of seams. |
 |   2) To **push the seams to gain transparency and re-assert control**, using both and campaigns for policy change. |
-| In this context, the work of whistleblowers such as Frances Haugen [@horwitz2021] and Edward Snowden [@macaskill2013] is particularly validated and important. Whistleblowers can expose internal procedure changes that affect the information landscape's integrity that are not otherwise visible. In order to hold online platforms to account, the public must be **aware** and **able to attribute** any restriction in freedom or information access to the correct source, in other words to know that the information or functionality is being modified or restricted. These ideas are explored further in [TODO ADD REF HUMAN AUTONOMY PAPER]. Seams should be much more in the public consciousness than they are. |
+| In this context, the work of whistleblowers such as Frances Haugen [@horwitz2021] and Edward Snowden [@macaskill2013] is particularly validated and important. Whistleblowers can expose internal procedure changes that affect the information landscape's integrity that are not otherwise visible. In order to hold online platforms to account, the public must be **aware** and **able to attribute** any restriction in freedom or information access to the correct source, in other words to know that the information or functionality is being modified or restricted. These ideas are explored further in [@bowyer2017]. Seams should be much more in the public consciousness than they are. |
 
 [PRODUCTION TODO make this an inset box not a table]
 
