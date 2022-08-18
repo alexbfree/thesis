@@ -1,4 +1,4 @@
-Appendices {.unnumbered}
+Appendices {.unnumbered .unlisted}
 ===========
 
 Appendix A: The Pilot Study: CHI 2018 Paper {#appendix-a .unnumbered}
@@ -204,7 +204,7 @@ e.g. `01-p01-i3-Cred-Indr.txt` or `02-p01-i3-Genr-Wrap.txt`
 Appendix D: Peripheral Research Settings: Additional Details {#appendix-d .unnumbered}
 ===========
 
-## BBC R&D's Cornmarket Project{#d.1 .unnumbered}
+## BBC R&D's Cornmarket Project{#d.1 .unnumbered .unlisted}
 
 I took a three-month sabbatical from my PhD in the summer of 2020. I was remotely embedded within a full-time research internship at **BBC R&D** - the British Broadcasting Corporation (BBC)'s Research and Development (R&D) department [@bbc1997rd], working with specialists, designers, researchers and developers on an exploratory research project codenamed _Cornmarket_. I continued this involvement as a part-time research consultant and critical friend for a further 5 months after the conclusion of the initial three-month placement.
 
@@ -227,9 +227,9 @@ A number of articles relating to the Cornmarket project have been published:
 - https://www.telegraph.co.uk/business/2022/06/09/bbc-wages-war-online-echo-chambers-unbiased-tech/
 - https://parliamentlive.tv/event/index/7d249bcf-78e9-447b-907c-81df72b87542?in=15:01:35
 
-## Hestia.ai, and Sitra's _digipower_ Project{#d.2 .unnumbered}
+## Hestia.ai, and Sitra's _digipower_ Project{#d.2 .unnumbered .unlisted}
 
-Following the conclusion of the funded period of my PhD, I took up a near-full-time position as Project Leader and Personal Data Coach at **Hestia.ai** [@dehaye2019]), a startup based in Geneva, Switzerland. Hestia.ai is a company conducting research, developing technologies, and delivering training, in the emergent MyData/PDE space [[2.3.4](#2.3.4)]. In essence, the company's mission is to help individuals and especially collectives to more easily obtain and understand data held about them, and to help them visualise, aggregate and make use of that data. It is an example of a **data access and understanding services** company as described in [7.4.5.3](#7.4.5.3).
+Following the conclusion of the funded period of my PhD, I took up a near-full-time position as Project Leader and Personal Data Coach at **Hestia.ai** [@dehaye2019]), a startup based in Geneva, Switzerland. Hestia.ai is a company conducting research, developing technologies, and delivering training, in the emergent MyData/PDE space [[2.3.4](#2.3.4)]. In essence, the company's mission is to help individuals and especially collectives to more easily obtain and understand data held about them, and to help them visualise, aggregate and make use of that data. It is an example of a **data access and understanding services** company as described in [7.4.5](#7.4.5.3).
 
 I was specifically hired to co-lead the _digipower_ project [@härkönen2022project], for Hestia.ai's client, **Sitra** [@sitra1967]. Sitra is a non-profit organisation in Finland, funded by the Finnish Parliament and accountable to the Finnish people. The goal of the digipower project was to guide 15 European politicians, civil servants and journalists, through the process of obtaining and exploring their own data. The participants were high-profile VIPs, including the former Prime Minister of Finland and former European Commission Vice President, Jyrki Katainen. The goal was to empower those individuals to better understand the workings of the data economy, so that they might be able to influence others and effect change. One of Sitra's goals is to establish a fairer data economy [@sitra2018fairdata].  Methodologically, the project drew heavily on my own Case Study Two [[Chapter 5](#chapter-5)], adopting a similar method of guiding individuals through the process of making GDPR requests and scrutinising the returned data; I was employed on the project for this expertise. Where it differs from my own Case Study is that the focus of the research was outward, on the data economy and the practices of service providers, rather than inward, on the lived experience of the participants. Other differences included the building and use of software interfaces to provide participants with data visualisations, the use of TrackerControl software to audit mobile phone apps [[Insight 12](#insight-12)], and the direct analysis of participants' retrieved personal data by the Hestia.ai research team (whereas my Case Study explicitly avoided handling participants' personal data). The project resulted in three reports:
 
@@ -240,9 +240,9 @@ I was specifically hired to co-lead the _digipower_ project [@härkönen2022proj
 
 At the time of publication of this thesis (August 2022), I continue to be employed by Hestia.ai, working on the research, design and development of tools to help collectives [[Insight 10](#insight-10)] with data, make data easier to understand [[6.1.2](#6.1.2); [7.2.4](#7.2.4)], and exploring methods to help people 'hack the seams' of digital platforms and services [[7.4.4](#7.4.4)].
 
-Where the BBC internship [[D.1](#d.1)] has helped me to understand the practicalities of connecting people with their personal data in pursuit of Life Information Utilisation [[7.2.3.1](#7.2.3.1)], my work with Hestia.ai has helped me understand the practicalities of how people might acquire greater Personal Data Ecosystem Control [[7.2.3.1](#7.2.3.1)]. In this sense, both peripheral activities have been highly complementary to developing an overview of the pursuit of HDR in practice.
+Where the BBC internship [[D.1](#d.1)] has helped me to understand the practicalities of connecting people with their personal data in pursuit of Life Information Utilisation [[7.2.3](#7.2.3.1)], my work with Hestia.ai has helped me understand the practicalities of how people might acquire greater Personal Data Ecosystem Control [[7.2.3](#7.2.3.1)]. In this sense, both peripheral activities have been highly complementary to developing an overview of the pursuit of HDR in practice.
 
-## Digital Economy Research Centre (DERC)'s Healthy Eating Web Augmentation Project{#d.3 .unnumbered}
+## Digital Economy Research Centre (DERC)'s Healthy Eating Web Augmentation Project{#d.3 .unnumbered .unlisted}
 
 As a software developer I have been aware for a long time that one of the biggest challenges in building new data interfaces is to gain programmatic access to the necessary data. As part of the trend towards cloud-based services and data-centric business practices, it has become increasingly difficult to access all of the data held about users by service providers. Application Programming Interfaces (APIs) are a technical means for programmers to access a user's data so that third-party applications may be built using that data. Unfortunately, as a result of commercial incentives to lock users in and keep data trapped [@abiteboul2015; @bowyer2018freedata], much of users' data can no longer be accessed via APIs. While GDPR data portability requests do open up a new option for the use of one's provider-collected data in third-party applications, this is an awkward and time-consuming route for both users and developers. **Web augmentation** provides a third possible technical avenue for obtaining data from online service providers. It relies on the fact that a user's data is loaded to the user's local machine and displayed within their web browser every time a website is used, and therefore it is possible to extract that data from the browser using a browser extension; this as another **seam** that can be hacked - see [7.4.4](#7.4.4) and [Insight 12](#insight-12). Similarly, once loaded into the browser, a provider's webpage can be modified to display additional data or useful human-centric functionality that the provider failed to provide.
 
@@ -264,7 +264,7 @@ Index of Key Ideas, Insights and Contributions {#hdr-glossary .unnumbered}
 This section serves as both a glossary to explain abbreviations and existing terms used, as well as an index to easily locate key HDR-related concepts, ideas and contributions within this thesis.
 
 
-### HDR Wants {.unnumbered}
+### HDR Wants {.unnumbered .unlisted}
 
 * **[Direct Data Want 1](#want-d1): Data Visibility** - [ADD SECTIONREF]
 * **[Direct Data Want 2](#want-d2): Data Understanding** - [ADD SECTIONREF]
@@ -273,7 +273,7 @@ This section serves as both a glossary to explain abbreviations and existing ter
 * **[Indirect Data Want 2](#want-i2): Individual Oversight** - [ADD SECTIONREF]
 * **[Indirect Data Want 3](#want-i3): Involvement in Decision Making** - [ADD SECTIONREF]
 
-### HDR Objectives {.unnumbered}
+### HDR Objectives {.unnumbered .unlisted}
 
 * **[HDR Objective 1](#objective-1): Data Awareness & Understanding** - [ADD SECTIONREF]
 * **[HDR Objective 2](#objective-2): Data Useability**<sup>[13](#fn13)</sup> - [ADD SECTIONREF]
@@ -281,7 +281,7 @@ This section serves as both a glossary to explain abbreviations and existing ter
 * **[HDR Objective 4](#objective-4): Ecosystem Negotiability** - [ADD SECTIONREF]
 * **[HDR Objective 5](#objective-5): Effective, Commercially Viable and Desirable HDR Systems** - [ADD SECTIONREF]
 
-### HDR Obstacles {.unnumbered}
+### HDR Obstacles {.unnumbered .unlisted}
 
 * **Closed, Insular and Introspective Practices** - [ADD SECTIONREF]
 * **Diminishing Individual Agency** - [ADD SECTIONREF]
@@ -298,7 +298,7 @@ This section serves as both a glossary to explain abbreviations and existing ter
 * **Unmalleable Data** - [ADD SECTIONREF]
 * **Unrelatable Data** - [ADD SECTIONREF]
 
-### HDR Insights & Approaches {#hdr-insights .unnumbered}
+### HDR Insights & Approaches {#hdr-insights .unnumbered .unlisted}
 
 * **[HDR Insight 1](#insight-1): Life Information Makes Data Relatable** - [ADD SECTIONREF]
 * **[HDR Insight 2](#insight-2): Data Needs to be United and Unified** - [ADD SECTIONREF]
@@ -314,14 +314,14 @@ This section serves as both a glossary to explain abbreviations and existing ter
 * **[HDR Insight 12](#insight-12): The 'Seams' of Digital Services need to be identified, exploited and protected.** - [ADD REF]
 * **[HDR Insight 13](#insight-13): It is Possible (and Necessary) to Demonstrate Business Benefits of Transparency and Human-centricity.** - [ADD REF]
 
-### HDR Approaches {.unnumbered}
+### HDR Approaches {.unnumbered .unlisted}
 
 * **[HDR Approach 1](#approach-1): Discovery-Driven Activism** - [ADD SECTIONREF]
 * **[HDR Approach 2](#approach-2): Building the Human-centric Future** - [ADD SECTIONREF]
 * **[HDR Approach 3](#approach-3): Defending User Autonomy and Hacking the Information Landscape** - [ADD SECTIONREF]
 * **[HDR Approach 4](#approach-4): Teaching, Championing and Selling the HDR Vision** - [ADD SECTIONREF]
 
-### Contributions and Major Concepts of This Thesis {.unnumbered}
+### Contributions and Major Concepts of This Thesis {.unnumbered .unlisted}
 
 * **Auditing Data Holders** - [ADD SECTIONREF]
 * **Categories of Family Civic Data** - [ADD SECTIONREF]

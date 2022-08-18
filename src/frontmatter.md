@@ -6,12 +6,12 @@ Technologies including PCs, smartphones, and cloud computing have transformed th
 Dedication {.unnumbered}
 ==========
 
-_For my children **Rosie**, **Joey**, and **Zach**; my nephew **Elliott**; and my nieces **Amy** and **Lyla**. My wish is that that you and your generation might soon experience a future where technology can truly help people and empower them to thrive, and where personal data drives human flourishing more than corporate profit. I hope that this research can in some small way contribute to a better future for you all._
+_For my children Rosie, Joey, and Zach; my nephew Elliott; and my nieces Amy and Lyla. My wish is that that you and your generation might soon experience a future where technology can truly help people and empower them to thrive, and where personal data drives human flourishing more than corporate profit. I hope that this research can in some small way contribute to a better future for you all._
 
 Acknowledgements {.unnumbered}
 ================
 
-No-one really knows how hard a PhD is until they are already well beyond the point of no return. It is demanding, challenging and often thankless and lonely work, working countless hours, striving to find meaning among masses of data or iterating endlessly to concisely express complex, nebulous and elusive ideas. It is an endeavour made even harder when one is a mature student with financial and parental responsibilities. At times, especially during the final unfunded writing-up period, the impacts upon my life and those around me have been huge and unreasonable. For this reason, the greatest thanks of all go to my wife **Joni Bowyer**, who has stood by me throughout, picking up the slack again and again where I could not. She has endured the impacts of money, time, uncertainty and divided attention that this unforgiving work has thrust upon our family. She has also provided practical help on countless occasions with everything from poster layout to time management to grammatical advice. I love you forever, Joni. Thank you.
+No-one really knows how hard a PhD is until they are already well beyond the point of no return. It is demanding, challenging and often thankless and lonely work. You spend countless hours striving to find meaning among masses of data or iterating endlessly to concisely express complex, nebulous and elusive ideas. This endeavour is made even harder when you are a mature student with financial and parental responsibilities. At times, especially during the final unfunded writing-up period, the impacts upon my life and those around me have been huge and unreasonable. For this reason, the greatest thanks of all go to my wife **Joni Bowyer**, who has stood by me throughout, picking up the slack again and again where I could not. She has endured the impacts of money, time, uncertainty and divided attention that this unforgiving work has thrust upon our family. She has also provided practical help on countless occasions with everything from poster layout to time management to grammatical advice. I love you forever, Joni. Thank you.
 
 The next person I want to thank is **Jack Holt**, who dedicated many weeks and months of his life to collaborate with me to analyse of mountains of participant data from Case Study Two and to co-write the paper [@bowyer2022gdpr] with me. I have absolutely no doubt that without his dedication, it would have been impossible to complete and publish the GDPR study in any reasonable timeframe.
 
@@ -27,18 +27,18 @@ I would like to thank, in reverse chronological order, my supervisors and all th
   - Madeline Balaam, for inspiration on participatory methods right at the start, and for helping me develop a paper writing style;
   - Rachel Pattinson, for being the best CDT manager a postgraduate could hope for;
   - Alex, Fion, Glau, James, Sara, Paul, Nicola and all the other admin staff, for countless random assists;
-  - Rob Comber, Simon Bowen and all the other lecturers who taught me valuable Digital Civics and research skills during the MRes, that helped shape me into the researcher I am.
+  - Rob Comber, Simon Bowen, Matt Wood and all the other lecturers who taught me valuable Digital Civics and research skills during the MRes, that helped shape me into the researcher I am.
 
 I have been fortunate to take this journey with dozens of other researchers. I would like to especially thank:
 
   - Tom Maskell, for his help with wrestling with concepts around data access and involvement, and companionship on many bus commutes in the early years;
   - Sunil Rodger, for valuable moral support, writing camaraderie, and practical advice for the last two years; and
-  - Stuart Wheater, for myriad data discussions and tactical discussions through a difficult period that often went beyond project business.
+  - Stuart Wheater, for myriad data discussions and tactical discussions that helped me get through a difficult period and often went beyond project business.
 
 Finally, I would also like to thank, in no particular order:
 
   - Rebecca Nicholson, Sean Peacock, Jen Manuel, Rosie Bellini, Megan Venn-Wycherley, Kieran Cutting, James Hodge, Hazel Dixon, Seb Prost, Nataly Birbeck and all the other Digital Civics PhDs whose company and mutual support I enjoyed during dozens of writing sessions and discussions;
-  - (Matt) Marshall for sharing his powerful script framework for markdown-based thesis writing and document generation, and supporting me in adapting it [@marshall2020]; this made thesis development so much easier.
+  - (Matt) Marshall for sharing his powerful script framework for markdown-based thesis writing and document generation [@marshall2020], and supporting me in adapting it; this made thesis development so much easier.
   - Louis Goffe, Debbie Smart, Kat Jackson, Liam Spencer, Ruth McGovern and Kyle Montague for giving up their time to help run workshops with participants;
   - Paul-Olivier Dehaye, Mike Martin, Soheil Human, Jasmine Cox, Peter Wells, Ian Forrester, Rhianne Jones, Tim Broom, Suzanne Clarke, Hannes Ricklefs, Chris Gameson, Sarah Knowles, Kellie Morrissey, Aare Puussaar, Andy Dow, Zander Wilson, StJohn Deakins, Michael Jelly, Jay Rainey, David Williams, Ben Wright, Paul Whittles and all the other lovely people I have had the pleasure to work with, ruminate with or learn from during this PhD;
   - my parents Jim and Rosi Bowyer and my brother Jon Bowyer for their unquestioning love and support in an ever-changing world; and
@@ -47,19 +47,16 @@ Finally, I would also like to thank, in no particular order:
 Lists of Tables and Figures {.unnumbered}
 ==========================
 
-<!-- omit in toc -->
-Lists of Tables by Chapter {.unnumbered}
+Lists of Tables by Chapter {.unnumbered .unlisted}
 --------------------------
 
-<!-- omit in toc -->
-### Tables in Chapter 3 {.unnumbered}
+### Tables in Chapter 3 {.unnumbered .unlisted}
 
 **[Table 3.1](#table-3.1)** - Context One (Civic Data & Early Help): Participants involved in Research Activities leading into Case Study One.
 
 **[Table 3.2](#table-3.2)** - Context Two (Digital Life): Participants Involved in Digital Life Research Activities Leading into Case Study Two.
 
-<!-- omit in toc -->
-### Tables in Chapter 4 {.unnumbered}
+### Tables in Chapter 4 {.unnumbered .unlisted}
 
 **[Table 4.1](#table-4.1)** - Example Categories of Family Civic Data
 
@@ -71,8 +68,7 @@ Lists of Tables by Chapter {.unnumbered}
 
 **[Table 4.5](#table-4.5)** - Theme 3 - Earning Families' Trust Through Transparency: Subthemes & Participant Quotes
 
-<!-- omit in toc -->
-### Tables in Chapter 5 {.unnumbered}
+### Tables in Chapter 5 {.unnumbered .unlisted}
 
 **[Table 5.1](#table-5.1)** - Types of Data Holding Organisation Targeted for GDPR Requests by Study Participants
 
@@ -90,30 +86,26 @@ Lists of Tables by Chapter {.unnumbered}
 
 **[Table 5.8](#table-5.8)** - Theme 3 - Fragile Relationships: Subthemes & Participant Quotes
 
-<!-- omit in toc -->
-### Tables in Chapter 7 {.unnumbered}
+### Tables in Chapter 7 {.unnumbered .unlisted}
 
 **[Table 7.1](#table-7.1)** - Eight Lenses on Personal Data
 
-<!-- omit in toc -->
-Lists of Figures by Chapter {.unnumbered}
+Lists of Figures by Chapter {.unnumbered .unlisted}
 ---------------------------
 
-<!-- omit in toc -->
-### Figures in Chapter 1 {.unnumbered}
+### Figures in Chapter 1 {.unnumbered .unlisted}
 
 **[Figure 1.1](#figure-1.1)** - Poster Presentation of Case Study One
 
 **[Figure 1.2](#figure-1.2)** - The Structure of This Thesis
 
-### Figures in Chapter 2 {.unnumbered}
+### Figures in Chapter 2 {.unnumbered .unlisted}
 
 **[Figure 2.1](#figure-2.1)** - The Wisdom Curve: Making Data into Meaningful Information
 
 **[Figure 2.2](#figure-2.2)** - Li _et al._'s Stage-based Model of Personal Informatics Systems
 
-<!-- omit in toc -->
-### Figures in Chapter 3 {.unnumbered}
+### Figures in Chapter 3 {.unnumbered .unlisted}
 
 **[Figure 3.1](#figure-3.1)** - My Action Research Approach
 
@@ -143,15 +135,13 @@ Lists of Figures by Chapter {.unnumbered}
 
 **[Figure 3.14](#figure-3.14)** - How the Case Studies and Peripheral Activities Contribute to This Thesis
 
-<!-- omit in toc -->
-### Figures in Chapter 4 {.unnumbered}
+### Figures in Chapter 4 {.unnumbered .unlisted}
 
 **[Figure 4.1](#figure-4.1)** - Participants' Shared Values Deduced from Sentence Rankings Data
 
 **[Figure 4.2](#figure-4.2)** - Current Model of Data Interaction, and Proposed Model of Shared Data Interaction
 
-<!-- omit in toc -->
-### Figures in Chapter 5 {.unnumbered}
+### Figures in Chapter 5 {.unnumbered .unlisted}
 
 **[Figure 5.1](#figure-5.1)** - A Journey Map of Each Participant's Study Progression
 
@@ -165,8 +155,7 @@ Lists of Figures by Chapter {.unnumbered}
 
 **[Figure 5.6](#figure-5.6)** - Participants' Perceived Trust in Provider at Different Stages of the GDPR/Study Process
 
-<!-- omit in toc -->
-### Figures in Chapter 7 {.unnumbered}
+### Figures in Chapter 7 {.unnumbered .unlisted}
 
 **[Figure 7.1](#figure-7.1)** - The Two Motivations for HDR: Controlling Your Personal Data Ecosystem and Utilising Your Information About Your Life
 
@@ -240,8 +229,7 @@ Lists of Figures by Chapter {.unnumbered}
 
 **[Figure 7.36](#figure-7.36)** - Summary of Generalised Change Strategies for Pursuing Better HDR, Using the ToC Model
 
-<!-- omit in toc -->
-### Figures in Appendix C {.unnumbered}
+### Figures in Appendix C {.unnumbered .unlisted}
 
 **[Figure C.1](#figure-C.1)** - Screenshot from Quirkos During Coding Process
 
@@ -249,8 +237,7 @@ Lists of Figures by Chapter {.unnumbered}
 
 **[Figure C.3](#figure-C.3)** - Screenshot from Workflowy During Theme Construction
 
-<!-- omit in toc -->
-### Figures in Appendix F {.unnumbered}
+### Figures in Appendix F {.unnumbered .unlisted}
 
 **[Figure F.1](#figure-D.1)** - Private Data Viewing Monitor with Viewing Glasses
 

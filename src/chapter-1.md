@@ -136,7 +136,7 @@ Section [7.4](#7.4) explains, with detailed real-world examples and original des
 
 **C7: A reframing of data literacy for the HDR space**
 
-Section [7.4.5.1](#7.4.5.1) broadens existing conceptions of _data literacy_ that include critical thinking, numerical analysis and arguing using data, to describe additional skills that people will need to develop if they are to become fully _**HDR literate**_:
+Section [7.4.5](#7.4.5.1) broadens existing conceptions of _data literacy_ that include critical thinking, numerical analysis and arguing using data, to describe additional skills that people will need to develop if they are to become fully _**HDR literate**_:
 
   - appreciating the value of personal data;
   - understanding the implications of organisational data use;
@@ -207,7 +207,7 @@ This study is given a special status in this thesis; while it is not officially 
 
 ### Primary Case studies{#1.3.2}
 
-#### Publications from Case Study One{#1.3.2.1}
+<a name="1.3.2.1">**Publications from Case Study One**</a>
 
 The work exploring shared data interaction in Early Help carried out in Case Study One has been initially published as an Extended Abstract at CHI 2019:
 
@@ -217,7 +217,7 @@ This work was also presented at the conference in the form of a poster, which is
 
 ![Figure 1.1: Poster Presentation of Case Study One](./src/figs/fig1.1-hdi-in-care-poster.png){#figure-1.1}
 
-#### Publication from Case Study Two{#1.3.2.2}
+<a name="1.3.2.2">**Publication from Case Study Two**</a>
 
 The work exploring the human experience of GDPR data access carried out in Case Study Two has been published [and presented](https://www.youtube.com/watch?v=hf-XjsCgBJY&t=32465s) as a full first-author paper at CHI 2022, where it was awarded an _Honourable Mention_:
 
@@ -225,7 +225,7 @@ The work exploring the human experience of GDPR data access carried out in Case 
 
 I carried out all field research myself. Data analysis and paper writing were jointly executed by myself and Jack Holt.
 
-### Workshop papers & presentations{#1.3.2.3}
+<a name="1.3.2.3">**Workshop Papers & Presentations**</a>
 
 During the PhD, I gave a number of additional presentations and published three workshop papers which included material from, or directly contributed to, this thesis and its arguments.
 
@@ -236,11 +236,11 @@ During the PhD, I gave a number of additional presentations and published three 
 - ["My Thesis in 3 Minutes: Understanding and Designing Human Data Relations"](https://www.youtube.com/watch?v=YFHXc_TfM5c) [@bowyer20213MT] - in April 2021, I presented my thesis in Newcastle University's 3-minute thesis competition, and was co-winner of the people's choice prize;
 - ["Human-Data Interaction has two purposes: Personal Data Control and Life Information Exploration"](https://eprints.ncl.ac.uk/274297) [@bowyer2021twopurposes] - A workshop paper I presented at CHI 2021, where I first outlined my model of the two motivating factors for interacting with personal data.
 
-### Publications from other work{#1.3.2.4}
+<a name="1.3.2.4">**Publications from Peripheral Work**</a>
 
 During the same timeframe as this PhD, I have also contributed to a number of publications from peripheral work [[Appendix D](#appendix-d)] tangential to my primary research agenda:
 
-- As a researcher and developer on the Connected Health Cities SILVER project [[3.4.1.1](#3.4.1.1)], I contributed to work published through Newcastle University's internal report to CHC (not publicly available) and the [overall impact report](https://web.archive.org/web/20211225192408/https://www.chc-impact-report.co.uk/) [@ConnectedHealthCities2021impact,129-130], and more directly published [demonstration videos](https://eprints.ncl.ac.uk/273839) [@bowyer2019silvervideo] of a health data interface prototype developed by myself and Stuart Wheater.
+- As a researcher and developer on the Connected Health Cities SILVER project [[3.4.1](#3.4.1.1)], I contributed to work published through Newcastle University's internal report to CHC (not publicly available) and the [overall impact report](https://web.archive.org/web/20211225192408/https://www.chc-impact-report.co.uk/) [@ConnectedHealthCities2021impact,129-130], and more directly published [demonstration videos](https://eprints.ncl.ac.uk/273839) [@bowyer2019silvervideo] of a health data interface prototype developed by myself and Stuart Wheater.
 - As a researcher and developer on DERC's Healthy Eating project, I developed interface prototypes (no longer online) and was co-author to two research publications [at BCS 2021](https://doi.org/10.14236/ewic/HCI2021.16) [@goffe2021] and [in Interacting with Computers](https://doi.org/10.1093/iwc/iwac015) [@goffe2022].
 - As a research intern on BBC R&D's Cornmarket project [@sharp2021], I published an internal research report [TODO ADD REF] into personal data store design, as well as a 'stimulus presentation' to launch an internal hack week and a BBC blog article about the work (which was not officially published) [TODO ADD REF].
 - As project leader, data access coach and researcher at Hestia.ai, I was a lead author on [a research report auditing the data economy](https://doi.org/10.5281/zenodo.6554177) [@bowyer2022hestia], and co-author on [a research report on power mechanisms in the data economy](https://doi.org/10.5281/zenodo.6554155) [@pidoux2022].
