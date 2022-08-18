@@ -47,15 +47,18 @@ Finally, I would also like to thank, in no particular order:
 Lists of Tables and Figures {.unnumbered}
 ==========================
 
+<!-- omit in toc -->
 Lists of Tables by Chapter {.unnumbered}
 --------------------------
 
+<!-- omit in toc -->
 ### Tables in Chapter 3 {.unnumbered}
 
 **[Table 3.1](#table-3.1)** - Context One (Civic Data & Early Help): Participants involved in Research Activities leading into Case Study One.
 
 **[Table 3.2](#table-3.2)** - Context Two (Digital Life): Participants Involved in Digital Life Research Activities Leading into Case Study Two.
 
+<!-- omit in toc -->
 ### Tables in Chapter 4 {.unnumbered}
 
 **[Table 4.1](#table-4.1)** - Example Categories of Family Civic Data
@@ -68,6 +71,7 @@ Lists of Tables by Chapter {.unnumbered}
 
 **[Table 4.5](#table-4.5)** - Theme 3 - Earning Families' Trust Through Transparency: Subthemes & Participant Quotes
 
+<!-- omit in toc -->
 ### Tables in Chapter 5 {.unnumbered}
 
 **[Table 5.1](#table-5.1)** - Types of Data Holding Organisation Targeted for GDPR Requests by Study Participants
@@ -86,13 +90,16 @@ Lists of Tables by Chapter {.unnumbered}
 
 **[Table 5.8](#table-5.8)** - Theme 3 - Fragile Relationships: Subthemes & Participant Quotes
 
+<!-- omit in toc -->
 ### Tables in Chapter 7 {.unnumbered}
 
 **[Table 7.1](#table-7.1)** - Eight Lenses on Personal Data
 
+<!-- omit in toc -->
 Lists of Figures by Chapter {.unnumbered}
 ---------------------------
 
+<!-- omit in toc -->
 ### Figures in Chapter 1 {.unnumbered}
 
 **[Figure 1.1](#figure-1.1)** - Poster Presentation of Case Study One
@@ -105,6 +112,7 @@ Lists of Figures by Chapter {.unnumbered}
 
 **[Figure 2.2](#figure-2.2)** - Li _et al._'s Stage-based Model of Personal Informatics Systems
 
+<!-- omit in toc -->
 ### Figures in Chapter 3 {.unnumbered}
 
 **[Figure 3.1](#figure-3.1)** - My Action Research Approach
@@ -135,12 +143,14 @@ Lists of Figures by Chapter {.unnumbered}
 
 **[Figure 3.14](#figure-3.14)** - How the Case Studies and Peripheral Activities Contribute to This Thesis
 
+<!-- omit in toc -->
 ### Figures in Chapter 4 {.unnumbered}
 
 **[Figure 4.1](#figure-4.1)** - Participants' Shared Values Deduced from Sentence Rankings Data
 
 **[Figure 4.2](#figure-4.2)** - Current Model of Data Interaction, and Proposed Model of Shared Data Interaction
 
+<!-- omit in toc -->
 ### Figures in Chapter 5 {.unnumbered}
 
 **[Figure 5.1](#figure-5.1)** - A Journey Map of Each Participant's Study Progression
@@ -155,6 +165,7 @@ Lists of Figures by Chapter {.unnumbered}
 
 **[Figure 5.6](#figure-5.6)** - Participants' Perceived Trust in Provider at Different Stages of the GDPR/Study Process
 
+<!-- omit in toc -->
 ### Figures in Chapter 7 {.unnumbered}
 
 **[Figure 7.1](#figure-7.1)** - The Two Motivations for HDR: Controlling Your Personal Data Ecosystem and Utilising Your Information About Your Life
@@ -229,6 +240,7 @@ Lists of Figures by Chapter {.unnumbered}
 
 **[Figure 7.36](#figure-7.36)** - Summary of Generalised Change Strategies for Pursuing Better HDR, Using the ToC Model
 
+<!-- omit in toc -->
 ### Figures in Appendix C {.unnumbered}
 
 **[Figure C.1](#figure-C.1)** - Screenshot from Quirkos During Coding Process
@@ -237,6 +249,7 @@ Lists of Figures by Chapter {.unnumbered}
 
 **[Figure C.3](#figure-C.3)** - Screenshot from Workflowy During Theme Construction
 
+<!-- omit in toc -->
 ### Figures in Appendix F {.unnumbered}
 
 **[Figure F.1](#figure-D.1)** - Private Data Viewing Monitor with Viewing Glasses
