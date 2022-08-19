@@ -82,7 +82,7 @@ Lists of Tables by Chapter {.unnumbered .unlisted}
 
 [Table 5.6](#table-5.6) - Theme 1 - Insufficient Transparency: Subthemes & Participant Quotes
 
-[Table 5.7](#table-5.7) - Theme 2 - Confusing & Unusable Data: Subthemes & Participant Quotes
+[Table 5.7](#table-5.7) - Theme 2 - Confusing & Unuseable Data: Subthemes & Participant Quotes
 
 [Table 5.8](#table-5.8) - Theme 3 - Fragile Relationships: Subthemes & Participant Quotes
 
@@ -113,23 +113,23 @@ Lists of Figures by Chapter {.unnumbered .unlisted}
 
 [Figure 3.1](#figure-3.1) - My Action Research Approach
 
-[Figure 3.2](#figure-3.2) - "Family Facts" -- What is Data?
+[Figure 3.2](#figure-3.2) - "Family Facts" — What is Data?
 
-[Figure 3.3](#figure-3.3) - Walls of Data -- Sensitising Participants to the World of Commercially-held Data and GDPR
+[Figure 3.3](#figure-3.3) - Walls of Data — Sensitising Participants to the World of Commercially-held Data and GDPR
 
-[Figure 3.4](#figure-3.4) - Sentence Ranking -- Bringing Support Workers and Families to a Shared Problem Space
+[Figure 3.4](#figure-3.4) - Sentence Ranking — Bringing Support Workers and Families to a Shared Problem Space
 
-[Figure 3.5](#figure-3.5) - Family Civic Data Cards -- Things to Think With
+[Figure 3.5](#figure-3.5) - Family Civic Data Cards — Things to Think With
 
-[Figure 3.6](#figure-3.6) - Personal Data Examples -- Making Data Relatable
+[Figure 3.6](#figure-3.6) - Personal Data Examples — Making Data Relatable
 
 [Figure 3.7](#figure-3.7) - Home Interviewing: Card Sorting with a Family in Their Living Room
 
-[Figure 3.8](#figure-3.8) - Ideation Decks -- Combining Random Design Ingredients to Generate New Ideas
+[Figure 3.8](#figure-3.8) - Ideation Decks — Combining Random Design Ingredients to Generate New Ideas
 
-[Figure 3.9](#figure-3.9) - Group Poster Design -- A Participant-designed Poster to Advertise Features of Imagined Data Interface Products
+[Figure 3.9](#figure-3.9) - Group Poster Design — A Participant-designed Poster to Advertise Features of Imagined Data Interface Products
 
-[Figure 3.10](#figure-3.10) - Storyboarding Cards -- A Collaboratively-constructed Narrative Created through Discussion from a Palette of Possible Parent and Staff Actions
+[Figure 3.10](#figure-3.10) - Storyboarding Cards — A Collaboratively-constructed Narrative Created through Discussion from a Palette of Possible Parent and Staff Actions
 
 [Figure 3.11](#figure-3.11) - Thematic Analysis of Qualitative Data using Quirkos for Case Study One
 

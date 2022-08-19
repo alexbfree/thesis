@@ -19,7 +19,7 @@ Table: Table ARI.1 - Best and Worst Data Holders for GDPR, according to Particip
 Additional: Storyboarding Action Cards (Case Study One) {#ari-2 .unnumbered}
 ===========
 
-Drawing from the world of film production, storyboarding is a well-established technique in participatory design [@spinuzzi2005; @moraveji2007]. Usually it involves the participants drawing out a series of sketches in the form of a comic strip ‘telling the story’ of an interaction, encounter or activity. However, it had already been determined, both in terms of the research approach of this thesis [[3.2.2](#3.2.2)], and in terms of responding to participants [[4.2.6](#4.2.6)] that it would be more important to understand the interpersonal interactions between family and support worker and the actual actions performed upon or with data, rather than the mechanisms by which the data interaction would occur. Focusing on the visual aspects of information visualisation could be distracting. Therefore, I developed a novel technique for use in the phase 2 workshop: **Storyboarding Action Cards**. Each storyboard card denotes a possible action that can be carried out by a family member (yellow border), support worker (blue border) or an action performed together (green border). Each card includes a simple action summary such as 'Give Information' and an iconographic representation of the action, along with a short description of which actor is doing what. It includes blank lines which the participant can 'fill in' to describe the specifics of this occurrence of the action.
+Drawing from the world of film production, storyboarding is a well-established technique in participatory design [@spinuzzi2005; @moraveji2007]. Usually it involves the participants drawing out a series of sketches in the form of a comic strip 'telling the story' of an interaction, encounter or activity. However, it had already been determined, both in terms of the research approach of this thesis [[3.2.2](#3.2.2)], and in terms of responding to participants [[4.2.6](#4.2.6)] that it would be more important to understand the interpersonal interactions between family and support worker and the actual actions performed upon or with data, rather than the mechanisms by which the data interaction would occur. Focusing on the visual aspects of information visualisation could be distracting. Therefore, I developed a novel technique for use in the phase 2 workshop: **Storyboarding Action Cards**. Each storyboard card denotes a possible action that can be carried out by a family member (yellow border), support worker (blue border) or an action performed together (green border). Each card includes a simple action summary such as 'Give Information' and an iconographic representation of the action, along with a short description of which actor is doing what. It includes blank lines which the participant can 'fill in' to describe the specifics of this occurrence of the action.
 
 ![Figure ARI.1: Extract of Sample Scenario Storyboarding Exercise walkthrough](./src/figs/figARI.1-storyboarding-cards.png){#figure-ARI.1}
 
@@ -38,7 +38,7 @@ The intent behind the storyboarding action cards is that they serve as both a bo
 
 ![Figure ARI.2: Example Backing Mat for Storyboard Decks (pictured here: backing mat for all three 'problem' card decks](./src/figs/figARI.2-backing-mat.png){#figure-ARI.2}
 
-In addition to the storyboard cards, I also designed 'backing mats' for each of the eight card types. These were printed on large coloured card corresponding to each card type’s backing colour, and provided areas for the 'decks' of available cards to be picked from. Each backing mat provided a separate home for family member actions, staff actions, and joint actions. Additionally, each backing card included a summary of the available action cards of this type, and a prompt question. An example of a backing card, in this case for Problem Cards, is shown in [Figure ARI.2](#figure-ARI.2).
+In addition to the storyboard cards, I also designed 'backing mats' for each of the eight card types. These were printed on large coloured card corresponding to each card type's backing colour, and provided areas for the 'decks' of available cards to be picked from. Each backing mat provided a separate home for family member actions, staff actions, and joint actions. Additionally, each backing card included a summary of the available action cards of this type, and a prompt question. An example of a backing card, in this case for Problem Cards, is shown in [Figure ARI.2](#figure-ARI.2).
 
 **Introduction and Practice**
 
@@ -70,7 +70,7 @@ Some additional detail on the stages:
 
 **1. Semi-Quantitative Data Extraction & Analysis**
 
-Prior to beginning coding the data, responses to some key closed questions from the transcripts were combined with field notes, response emails from companies forwarded by participants, sketches and tables from Interview 1/2, data from the interview 2/3 spreadsheet cells, and other data collected, and used to populate a spreadsheet that featured summaries of those responses. For example, where participants had been asked to outline their hopes for the outcomes of their GDPR data requests, these responses were recorded on the spreadsheet to be used as a resource for summarising participant hopes in a manner that could be easily quantified and referred back to. In some cases this data was analysed within the spreadsheet to produce insights, graphs and percentages. Such data was later used to support and illustrate findings from the coding process. This spreadsheet also included important information relating to each participant’s GDPR process experience, such as the timeliness and completeness of their data returns, which could serve as a reference point when analysing the transcripts.
+Prior to beginning coding the data, responses to some key closed questions from the transcripts were combined with field notes, response emails from companies forwarded by participants, sketches and tables from Interview 1/2, data from the interview 2/3 spreadsheet cells, and other data collected, and used to populate a spreadsheet that featured summaries of those responses. For example, where participants had been asked to outline their hopes for the outcomes of their GDPR data requests, these responses were recorded on the spreadsheet to be used as a resource for summarising participant hopes in a manner that could be easily quantified and referred back to. In some cases this data was analysed within the spreadsheet to produce insights, graphs and percentages. Such data was later used to support and illustrate findings from the coding process. This spreadsheet also included important information relating to each participant's GDPR process experience, such as the timeliness and completeness of their data returns, which could serve as a reference point when analysing the transcripts.
 
 The semi-quantitative data areas captured or derived from captured data were:
 
@@ -104,8 +104,8 @@ At the end of this process, roughly 100 'pieces' had been identified for each pa
 The pieces from stage 1 were then recombined, across all participants, into 233 source files. These 233 source files were then further grouped into 6 topics areas. (The aim of the analysis was to identify common opinions and ideas around different topics, not to explore individual participant journeys end-to-end). The six topic areas were:
 
   1. **POWER** – discussions and scoring around the power of data holding companies
-  2. **TRUST** – discussions and scoring around participants’ subjective trust in data holding companies
-  3. **LIFE** – life sketching and annotation discussions, and ‘digital life’ questioning
+  2. **TRUST** – discussions and scoring around participants' subjective trust in data holding companies
+  3. **LIFE** – life sketching and annotation discussions, and 'digital life' questioning
   4. **HOPES & USES** – discussions around motivations, expectations, goals and hopes, and imagined uses of data
   5. **COMPANY-SPECIFIC** – (repeated once per target company per participant) – all discussions around the data return from a particular company
   6. **GENERAL** – all non-company specific discussions not captured elsewhere
@@ -121,7 +121,7 @@ These were clustered into loose code-topic areas, an example is shown in the fol
 
 **5. Reductive Cycles**
 
-As more codes were identified and structures and commonalities between them were formed, existing codes were merged or absorbed into one another and grouped together in small clusters. The researchers regularly met to discuss each other’s codes according to their context and occasionally amended wording or merged concepts that were labelled differently but semantically equivalent. All codes were checked and agreed between these two researchers. Over time, the codes were iteratively structured and restructured, creating top-level thematic clusters around different research questions that held multiple layers of related codes. These clusters were then summarised with a short sentence or paragraph of text, allowing summaries to be produced at different levels of hierarchy. These summaries were kept in the Description fields of codes in Quirkos and also in external structured text-based documents.
+As more codes were identified and structures and commonalities between them were formed, existing codes were merged or absorbed into one another and grouped together in small clusters. The researchers regularly met to discuss each other's codes according to their context and occasionally amended wording or merged concepts that were labelled differently but semantically equivalent. All codes were checked and agreed between these two researchers. Over time, the codes were iteratively structured and restructured, creating top-level thematic clusters around different research questions that held multiple layers of related codes. These clusters were then summarised with a short sentence or paragraph of text, allowing summaries to be produced at different levels of hierarchy. These summaries were kept in the Description fields of codes in Quirkos and also in external structured text-based documents.
 These can be seen in the following screenshot, taken 5 months into coding:
 
 ![Figure ARI.4: Screenshot from Quirkos at End of Coding Process](./src/figs/figARI.4-quirkos-coding-at-end.png){#figure-ARI.4}
@@ -138,7 +138,7 @@ The above-pictured structure of the coded corpus at the end of the Quirkos Cloud
   - B4 (86 codes): **Motivations for GDPR**: People want to make use of their data and influence how it is handled and see GDPR as having the potential to help them achieve this.
 -	C (35 codes): What do people think about GDPR?
   -	C1 (35 codes) **GDPR Opinions and Expectations**: People's expectations for GDPR are affected by their perception of the company and its perceived difficulty, risk and entanglement; people expect non-compliance.
--	D: What is the experience of GDPR as a means to gain awareness of and access to usable and understandable data?
+-	D: What is the experience of GDPR as a means to gain awareness of and access to useable and understandable data?
   -	D1 (104 codes) **GDPR Non-Compliance and Poor Responses**: The data returned from GDPR is often incomplete, hard to deal with, lacking explanation, or poorly formatted. Many companies are not complying.
 -	E: What is the experience of GDPR as a means to gain influence and achieve goals with data/What is the practical impact of GDPR?
   - E1 (86 codes) **The Impacts and Ineffectiveness of GDPR**: People's interest in GDPR comes from curiosity to exert their rights or from specific questions about data handling or data use goals. GDPR rarely delivers upon on any of their goals but it does change people's outlook and affects the relationship with the data holder.
@@ -158,7 +158,7 @@ The themes are broken down in detail in [5.4](#5.4) and can be summarised as:
 
   1. **Insufficient Transparency**: Organisations appear evasive over data when responding to GDPR, leaving people “in the dark” even after making GDPR requests.
   2. **Confusing Data**: When presented with their data, people struggle to understand it and relate it to their lives and are not able to make use of it.
-  3. **Fragile Relationships**: Companies’ data practices, and in particular their privacy policies and GDPR response handling, can be impactful to customer relationships, carrying a risk of damaging trust but also the potential to improve relations.
+  3. **Fragile Relationships**: Companies' data practices, and in particular their privacy policies and GDPR response handling, can be impactful to customer relationships, carrying a risk of damaging trust but also the potential to improve relations.
 
 In all, the process from commencing data analysis to writing up thematic findings in the chapter took over 200 person-hours over a 9-month period from January to September 2020.
 
@@ -305,7 +305,7 @@ This thesis is my own work. All ideas in Chapter 7 are original. Some of the spe
   - earlier innovation work with Alistair Croll at Rednod, Montréal, Canada (circa 2011); and
   - earlier innovation work with Megan Beynon and Dean Upton at IBM Hursley, UK (circa 2006).
 
-Due to these collaborations and the ongoing and parallel nature of many of these projects to my PhD research, it is impossible to precisely delineate the origin of each idea or insight. In practice, ideas from my developing thesis and own thinking informed the projects' trajectories and thinking, and vice-versa. These ideas would not have emerged in this form without my participation, so they are not the sole intellectual property of others, but equally I would not have reached the same conclusions alone, so the ideas are not solely my own either. All diagrams and illustrations were produced by me, except where specified, and the overall synthesis and framing presented in this chapter is my own original work. Where this chapter includes material from the four peripheral projects [[7.1.2](#7.1.2)], that material is either already public, or permission has been obtained from the corresponding individuals or project teams. 
+Due to these collaborations and the ongoing and parallel nature of many of these projects to my PhD research, it is impossible to precisely delineate the origin of each idea or insight. In practice, ideas from my developing thesis and own thinking informed the projects' trajectories and thinking, and vice-versa. These ideas would not have emerged in this form without my participation, so they are not the sole intellectual property of others, but equally I would not have reached the same conclusions alone, so the ideas are not solely my own either. All diagrams and illustrations were produced by me, except where specified, and the overall synthesis and framing presented in this chapter is my own original work. Where this chapter includes material from the four peripheral projects [[7.1.2](#7.1.2)], that material is either already public, or permission has been obtained from the corresponding individuals or project teams.
 
 Additional: The Private Data Viewing Monitor {#ari-8 .unnumbered}
 ===========
@@ -313,3 +313,20 @@ Additional: The Private Data Viewing Monitor {#ari-8 .unnumbered}
 By removing the filter layer on an old monitor and modifying cinema IMAX glasses, a monitor was created that only allowed viewing by the holder of the viewing glasses, which would be ideal for interviewing someone about their data while respecting privacy. Face to face interviewing had to be abandoned due to COVID-19, so this technique was sadly never used in practice.
 
 ![Figure ARI.X: Private Data Viewing Monitor with Viewing Glasses](./src/figs/figF.1-private-viewing-monitor.jpg){#figure-ARI.x}
+
+Additional: Data Protection Terminology and a Legal Definition of Personal Data {#ari-9 .unnumbered}
+====================
+
+From the GDPR [@hoofnagle2019] and its antecedents, a number of concepts have been established which are relevant to this thesis, specifically [@ico2014; @GDPR2016]:
+
+- _Personal data_ is legally defined as any information relating to an identifiable natural person - one who can be identified directly or indirectly by reference to an identifier such as a name, identification number or location or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that person.
+- The _data subject_ is the identified individual, living or deceased, who the personal data relates to.
+- A _data controller_ is the legal entity (company, public authority, agency, individual or other body) which collects or stores personal data about an individual and determines the means and purposes for which it is processed. Liability for data protection compliance rests with the data controller.
+- A _data processor_ is a legal entity (company, public authority, agency, individual or other body) which deals with personal data as instructed by a controller for specific purposes and services offered to the controller that involve personal data processing.
+- _Personal data processing_ refers to any manual or automated handling of digital or analogue data including collection, recording, organisation, structuring, storage, adaptation or alteration, retrieval, consultation, use, disclosure by transmission, dissemination or otherwise making available, alignment or combination, restriction, erasure or destruction.
+- A _Subject access request_ is the right to a copy of your personal data.
+- _Data portability_ is the right to receive a copy of all stored data about you, not just that which you provided, in an accessible and machine-readable format such as a CSV file, so that you can transport it to another service or make use of it.
+
+The terms _Subject Access Request_ and _Data portability_ are used in Case Study Two](#chapter-5), and referenced also in [Chapter 7](#chapter-7).
+
+For simplicity, this thesis uses everyday layperson-friendly terms rather than the legal terms defined in this section. Data subjects are referred to simply as _**individuals**_ and both data controllers and data processors as _**data holders**_, because for this thesis, focusing as it does on the individual perspective, there is no need to draw a distinction.
