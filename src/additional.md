@@ -38,7 +38,7 @@ The intent behind the storyboarding action cards is that they serve as both a bo
 
 ![Figure ARI.2: Example Backing Mat for Storyboard Decks (pictured here: backing mat for all three 'problem' card decks](./src/figs/figARI.2-backing-mat.png){#figure-ARI.2}
 
-In addition to the storyboard cards, I also designed 'backing mats' for each of the eight card types. These were printed on large coloured card corresponding to each card type's backing colour, and provided areas for the 'decks' of available cards to be picked from. Each backing mat provided a separate home for family member actions, staff actions, and joint actions. Additionally, each backing card included a summary of the available action cards of this type, and a prompt question. An example of a backing card, in this case for Problem Cards, is shown in [Figure ARI.2](#figure-ARI.2).
+In addition to the storyboard cards, I also designed 'backing mats' for each of the eight card types. These were printed on large coloured card corresponding to each card type's backing colour, and provided areas for the 'decks' of available cards to be picked from. Each backing mat provided a separate home for family member actions, staff actions, and joint actions. Additionally, each backing mat included a summary of the available action cards of this type, and a prompt question. An example of a backing mat, in this case for Problem Cards, is shown in [Figure ARI.2](#figure-ARI.2).
 
 **Introduction and Practice**
 
