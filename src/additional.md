@@ -282,7 +282,7 @@ I was specifically hired to co-lead the _digipower_ project [@härkönen2022proj
 
 At the time of publication of this thesis (August 2022), I continue to be employed by Hestia.ai, working on the research, design and development of tools to help collectives [[Insight 10](#insight-10)] with data, make data easier to understand [[6.1.2](#6.1.2); [7.2.4](#7.2.4)], and exploring methods to help people 'hack the seams' of digital platforms and services [[7.4.4](#7.4.4)].
 
-Where the BBC internship [[D.1](#d.1)] has helped me to understand the practicalities of connecting people with their personal data in pursuit of Life Information Utilisation [[7.2.3](#7.2.3.1)], my work with Hestia.ai has helped me understand the practicalities of how people might acquire greater Personal Data Ecosystem Control [[7.2.3](#7.2.3.1)]. In this sense, both peripheral activities have been highly complementary to developing an overview of the pursuit of HDR in practice.
+Where the [BBC internship](#ari-4) has helped me to understand the practicalities of connecting people with their personal data in pursuit of Life Information Utilisation [[7.2.3](#7.2.3.1)], my work with Hestia.ai has helped me understand the practicalities of how people might acquire greater Personal Data Ecosystem Control [[7.2.3](#7.2.3.1)]. In this sense, both peripheral activities have been highly complementary to developing an overview of the pursuit of HDR in practice.
 
 Additional: DERC's Healthy Eating Web Augmentation Project {#ari-6 .unnumbered}
 ===========

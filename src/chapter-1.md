@@ -175,7 +175,7 @@ This model has been used as both during design and ideation sessions at BBC R&D 
 
 **C11: A rich understanding of the lived experience of accessing data using GDPR rights and of motivations for GDPR data access**
 
-Case Study Two fills a research gap in understanding the human experience of using GDPR to access one's personal data. The findings [[5.4](#5.4)] confirm previous research that compliance is poor and returned data often incomplete [@ausloos2018], and contribute new knowledge by uncovering specific attitudes such as **resignation about data sacrifice**, **disappointment in GPDR handling** by service providers, and **a lack of answers to questions**. Specific motivations for GDPR data access (and hence more widely for HDR) are enumerated, which provides a valuable starting set of requirements for future research and innovation (see [Table 5.5](#table-5.5) and the supplemental materials of [@bowyer2022gdpr]).
+Case Study Two fills a research gap in understanding the human experience of using GDPR to access one's personal data. The findings [[5.4](#5.4)] confirm previous research that compliance is poor and returned data often incomplete [@ausloos2018], and contribute new knowledge by uncovering specific attitudes such as **resignation about data sacrifice**, **disappointment in GPDR handling** by service providers, and **a lack of answers to questions**. Specific motivations for GDPR data access (and hence more widely for HDR) are enumerated, which provides a valuable starting set of requirements for future research and innovation (see [Table 5.4](#table-5.4) and the supplemental materials of [@bowyer2022gdpr]).
 
 **C12: Evidence for the impact of knowledge about data handling practices on provider trust and perceived individual power**
 

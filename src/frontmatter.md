@@ -78,19 +78,19 @@ Lists of Tables by Chapter {.unnumbered .unlisted}
 
 [Table 5.3](#table-5.3) - Presence and Quality Assessments of GDPR Responses by Data Type (as Percentages)
 
-[Table 5.5](#table-5.5) - Participants' Hopes, Imagined Data Uses and Goals for GDPR, as well as Resultant Outcomes
+[Table 5.4](#table-5.4) - Participants' Hopes, Imagined Data Uses and Goals for GDPR, as well as Resultant Outcomes
 
-[Table 5.6](#table-5.6) - Theme 1 - Insufficient Transparency: Subthemes & Participant Quotes
+[Table 5.5](#table-5.5) - Theme 1 - Insufficient Transparency: Subthemes & Participant Quotes
 
-[Table 5.7](#table-5.7) - Theme 2 - Confusing & Unuseable Data: Subthemes & Participant Quotes
+[Table 5.6](#table-5.6) - Theme 2 - Confusing & Unuseable Data: Subthemes & Participant Quotes
 
-[Table 5.8](#table-5.8) - Theme 3 - Fragile Relationships: Subthemes & Participant Quotes
+[Table 5.7](#table-5.7) - Theme 3 - Fragile Relationships: Subthemes & Participant Quotes
 
 ### Tables in Chapter 7 {.unnumbered}
 
 [Table 7.1](#table-7.1) - Eight Lenses on Personal Data
 
-### Tables in Additional Reference Information {.unnumbered}
+### Tables in 'Additional Reference Information' {.unnumbered}
 
 [Table ARI.1](#table-ARI.1) - Best and Worst Data Holders for GDPR, according to Participants' Judgements
 
@@ -231,11 +231,11 @@ Lists of Figures by Chapter {.unnumbered .unlisted}
 
 [Figure 7.36](#figure-7.36) - Summary of Generalised Change Strategies for Pursuing Better HDR, Using the ToC Model
 
-### Tables in Additional Reference Information {.unnumbered}
+### Figures in 'Additional Reference Information' {.unnumbered}
 
-![Figure ARI.1: Extract of Sample Scenario Storyboarding Exercise walkthrough](./src/figs/figARI.1-storyboarding-cards.png){#figure-ARI.1}
+[Figure ARI.1](#figure-ARI.1) - Extract of Sample Scenario Storyboarding Exercise walkthrough
 
-![Figure ARI.2: Example Backing Mat for Storyboard Decks](./src/figs/figARI.2-backing-mat.png){#figure-ARI.2}
+[Figure ARI.2](#figure-ARI.2) - Example Backing Mat for Storyboard Decks
 
 [Figure ARI.x](#figure-ARI.x) - Screenshot from Quirkos During Coding Process
 
