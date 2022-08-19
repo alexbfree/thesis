@@ -255,7 +255,7 @@ The proposed BBC Cornmarket product, internally called _My PDS_, would allow peo
 
 With a cross-disciplinary team of around 20 people including architects, developers, user experience designers, product designers, innovators, participatory researchers and marketers, and funding to outsource public engagement research to agencies, this project represents a significant player in the emerging personal data economy [[2.3.4](#2.3.4)]. As such the Cornmarket project is a fertile ground in which to learn more from practitioners in the PDE space and to test the learnings of this thesis in practice while also finding deeper insights in response to my research questions - in particular RQ3 which is concerned with the building of more human-centric personal data interfaces in practice.
 
-Much of the work I did during this extended internship can be seen in the designs within [7.4.3](#7.4.3), as well as the research report I wrote [@bowyer2020bbcreport] and internship writeup [@bowyer2020internreport]. My work with the Cornmarket project can be seen as the concluding part of one of several action research cycles within my PhD [3.2.2](#3.2.2).
+Much of the work I did during this extended internship can be seen in the designs within [7.4.3](#7.4.3), as well as the research report I wrote [@bowyer2020bbcreport] and internship writeup [@bowyer2020internreport]. My work with the Cornmarket project can be seen as the concluding part of one of several action research cycles within my PhD [[3.2.2](#3.2.2)].
 
 A number of articles relating to the Cornmarket project have been published:
 
