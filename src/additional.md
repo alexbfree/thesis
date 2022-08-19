@@ -329,4 +329,4 @@ From the GDPR [@hoofnagle2019] and its antecedents, a number of concepts have be
 
 The terms _Subject Access Request_ and _Data portability_ are used in [Case Study Two](#chapter-5), and referenced also in [Chapter 7](#chapter-7).
 
-For simplicity, this thesis uses everyday layperson-friendly terms rather than the legal terms defined in this section. Data subjects are referred to simply as **individuals** and both data controllers and data processors as **data holders**, because for this thesis, focusing as it does on the individual perspective, there is no need to draw a distinction.
+For simplicity, this thesis uses everyday layperson-friendly terms rather than the legal terms defined in this section. Data subjects are referred to simply as **individuals** and both data controllers and data processors as **data holders**, because for this thesis, focusing as it does on the individual perspective, there is no need to draw a distinction between data controllers and data processors.
