@@ -50,6 +50,7 @@ def buildThesis(format):
     #print('command is:')
     #print(args)
 
+    args.append("src/additional.md")
     args.append("src/appendices.md")
 
     # Build
@@ -200,6 +201,7 @@ def buildWebsite():
     buildThesis("html")
     buildChapters("html")
     buildFile("frontmatter", "html")
+    buildFile("additional", "html")
     buildFile("appendices", "html")
 
     dir_util.copy_tree("{}/{}/".format(OUT_PATH, "html"), "{}/{}/".format(WEBSITE_PATH, "html") )
@@ -209,6 +211,7 @@ def buildWebsite():
         buildThesis(format)
         buildChapters(format)
         buildFile("frontmatter", format)
+        buildFile("additional", format)
         buildFile("appendices", format)
 
         # Move the new files over to the website directory
@@ -232,6 +235,7 @@ def buildWebsiteHtmlOnly():
     buildThesis("html")
     buildChapters("html")
     buildFile("frontmatter", "html")
+    buildFile("additional", format)
     buildFile("appendices", "html")
 
     dir_util.copy_tree("{}/{}/".format(OUT_PATH, "html"), "{}/{}/".format(WEBSITE_PATH, "html") )
@@ -287,6 +291,10 @@ def main(argv):
     chapters_parser = subparsers.add_parser("chapters", help="Builds all chapters in [format]")
     chapters_parser.add_argument("format", type=str, help="The format you want to build into e.g. html or docx")
 
+    # Parser for building the additional reference information
+    additional_parser = subparsers.add_parser("additional", help="Builds only additional.md in [format]")
+    additional_parser.add_argument("format", type=str, help="The format you want to build into e.g. html or docx")
+
     # Parser for building the appendices
     appendices_parser = subparsers.add_parser("appendices", help="Builds only appendices.md in [format]")
     appendices_parser.add_argument("format", type=str, help="The format you want to build into e.g. html or docx")
@@ -328,6 +336,11 @@ def markdown_thesis(args):
         print("Building frontmatter in {}\n======\n".format(args.format))
         # buildFrontmatter(args.format)
         buildFile("frontmatter", args.format)
+
+    elif args.subparser == "additional":
+        print("Building additional reference information in {}\n======\n".format(args.format))
+        # buildFrontmatter(args.format)
+        buildFile("additional", args.format)
 
     elif args.subparser == "appendices":
         print("Building appendices in {}\n======\n".format(args.format))

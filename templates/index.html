@@ -102,6 +102,18 @@
 
               <tr>
                 <td>
+                  <a href="./html/additional.html">Additional Reference Information</a>
+                </td>
+
+                {% for format in build_formats %}
+                <td>
+                  <a href="./{{format}}/additional.{{format}}">appendices.{{format}}</a>
+                </td>
+                {% endfor %}
+              </tr>
+
+              <tr>
+                <td>
                   <a href="./html/appendices.html">Appendices</a>
                 </td>
 
