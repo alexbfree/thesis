@@ -327,6 +327,6 @@ From the GDPR [@hoofnagle2019] and its antecedents, a number of concepts have be
 - A _Subject access request_ is the right to a copy of your personal data.
 - _Data portability_ is the right to receive a copy of all stored data about you, not just that which you provided, in an accessible and machine-readable format such as a CSV file, so that you can transport it to another service or make use of it.
 
-The terms _Subject Access Request_ and _Data portability_ are used in Case Study Two](#chapter-5), and referenced also in [Chapter 7](#chapter-7).
+The terms _Subject Access Request_ and _Data portability_ are used in [Case Study Two](#chapter-5), and referenced also in [Chapter 7](#chapter-7).
 
-For simplicity, this thesis uses everyday layperson-friendly terms rather than the legal terms defined in this section. Data subjects are referred to simply as _**individuals**_ and both data controllers and data processors as _**data holders**_, because for this thesis, focusing as it does on the individual perspective, there is no need to draw a distinction.
+For simplicity, this thesis uses everyday layperson-friendly terms rather than the legal terms defined in this section. Data subjects are referred to simply as **individuals** and both data controllers and data processors as **data holders**, because for this thesis, focusing as it does on the individual perspective, there is no need to draw a distinction.
