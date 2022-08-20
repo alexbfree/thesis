@@ -155,11 +155,11 @@ Explicit and implicit statements from participants, contextual clues, and accumu
 
 - commonly in use ('current'),
 - happening occasionally/partially ('emergent') , or
-- not yet occurring at all ('imagined')[^8].
+- not yet occurring at all ('imagined')[^6].
 
 Tables [4.3](#table-4.3), [4.4](#table-4.4) and [4.5](#table-4.5) show subthemes, illustrated with participant quotes, as well as the current, emergent or imagined status of each subtheme. Structuring the themes makes the findings actionable for social care organisations.
 
-[^8]: As judged at the time of the workshops—Summer 2018.
+[^6]: As judged at the time of the workshops—Summer 2018.
 
 | <a name="table-4.2">Subtheme</a> | Description & Quote | Status |
 |:--------|:-------------------------------------------|:------:|

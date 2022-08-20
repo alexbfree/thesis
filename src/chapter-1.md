@@ -66,7 +66,7 @@ Section [6.1](#6.1) answers [RQ1](#RQ1) by explaining people's three specific ne
 
 - for data to be **visible** [[6.1.1](#6.1.1)],
 - **understandable** [[6.1.2](#6.1.2)], and
-- **useable**<sup>[12](#fn12)</sup> [[6.1.3](#6.1.3)].
+- **useable**<sup>[10](#fn10)</sup> [[6.1.3](#6.1.3)].
 
 **C2: An Understanding of What People Want in Indirect Data Relations**
 
