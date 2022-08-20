@@ -235,7 +235,7 @@ def buildWebsiteHtmlOnly():
     buildThesis("html")
     buildChapters("html")
     buildFile("frontmatter", "html")
-    buildFile("additional", format)
+    buildFile("additional", "html")
     buildFile("appendices", "html")
 
     dir_util.copy_tree("{}/{}/".format(OUT_PATH, "html"), "{}/{}/".format(WEBSITE_PATH, "html") )
