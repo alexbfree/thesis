@@ -84,15 +84,13 @@ Lists of Tables by Chapter {.unnumbered .unlisted}
 
 [Table 5.7](#table-5.7) - Theme 3 - Fragile Relationships: Subthemes & Participant Quotes
 
-### Tables in Chapter 7 {.unnumbered}
-
-[Table 7.1](#table-7.1) - Eight Lenses on Personal Data
-
 ### Tables in 'Additional Reference Information' {.unnumbered}
 
-[Table ARI.1](#table-ARI.1) - Example Categories of Family Civic Data
+[Table ARI.1](#table-ari.1) - Example Categories of Family Civic Data
 
-[Table ARI.2](#table-ARI.2) - Best and Worst Data Holders for GDPR, according to Participants' Judgements
+[Table ARI.2](#table-ari.2) - Best and Worst Data Holders for GDPR, according to Participants' Judgements
+
+[Table ARI.3](#table-ari.3) - Eight Lenses on Personal Data
 
 Lists of Figures by Chapter {.unnumbered .unlisted}
 ---------------------------

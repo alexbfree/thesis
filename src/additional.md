@@ -125,7 +125,7 @@ Additional 5: Family Civic Data Categories
 
 The table below illustrates the types of _family civic data_ identified in the pilot study [[3.4.1](#3.4.1.2); @bowyer2018family; [Appendix A](#appendix-A)], and referenced in Case Study One [[4.2.1](#4.2.1)].
 
-| <a name="table-ARI.1">Category</a>  | Type of data | Examples/Details |
+| <a name="table-ari.1">Category</a>  | Type of data | Examples/Details |
 |---------|---------|--------------------------------------|
 | Family|Personal details|Date of birth, address, telephone number.|
 |      |Relationships|Marital status, exs, step-parents, living arrangements.|
@@ -155,14 +155,14 @@ Table: Table ARI.1 - Example Categories of Family Civic Data.
 
 [^19]: Some leisure categories (namely Shopping and Transport) were included that are not strictly civic data, as these would be useful for exploring issues around ethics. These also provided a reference point for participants to better consider the 'big data' benefits of data linking.
 
-Additional 5: The Private Data Viewing Monitor {#ari-monitor .unnumbered}
+Additional 6: The Private Data Viewing Monitor {#ari-monitor .unnumbered}
 ===========
 
 By removing the filter layer on an old monitor and modifying cinema IMAX glasses, a monitor was created that only allowed viewing by the holder of the viewing glasses, which would be ideal for interviewing someone about their data while respecting privacy. Face to face interviewing had to be abandoned due to COVID-19, so this technique was sadly never used in practice.
 
 ![Figure ARI.X: Private Data Viewing Monitor with Viewing Glasses](./src/figs/figF.1-private-viewing-monitor.jpg){#figure-ARI.x}
 
-Additional 6: GDPR Data Analysis Approach {#ari-gdpr-data-analysis .unnumbered}
+Additional 7: GDPR Data Analysis Approach {#ari-gdpr-data-analysis .unnumbered}
 ===========
 
 In this section, the methodology used for the analysis of data from Case Study Two is explained. The content of this appendix is identical to Appendix 3 in the Supplemental Materials of the CHI 2022 paper from this study [@bowyer2022gdpr]. Case Study Two was written first as a paper and then expanded to produce Chapter 5. While the paper was co-written, Chapter 5 was written entirely by Alex Bowyer.
@@ -354,21 +354,21 @@ Format: `NN-pXX-iX-[….]-[company first three letters].txt`
 
 e.g. `01-p01-i3-Cred-Indr.txt` or `02-p01-i3-Genr-Wrap.txt`
 
-Additional 7: Best and Worst Companies for GDPR Handling {#ari-bestworst .unnumbered}
+Additional 8: Best and Worst Companies for GDPR Handling {#ari-bestworst .unnumbered}
 ===========
 
 The quality and coverage datapoints described in [5.3.3](#5.3.3) also allowed insights about which service providers were strongest or weakest in each category, and overall, to be drawn. This was done by tallying the 'Yes' responses for each category and overall, then dividing by the number of times that provider was selected, to avoid inflating scores for popular companies. The outcome of this analysis is shown in [Table ARI.2](#table-ARI.2) below. The companies that fared worst overall were those that did not return any data at all in response to a GDPR request (Sainsbury's, Freeprints, Tyne Tunnels, LinkedIn, Huawei, Bumble, LNER). It should be noted that Sainsbury's and Huawei _did_ respond, claiming to hold no data for the requesting participant, though participants found this implausible, which indicates either a problem with compliance, explanation or trust. The other named companies here did not respond at all, despite at least two follow-up emails being sent to them, and despite in some cases having initially acknowledged and promised to satisfy the request.
 
 Companies producing responses with good coverage and good quality included Niantic, Nectar and Sunderland AFC as well as to a lesser extent Natural Cycles, Revolut, Spotify, Tesco and Amazon. Facebook and Google fared well for the breadth of data returned (due in part to their download dashboards), though the quality of Google's data was found lacking across multiple categories. Last.fm (owned by CBS) fared poorly overall due to poor category coverage, despite the limited data that it did return being of high quality.
 
-<a name="table-ARI.2"></a>
+<a name="table-ari.2"></a>
 
 ![](./src/figs/table11-best-worst-companies.png)
 [PRODUCTION TODO replace table with text]
 
 Table: Table ARI.2 - Best and Worst Data Holders for GDPR, according to Participants' Judgements<sup>a</sup>
 
-Additional 8: BBC R&D's Cornmarket Project {#ari-bbc .unnumbered}
+Additional 9: BBC R&D's Cornmarket Project {#ari-bbc .unnumbered}
 ===========
 
 I took a three-month sabbatical from my PhD in the summer of 2020. I was remotely embedded within a full-time research internship at **BBC R&D** - the British Broadcasting Corporation (BBC)'s Research and Development (R&D) department [@bbc1997rd], working with specialists, designers, researchers and developers on an exploratory research project codenamed _Cornmarket_. I continued this involvement as a part-time research consultant and critical friend for a further 5 months after the conclusion of the initial three-month placement.
@@ -392,7 +392,7 @@ A number of articles relating to the Cornmarket project have been published:
 - https://www.telegraph.co.uk/business/2022/06/09/bbc-wages-war-online-echo-chambers-unbiased-tech/
 - https://parliamentlive.tv/event/index/7d249bcf-78e9-447b-907c-81df72b87542?in=15:01:35
 
-Additional 9: Hestia.ai, and Sitra's _digipower_ Project {#ari-digipower .unnumbered}
+Additional 10: Hestia.ai, and Sitra's _digipower_ Project {#ari-digipower .unnumbered}
 ===========
 
 Following the conclusion of the funded period of my PhD, I took up a near-full-time position as Project Leader and Personal Data Coach at **Hestia.ai** [@dehaye2019]), a startup based in Geneva, Switzerland. Hestia.ai is a company conducting research, developing technologies, and delivering training, in the emergent MyData/PDE space [[2.3.4](#2.3.4)]. In essence, the company's mission is to help individuals and especially collectives to more easily obtain and understand data held about them, and to help them visualise, aggregate and make use of that data. It is an example of a **data access and understanding services** company as described in [7.4.5](#7.4.5.3).
@@ -408,14 +408,14 @@ At the time of publication of this thesis (August 2022), I continue to be employ
 
 Where the [BBC internship](#ari-bbc) has helped me to understand the practicalities of connecting people with their personal data in pursuit of Life Information Utilisation [[7.2.3](#7.2.3.1)], my work with Hestia.ai has helped me understand the practicalities of how people might acquire greater Personal Data Ecosystem Control [[7.2.3](#7.2.3.1)]. In this sense, both peripheral activities have been highly complementary to developing an overview of the pursuit of HDR in practice.
 
-Additional 10: DERC's Healthy Eating Web Augmentation Project {#ari-derc .unnumbered}
+Additional 11: DERC's Healthy Eating Web Augmentation Project {#ari-derc .unnumbered}
 ===========
 
 As a software developer I have been aware for a long time that one of the biggest challenges in building new data interfaces is to gain programmatic access to the necessary data. As part of the trend towards cloud-based services and data-centric business practices, it has become increasingly difficult to access all of the data held about users by service providers. Application Programming Interfaces (APIs) are a technical means for programmers to access a user's data so that third-party applications may be built using that data. Unfortunately, as a result of commercial incentives to lock users in and keep data trapped [@abiteboul2015; @bowyer2018freedata], much of users' data can no longer be accessed via APIs. While GDPR data portability requests do open up a new option for the use of one's provider-collected data in third-party applications, this is an awkward and time-consuming route for both users and developers. **Web augmentation** provides a third possible technical avenue for obtaining data from online service providers. It relies on the fact that a user's data is loaded to the user's local machine and displayed within their web browser every time a website is used, and therefore it is possible to extract that data from the browser using a browser extension; this as another **seam** that can be hacked - see [7.4.4](#7.4.4) and [Insight 12](#insight-12). Similarly, once loaded into the browser, a provider's webpage can be modified to display additional data or useful human-centric functionality that the provider failed to provide.
 
 In order to better understand what is and is not possible using this technique, I participated part-time from 2018 to 2020 as the sole software engineer in a DERC (Digital Economy Research Centre) project. This project was using the web augmentation technique to explore how researchers could improve the information given to users of Just Eat, a takeaway food ordering platform in the UK. The theoretical basis for this research was published in [@goffe2021; @goffe2022]. While this particular use case does not concern personal data, the technology and techniques being used by the project to exploit the browser seam were considered highly relevant to the exploration of HDR-improving possibilities, and the goals of the research project were also human-centric, and consistent with this thesis's research goals - tackling the hegemony of service providers in order to better serve individual needs.
 
-Additional 11: Special Attribution Note for Chapter 7 {#ari-attribution .unnumbered}
+Additional 12: Special Attribution Note for Chapter 7 {#ari-attribution .unnumbered}
 ===========
 
 This is a note about the attribution of insights within [Chapter 7](#chapter-7), as the ideas originate quite differently than from the rest of the thesis.
@@ -430,5 +430,23 @@ This thesis is my own work. All ideas in Chapter 7 are original. Some of the spe
   - earlier innovation work with Megan Beynon and Dean Upton at IBM Hursley, UK (circa 2006).
 
 Due to these collaborations and the ongoing and parallel nature of many of these projects to my PhD research, it is impossible to precisely delineate the origin of each idea or insight. In practice, ideas from my developing thesis and own thinking informed the projects' trajectories and thinking, and vice-versa. These ideas would not have emerged in this form without my participation, so they are not the sole intellectual property of others, but equally I would not have reached the same conclusions alone, so the ideas are not solely my own either. All diagrams and illustrations were produced by me, except where specified, and the overall synthesis and framing presented in this chapter is my own original work. Where this chapter includes material from the four peripheral projects [[7.1.2](#7.1.2)], that material is either already public, or permission has been obtained from the corresponding individuals or project teams.
+
+Additional N: Eight Lenses on Personal Data
+===========================================
+
+This table is referenced and contextualised in section [7.2.1](#7.2.1).
+
+| <a name="table-ari.3">Way of thinking about data</a> | Explanation & Implications |
+|:--------|:---------------------------------------------------|
+| Data as property|Data can be considered as a possession. This highlights issues of ownership, responsibility, liability and theft.|
+| Data as a source of information about you|Knowing that data contains encoded assertions about you and can be used to derive further conjectures enables thinking about how it might be exploited by others, but also how you can explore and use it yourself for reflection, asking questions, self-improvement and planning. It invites consideration of the right to access, data protection, and issues around accuracy, fairness and misinterpretation / misuse.|
+| Data as part of oneself|A photo or recording of you, or a typed note or search that popped into your head could be deeply personal. This lens on data highlights issues around emotional attachment/impact, privacy, and ethics.|
+| Data as memory|Data can be considered as an augmentation to one's memory, a digital record of your life. This lens facilitates design thinking around search and recall, browsing, summarising, cognitive offloading, significance/relevance, and the personal value of data.|
+| Data as creative work|Some of the data we produce (e.g. writing, videos, images) can be considered as an artistic creation. This lens enables thinking about attribution, derivation, copying, legacy and cultural value to others.|
+| Data as new information about the world|Data created by others can inform us about previously unknown occurrences in our immediate digital life or the wider world. This lens is useful for thinking about discovery, recommendations, bias, censorship, filter bubbles, and who controls the information sources we use, as well as who will see and interpret data that we generate and what effects our data has on others.|
+| Data as currency|Many data-centric services require data to be sacrificed in exchange for access to functionality, and some businesses now explicitly enable you to sell your own data. This lens highlights that data can be thought of as a tradable asset, and invites consideration of issues of data's worth, individual privacy, exploitation and loss of control.|
+| Data as a medium for thinking, communicating and expression|Some people collect and organise data into curated collections, or use it to convey facts and ideas, to persuade or to evoke an emotional impact. This lens is useful to consider data uses such as lists, annotation, curation, editing, remixing, visualisation and producing different views of data for different audiences.|
+
+Table: Table ARI.3 - **Eight Lenses on Personal Data**.
 
 ---
