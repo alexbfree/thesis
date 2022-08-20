@@ -25,29 +25,31 @@ In this section, additional details are provided on the _Sentence Ranking_ exerc
 
 The sentences offered to participants across the 4 workshops were as follows:
 
-  - Families’ data should be private unless they say it can be shared.
-  - Labels like 'domestic abuse' are damaging to families & hard to shake off.
-  - The police should be able to see all of a family’s data.
-  - Families find setting privacy preferences to be annoying and tedious.
-  - Asking families for consent to share data just once at the start is enough.
-  - Families should always be able to talk to someone from the authorities about their data.
-  - Support workers make better decisions if they have more data about a family.
-  - A family’s data should all be joined up and looked at together.
-  - Public sector officials can make good judgements just by looking at families’ data.
-  - Numerical scores are a good way to compare the progress families have made.
-  - Families won’t mind lots of data being collected about them if they can see it.
-  - Families should have rights to see their data and how it is used.
-  - Information stored about families must be fair and accurate.
-  - Just looking at data doesn’t tell you everything about a family.
-  - Officials should be able to see historical records about families.
-  - Families don’t want to be responsible for looking after their data.
-  - Support workers should be able to see family medical records.
-  - Councils should treat families like people, not records in a database.
-  - Families will be willing to spend time checking their data is correct.
-  - Any information from more than 5 years ago should be hidden from staff.
-  - It is important for support workers to know mental health details.
+  - ` S1` A family’s data should all be joined up and looked at together.
+  - ` S2` Any information from more than 5 years ago should be hidden from staff.
+  - ` S3` Asking families for consent to share data just once at the start is enough.
+  - ` S4` Councils should treat families like people, not records in a database.
+  - ` S5` Families don’t want to be responsible for looking after their data.
+  - ` S6` Families find setting privacy preferences to be annoying and tedious.
+  - ` S7` Families should always be able to talk to someone from the authorities about their data.
+  - ` S8` Families should have rights to see their data and how it is used.
+  - ` S9` Families will be willing to spend time checking their data is correct.
+  - `S10` Families won’t mind lots of data being collected about them if they can see it.
+  - `S11` Families' data should be private unless they say it can be shared.
+  - `S12` Information stored about families must be fair and accurate.
+  - `S13` It is important for support workers to know mental health details.
+  - `S14` Just looking at data doesn’t tell you everything about a family.
+  - `S15` Labels like 'domestic abuse' are damaging to families & hard to shake off.
+  - `S16` Numerical scores are a good way to compare the progress families have made.
+  - `S17` Officials should be able to see historical records about families.
+  - `S18` Public sector officials can make good judgements just by looking at families’ data.
+  - `S19` Support workers make better decisions if they have more data about a family.
+  - `S20` Support workers should be able to see family medical records.
+  - `S21` The police should be able to see all of a family’s data.
 
-In each of the workshops, families ranked the sentences according to
+Where participants unanimously or mainly disagreed with a sentence, it is referenced in the inverse using a prime notation, e.g. `S18'`, which would imply a reference to the opposite of the statement - in this case 'Public sector officials can **not** make good judgements just by looking at families' data.'
+
+In each of the workshops, families ranked the sentences according to:
 
   - (a) whether they agreed, disagreed or were neutral on that statement, and
   - (b) whether or not they felt that statement was important.
