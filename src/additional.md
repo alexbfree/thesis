@@ -106,14 +106,26 @@ The scenarios used for this activity by the two groups were (a) a new scenario w
 
 For a completed storyboard layout example, see [Figure 3.10](#figure-3.10).
 
-Additional 4: The Private Data Viewing Monitor {#ari-monitor .unnumbered}
+Additional 4: Notation for Quotations in Chapter 4{#ari-quotes .unnumbered}
+==================
+
+Quotations included in section [4.3](#4.3) are references using the following notation:
+
+  - FQnn = Family Quote - a quote from the families-only workshop (A)
+  - SQnn = Staff Quote - a quote from a staff-only workshop (B)
+  - CQnn = Combined Quote - a quote from the combined workshop (C).
+  - Sn = Sentence n - a sentence from the _Sentence Ranking_ exercise, see [Additional 2](#ari-sentences).
+
+The number after FQ/CQ/SQ provides a unique identifier for each quote, which can be used to look up the referenced quote in [TODO INSERT REF TO APPENDIX SECTION HERE]. Individual speakers are identified only by their role. Within each quote, or in brackets afterwards, the speakers are identified as _Worker_, _Parent_, _Child_, or _Researcher_.
+
+Additional 5: The Private Data Viewing Monitor {#ari-monitor .unnumbered}
 ===========
 
 By removing the filter layer on an old monitor and modifying cinema IMAX glasses, a monitor was created that only allowed viewing by the holder of the viewing glasses, which would be ideal for interviewing someone about their data while respecting privacy. Face to face interviewing had to be abandoned due to COVID-19, so this technique was sadly never used in practice.
 
 ![Figure ARI.X: Private Data Viewing Monitor with Viewing Glasses](./src/figs/figF.1-private-viewing-monitor.jpg){#figure-ARI.x}
 
-Additional 5: GDPR Data Analysis Approach {#ari-gdpr-data-analysis .unnumbered}
+Additional 6: GDPR Data Analysis Approach {#ari-gdpr-data-analysis .unnumbered}
 ===========
 
 In this section, the methodology used for the analysis of data from Case Study Two is explained. The content of this appendix is identical to Appendix 3 in the Supplemental Materials of the CHI 2022 paper from this study [@bowyer2022gdpr]. Case Study Two was written first as a paper and then expanded to produce Chapter 5. While the paper was co-written, Chapter 5 was written entirely by Alex Bowyer.
@@ -305,7 +317,7 @@ Format: `NN-pXX-iX-[….]-[company first three letters].txt`
 
 e.g. `01-p01-i3-Cred-Indr.txt` or `02-p01-i3-Genr-Wrap.txt`
 
-Additional 6: Best and Worst Companies for GDPR Handling {#ari-bestworst .unnumbered}
+Additional 7: Best and Worst Companies for GDPR Handling {#ari-bestworst .unnumbered}
 ===========
 
 The quality and coverage datapoints described in [5.3.3](#5.3.3) also allowed insights about which service providers were strongest or weakest in each category, and overall, to be drawn. This was done by tallying the 'Yes' responses for each category and overall, then dividing by the number of times that provider was selected, to avoid inflating scores for popular companies. The outcome of this analysis is shown in [Table ARI.1](#table-ARI.1) below. The companies that fared worst overall were those that did not return any data at all in response to a GDPR request (Sainsbury's, Freeprints, Tyne Tunnels, LinkedIn, Huawei, Bumble, LNER). It should be noted that Sainsbury's and Huawei _did_ respond, claiming to hold no data for the requesting participant, though participants found this implausible, which indicates either a problem with compliance, explanation or trust. The other named companies here did not respond at all, despite at least two follow-up emails being sent to them, and despite in some cases having initially acknowledged and promised to satisfy the request.
@@ -319,7 +331,7 @@ Companies producing responses with good coverage and good quality included Niant
 
 Table: Table ARI.1 - Best and Worst Data Holders for GDPR, according to Participants' Judgements<sup>a</sup>
 
-Additional 7: BBC R&D's Cornmarket Project {#ari-bbc .unnumbered}
+Additional 8: BBC R&D's Cornmarket Project {#ari-bbc .unnumbered}
 ===========
 
 I took a three-month sabbatical from my PhD in the summer of 2020. I was remotely embedded within a full-time research internship at **BBC R&D** - the British Broadcasting Corporation (BBC)'s Research and Development (R&D) department [@bbc1997rd], working with specialists, designers, researchers and developers on an exploratory research project codenamed _Cornmarket_. I continued this involvement as a part-time research consultant and critical friend for a further 5 months after the conclusion of the initial three-month placement.
@@ -343,7 +355,7 @@ A number of articles relating to the Cornmarket project have been published:
 - https://www.telegraph.co.uk/business/2022/06/09/bbc-wages-war-online-echo-chambers-unbiased-tech/
 - https://parliamentlive.tv/event/index/7d249bcf-78e9-447b-907c-81df72b87542?in=15:01:35
 
-Additional 8: Hestia.ai, and Sitra's _digipower_ Project {#ari-digipower .unnumbered}
+Additional 9: Hestia.ai, and Sitra's _digipower_ Project {#ari-digipower .unnumbered}
 ===========
 
 Following the conclusion of the funded period of my PhD, I took up a near-full-time position as Project Leader and Personal Data Coach at **Hestia.ai** [@dehaye2019]), a startup based in Geneva, Switzerland. Hestia.ai is a company conducting research, developing technologies, and delivering training, in the emergent MyData/PDE space [[2.3.4](#2.3.4)]. In essence, the company's mission is to help individuals and especially collectives to more easily obtain and understand data held about them, and to help them visualise, aggregate and make use of that data. It is an example of a **data access and understanding services** company as described in [7.4.5](#7.4.5.3).
@@ -359,14 +371,14 @@ At the time of publication of this thesis (August 2022), I continue to be employ
 
 Where the [BBC internship](#ari-bbc) has helped me to understand the practicalities of connecting people with their personal data in pursuit of Life Information Utilisation [[7.2.3](#7.2.3.1)], my work with Hestia.ai has helped me understand the practicalities of how people might acquire greater Personal Data Ecosystem Control [[7.2.3](#7.2.3.1)]. In this sense, both peripheral activities have been highly complementary to developing an overview of the pursuit of HDR in practice.
 
-Additional 9: DERC's Healthy Eating Web Augmentation Project {#ari-derc .unnumbered}
+Additional 10: DERC's Healthy Eating Web Augmentation Project {#ari-derc .unnumbered}
 ===========
 
 As a software developer I have been aware for a long time that one of the biggest challenges in building new data interfaces is to gain programmatic access to the necessary data. As part of the trend towards cloud-based services and data-centric business practices, it has become increasingly difficult to access all of the data held about users by service providers. Application Programming Interfaces (APIs) are a technical means for programmers to access a user's data so that third-party applications may be built using that data. Unfortunately, as a result of commercial incentives to lock users in and keep data trapped [@abiteboul2015; @bowyer2018freedata], much of users' data can no longer be accessed via APIs. While GDPR data portability requests do open up a new option for the use of one's provider-collected data in third-party applications, this is an awkward and time-consuming route for both users and developers. **Web augmentation** provides a third possible technical avenue for obtaining data from online service providers. It relies on the fact that a user's data is loaded to the user's local machine and displayed within their web browser every time a website is used, and therefore it is possible to extract that data from the browser using a browser extension; this as another **seam** that can be hacked - see [7.4.4](#7.4.4) and [Insight 12](#insight-12). Similarly, once loaded into the browser, a provider's webpage can be modified to display additional data or useful human-centric functionality that the provider failed to provide.
 
 In order to better understand what is and is not possible using this technique, I participated part-time from 2018 to 2020 as the sole software engineer in a DERC (Digital Economy Research Centre) project. This project was using the web augmentation technique to explore how researchers could improve the information given to users of Just Eat, a takeaway food ordering platform in the UK. The theoretical basis for this research was published in [@goffe2021; @goffe2022]. While this particular use case does not concern personal data, the technology and techniques being used by the project to exploit the browser seam were considered highly relevant to the exploration of HDR-improving possibilities, and the goals of the research project were also human-centric, and consistent with this thesis's research goals - tackling the hegemony of service providers in order to better serve individual needs.
 
-Additional 10: Special Attribution Note for Chapter 7 {#ari-attribution .unnumbered}
+Additional 11: Special Attribution Note for Chapter 7 {#ari-attribution .unnumbered}
 ===========
 
 This is a note about the attribution of insights within [Chapter 7](#chapter-7), as the ideas originate quite differently than from the rest of the thesis.
