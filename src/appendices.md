@@ -19,7 +19,7 @@ This section serves as both a glossary to explain abbreviations and existing ter
 
 * **[Direct Data Want 1](#want-d1): Data Visibility** - [ADD SECTIONREF]
 * **[Direct Data Want 2](#want-d2): Data Understanding** - [ADD SECTIONREF]
-* **[Direct Data Want 3](#want-d3): Data Useability**<sup>[13](#fn13)<sup> - [ADD SECTIONREF]
+* **[Direct Data Want 3](#want-d3): Data Useability**<sup>[12](#fn12)</sup> - [ADD SECTIONREF]
 * **[Indirect Data Want 1](#want-i1): Process Transparency** - [ADD SECTIONREF]
 * **[Indirect Data Want 2](#want-i2): Individual Oversight** - [ADD SECTIONREF]
 * **[Indirect Data Want 3](#want-i3): Involvement in Decision Making** - [ADD SECTIONREF]
@@ -27,7 +27,7 @@ This section serves as both a glossary to explain abbreviations and existing ter
 ### HDR Objectives {.unnumbered .unlisted}
 
 * **[HDR Objective 1](#objective-1): Data Awareness & Understanding** - [ADD SECTIONREF]
-* **[HDR Objective 2](#objective-2): Data Useability**<sup>[13](#fn13)</sup> - [ADD SECTIONREF]
+* **[HDR Objective 2](#objective-2): Data Useability**<sup>[12](#fn12)</sup> - [ADD SECTIONREF]
 * **[HDR Objective 3](#objective-3): Ecosystem Awareness & Understanding** - [ADD SECTIONREF]
 * **[HDR Objective 4](#objective-4): Ecosystem Negotiability** - [ADD SECTIONREF]
 * **[HDR Objective 5](#objective-5): Effective, Commercially Viable and Desirable HDR Systems** - [ADD SECTIONREF]
@@ -116,7 +116,7 @@ This section serves as both a glossary to explain abbreviations and existing ter
 * **Storyboarding Action Cards** - [ADD SECTIONREF]
 * **Trust in Providers, effects upon** - [ADD SECTIONREF]
 * **Types of Personal Data (by origin)** - [ADD SECTIONREF]
-* **Useability**<sup>[13](#fn13)<sup> (as distinct from Usability) - [6.1.3](#want-d3)]
+* **Useability**<sup>[12](#fn12)</sup> (as distinct from Usability) - [6.1.3](#want-d3)]
 
 Glossary of Pre-Existing Abbreviations, Names and Terms {#glossary .unnumbered}
 ========================================================

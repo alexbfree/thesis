@@ -66,7 +66,7 @@ Section [6.1](#6.1) answers [RQ1](#RQ1) by explaining people's three specific ne
 
 - for data to be **visible** [[6.1.1](#6.1.1)],
 - **understandable** [[6.1.2](#6.1.2)], and
-- **useable**<sup>[13](#fn13)</sup> [[6.1.3](#6.1.3)].
+- **useable**<sup>[12](#fn12)</sup> [[6.1.3](#6.1.3)].
 
 **C2: An Understanding of What People Want in Indirect Data Relations**
 
@@ -244,7 +244,7 @@ During the same timeframe as this PhD, I have also contributed to a number of pu
 - As a researcher and developer on the SILVER project [[3.4.1](#3.4.1.1)], my work contributed towards an internal report to CHC as well and the [overall impact report](https://web.archive.org/web/20211225192408/https://www.chc-impact-report.co.uk/) [@ConnectedHealthCities2021impact,129-130].
 - Also for SILVER, I published [demonstration videos](https://eprints.ncl.ac.uk/273839) [@bowyer2019silvervideo] of a health data interface prototype developed by myself and Stuart Wheater.
 - I was co-author to two research publications [at BCS 2021](https://doi.org/10.14236/ewic/HCI2021.16) [@goffe2021] and [in Interacting with Computers](https://doi.org/10.1093/iwc/iwac015) [@goffe2022].
-- As a research intern at BBC R&D [#ari-4], I published an internal research report [@bowyer2020bbcreport] into personal data store design, as well as a 'stimulus presentation' to launch an internal hack week.
+- As a presearch intern at BBC R&D](#ari-bbc), I published an internal research report [@bowyer2020bbcreport] into personal data store design, as well as a 'stimulus presentation' to launch an internal hack week.
 - At Hestia.ai, I was a lead author on [a research report auditing the data economy](https://doi.org/10.5281/zenodo.6554177) [@bowyer2022hestia], and co-author on [a research report on power mechanisms in the data economy](https://doi.org/10.5281/zenodo.6554155) [@pidoux2022].
 
 The structure of this thesis{#1.4}

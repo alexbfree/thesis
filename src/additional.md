@@ -1,22 +1,76 @@
 Additional Reference Information {.unnumbered .unlisted}
 ===========
 
-Additional: Best and Worst Companies for GDPR Handling {#ari-1 .unnumbered}
-===========
+Additional 1: Data Protection Terminology and a Legal Definition of Personal Data {#ari-data-terms .unnumbered}
+====================
 
-The quality and coverage datapoints described in [5.3.3](#5.3.3) also allowed insights about which service providers were strongest or weakest in each category, and overall, to be drawn. This was done by tallying the 'Yes' responses for each category and overall, then dividing by the number of times that provider was selected, to avoid inflating scores for popular companies. The outcome of this analysis is shown in [Table ARI.1](#table-ARI.1) below. The companies that fared worst overall were those that did not return any data at all in response to a GDPR request (Sainsbury's, Freeprints, Tyne Tunnels, LinkedIn, Huawei, Bumble, LNER). It should be noted that Sainsbury's and Huawei _did_ respond, claiming to hold no data for the requesting participant, though participants found this implausible, which indicates either a problem with compliance, explanation or trust. The other named companies here did not respond at all, despite at least two follow-up emails being sent to them, and despite in some cases having initially acknowledged and promised to satisfy the request.
+From the GDPR [@hoofnagle2019] and its antecedents, a number of concepts have been established which are relevant to this thesis, specifically [@ico2014; @GDPR2016]:
 
-Companies producing responses with good coverage and good quality included Niantic, Nectar and Sunderland AFC as well as to a lesser extent Natural Cycles, Revolut, Spotify, Tesco and Amazon. Facebook and Google fared well for the breadth of data returned (due in part to their download dashboards), though the quality of Google's data was found lacking across multiple categories. Last.fm (owned by CBS) fared poorly overall due to poor category coverage, despite the limited data that it did return being of high quality.
+- _Personal data_ is legally defined as any information relating to an identifiable natural person - one who can be identified directly or indirectly by reference to an identifier such as a name, identification number or location or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that person.
+- The _data subject_ is the identified individual, living or deceased, who the personal data relates to.
+- A _data controller_ is the legal entity (company, public authority, agency, individual or other body) which collects or stores personal data about an individual and determines the means and purposes for which it is processed. Liability for data protection compliance rests with the data controller.
+- A _data processor_ is a legal entity (company, public authority, agency, individual or other body) which deals with personal data as instructed by a controller for specific purposes and services offered to the controller that involve personal data processing.
+- _Personal data processing_ refers to any manual or automated handling of digital or analogue data including collection, recording, organisation, structuring, storage, adaptation or alteration, retrieval, consultation, use, disclosure by transmission, dissemination or otherwise making available, alignment or combination, restriction, erasure or destruction.
+- A _Subject access request_ is the right to a copy of your personal data.
+- _Data portability_ is the right to receive a copy of all stored data about you, not just that which you provided, in an accessible and machine-readable format such as a CSV file, so that you can transport it to another service or make use of it.
 
-<a name="table-ARI.1"></a>
+The terms _Subject Access Request_ and _Data portability_ are used in [Case Study Two](#chapter-5), and referenced also in [Chapter 7](#chapter-7).
 
-![](./src/figs/table11-best-worst-companies.png)
-[PRODUCTION TODO replace table with text]
+For simplicity, this thesis uses everyday layperson-friendly terms rather than the legal terms defined in this section. Data subjects are referred to simply as **individuals** and both data controllers and data processors as **data holders**, because for this thesis, focusing as it does on the individual perspective, there is no need to draw a distinction between data controllers and data processors.
 
-Table: Table ARI.1 - Best and Worst Data Holders for GDPR, according to Participants' Judgements<sup>a</sup>
+Additional 2: Sentence Ranking - Sentences and Analysis{#ari-sentences .unnumbered}
+=====================================================
 
+In this section, additional details are provided on the _Sentence Ranking_ exercise referenced in [4.2.6](#4.2.6).
 
-Additional: Storyboarding Action Cards (Case Study One) {#ari-2 .unnumbered}
+The sentences offered to participants across the 4 workshops were as follows:
+
+  - Families’ data should be private unless they say it can be shared.
+  - Labels like 'domestic abuse' are damaging to families & hard to shake off.
+  - The police should be able to see all of a family’s data.
+  - Families find setting privacy preferences to be annoying and tedious.
+  - Asking families for consent to share data just once at the start is enough.
+  - Families should always be able to talk to someone from the authorities about their data.
+  - Support workers make better decisions if they have more data about a family.
+  - A family’s data should all be joined up and looked at together.
+  - Public sector officials can make good judgements just by looking at families’ data.
+  - Numerical scores are a good way to compare the progress families have made.
+  - Families won’t mind lots of data being collected about them if they can see it.
+  - Families should have rights to see their data and how it is used.
+  - Information stored about families must be fair and accurate.
+  - Just looking at data doesn’t tell you everything about a family.
+  - Officials should be able to see historical records about families.
+  - Families don’t want to be responsible for looking after their data.
+  - Support workers should be able to see family medical records.
+  - Councils should treat families like people, not records in a database.
+  - Families will be willing to spend time checking their data is correct.
+  - Any information from more than 5 years ago should be hidden from staff.
+  - It is important for support workers to know mental health details.
+
+In each of the workshops, families ranked the sentences according to
+
+  - (a) whether they agreed, disagreed or were neutral on that statement, and
+  - (b) whether or not they felt that statement was important.
+
+This produced numerical ranking data which was analysed as follows:
+
+1.	Sentence rankings were encoded on two scales. Sentences which contained a negative statement were inverted so that disagreement with them could be considered as agreement with a positive statement.
+    a.	_Agreement_: neutral (0) -> agree (+1.0)
+    b.	_Importance_: not important (0.0) -> important (+1.0)
+
+2.	Rankings from different groups within workshops were aggregated, using mean averaging, with a weighting to ensure each workshop contributes equally regardless of attendance.
+
+3.	This gave four values for each sentence, for each participant group (families only, staff only, and combined). _Variance_ can be understood as 'unanimity of opinion': i.e. variance 0.0 indicates total agreement and 1.0 would indicate disagreement.
+    a.	_Mean agreement_
+    b.	_Variance of agreement_
+    c.	_Mean importance_
+    d.	_Variance of importance_.
+
+4.	Prioritising variance in agreement over variance of importance, the four dimensions were reduced to three to allow a visualisation to be produced.
+
+The resulting visualisation is shown in [Figure 4.1](#figure-4.1).
+
+Additional 3: Storyboarding Action Cards {#ari-storyboarding .unnumbered}
 ===========
 
 Drawing from the world of film production, storyboarding is a well-established technique in participatory design [@spinuzzi2005; @moraveji2007]. Usually it involves the participants drawing out a series of sketches in the form of a comic strip 'telling the story' of an interaction, encounter or activity. However, it had already been determined, both in terms of the research approach of this thesis [[3.2.2](#3.2.2)], and in terms of responding to participants [[4.2.6](#4.2.6)] that it would be more important to understand the interpersonal interactions between family and support worker and the actual actions performed upon or with data, rather than the mechanisms by which the data interaction would occur. Focusing on the visual aspects of information visualisation could be distracting. Therefore, I developed a novel technique for use in the phase 2 workshop: **Storyboarding Action Cards**. Each storyboard card denotes a possible action that can be carried out by a family member (yellow border), support worker (blue border) or an action performed together (green border). Each card includes a simple action summary such as 'Give Information' and an iconographic representation of the action, along with a short description of which actor is doing what. It includes blank lines which the participant can 'fill in' to describe the specifics of this occurrence of the action.
@@ -52,7 +106,14 @@ The scenarios used for this activity by the two groups were (a) a new scenario w
 
 For a completed storyboard layout example, see [Figure 3.10](#figure-3.10).
 
-Additional: Data Analysis Approach (Case Study Two) {#ari-3 .unnumbered}
+Additional 4: The Private Data Viewing Monitor {#ari-monitor .unnumbered}
+===========
+
+By removing the filter layer on an old monitor and modifying cinema IMAX glasses, a monitor was created that only allowed viewing by the holder of the viewing glasses, which would be ideal for interviewing someone about their data while respecting privacy. Face to face interviewing had to be abandoned due to COVID-19, so this technique was sadly never used in practice.
+
+![Figure ARI.X: Private Data Viewing Monitor with Viewing Glasses](./src/figs/figF.1-private-viewing-monitor.jpg){#figure-ARI.x}
+
+Additional 5: GDPR Data Analysis Approach {#ari-gdpr-data-analysis .unnumbered}
 ===========
 
 In this section, the methodology used for the analysis of data from Case Study Two is explained. The content of this appendix is identical to Appendix 3 in the Supplemental Materials of the CHI 2022 paper from this study [@bowyer2022gdpr]. Case Study Two was written first as a paper and then expanded to produce Chapter 5. While the paper was co-written, Chapter 5 was written entirely by Alex Bowyer.
@@ -244,7 +305,21 @@ Format: `NN-pXX-iX-[….]-[company first three letters].txt`
 
 e.g. `01-p01-i3-Cred-Indr.txt` or `02-p01-i3-Genr-Wrap.txt`
 
-Additional: BBC R&D's Cornmarket Project {#ari-4 .unnumbered}
+Additional 6: Best and Worst Companies for GDPR Handling {#ari-bestworst .unnumbered}
+===========
+
+The quality and coverage datapoints described in [5.3.3](#5.3.3) also allowed insights about which service providers were strongest or weakest in each category, and overall, to be drawn. This was done by tallying the 'Yes' responses for each category and overall, then dividing by the number of times that provider was selected, to avoid inflating scores for popular companies. The outcome of this analysis is shown in [Table ARI.1](#table-ARI.1) below. The companies that fared worst overall were those that did not return any data at all in response to a GDPR request (Sainsbury's, Freeprints, Tyne Tunnels, LinkedIn, Huawei, Bumble, LNER). It should be noted that Sainsbury's and Huawei _did_ respond, claiming to hold no data for the requesting participant, though participants found this implausible, which indicates either a problem with compliance, explanation or trust. The other named companies here did not respond at all, despite at least two follow-up emails being sent to them, and despite in some cases having initially acknowledged and promised to satisfy the request.
+
+Companies producing responses with good coverage and good quality included Niantic, Nectar and Sunderland AFC as well as to a lesser extent Natural Cycles, Revolut, Spotify, Tesco and Amazon. Facebook and Google fared well for the breadth of data returned (due in part to their download dashboards), though the quality of Google's data was found lacking across multiple categories. Last.fm (owned by CBS) fared poorly overall due to poor category coverage, despite the limited data that it did return being of high quality.
+
+<a name="table-ARI.1"></a>
+
+![](./src/figs/table11-best-worst-companies.png)
+[PRODUCTION TODO replace table with text]
+
+Table: Table ARI.1 - Best and Worst Data Holders for GDPR, according to Participants' Judgements<sup>a</sup>
+
+Additional 7: BBC R&D's Cornmarket Project {#ari-bbc .unnumbered}
 ===========
 
 I took a three-month sabbatical from my PhD in the summer of 2020. I was remotely embedded within a full-time research internship at **BBC R&D** - the British Broadcasting Corporation (BBC)'s Research and Development (R&D) department [@bbc1997rd], working with specialists, designers, researchers and developers on an exploratory research project codenamed _Cornmarket_. I continued this involvement as a part-time research consultant and critical friend for a further 5 months after the conclusion of the initial three-month placement.
@@ -268,7 +343,7 @@ A number of articles relating to the Cornmarket project have been published:
 - https://www.telegraph.co.uk/business/2022/06/09/bbc-wages-war-online-echo-chambers-unbiased-tech/
 - https://parliamentlive.tv/event/index/7d249bcf-78e9-447b-907c-81df72b87542?in=15:01:35
 
-Additional: Hestia.ai, and Sitra's _digipower_ Project {#ari-5 .unnumbered}
+Additional 8: Hestia.ai, and Sitra's _digipower_ Project {#ari-digipower .unnumbered}
 ===========
 
 Following the conclusion of the funded period of my PhD, I took up a near-full-time position as Project Leader and Personal Data Coach at **Hestia.ai** [@dehaye2019]), a startup based in Geneva, Switzerland. Hestia.ai is a company conducting research, developing technologies, and delivering training, in the emergent MyData/PDE space [[2.3.4](#2.3.4)]. In essence, the company's mission is to help individuals and especially collectives to more easily obtain and understand data held about them, and to help them visualise, aggregate and make use of that data. It is an example of a **data access and understanding services** company as described in [7.4.5](#7.4.5.3).
@@ -282,16 +357,16 @@ I was specifically hired to co-lead the _digipower_ project [@härkönen2022proj
 
 At the time of publication of this thesis (August 2022), I continue to be employed by Hestia.ai, working on the research, design and development of tools to help collectives [[Insight 10](#insight-10)] with data, make data easier to understand [[6.1.2](#6.1.2); [7.2.4](#7.2.4)], and exploring methods to help people 'hack the seams' of digital platforms and services [[7.4.4](#7.4.4)].
 
-Where the [BBC internship](#ari-4) has helped me to understand the practicalities of connecting people with their personal data in pursuit of Life Information Utilisation [[7.2.3](#7.2.3.1)], my work with Hestia.ai has helped me understand the practicalities of how people might acquire greater Personal Data Ecosystem Control [[7.2.3](#7.2.3.1)]. In this sense, both peripheral activities have been highly complementary to developing an overview of the pursuit of HDR in practice.
+Where the [BBC internship](#ari-bbc) has helped me to understand the practicalities of connecting people with their personal data in pursuit of Life Information Utilisation [[7.2.3](#7.2.3.1)], my work with Hestia.ai has helped me understand the practicalities of how people might acquire greater Personal Data Ecosystem Control [[7.2.3](#7.2.3.1)]. In this sense, both peripheral activities have been highly complementary to developing an overview of the pursuit of HDR in practice.
 
-Additional: DERC's Healthy Eating Web Augmentation Project {#ari-6 .unnumbered}
+Additional 9: DERC's Healthy Eating Web Augmentation Project {#ari-derc .unnumbered}
 ===========
 
 As a software developer I have been aware for a long time that one of the biggest challenges in building new data interfaces is to gain programmatic access to the necessary data. As part of the trend towards cloud-based services and data-centric business practices, it has become increasingly difficult to access all of the data held about users by service providers. Application Programming Interfaces (APIs) are a technical means for programmers to access a user's data so that third-party applications may be built using that data. Unfortunately, as a result of commercial incentives to lock users in and keep data trapped [@abiteboul2015; @bowyer2018freedata], much of users' data can no longer be accessed via APIs. While GDPR data portability requests do open up a new option for the use of one's provider-collected data in third-party applications, this is an awkward and time-consuming route for both users and developers. **Web augmentation** provides a third possible technical avenue for obtaining data from online service providers. It relies on the fact that a user's data is loaded to the user's local machine and displayed within their web browser every time a website is used, and therefore it is possible to extract that data from the browser using a browser extension; this as another **seam** that can be hacked - see [7.4.4](#7.4.4) and [Insight 12](#insight-12). Similarly, once loaded into the browser, a provider's webpage can be modified to display additional data or useful human-centric functionality that the provider failed to provide.
 
 In order to better understand what is and is not possible using this technique, I participated part-time from 2018 to 2020 as the sole software engineer in a DERC (Digital Economy Research Centre) project. This project was using the web augmentation technique to explore how researchers could improve the information given to users of Just Eat, a takeaway food ordering platform in the UK. The theoretical basis for this research was published in [@goffe2021; @goffe2022]. While this particular use case does not concern personal data, the technology and techniques being used by the project to exploit the browser seam were considered highly relevant to the exploration of HDR-improving possibilities, and the goals of the research project were also human-centric, and consistent with this thesis's research goals - tackling the hegemony of service providers in order to better serve individual needs.
 
-Additional: Special Attribution Note for Chapter 7 {#ari-7 .unnumbered}
+Additional 10: Special Attribution Note for Chapter 7 {#ari-attribution .unnumbered}
 ===========
 
 This is a note about the attribution of insights within [Chapter 7](#chapter-7), as the ideas originate quite differently than from the rest of the thesis.
@@ -307,26 +382,4 @@ This thesis is my own work. All ideas in Chapter 7 are original. Some of the spe
 
 Due to these collaborations and the ongoing and parallel nature of many of these projects to my PhD research, it is impossible to precisely delineate the origin of each idea or insight. In practice, ideas from my developing thesis and own thinking informed the projects' trajectories and thinking, and vice-versa. These ideas would not have emerged in this form without my participation, so they are not the sole intellectual property of others, but equally I would not have reached the same conclusions alone, so the ideas are not solely my own either. All diagrams and illustrations were produced by me, except where specified, and the overall synthesis and framing presented in this chapter is my own original work. Where this chapter includes material from the four peripheral projects [[7.1.2](#7.1.2)], that material is either already public, or permission has been obtained from the corresponding individuals or project teams.
 
-Additional: The Private Data Viewing Monitor {#ari-8 .unnumbered}
-===========
-
-By removing the filter layer on an old monitor and modifying cinema IMAX glasses, a monitor was created that only allowed viewing by the holder of the viewing glasses, which would be ideal for interviewing someone about their data while respecting privacy. Face to face interviewing had to be abandoned due to COVID-19, so this technique was sadly never used in practice.
-
-![Figure ARI.X: Private Data Viewing Monitor with Viewing Glasses](./src/figs/figF.1-private-viewing-monitor.jpg){#figure-ARI.x}
-
-Additional: Data Protection Terminology and a Legal Definition of Personal Data {#ari-9 .unnumbered}
-====================
-
-From the GDPR [@hoofnagle2019] and its antecedents, a number of concepts have been established which are relevant to this thesis, specifically [@ico2014; @GDPR2016]:
-
-- _Personal data_ is legally defined as any information relating to an identifiable natural person - one who can be identified directly or indirectly by reference to an identifier such as a name, identification number or location or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that person.
-- The _data subject_ is the identified individual, living or deceased, who the personal data relates to.
-- A _data controller_ is the legal entity (company, public authority, agency, individual or other body) which collects or stores personal data about an individual and determines the means and purposes for which it is processed. Liability for data protection compliance rests with the data controller.
-- A _data processor_ is a legal entity (company, public authority, agency, individual or other body) which deals with personal data as instructed by a controller for specific purposes and services offered to the controller that involve personal data processing.
-- _Personal data processing_ refers to any manual or automated handling of digital or analogue data including collection, recording, organisation, structuring, storage, adaptation or alteration, retrieval, consultation, use, disclosure by transmission, dissemination or otherwise making available, alignment or combination, restriction, erasure or destruction.
-- A _Subject access request_ is the right to a copy of your personal data.
-- _Data portability_ is the right to receive a copy of all stored data about you, not just that which you provided, in an accessible and machine-readable format such as a CSV file, so that you can transport it to another service or make use of it.
-
-The terms _Subject Access Request_ and _Data portability_ are used in [Case Study Two](#chapter-5), and referenced also in [Chapter 7](#chapter-7).
-
-For simplicity, this thesis uses everyday layperson-friendly terms rather than the legal terms defined in this section. Data subjects are referred to simply as **individuals** and both data controllers and data processors as **data holders**, because for this thesis, focusing as it does on the individual perspective, there is no need to draw a distinction between data controllers and data processors.
+---

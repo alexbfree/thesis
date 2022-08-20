@@ -45,7 +45,7 @@ Data is not neutral [@gitelman2013; @neff2013]. Collecting data for a specific p
 
 This presents an ideal context to explore [RQ2](#RQ2), specifically the impact of data use upon service relationships. Following preliminary sensitisation research [[4.2](#4.2)], a study was designed to work with both families and support staff involved in Early Help. This study examined individual perspectives per [RQ1](#RQ1) but also looked at the power imbalance and the effectiveness of the support relationship as a whole, in terms of its goal to empower families to build better lives for themselves and get them to a point where they no longer need support. As part of [RQ2](#RQ2), the study also explored possible alternative models for the use of data within Early Help relationships. The study comprised two phases:
 
-  - First in phase 1, to work with families and support workers as two distinct groups, to identify their different needs [[Table 3.1](#table-3.1)],
+  - First in phase 1, to work with families and support workers as two distinct groups, to identify their different needs [[Table 3.1](#table-3.1); [4.2.5](#4.2.5)],
   - then, in phase 2, to work with both groups together in an attempt to address their unified needs through novel approaches to data interaction.
 
 The design and approach of the study is described in more detail in the next section.
@@ -53,67 +53,67 @@ The design and approach of the study is described in more detail in the next sec
 Preliminary Explorations of Family Civic Data: Families' and Support Workers' Perspectives{#4.2}
 -----------------------------------------------------------------------------
 
-the pilot study [[3.4.1](#3.4.1.2); [Appendix A](#appendix-a)]
+The first step in study design was to achieve sensitisation [[3.5.1](#3.5.1)] as a researcher, specifically three ways:
+
+  - to understand what data is stored about families [[4.2.1](#4.2.1)];
+  - to understand the family perspective [[4.2.2](#4.2.2)]; and
+  - to understand the support worker perspective [[4.2.3](#4.3.3)]
 
 ### What is Family Civic Data?{#4.2.1}
 
-As outlined in section [3.5.1](#3.5.1), the first step in designing a study like this is to sensitise oneself as researcher to the study context. In this case, there were three things to familiarise myself with - the type of data being stored, the family perspective on the storage and use of that data, and the support workers' perspective on the same. Importantly, I needed to understand how families and support workers understood and talked about this data, so that I could represent and refer to it in ways that made sense to them. To do this, I collaborated with colleagues in the SILVER project and at local authorities to see anonymised examples of what data was used by TAF/Early Help teams or mentioned by support workers as being of interest. I adopted the term _Family Civic Data_ to refer to these types of data (further detailed in [@bowyer2018family]) and organised these into different groupings and categories to create a taxonomy.  I then created a taxonomic model of these data types, as shown in Table 4.1:
+In order to communicate effectively with participants, an understanding of what data is held in an Early Help context was needed. Through the pilot study [[3.4.1](#3.4.1.2); [Appendix A](#appendix-a)] and grey literature review within CHC's SILVER project [[3.4.1](#3.4.1.1)], a taxonomy of _Family Civic Data_ was established [@bowyer2018family], as shown in Table 4.1:
 
 | <a name="table-4.1">Category</a>  | Type of data | Examples/Details |
 |---------|---------|--------------------------------------|
-|Family|Personal details|Date of birth, address, telephone number.|
+| Family|Personal details|Date of birth, address, telephone number.|
 |      |Relationships|Marital status, exs, step-parents, living arrangements.|
 |      |Children|Parentage, adoption, fostering, childcare.|
-|Education|School Records|Attendance (truancy), special needs.|
+| Education|School Records|Attendance (truancy), special needs.|
 |         |Academic Results|SATs, reports, exam failures, training courses.|
-|Welfare|Social Support|Social worker visits & notes, details of family crises, interventions, allegations.|
+| Welfare|Social Support|Social worker visits & notes, details of family crises, interventions, allegations.|
 |       |Welfare Benefits|Jobseeker's Allowance, child support, Disability Living Allowance, tax credits|
-|Money/Work|Family Finances|Salary, savings, credit cards, spending, debt|
+| Money/Work|Family Finances|Salary, savings, credit cards, spending, debt|
 |          |Employment|Job history, periods of unemployment, performance at work, NI, PAYE, pensions.|
-|Civil|Housing data|Council house provision, eligibility criteria.|
+| Civil|Housing data|Council house provision, eligibility criteria.|
 |     |Legal documents|Birth / marriage / death certificates, citizenship /immigration status, work permits.|
-|Crime|Criminal records|Arrests, cautions, offenders' registers, prison time, speeding tickets, spent convictions.|
-|     |Court orders|Restraining orders, lawsuits, custody, ASBOs.|
+| Crime|Criminal records|Arrests, cautions, offenders' registers, prison time, speeding tickets, spent convictions. |
+|     | Court orders| Restraining orders, lawsuits, custody, ASBOs. |
 |     |Domestic Violence|Allegations made, medical records, social / legal interventions, victim support.|
-|Medical|GP records|GP's notes, prescriptions, tests, referrals.|
-|       |Hospital records|Operations, hospital stays, emergency care.|
-|       |Medical conditions|Diagnoses, diseases, allergies, blood type.|
-|       |Mental health|PTSD, breakdowns, depression, sectioning.|
-|       |Addictions|Substance abuse, gambling, rehab, crime.|
-|Leisure[^6]|Library Usage|Books/CDs borrowed, computer access.|
+| Medical|GP records|GP's notes, prescriptions, tests, referrals.|
+|       | Hospital records|Operations, hospital stays, emergency care.|
+|       | Medical conditions|Diagnoses, diseases, allergies, blood type.|
+|       | Mental health|PTSD, breakdowns, depression, sectioning. |
+|       | Addictions| Substance abuse, gambling, rehab, crime. |
+| Leisure[^6]|Library Usage|Books/CDs borrowed, computer access.|
 |       |Sports & Health|Gym usage, class attendance.|
 |       |Shopping Habits|Loyalty cards, store & online purchases.|
 |       |Transport Data|Buses used, ANPR tracking, walking patterns.|
 
 Table: Table 4.1 - Example Categories of Family Civic Data.
 
-[^6]: Some leisure categories (namely Shopping and Transport) were included that are not strictly civic data, as these are useful for exploring issues of ethics and helping participants to have a reference point when discussing the "big data" benefits of data linking.
+[^6]: Some leisure categories (namely Shopping and Transport) were included that are not strictly civic data, as these would be useful for exploring issues around ethics. These also provided a reference point for participants to better consider the 'big data' benefits of data linking.
 
-Early research recruitment attempts revealed that data is seen as an abstract concept in people's daily lives; a dry, technical topic that many families feel unqualified to talk about. We needed to make these data concepts relatable. Drawing on the work of Brandt and Messeter [@brandt2004] in creating _design games_, which observes that game pieces can be used to create common ground and as _"things-to-think-with"_ [@brandt2004; @papert1980], I created a set of data cards (shown in [Figure 3.6](#figure-3.6) in the previous chapter), that would serve as a visual and tangible representation of Family Civic Data. By using these as boundary objects [@bowker2016; @star2010] the aim was to bring researcher and participants' worlds closer together and to approach the concepts of data by directly starting with individual life experiences. A Data Card was created for each category in [Table 4.1](#table-4.1), including a summary and meaningful examples, so that the cards would be easy to digest, yet still contain sufficient detail to stimulate thinking. Keeping child-friendliness in mind, bright colours were a key element of the design. The cards were printed on high-quality, thick card with a glossy finish using a business card printing service to make them appealing and fun.
+Early recruitment attempts revealed that data is seen as an abstract concept in people's daily lives—a dry, technical topic that many families felt unqualified to talk about. The concepts needed to be made relatable. Drawing on the work of Brandt and Messeter [@brandt2004] in creating _design games_ (which observes that game pieces can be used to create common ground and as _'things to think with'_ [@brandt2004; @papert1980], a set of _data cards_ [[Figure 3.6](#figure-3.6)] were created. These cards made family civic data categories visual and tangible. Serving as _boundary objects_ [@bowker2016; @star2010] the cards aimed to bring researcher and participants' worlds closer together, and to make data relatable to life experience. The design approach for the data cards is documented in [[Appendix A](#appendix-a); @bowyer2018family].
 
-These cards were then used as research stimuli [[3.5.2](#3.5.2)] within a preliminary study in which I met with four families in their homes[^7] and conducted a variety of participatory design activities and design games in order to explore family attitudes to family civic data. This study has been published at CHI [@bowyer2018family] where its full findings are detailed, and these findings serve as researcher sensitisation to inform the main Case Study One. We found that once families had understood data as "stored information about their lives" they were able to very effectively engage and talk about it. The use of the games and the cards was very successful, keeping a light and playful environment and making the topic relatable. The topics on the cards served as a focal point that allowed families to talk freely about their own lives and views without feeling personally interrogated, as they were dissociated from the participants' lives.
-
-[^7]: The first of these interviews was a 'trial run' with a couple selected by convenience sample, and conducted in a University meeting room not their home at the participants' request.
+The cards were used as research stimuli [[3.5.2](#3.5.2)] within the pilot study, which involved participatory design activities and design games in family homes. Once families understood data as 'stored information about their lives' they were able to very effectively engage and talk about it. The use of the games and the cards was very successful, keeping a light and playful environment and making the topic relatable. The cards enabled families to talk freely about their own lives and views without feeling personally interrogated, as they were dissociated from the participants' lives.
 
 ### What is the Family Perspective on Their Civic Data and its Use?{#4.2.2}
 
-The families we spoke to did care very much about what happened to their civic data, contrary to the expectations of some of our peers, and perceived a variety of risks due to data mishandling including identity fraud, criminal targeting and psychological harm. Families felt that data could easily misrepresent them through errors, prolonged storage of data beyond its need, or the recording of unfair judgements and opinions. Families wanted to view the data stored about them. They wanted a set of basic rights - to be informed, involved and accurately represented, with the ability to see, explain and correct their data to ensure it is fair and accurate. They wanted to know that their data will be handled sensitively and only by those that need to know, and they believe that having these capabilities would help them to be able to work together with representatives of the state in a more positive relationship.
+Families participating in the pilot study and in SILVER's early research cared very much about what happened to their civic data, contrary to peers' expectations. They perceived a variety of risks due to data mishandling including identity fraud, criminal targeting and psychological harm. Families felt that data could easily misrepresent them through errors, prolonged storage of data beyond its need, or the recording of unfair judgements and opinions. Families wanted to view the data stored about them. They wanted a set of basic rights—to be informed, involved and accurately represented, with the ability to see, explain and correct their data to ensure it is fair and accurate. They wanted to know that their data will be handled sensitively and only by those that need to know. They believe that having such capabilities would help them to be able to work together with representatives of the state in a more positive relationship. Another key finding of the pilot study was that family civic data is used as a _proxy for family involvement in decision making_. Families are cut out of the loop, and should be given opportunity to have a relationship with their data and to have agency in the stewardship of their data [@bowyer2018family].
 
-As well as the need for families to be given such rights, other implications we were able to draw from these findings were that family civic data is currently used as a proxy for them in decision making, which cuts families out of the loop, and that families should be given the opportunity to have a relationship with their data and also the opportunity to co-operate and have agency in the stewardship of their data. Further findings and insights are published in [@bowyer2018family].
-
-Through my embedded involvement with the SILVER project [[3.4.1](#3.4.1.1)] I was able to complement my understanding of the family perspective on civic data use in Early Help, but also was able to acquire an understanding and sensitisation to the staff/local authority perspective on that same data use. SILVER conducted qualitative interviews with supported families, and the findings from these reinforced this need for greater inclusion of families in data handling, having identified that while families were willing to consent to their information being shared in order to improve their care, they had very little understanding of how it was used and could not be deemed to have given informed consent to the way their data is currently used.
+The SILVER project [[3.4.1](#3.4.1.1)] conducted qualitative interviews with _Early Help_-supported families, and unpublished findings from these interviews reinforced the need for greater inclusion of families in data handling. Participating families identified that while there was a willingness to consent to information being shared in order to improve their care, they had very little understanding of how it was used and could not be deemed to have given informed consent to the way their data is currently used.
 
 ### What is the Staff Perspective on Family Civic Data and its Use?{#4.2.3}
 
-SILVER conducted a series of "Amy's Page" [@wilson2020] focus groups/workshops with support workers and other local authority representatives, through which I learned that staff had a desire for greater access to health information, particularly mental health indicators. These staff revealed a desire to gather as much data as possible about the families they were working with. The workers viewed the collection of data as a useful raw material that enabled them to do their job better.
+SILVER worked closely with local authority staff, providing an understanding of support worker and staff perspectives. SILVER conducted a series of 'Amy's Page' [@wilson2020] focus groups/workshops with support workers and other local authority representatives, where staff mapped out information needs. They desired greater access to health information, particularly mental health indicators. The participants revealed a desire to gather as much data as possible about the families they were working with. It was viewed as a useful raw material that enabled them to do their job better.
 
-Collectively the findings from my own research and from SILVER showed a conflict between the desires from families and support worker. Families wanted more involvement and less reduction to data but support workers wanting to amass more and better data. In part due to its solutionist [@morozov2013] framing, the SILVER project gave priority to the support worker perspective as its requirements and continued to pursue the building of a richer data interface for support workers. This was the point at which my research objectives and those of the SILVER project diverged, as I was not ready to 'take sides' nor to pursue a purely data-centric solution; I wanted to explore whether it might be possible to satisfy the needs of both parties and to maintain focus on human-centricity and the need for a balanced relationship.
+Collectively, findings from the pilot study and from SILVER showed a conflict between the desires from families and support workers. Families wanted more involvement and less reduction to data. Support workers wanted to amass more and better data. In part due to its funding and solutionist [@morozov2013] framing, the SILVER project gave priority to the support worker perspective as key requirements. It continued to pursue the building of a richer data interface for support workers. At this point, my research objectives and those of the SILVER project diverged. I was not ready to 'take sides' nor to pursue a purely data-centric solution. I wanted to explore whether it might be possible to satisfy the needs of both parties and to maintain focus on human-centricity and the need for a balanced relationship.
 
-### Seeking an Equitable and Mutually Beneficial Data Use Model: Shared Data Interaction{#4.2.4}
+### Shared Data Interaction: An Equitable and Mutually Beneficial Data Use Model{#4.2.4}
 
-In searching for an approach to civic data use in Early Help that might help both families and support workers that could meet both parties' needs while also addressing our research focus of increased data interaction within Early Help, I began to explore the idea of shared data interaction; instead of the support worker being the gatekeeper controlling and limiting the family's access to data, and accessing data 'behind the scenes' at their offices, what if data could be looked at, examined, and updated together, during the face-to-face encounters between families and their support workers? This could potentially bring all the benefits of human-data interaction (increased agency, negotiability and legibility) [@mortier2014] to families (and also to workers), while also serving as a boundary object that might improve the relationship itself [@bowker2016]. In theory, it would allow families to gain some access to currently inaccessible data while also making it easier for support workers to 'fill in the gaps' in the data they already have by simply asking questions.
+In attempting to reconcile the conflicting desires of families and support workers, **Shared Data Interaction** was conceived. What if, instead of workers gatekeeping data access and using it by themselves, data could be looked at, examined, and updated together, during the face-to-face encounters between families and their support workers? This could potentially bring the benefits of HDI (increased agency, negotiability and legibility) [@mortier2014] to families (and also to workers), while also serving as a boundary object that might improve the relationship itself [@bowker2016]. I theorised that this would allow families to access unseen data while also enabling support workers to 'fill the gaps' in the data by simply asking questions.
 
-This concept emerged in part from the participants in the first phase (see below) of the research engagement, and became a main focus for the second phase, so that we would not only be exploring RQ1 and especially RQ2 in the context of current practice, but also be asking participants to imagine a different set of practices that might potentially serve their needs better. In doing so, we would be able assess whether the imagined model of shared data interaction might address both groups' needs and whether or not it would be perceived to benefit the early help support relationship as a whole. Regardless of whether this particular model was a preferred solution, such an exploration would be helpful as it would put participants in a speculative, co-design mindset that would elicit deeper insights about how civic data *should* be used, not just expressing opinions on how it was used currently.
+This concept emerged in part from phase 1 participants of the research engagement, and became a main focus for the second phase. In this regard, the workshops would not only explore current practice, but also motivate participants to imagine new practices that could serve their needs better. This would allow a preliminary assessment of shared data interaction—whether it might address both groups' needs and whether it would be perceived to benefit the support relationship. Even if the model was not well-regarded, such an exploration would still help to put participants in a speculative, co-design mindset that could elicit deeper insights about how civic data _should_ be used.
 
 ### The Workshops{#4.2.5}
 
@@ -126,26 +126,31 @@ This concept emerged in part from the participants in the first phase (see below
 
 Table: Table 4.2 - Case Study One Group Design Workshops.
 
-During the summer of 2018, we conducted four two-hour co-design workshops, with two phases, as detailed in [Table 4.2](#table-4.2). In phase 1, the initial objective was reconfirm the findings of early work and gain a deeper understanding of both parties' (families and staff) perspectives on data within the support relationship, by working with each group separately. A further objective was to learn about existing data practices and whether they work, or need improving (and where they do, to identify what the issues were). In phase 2, the objective was to work collectively with representatives from both groups to design imagined data practices and interactions for the shared data interaction model and to understand how *in practice* staff and families would imagine themselves using data together in the support relationship. Across both phases, a variety of participatory methods were used to explore these topics [[3.5.2](#3.5.2); [3.5.3](#3.5.3)]. All workshops were audio recorded and transcribed. These transcripts were then analysed thematically, and in some cases quantitatively, as described in section [3.5.5](#3.5.5). Refer to section [4.3](#4.3) below for the major themes discovered.
+During summer 2018, four 2-hour co-design workshops were carried out, with two phases as detailed in [Table 4.2](#table-4.2). Phase 1 served to revalidate earlier findings of early work and elicit participant perspectives on data within the support relationship, working with each group separately. A further objective was to understand existing data practices and whether they work, or need improving, and to identify known issues.
+
+In Phase 2 the two groups would collaborate to design imagined data practices and interactions for the shared data interaction model. The objective was to understand how _in practice_ staff and families could imagine themselves using data together.
+
+Across both phases, various participatory methods were used [[3.5.2](#3.5.2); [3.5.3](#3.5.3)]. Workshops were audio recorded and transcribed. Transcripts were analysed thematically, and in some cases quantitatively [[3.5.5](#3.5.5)]. Thematic findings are documented in [4.3](#4.3).
 
 ### Sensitising Participants and Discovering Shared Values{#4.2.6}
 
-Prior to the main exploratory activities, it was important to ensure that all participants arrived at a common understanding which they would use to approach their 'design brief'. Also, there was a need to validate whether prior findings about the perspectives of staff and families held true for these participants too. To address both of these goals, a sensitisation [[3.5.1](#3.5.1)] and data-gathering activity called 'Sentence Ranking' was conducted, where participants were asked to consider a number of 'opinion statements' and rank them according to (a) whether they agreed, disagreed or were neutral on that statement and (b) whether or not they felt that statement was important. These statements, such as _'Families should always be able to talk to someone about their data'_ (more examples in [Figure 4.1](#figure-4.1) below and the complete list of sentences are included in [TODO INSERT REF TO APPENDIX SECTION HERE]) were collated from family and staff perspectives observed during the above preliminary study, from the SILVER projects own research findings, and from my own observations through interacting with local authorities as part of my embedded role within the SILVER project. In discussing and reaching consensus on these opinions, families and staff would be in effect 'agreeing requirements' that could inform their thinking during design activities. By conducting this same activity across all participant groups and across both phases, this would also allow comparison between the different groups to identify differences and find shared values.
+In all workshops, it was important to ensure participants arrived at a common understanding of their 'design brief'. To achieve this, and to validate if these participants' perspectives matched those observed previously, an activity called **Sentence Ranking** was conducted. Participants considered a number of opinionated statements and ranked them according to:
 
-Within each workshop, groups of participants sat at tables of 4 to 6 people, and each table provided its own sentence rankings. This produced numerical ranking data which was analysed as follows:
+- (a) whether they agreed, disagreed or were neutral on that statement, and
+- (b) whether or not they felt that statement was important.
 
-1.	Sentence rankings were encoded on two scales. Sentences which contained a negative statement were inverted so that disagreement with them could be considered as agreement with a positive statement.
-    a.	_Agreement_: neutral (0) -> agree (+1.0)
-    b.	_Importance_: not important (0.0) -> important (+1.0)
-2.	Rankings from different groups within workshops were aggregated, using mean averaging, with a weighting to ensure each workshop contributes equally regardless of attendance.
-3.	This gave four values for each sentence, for each participant group (families only, staff only, and combined). _Variance_ can be understood as 'unanimity of opinion': i.e. variance 0.0 indicates total agreement and 1.0 would indicate disagreement.
-    a.	_Mean agreement_
-    b.	_Variance of agreement_
-    c.	_Mean importance_
-    d.	_Variance of importance_.
-4.	Prioritising variance in agreement over variance of importance, the four dimensions were reduced to three to allow a visualisation to be produced.
+An example statement is:
 
-The visualisation of these findings on shared values is shown in [Figure 4.1](#figure-4.1). As the figure shows, there was universal agreement that:
+> _'Families should always be able to talk to someone about their data'_
+
+The complete list of sentences is in [Additional 2](#ari-sentences). These sentences were collated from family and staff perspectives observed during the pilot study, in SILVER's research engagements, and from researcher observations during embedded work with SILVER [[3.4.1](#3.4.1.1)].
+
+Through discussing and reaching consensus on these opinions, families and staff would be in effect 'agreeing requirements' that could inform their thinking during design activities. By conducting this same activity across all participant groups and across both phases, this would also allow comparison between the different groups, to identify differences and find shared values.
+Within each workshop, groups of participants sat at tables of 4 to 6 people, and each table provided its own sentence rankings.
+
+The resultant rankings were analysed as described in [Additional 2](#ari-sentences). The visualisation of these findings on shared values is shown in [Figure 4.1](#figure-4.1).
+
+As the figure shows, there was universal consensus that:
 
 - families should be able discuss their data with someone from the authorities,
 - public sector officials cannot make good judgements solely by looking at families' data,
@@ -155,20 +160,20 @@ The visualisation of these findings on shared values is shown in [Figure 4.1](#f
 - families must have rights to see it and how it is used, and
 - support workers really need to know mental health details of family members.
 
-Participants felt it important to address that current consent practices were inadequate. There was also strong agreement that families did not want to be responsible for looking after their own data, though this was felt to be an unimportant matter.
+Participants felt it important to address that current consent practices were inadequate. There was also strong consensus that families did not want to be responsible for looking after their own data, though this was felt to be an unimportant matter.
 
-Participants showed considerable contention over whether or not support workers should be able to access historical family records (discussed further in [4.3.3](#4.3.3.1), about how families would feel about the collection of data about them and about having responsibility to managing access to it. Most other sentences received moderate agreement.
+Participants showed considerable contention over whether or not support workers should be able to access historical family records [[4.3.3](#4.3.3.1)], about how families would feel about the collection of data about them and about having responsibility to managing access to it. There was moderate consensus over most other sentences.
 
 ![Figure 4.1 - Participants' Shared Values Deduced from Sentence Rankings Data](./src/figs/fig4.1-sentence-ranking-results.png)
 
-Having completed the sentence ranking sensitisation activity, participants went on carry out the other co-design activities as detailed in [Table 4.2](#table-4.2). Findings from the analysis of these activities' transcripts is presented in the next section.
+After this exercise, participants were considered sensitised and went on to carry out the other co-design activities [[Table 4.2](#table-4.2)]. Transcripts of these activities were analysed to produce thematic findings, which are detailed in the next section.
 
 Thematic Findings{#4.3}
 -----------------
 
-The transcribed corpus from audio recordings of workshops A, B and C (approximately 120,000 words) was divided by activity, group, and family or staff focus into 85 different source texts. Each text was thematically coded and the coded texts were analysed through four cycles of analysis using the Miles and Huberman approach [@huberman2002]. During this reductive process, participant creations, activity outputs and ranking data were referenced to add additional context to the interpretation. In this section, the qualitative findings from the thematic analysis of transcripts of workshops A, B and C are presented. In [4.3.1](#4.3.1) the three main themes and subthemes are introduced, then each theme is further detailed in sections [4.3.2](#4.3.2) to [4.3.4](#4.3.4), including participant quotes[^8].
+The transcribed corpus from audio recordings of workshops A, B and C (approximately 120,000 words) was divided by activity, group, and family or staff focus into 85 different source texts. Each text was thematically coded and the coded texts were analysed through four cycles of analysis using the Miles and Huberman approach [@huberman2002]. During this reductive process, participant creations, activity outputs and ranking data were referenced to add additional context to the interpretation. In this section, the qualitative findings from the thematic analysis of transcripts of workshops A, B and C are presented. In [4.3.1](#4.3.1) the three main themes and subthemes are introduced, then each theme is further detailed in sections [4.3.2](#4.3.2) to [4.3.4](#4.3.4), including participant quotes[^7].
 
-[^8]: The notation used for the quote references is as follows:
+[^7]: The notation used for the quote references is as follows:
 
     - FQnn = Family Quote - a quote from the families-only workshop (A)
     - SQnn = Staff Quote - a quote from a staff-only workshop (B)
@@ -179,9 +184,9 @@ The transcribed corpus from audio recordings of workshops A, B and C (approximat
 
 ### Themes & Subthemes{#4.3.1}
 
-Given that our conversations with participants were framed as explorations of data use within the early help relationship, our findings are expressed as desirable best practices, some of which involved the proposed model of shared data interaction, within three core areas that participants see as beneficial to the early help relationship and ultimately to the family being supported: **Meaningful Data Interaction** (Theme 1), **Giving a Voice to the Family** (Theme 2), and **Earning Trust through Transparency** (Theme 3). From explicit and implicit statements from participants, contextual clues, and accumulated knowledge from being embedded in this context, we were able to judge whether the discussed best practices were commonly in use (_"current"_), happening occasionally/partially (_"emergent"_) or not yet occurring at all (_"imagined"_)[^9]. Tables 5, 6 and 7 shows the subthemes within these themes, along with illustrative participant quotes, and indicates the current, emergent or imagined status for each subtheme. Structuring the themes in this way facilitates the functioning of these findings as constructive, actionable input for Early Help (or other social care) system and process designers.
+Given that our conversations with participants were framed as explorations of data use within the early help relationship, our findings are expressed as desirable best practices, some of which involved the proposed model of shared data interaction, within three core areas that participants see as beneficial to the early help relationship and ultimately to the family being supported: **Meaningful Data Interaction** (Theme 1), **Giving a Voice to the Family** (Theme 2), and **Earning Trust through Transparency** (Theme 3). From explicit and implicit statements from participants, contextual clues, and accumulated knowledge from being embedded in this context, we were able to judge whether the discussed best practices were commonly in use (_"current"_), happening occasionally/partially (_"emergent"_) or not yet occurring at all (_"imagined"_)[^8]. Tables 5, 6 and 7 shows the subthemes within these themes, along with illustrative participant quotes, and indicates the current, emergent or imagined status for each subtheme. Structuring the themes in this way facilitates the functioning of these findings as constructive, actionable input for Early Help (or other social care) system and process designers.
 
-[^9]: As judged at the time of the workshops - summer 2018.
+[^8]: As judged at the time of the workshops - summer 2018.
 
 | <a name="table-4.3"></a>Subtheme | Description & Quote | Status |
 |:--------|:-------------------------------------------|:------:|
