@@ -120,6 +120,41 @@ Quotations included in section [4.3](#4.3) are references using the following no
 
 The number after FQ/CQ/SQ provides a unique identifier for each quote, which can be used to look up the referenced quote in [TODO INSERT REF TO APPENDIX SECTION HERE]. Individual speakers are identified only by their role. Within each quote, or in brackets afterwards, the speakers are identified as _Worker_, _Parent_, _Child_, or _Researcher_.
 
+Additional 5: Family Civic Data Categories
+==========================================
+
+The table below illustrates the types of _family civic data_ identified in the pilot study [[3.4.1](#3.4.1.2); @bowyer2018family; [Appendix A](#appendix-A)], and referenced in Case Study One [[4.2.1](#4.2.1)].
+
+| <a name="table-ARI.1">Category</a>  | Type of data | Examples/Details |
+|---------|---------|--------------------------------------|
+| Family|Personal details|Date of birth, address, telephone number.|
+|      |Relationships|Marital status, exs, step-parents, living arrangements.|
+|      |Children|Parentage, adoption, fostering, childcare.|
+| Education|School Records|Attendance (truancy), special needs.|
+|         |Academic Results|SATs, reports, exam failures, training courses.|
+| Welfare|Social Support|Social worker visits & notes, details of family crises, interventions, allegations.|
+|       |Welfare Benefits|Jobseeker's Allowance, child support, Disability Living Allowance, tax credits|
+| Money/Work|Family Finances|Salary, savings, credit cards, spending, debt|
+|          |Employment|Job history, periods of unemployment, performance at work, NI, PAYE, pensions.|
+| Civil|Housing data|Council house provision, eligibility criteria.|
+|     |Legal documents|Birth / marriage / death certificates, citizenship /immigration status, work permits.|
+| Crime|Criminal records|Arrests, cautions, offenders' registers, prison time, speeding tickets, spent convictions. |
+|     | Court orders| Restraining orders, lawsuits, custody, ASBOs. |
+|     |Domestic Violence|Allegations made, medical records, social / legal interventions, victim support.|
+| Medical|GP records|GP's notes, prescriptions, tests, referrals.|
+|       | Hospital records|Operations, hospital stays, emergency care.|
+|       | Medical conditions|Diagnoses, diseases, allergies, blood type.|
+|       | Mental health|PTSD, breakdowns, depression, sectioning. |
+|       | Addictions| Substance abuse, gambling, rehab, crime. |
+| Leisure[^6]|Library Usage|Books/CDs borrowed, computer access.|
+|       |Sports & Health|Gym usage, class attendance.|
+|       |Shopping Habits|Loyalty cards, store & online purchases.|
+|       |Transport Data|Buses used, ANPR tracking, walking patterns.|
+
+Table: Table ARI.1 - Example Categories of Family Civic Data.
+
+[^6]: Some leisure categories (namely Shopping and Transport) were included that are not strictly civic data, as these would be useful for exploring issues around ethics. These also provided a reference point for participants to better consider the 'big data' benefits of data linking.
+
 Additional 5: The Private Data Viewing Monitor {#ari-monitor .unnumbered}
 ===========
 
@@ -322,16 +357,16 @@ e.g. `01-p01-i3-Cred-Indr.txt` or `02-p01-i3-Genr-Wrap.txt`
 Additional 7: Best and Worst Companies for GDPR Handling {#ari-bestworst .unnumbered}
 ===========
 
-The quality and coverage datapoints described in [5.3.3](#5.3.3) also allowed insights about which service providers were strongest or weakest in each category, and overall, to be drawn. This was done by tallying the 'Yes' responses for each category and overall, then dividing by the number of times that provider was selected, to avoid inflating scores for popular companies. The outcome of this analysis is shown in [Table ARI.1](#table-ARI.1) below. The companies that fared worst overall were those that did not return any data at all in response to a GDPR request (Sainsbury's, Freeprints, Tyne Tunnels, LinkedIn, Huawei, Bumble, LNER). It should be noted that Sainsbury's and Huawei _did_ respond, claiming to hold no data for the requesting participant, though participants found this implausible, which indicates either a problem with compliance, explanation or trust. The other named companies here did not respond at all, despite at least two follow-up emails being sent to them, and despite in some cases having initially acknowledged and promised to satisfy the request.
+The quality and coverage datapoints described in [5.3.3](#5.3.3) also allowed insights about which service providers were strongest or weakest in each category, and overall, to be drawn. This was done by tallying the 'Yes' responses for each category and overall, then dividing by the number of times that provider was selected, to avoid inflating scores for popular companies. The outcome of this analysis is shown in [Table ARI.2](#table-ARI.2) below. The companies that fared worst overall were those that did not return any data at all in response to a GDPR request (Sainsbury's, Freeprints, Tyne Tunnels, LinkedIn, Huawei, Bumble, LNER). It should be noted that Sainsbury's and Huawei _did_ respond, claiming to hold no data for the requesting participant, though participants found this implausible, which indicates either a problem with compliance, explanation or trust. The other named companies here did not respond at all, despite at least two follow-up emails being sent to them, and despite in some cases having initially acknowledged and promised to satisfy the request.
 
 Companies producing responses with good coverage and good quality included Niantic, Nectar and Sunderland AFC as well as to a lesser extent Natural Cycles, Revolut, Spotify, Tesco and Amazon. Facebook and Google fared well for the breadth of data returned (due in part to their download dashboards), though the quality of Google's data was found lacking across multiple categories. Last.fm (owned by CBS) fared poorly overall due to poor category coverage, despite the limited data that it did return being of high quality.
 
-<a name="table-ARI.1"></a>
+<a name="table-ARI.2"></a>
 
 ![](./src/figs/table11-best-worst-companies.png)
 [PRODUCTION TODO replace table with text]
 
-Table: Table ARI.1 - Best and Worst Data Holders for GDPR, according to Participants' Judgements<sup>a</sup>
+Table: Table ARI.2 - Best and Worst Data Holders for GDPR, according to Participants' Judgements<sup>a</sup>
 
 Additional 8: BBC R&D's Cornmarket Project {#ari-bbc .unnumbered}
 ===========

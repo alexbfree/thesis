@@ -60,15 +60,13 @@ Lists of Tables by Chapter {.unnumbered .unlisted}
 
 ### Tables in Chapter 4 {.unnumbered}
 
-[Table 4.1](#table-4.1) - Example Categories of Family Civic Data
+[Table 4.1](#table-4.1) - Case Study One Group Design Workshops
 
-[Table 4.2](#table-4.2) - Case Study One Group Design Workshops
+[Table 4.2](#table-4.2) - Theme 1 - Meaningful Data Interaction for Families: Subthemes & Participant Quotes
 
-[Table 4.3](#table-4.3) - Theme 1 - Meaningful Data Interaction for Families: Subthemes & Participant Quotes
+[Table 4.3](#table-4.3) - Theme 2 - Giving a Voice to the Family: Subthemes & Participant Quotes
 
-[Table 4.4](#table-4.4) - Theme 2 - Giving a Voice to the Family: Subthemes & Participant Quotes
-
-[Table 4.5](#table-4.5) - Theme 3 - Earning Families' Trust Through Transparency: Subthemes & Participant Quotes
+[Table 4.4](#table-4.4) - Theme 3 - Earning Families' Trust Through Transparency: Subthemes & Participant Quotes
 
 ### Tables in Chapter 5 {.unnumbered}
 
@@ -92,7 +90,9 @@ Lists of Tables by Chapter {.unnumbered .unlisted}
 
 ### Tables in 'Additional Reference Information' {.unnumbered}
 
-[Table ARI.1](#table-ARI.1) - Best and Worst Data Holders for GDPR, according to Participants' Judgements
+[Table ARI.1](#table-ARI.1) - Example Categories of Family Civic Data
+
+[Table ARI.2](#table-ARI.2) - Best and Worst Data Holders for GDPR, according to Participants' Judgements
 
 Lists of Figures by Chapter {.unnumbered .unlisted}
 ---------------------------
