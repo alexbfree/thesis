@@ -84,7 +84,9 @@ This section serves as both a glossary to explain abbreviations and existing ter
 * **Data Relations, Direct** - [ADD SECTIONREF]
 * **Data Relations, Indirect** - [ADD SECTIONREF]
 * **Digital Self Curation** - [ADD SECTIONREF]
+* **Ecosystem Detection** - [ADD SECTIONREF]
 * **Ecosystem Information** - [ADD SECTIONREF]
+* **Ecosystem Information Display** - [ADD SECTIONREF]
 * **Ecosystem Negotiability** - [ADD SECTIONREF]
 * **Empowerment (in the context of data wants)** - [6.3](#6.3)
 * **Family Design Games** - [ADD SECTIONREF]
