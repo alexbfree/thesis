@@ -27,7 +27,7 @@ I would like to thank, in reverse chronological order, my supervisors and all th
   - Madeline Balaam, for inspiration on participatory methods right at the start, and for helping me develop a paper writing style;
   - Rachel Pattinson, for being the best CDT manager a postgraduate could hope for;
   - Alex, Fion, Glau, James, Sara, Paul, Nicola and all the other admin staff, for countless random assists;
-  - Rob Comber, Simon Bowen, Matt Wood and all the other lecturers who taught me valuable Digital Civics and research skills during the MRes, that helped shape me into the researcher I am.
+  - Rob Comber, Simon Bowen, Matt Wood and all the other lecturers who taught me valuable _Digital Civics_ and research skills during the MRes, that helped shape me into the researcher I am.
 
 I have been fortunate to take this journey with dozens of other researchers. I would like to especially thank:
 
@@ -37,7 +37,7 @@ I have been fortunate to take this journey with dozens of other researchers. I w
 
 I would also like to thank, in no particular order:
 
-  - Rebecca Nicholson, Sean Peacock, Jen Manuel, Rosie Bellini, Megan Venn-Wycherley, Kieran Cutting, James Hodge, Hazel Dixon, Seb Prost, Sara Armouch and all the other Digital Civics PhDs whose company and mutual support I enjoyed during dozens of writing sessions and discussions;
+  - Rebecca Nicholson, Sean Peacock, Jen Manuel, Rosie Bellini, Megan Venn-Wycherley, Kieran Cutting, James Hodge, Hazel Dixon, Seb Prost, Sara Armouch and all the other _Digital Civics_ PhDs whose company and mutual support I enjoyed during dozens of writing sessions and discussions;
   - (Matt) Marshall, for sharing his powerful script framework for markdown-based thesis writing and document generation [@marshall2020], and supporting me in adapting it; this made thesis development so much easier.
   - Louis Goffe, Debbie Smart, Kat Jackson, Liam Spencer, Ruth McGovern and Kyle Montague for giving their time to help run workshops with participants in Case Study One;
   - Paul-Olivier Dehaye, Mike Martin, Soheil Human, Jasmine Cox, Peter Wells, Ian Forrester, Rhianne Jones, Tim Broom, Suzanne Clarke, Hannes Ricklefs, Max Leonard, Chris Gameson, Iain Henderson, Dalia Al-Shahrabi, Sarah Knowles, and Michael Jelly, all of whom I have had the pleasure to work with, ruminate with or learn from;
