@@ -213,9 +213,33 @@ To overcome these obstacles, data must be freed from its current constraints and
 
 | **INSIGHT 3: Data Must Be Transformed into a Versatile Material** |{#insight-3}
 |:-------------------------------------------------|
-| Looking at the specific individual goals Case Study Two participants had with personal data [[Table 5.4](#table-5.4)] (e.g. reflection, pattern-finding, goal-tracking, and creative use) - and also at the many mechanisms that innovators in the PIM space have identified [[2.2.2](#2.2.2)] (e.g. associative exploration, spatial arrangement, embodied interaction for different contexts), what we can infer is that somehow, unified data must be **transformed into a versatile material**. To truly empower users to make use of their data, we need to move to a model where data - represented as facts (or assertions) about their life – can be created, deleted, moved, grouped, annotated, copied, shared, modified, labelled, organised, separated or otherwise manipulated. This idea of data being a material is new for everyone but data scientists: it is new not just to end users but for designers too. Eva Deckers, in her work on _data-enabled design_, an approach to design which also calls for data to become a material, notes that designers (and we could expand this to laypeople too) _"are in general not trained and prepared to work with data. They're not equipped with the right tools, data manipulation is not part of the schools' curriculum and designers [people] are rarely interested in understanding data"_ [@deckers2018]. Her work with colleagues on the 'connected baby bottle' illustrated how such an approach can create a space for the iterative user-centred development of new capabilities [@bogers2016]. Based on this thesis's theorisation of human data relations, the best candidate for what this material should *be* is the two information concepts we have identified - life information and ecosystem information. So the goal of data useability calls for the creation of **systems that enable human information to be treated as a material**.|
+| In Case Study Two [see [Table 5.4](#table-5.4) and the additional detail in the Supplemental Materials of @bowyer2022gdpr], participants expressed diverse goals for personal data, including reflection, pattern-finding, goal-tracking, and creative use. In the PIM space [[2.2.2](#2.2.2)] relevant innovations include associative exploration, spatial arrangement, and embodied interaction for different contexts) Drawing on all of these, allows me to infer that unified data must be transformed into a **versatile material**. Individuals need to be able to use data—represented as facts or assertions about one's life by performing manipulations such as: |
 
-So, for data to be useable, we must change its nature. We have been trained by the computers that have existed up to now that the basic units for interacting with computer systems are files - these are the material of today's personal computers. Where we do interact with data as information instead of files, that information is typically presented in limited contexts within certain products or apps. In line with the goal to move up the DIKW pyramid [[2.1](#2.1)], we need smarter computer systems, that move beyond files [@bowyer2011filesdie] - systems whose basic units of interaction are pieces of human information. **We need a human information operating system**.
+  - creating,
+  - deleting,
+  - moving,
+  - grouping,
+  - annotating,
+  - copying,
+  - sharing,
+  - modifying,
+  - labelling,
+  - organising, and
+  - separating.
+
+| (continues…)|
+|:--|
+| Data as material will be new to most except data scientists. This is novel not just for end users but for designers too. Eva Deckers, in her work on _data-enabled design_, an approach to design which also calls for data to become a material, notes (and we could expand this to laypeople too): |
+
+> _"Designers are in general not trained and prepared to work with data. They're not equipped with the right tools. Data manipulation is not part of the schools' curriculum and designers are rarely interested in understanding data."_—[@deckers2018].
+
+| (continues…)|
+|:--|
+| Her work with colleagues on the 'connected baby bottle' illustrates how treating data as a design material creates a novel iterative user-centred development of new capabilities [@bogers2016]. In HDR terms, I theorise that what this material should _be_ is _human information_ - life information and ecosystem information [[7.2](#7.2)]. Data useability therefore calls for the creation of systems that enable **human information to be treated as a material**.|
+
+As [Insight 3](#insight-3) show, data will only become useable once we change its nature. Since the 1970s, drawing on the then-common metaphor of a filing cabinet, computers have considered _files_ as the basic material that users will interact with. Where we do interact with data as information instead of files, that information is typically presented in limited contexts within certain products or apps [[Insight 1](#insight-1)]. To move up the DIKW pyramid [[2.1](#2.1)], we need smarter computer systems, that move beyond files [@bowyer2011filesdie] . We need systems whose basic material is not files, but pieces of human information.
+
+**We need a human information operating system**.
 
 ### Obstacles to the HDR Objective of Ecosystem Awareness & Understanding{#objective-3}
 
