@@ -74,7 +74,6 @@ Initially eight participants chose 5 target companies and three chose 4 to reque
 <a name="table-5.1"></a>
 
 ![](./src/figs/table8-targets.png)
-[PRODUCTION TODO replace table with text]
 
 Table: Table 5.1 - Types of Data Holding Organisation Targeted for GDPR Requests by Study Participants<sup>a</sup>
 
@@ -83,7 +82,6 @@ To ensure fairness and consistency, the aim was that all GDPR requests be sent b
 <a name="table-5.2"></a>
 
 ![](./src/figs/table9-data-types.png)
-[PRODUCTION TODO replace table with text]
 
 Table: Table 5.2 - Types of Personal Data Potentially Accessible from Data Holders via GDPR Rights
 
@@ -102,7 +100,6 @@ Once each participant's GPDR requests had reached a conclusion point (as describ
 <a name="table-5.3"></a>
 
 ![](./src/figs/table10-data-quality.png)
-[PRODUCTION TODO replace table with text]
 
 Table: Table 5.3 - Presence and Quality Assessments of GDPR Responses by Data Type (as Percentages<sup>a</sup>)
 
@@ -117,7 +114,6 @@ Participants felt their goals were not fully met in 78% of cases, and 54% were n
 <a name="table-5.4"></a>
 
 ![](./src/figs/table12-hopes-and-goals.png)
-[PRODUCTION TODO replace table with text]
 
 Table: Table 5.4 - Participants' Hopes, Imagined Data Uses and Goals for GDPR, as well as Resultant Outcomes
 
