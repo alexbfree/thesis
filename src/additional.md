@@ -60,14 +60,14 @@ The table below illustrates the types of _family civic data_ identified in the p
 |       | Medical conditions|Diagnoses, diseases, allergies, blood type.|
 |       | Mental health|PTSD, breakdowns, depression, sectioning. |
 |       | Addictions| Substance abuse, gambling, rehab, crime. |
-| Leisure[^19]|Library Usage|Books/CDs borrowed, computer access.|
+| Leisure[^20]|Library Usage|Books/CDs borrowed, computer access.|
 |       |Sports & Health|Gym usage, class attendance.|
 |       |Shopping Habits|Loyalty cards, store & online purchases.|
 |       |Transport Data|Buses used, ANPR tracking, walking patterns.|
 
 Table: Table ARI.1 - Example Categories of Family Civic Data.
 
-[^19]: Some leisure categories (namely Shopping and Transport) were included that are not strictly civic data, as these would be useful for exploring issues around ethics. These also provided a reference point for participants to better consider the 'big data' benefits of data linking.
+[^20]: Some leisure categories (namely Shopping and Transport) were included that are not strictly civic data, as these would be useful for exploring issues around ethics. These also provided a reference point for participants to better consider the 'big data' benefits of data linking.
 
 ARI4.2 Sentence Ranking - List of Sentences and Analysis Approach{#ari-sentences .unnumbered}
 ----------------------------------------------------------

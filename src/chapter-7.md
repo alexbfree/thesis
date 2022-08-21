@@ -106,7 +106,7 @@ In the LIU context, the most important wants to focus on improving are _data und
 
 <a name="7.2.3.2">**Personal Data Ecosystem Control**</a>
 
-Unlike LIU, _**Personal Data Ecosystem Control**_ is an individual need that is new; arising as a result of the emergence of the data-centric world [[2.1](#2.1); [2.2.4](#2.2.4)]. Only when organisations began to collect and store facts about people as a substitute for direct communication and involvement did it become necessary. The more data is collected about individuals, and the more parties collect and share that data, the greater the need for individuals to learn about that data so that they might influence its use (or risk their lives being affected in unexpected or potentially unfair ways). PDEC is a direct response to the power imbalance between data holders and individuals that the World Economic Forum described in 2014 [@wef2014lens;[2.1.2](#2.1.2)].
+Unlike LIU, _**Personal Data Ecosystem Control**_ is an individual need that is new; arising as a result of the emergence of the data-centric world [[2.1](#2.1); [2.2.4](#2.2.4)]. Only when organisations began to collect and store facts about people as a substitute for direct communication and involvement did it become necessary. The more data is collected about individuals, and the more parties collect and share that data, the greater the need for individuals to learn about that data so that they might influence its use (or risk their lives being affected in unexpected or potentially unfair ways). PDEC is a direct response to the power imbalance between data holders and individuals that the World Economic Forum described in 2014 [@wef2014lens; [2.1.2](#2.1.2)].
 
 In the PDEC context, multiple data wants are important: visible data and transparent processes, as well as individual oversight and involvement. For simplicity, the former two wants can be referred to collectively as _data ecosystem transparency_, and the latter two as _data ecosystem negotiability_ (drawing on the HDI concept of _negotiability_), and these terms will be used below.
 
@@ -118,8 +118,10 @@ In order to provide value to future researchers, activists and innovators, this 
 
 1. Data Awareness & Understanding;
 2. Data Useability<sup>[10](#fn10)</sup>;
-3. Data Ecosystem Awareness & Understanding and
-4. Data Ecosystem Negotiability.
+3. Data Ecosystem Awareness & Understanding[^15] and
+4. Data Ecosystem Negotiability<sup>[15](#fn15]</sup>.
+
+[^15]: To avoid overly cumbersome wording, subsequent sections will drop the 'Data' prefix from 'Data Ecosystem Awareness & Understanding' and 'Data Ecosystem Negotiability'.
 
 As [Figure 7.2](#figure-7.2) shows, the need for data to be understandable, visible and useable, applies to all types of data, whether that data is interpretable as **life information** (information within the data, that says something about the individual) or **ecosystem information** (information _about_ the data, where it is held and how it is used). These two types of information will collectively be referred to as **human information**, and will be used in describing the HDR landscape in subsequent sections.
 
@@ -162,11 +164,11 @@ In pursuit of visible, understandable data [[6.1.1](#6.1.1); [6.1.2](#6.1.2)], t
 
 [PRODUCTION TODO make this an inset box not a table]
 
-Another important obstacle to consider here is what I call the _Personal Data Diaspora[^15]_. As illustrated by Imogen Heap's quote opening [Chapter 1](#chapter-1), an individual's personal data is typically very widely dispersed, there is no central, holistic view of one's data. For example, if I consider just my movement tracking data, I have over time accumulated activity logs from walking, running, cycling, and driving which are stored by Nike+, MyFitnessPal, Strava, Google Fit, Fitbit, Apple Health and Google Maps, not to mention the records remaining on my different smart watches, smartphones and hard drives. This is the problem of _Integration_ [@li2010] that SI enthusiasts face [[2.2.3](#2.2.3)]. Even aside from the issues this creates in terms of managing one's data ecosystem [[2.2.4](#2.2.4)], it means that it is impossible to view the history of my physical activity side by side, to spot patterns over time or make comparisons. To overcome this obstacle, approaches to data interfaces and life information modelling must be identified that recognise the scattered, complex reality of each individual's personal data ecosystem and begin to make it visible and understandable. This is explored further in [7.3.3](#7.3.3) and [7.3.4](#7.3.4) below.
+Another important obstacle to consider here is what I call the _Personal Data Diaspora[^16]_. As illustrated by Imogen Heap's quote opening [Chapter 1](#chapter-1), an individual's personal data is typically very widely dispersed, there is no central, holistic view of one's data. For example, if I consider just my movement tracking data, I have over time accumulated activity logs from walking, running, cycling, and driving which are stored by Nike+, MyFitnessPal, Strava, Google Fit, Fitbit, Apple Health and Google Maps, not to mention the records remaining on my different smart watches, smartphones and hard drives. This is the problem of _Integration_ [@li2010] that SI enthusiasts face [[2.2.3](#2.2.3)]. Even aside from the issues this creates in terms of managing one's data ecosystem [[2.2.4](#2.2.4)], it means that it is impossible to view the history of my physical activity side by side, to spot patterns over time or make comparisons. To overcome this obstacle, approaches to data interfaces and life information modelling must be identified that recognise the scattered, complex reality of each individual's personal data ecosystem and begin to make it visible and understandable. This is explored further in [7.3.3](#7.3.3) and [7.3.4](#7.3.4) below.
 
 The takeaway for this HDR objective is that data awareness and understanding is a problem of representation. Invisible data should be visibly represented, and all data should be represented in the context of its interpretation as life information.
 
-[^15]: The word _'diaspora'_ is typically used with reference to populations, but is an apt term, derived from the Greek _'diaspeirein'_ meaning _'scattered about'_ or '_dispersed'_.
+[^16]: The word _'diaspora'_ is typically used with reference to populations, but is an apt term, derived from the Greek _'diaspeirein'_ meaning _'scattered about'_ or '_dispersed'_.
 
 ### Obstacles to the HDR Objective of Data Useability<sup>[10](#fn10)</sup>{#objective-2}
 
@@ -383,9 +385,9 @@ These trajectories for change could be supported or pursued in many different wa
 
 To provide a structure for cataloguing the insights conveyed by this section, I use a _Theory of Change (ToC)_ framing. ToC is a set of methodologies is commonly used by philanthropists, educators and those trying to improve the lives of disadvantaged populations [@brest2010]; the theories can be used in different ways including planning, participatory design and field evaluation of the effectiveness of new initiatives. There are many different implementations, but common to most of them is a focus on explicitly mapping out desired outcomes [@taplin2012] with a clear focus on who is acting and whether the change being brought about is a change in action, or a change in thinking [@vanEs2015]. In this section, ToC theory will be used in a very limited way, not as a methodology but simply to provide a structural frame for proposed changes, as described below. Using ToC to perform evaluation of the effectiveness of proposed change approaches in action in society would be well beyond the scope of this thesis. Nonetheless, this frame is a useful way to map out the different approaches to changing the world in pursuit of the ideal of better HDR.
 
-![Figure 7.14: Theory of Change [ToC]\: The Four Dimensions of Change[^16]](./src/figs/fig7.14-dimensions-of-change.png){#figure-7.14}
+![Figure 7.14: Theory of Change [ToC]\: The Four Dimensions of Change[^17]](./src/figs/fig7.14-dimensions-of-change.png){#figure-7.14}
 
-[^16]: Diagram used here unchanged from _Hivos ToC Guidelines_ [@vanEs2015, 90] under a CC-BY-NC-SA 3.0 license, whose authors state that this diagram was adapted from earlier work by Wilber (1996), Keystone (2008) and Retolaza (2010, 2012).
+[^17]: Diagram used here unchanged from _Hivos ToC Guidelines_ [@vanEs2015, 90] under a CC-BY-NC-SA 3.0 license, whose authors state that this diagram was adapted from earlier work by Wilber (1996), Keystone (2008) and Retolaza (2010, 2012).
 
 [Figure 7.14](#figure-7.14) illustrates the aspects of ToC thinking that are important when using this frame. Specifically, desired changes can be broken down into:
 
@@ -491,9 +493,9 @@ Previous HCI design work [[2.3.1](#2.3.1)] has focused on, in the first wave, th
 
 During a life interface design hack week at BBC R&D, colleague Jasmine Cox and I explored this problem. We considered that a key element of the interface design would need to be the versatility to _partition one's life in different ways_, and then to be able to assign different collections of life information to the different partitions. As a visual illustration of one possible mental model for life partitioning, consider [Figure 7.22](#figure-7.22), where, based on an idea I had had years earlier, I modified a Cluedo™ board to represent the 'rooms of your digital life':
 
-![Figure 7.22: Life Partitioning Analogy using a Cluedo™ board[^17].](./src/figs/fig7.22-rooms-of-life.jpg){#figure-7.22}
+![Figure 7.22: Life Partitioning Analogy using a Cluedo™ board[^18].](./src/figs/fig7.22-rooms-of-life.jpg){#figure-7.22}
 
-[^17]: Cluedo board design is a copyright of Hasbro, Inc., fair use applies.
+[^18]: Cluedo board design is a copyright of Hasbro, Inc., fair use applies.
 
 We also imagined other mental models, such as partitioning your life according to parts of the body (heart for relationships, body for fitness, brain for current projects, etc.) or a landscape with forest, lake and buildings representing different things.
 
@@ -566,9 +568,9 @@ A final element of Approach 2, which, unlike the previous subsections, has a bro
 
 Such thinking could be expanded further to accommodate the idea that data is not static. Once we make the mindset shift from data as a static bundle of facts to **data as an ever-changing flow or _stream_** [[2.2.5](#2.2.5); [4.3.3](#4.3.3.3); [6.2.2](#6.2.2)], it becomes much easier to think about how processes and interfaces might be updated to give users a direct role in the evolution and shaping of that data. This also makes it easier to maintain knowledge of data's provenance [[Insight 5](#insight-5)]. Such _**'inclusive data flows'**_ and processes could yield benefits for users in terms of increased ecosystem negotiability [Objective 4](#objective-4), but also for businesses, as will be explored in [Approach 4](#approach-4).
 
-The future-centric designs and insights[^18] I have presented as part of Approach 2 show that while developing interfaces and processes for a better HDR future is a challenging design problem (due to the variety in individuals' mental models and the breadth of data across an individual's digital life), it is certainly possible to tackle these challenges. It is likely that the reasons that few have ventured into this space are largely due to the lack of an obvious business model or incentive rather than any question of the merits of these approaches. It is possible to **empower individuals with new capabilities** over the life and ecosystem information encoded within their data, and even to design **new data interaction approaches** that give users an ongoing role in the curation of that data, and HDR reformers can help make a world of better HDR a reality by **building, or investing, in the building of these more life-centric technologies and processes**.
+The future-centric designs and insights[^19] I have presented as part of Approach 2 show that while developing interfaces and processes for a better HDR future is a challenging design problem (due to the variety in individuals' mental models and the breadth of data across an individual's digital life), it is certainly possible to tackle these challenges. It is likely that the reasons that few have ventured into this space are largely due to the lack of an obvious business model or incentive rather than any question of the merits of these approaches. It is possible to **empower individuals with new capabilities** over the life and ecosystem information encoded within their data, and even to design **new data interaction approaches** that give users an ongoing role in the curation of that data, and HDR reformers can help make a world of better HDR a reality by **building, or investing, in the building of these more life-centric technologies and processes**.
 
-[^18]: The research and design work and insights from my time with BBC R&D's Cornmarket project are documented in more detail in the external publications detailed in [1.3.4](#1.3.4)).
+[^19]: The research and design work and insights from my time with BBC R&D's Cornmarket project are documented in more detail in the external publications detailed in [1.3.4](#1.3.4)).
 
 ### Approach 3 to Improving HDR: Defending User Autonomy and Hacking the Information Landscape{#approach-3}
 
