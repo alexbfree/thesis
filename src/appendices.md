@@ -1,13 +1,13 @@
-Appendices {.unnumbered .unlisted}
+Appendices {.unnumbered}
 ===========
 
-Appendix A: The Pilot Study: CHI 2018 Paper {#appendix-a .unnumbered}
-===========
+A The Pilot Study: CHI 2018 Paper {#appendix-a .unnumbered}
+---------------------------------
 
 For additional context, see [1.3.1](#1.3.1). The paper is on the following pages.
 
-Appendix B: Ethics Approvals {#appendix-e .unnumbered}
-===========
+B Ethics Approvals {#appendix-e .unnumbered}
+------------------
 
 Index of Key Ideas, Insights and Contributions {#hdr-glossary .unnumbered}
 ===============================================

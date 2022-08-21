@@ -61,7 +61,7 @@ The first step in study design was to achieve sensitisation [[3.5.1](#3.5.1)] as
 
 ### What is Family Civic Data?{#4.2.1}
 
-In order to communicate effectively with participants, an understanding of what data is held in an EH context was needed. Through the pilot study [[3.4.1](#3.4.1.2); [Appendix A](#appendix-a)] and grey literature review within CHC's SILVER project [[3.4.1](#3.4.1.1)], a taxonomy of _Family Civic Data_ was established [@bowyer2018family], as shown in [Table ARI.1](#table-ari.1) in the Additional Reference Information.
+In order to communicate effectively with participants, an understanding of what data is held in an EH context was needed. Through the pilot study [[3.4.1](#3.4.1.2); [Appendix A](#appendix-a)] and grey literature review within CHC's SILVER project [[3.4.1](#3.4.1.1)], a taxonomy of _Family Civic Data_ was established [@bowyer2018family], as shown in [Table ARI4.1](#table-ari4.1) in the Additional Reference Information.
 
 Early recruitment attempts revealed that data is seen as an abstract concept in people's daily lives—a dry, technical topic that many families felt unqualified to talk about. The concepts needed to be made relatable. Drawing on the work of Brandt and Messeter [@brandt2004] in creating _design games_ (which observes that game pieces can be used to create common ground and as _'things to think with'_ [@brandt2004; @papert1980], a set of _data cards_ [[Figure 3.6](#figure-3.6)] were created. These cards made family civic data categories visual and tangible. Serving as _boundary objects_ [@bowker2016; @star2010] the cards aimed to bring researcher and participants' worlds closer together, and to make data relatable to life experience. The design approach for the data cards is documented in [[Appendix A](#appendix-a); @bowyer2018family].
 
@@ -113,12 +113,12 @@ An example statement is:
 
 > _'Families should always be able to talk to someone about their data'_
 
-The complete list of sentences is in [Additional 2](#ari-sentences). These sentences were collated from family and staff perspectives observed during the pilot study, in SILVER's research engagements, and from researcher observations during embedded work with SILVER [[3.4.1](#3.4.1.1)].
+The complete list of sentences is in [ARI4.2](#ari-sentences). These sentences were collated from family and staff perspectives observed during the pilot study, in SILVER's research engagements, and from researcher observations during embedded work with SILVER [[3.4.1](#3.4.1.1)].
 
 Through discussing and reaching consensus on these opinions, families and staff would be in effect 'agreeing requirements' that could inform their thinking during design activities. By conducting this same activity across all participant groups and across both phases, this would also allow comparison between the different groups, to identify differences and find shared values.
 Within each workshop, groups of participants sat at tables of 4 to 6 people, and each table provided its own sentence rankings.
 
-The resultant rankings were analysed as described in [Additional 2](#ari-sentences). The visualisation of these findings on shared values is shown in [Figure 4.1](#figure-4.1).
+The resultant rankings were analysed as described in [ARI4.2](#ari-sentences). The visualisation of these findings on shared values is shown in [Figure 4.1](#figure-4.1).
 
 As the figure shows, there was universal consensus that:
 
@@ -141,7 +141,7 @@ After this exercise, participants were considered sensitised and went on to carr
 Thematic Findings{#4.3}
 -----------------
 
-The 120,000-word corpus from audio recordings of workshops A, B and C was divided by activity, group, and family or staff focus into 85 different source texts. Each text was thematically coded. The coded texts were analysed through four cycles of analysis [@huberman2002]. During this reductive process, participant creations, activity outputs and ranking data were referenced for context. Results of the thematic analysis are presented below. In [4.3.1](#4.3.1) the three main themes and subthemes are introduced. Each theme is detailed in [4.3.2](#4.3.2) to [4.3.4](#4.3.4), including participant quotes. Notation for quotes is explained in [Additional 4](#ari-quotes)].
+The 120,000-word corpus from audio recordings of workshops A, B and C was divided by activity, group, and family or staff focus into 85 different source texts. Each text was thematically coded. The coded texts were analysed through four cycles of analysis [@huberman2002]. During this reductive process, participant creations, activity outputs and ranking data were referenced for context. Results of the thematic analysis are presented below. In [4.3.1](#4.3.1) the three main themes and subthemes are introduced. Each theme is detailed in [4.3.2](#4.3.2) to [4.3.4](#4.3.4), including participant quotes. Notation for quotes is explained in [ARI4.4](#ari-quote-notation)].
 
 ### Themes & Subthemes{#4.3.1}
 

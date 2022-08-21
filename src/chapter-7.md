@@ -32,12 +32,12 @@ As described above [[7.1.1](#7.1.1)] and mentioned in [3.2.2](#3.2.2) and [3.6](
 
 Specifically, within the term of this PhD I took a major role in two industrial research projects (1 & 2), and two academic research projects (3 & 4):
 
-  1. **BBC R&D's Cornmarket Project** [@sharp2021], which explored through user experience design, technical prototyping and participatory research, how individuals might interact with data through a Personal Data Store interface [see [Additional N](#additional-bbc)];
-  2. **SITRA/Hestia.ai's digipower Project** [@härkönen2022project], a successor to Case Study Two, in which European politicians examined companies' data practices through exercising data rights and conducting technical audits [see [Additional N](#additional-digipower)];
+  1. **BBC R&D's Cornmarket Project** [@sharp2021], which explored through user experience design, technical prototyping and participatory research, how individuals might interact with data through a Personal Data Store interface [see [ARI7.1](#additional-bbc)];
+  2. **SITRA/Hestia.ai's digipower Project** [@härkönen2022project], a successor to Case Study Two, in which European politicians examined companies' data practices through exercising data rights and conducting technical audits [see [ARI7.2](#additional-digipower)];
   3. **Connected Health Cities (CHC)'s SILVER Project** [@ConnectedHealthCities2017silver], where I, along with a backend developer and a team of researchers, developed a prototype health data viewing interface for Early Help support worker [see [3.4.1](#3.4.1.1)]; and
-  4. **Digital Economy Research Centre (DERC)'s Healthy Eating Web Augmentation Project**, which explored the use of web augmentation techniques to modify the user interface of takeaway service Just Eat to insert health information, in support of healthy eating [see [Additional N](#additional-derc)].
+  4. **Digital Economy Research Centre (DERC)'s Healthy Eating Web Augmentation Project**, which explored the use of web augmentation techniques to modify the user interface of takeaway service Just Eat to insert health information, in support of healthy eating [see [ARI7.3](#additional-derc)].
 
-For additional details about these projects and my involvement in them, see the linked sections. See also [Additional N](#ari-attribution) for a note about the attribution and origin of the ideas presented within this chapter.
+For additional details about these projects and my involvement in them, see the linked sections. See also [ARI7.4](#ari-attribution) for a note about the attribution and origin of the ideas presented within this chapter.
 
 Defining and Refining 'Human Data Relations' (HDR){#7.2}
 --------------------------------------------------
@@ -59,7 +59,7 @@ Having defined the scope of HDR, we can say that 'better' HDR can be achieved by
 
 ### The Role of Personal Data{#7.2.1}
 
-In the modern world, where almost anything can be encoded as data, and given many previously analogue objects and activities now have digital equivalents, the concept of data has become broad and hard to pin down. Underlying Human Data Relations is to explain what roles data can play in people's lives—what it **is** to people. Through the Case Studies, external work and my prior learning, I have so far identified 8 distinct lenses to consider how people might relate to data, including as property, as memory and as creative work. These are modelled in [Table ARI.3](#table-ari.3).
+In the modern world, where almost anything can be encoded as data, and given many previously analogue objects and activities now have digital equivalents, the concept of data has become broad and hard to pin down. Underlying Human Data Relations is to explain what roles data can play in people's lives—what it **is** to people. Through the Case Studies, external work and my prior learning, I have so far identified 8 distinct lenses to consider how people might relate to data, including as property, as memory and as creative work. These are modelled in [Table ARI5.2](#table-ari5.2).
 
 When considering HDR, it is important to recognise that people may think of their personal data through any or all of these _lenses_ [@karger2005; [2.2.2](#2.2.2-contextual)] at any given time, and any process or system design involving data interaction should take these into account, which means that different informational representations might be needed at different times, bringing different aspects of the data to the forefront.
 

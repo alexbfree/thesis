@@ -1,8 +1,11 @@
 Additional Reference Information {.unnumbered .unlisted}
 ===========
 
-Additional 1: Data Protection Terminology and a Legal Definition of Personal Data {#ari-data-terms .unnumbered}
-====================
+ARI2 Additional Reference Information for Chapter 2 {#ari-chapter-2 .unnumbered}
+===========
+
+ARI2.1 Data Protection Terminology and a Legal Definition of Personal Data {#ari-data-terms .unnumbered}
+--------------------------------------------------------------------
 
 From the GDPR [@hoofnagle2019] and its antecedents, a number of concepts have been established which are relevant to this thesis, specifically [@ico2014; @GDPR2016]:
 
@@ -18,8 +21,56 @@ The terms _Subject Access Request_ and _Data portability_ are used in [Case Stud
 
 For simplicity, this thesis uses everyday layperson-friendly terms rather than the legal terms defined in this section. Data subjects are referred to simply as **individuals** and both data controllers and data processors as **data holders**, because for this thesis, focusing as it does on the individual perspective, there is no need to draw a distinction between data controllers and data processors.
 
-Additional 2: Sentence Ranking - Sentences and Analysis{#ari-sentences .unnumbered}
-=====================================================
+ARI3 Additional Reference Information for Chapter 3 {#ari-chapter-3 .unnumbered}
+===========
+
+ARI3.1 The Private Data Viewing Monitor {#ari-monitor .unnumbered}
+---------------------------------------
+
+By removing the filter layer on an old monitor and modifying cinema IMAX glasses, a monitor was created that only allowed viewing by the holder of the viewing glasses, which would be ideal for interviewing someone about their data while respecting privacy. Face to face interviewing had to be abandoned due to COVID-19, so this technique was sadly never used in practice.
+
+![Figure ARI3.1: Private Data Viewing Monitor with Viewing Glasses](./src/figs/figARI3.1-private-viewing-monitor.jpg){#figure-ari3.1}
+
+ARI4. Additional Reference Information for Chapter 4 {#ari-chapter-4 .unnumbered}
+===========
+
+ARI4.1 Family Civic Data Categories{#ari-fcd-types .unnumbered}
+----------------------------
+
+The table below illustrates the types of _family civic data_ identified in the pilot study [[3.4.1](#3.4.1.2); @bowyer2018family; [Appendix A](#appendix-A)], and referenced in Case Study One [[4.2.1](#4.2.1)].
+
+| <a name="table-ari.1">Category</a>  | Type of data | Examples/Details |
+|---------|---------|--------------------------------------|
+| Family|Personal details|Date of birth, address, telephone number.|
+|      |Relationships|Marital status, exs, step-parents, living arrangements.|
+|      |Children|Parentage, adoption, fostering, childcare.|
+| Education|School Records|Attendance (truancy), special needs.|
+|         |Academic Results|SATs, reports, exam failures, training courses.|
+| Welfare|Social Support|Social worker visits & notes, details of family crises, interventions, allegations.|
+|       |Welfare Benefits|Jobseeker's Allowance, child support, Disability Living Allowance, tax credits|
+| Money/Work|Family Finances|Salary, savings, credit cards, spending, debt|
+|          |Employment|Job history, periods of unemployment, performance at work, NI, PAYE, pensions.|
+| Civil|Housing data|Council house provision, eligibility criteria.|
+|     |Legal documents|Birth / marriage / death certificates, citizenship /immigration status, work permits.|
+| Crime|Criminal records|Arrests, cautions, offenders' registers, prison time, speeding tickets, spent convictions. |
+|     | Court orders| Restraining orders, lawsuits, custody, ASBOs. |
+|     |Domestic Violence|Allegations made, medical records, social / legal interventions, victim support.|
+| Medical|GP records|GP's notes, prescriptions, tests, referrals.|
+|       | Hospital records|Operations, hospital stays, emergency care.|
+|       | Medical conditions|Diagnoses, diseases, allergies, blood type.|
+|       | Mental health|PTSD, breakdowns, depression, sectioning. |
+|       | Addictions| Substance abuse, gambling, rehab, crime. |
+| Leisure[^19]|Library Usage|Books/CDs borrowed, computer access.|
+|       |Sports & Health|Gym usage, class attendance.|
+|       |Shopping Habits|Loyalty cards, store & online purchases.|
+|       |Transport Data|Buses used, ANPR tracking, walking patterns.|
+
+Table: Table ARI.1 - Example Categories of Family Civic Data.
+
+[^19]: Some leisure categories (namely Shopping and Transport) were included that are not strictly civic data, as these would be useful for exploring issues around ethics. These also provided a reference point for participants to better consider the 'big data' benefits of data linking.
+
+ARI4.2 Sentence Ranking - List of Sentences and Analysis Approach{#ari-sentences .unnumbered}
+----------------------------------------------------------
 
 In this section, additional details are provided on the _Sentence Ranking_ exercise referenced in [4.2.6](#4.2.6).
 
@@ -72,12 +123,12 @@ This produced numerical ranking data which was analysed as follows:
 
 The resulting visualisation is shown in [Figure 4.1](#figure-4.1).
 
-Additional 3: Storyboarding Action Cards {#ari-storyboarding .unnumbered}
-===========
+ARI4.3 Storyboarding Action Cards {#ari-storyboarding .unnumbered}
+--------------------------
 
 Drawing from the world of film production, storyboarding is a well-established technique in participatory design [@spinuzzi2005; @moraveji2007]. Usually it involves the participants drawing out a series of sketches in the form of a comic strip 'telling the story' of an interaction, encounter or activity. However, it had already been determined, both in terms of the research approach of this thesis [[3.2.2](#3.2.2)], and in terms of responding to participants [[4.2.6](#4.2.6)] that it would be more important to understand the interpersonal interactions between family and support worker and the actual actions performed upon or with data, rather than the mechanisms by which the data interaction would occur. Focusing on the visual aspects of information visualisation could be distracting. Therefore, I developed a novel technique for use in the phase 2 workshop: **Storyboarding Action Cards**. Each storyboard card denotes a possible action that can be carried out by a family member (yellow border), support worker (blue border) or an action performed together (green border). Each card includes a simple action summary such as 'Give Information' and an iconographic representation of the action, along with a short description of which actor is doing what. It includes blank lines which the participant can 'fill in' to describe the specifics of this occurrence of the action.
 
-![Figure ARI.1: Extract of Sample Scenario Storyboarding Exercise walkthrough](./src/figs/figARI.1-storyboarding-cards.png){#figure-ARI.1}
+![Figure ARI4.1: Extract of Sample Scenario Storyboarding Exercise walkthrough](./src/figs/figARI4.1-storyboarding-cards.png){#figure-ari4.1}
 
 Based on the accumulated knowledge of Early Help processes amongst myself and SILVER colleagues, enhanced for this purpose through consultation with a former social worker, I developed a total of 43 different cards to represent the suite of possible actions that would be interesting to track. These are grouped into eight different types of card:
 
@@ -90,11 +141,11 @@ Based on the accumulated knowledge of Early Help processes amongst myself and SI
   - **Problem Cards** – to represent actions where either party experiences a problem, for example either party having an issue with information handling or content, or a disagreement between worker and family member; and
   - **'Custom' Cards** – a catch-all for any remaining actions that do not fall into one of the above categories.
 
-The intent behind the storyboarding action cards is that they serve as both a boundary object and _things to think with_ (as with the Family Data Cards described in [@bowyer2018family]) to provoke discussion among participants. They have an additional function over the Family Data Cards, however: they can be arranged in a sequence, much like a storyboard or comic strip, and filled in, to tell the story of exactly who would do what and how in the process of a support conversation involving shared data interaction. In this way they lend themselves to model processes rather than object design. [Figure ARI.1](#figure-ARI.1) shows an example of three cards having been filled in and arranged in sequence to tell a simple story of how a scenario of a worker seeking out an address following new information from the family member.
+The intent behind the storyboarding action cards is that they serve as both a boundary object and _things to think with_ (as with the Family Data Cards described in [@bowyer2018family]) to provoke discussion among participants. They have an additional function over the Family Data Cards, however: they can be arranged in a sequence, much like a storyboard or comic strip, and filled in, to tell the story of exactly who would do what and how in the process of a support conversation involving shared data interaction. In this way they lend themselves to model processes rather than object design. [Figure ARI4.1](#figure-ari4.1) shows an example of three cards having been filled in and arranged in sequence to tell a simple story of how a scenario of a worker seeking out an address following new information from the family member.
 
-![Figure ARI.2: Example Backing Mat for Storyboard Decks (pictured here: backing mat for all three 'problem' card decks](./src/figs/figARI.2-backing-mat.png){#figure-ARI.2}
+![Figure ARI4.2: Example Backing Mat for Storyboard Decks (pictured here: backing mat for all three 'problem' card decks](./src/figs/figARI4.2-backing-mat.png){#figure-ari4.2}
 
-In addition to the storyboard cards, I also designed 'backing mats' for each of the eight card types. These were printed on large coloured card corresponding to each card type's backing colour, and provided areas for the 'decks' of available cards to be picked from. Each backing mat provided a separate home for family member actions, staff actions, and joint actions. Additionally, each backing mat included a summary of the available action cards of this type, and a prompt question. An example of a backing mat, in this case for Problem Cards, is shown in [Figure ARI.2](#figure-ARI.2).
+In addition to the storyboard cards, I also designed 'backing mats' for each of the eight card types. These were printed on large coloured card corresponding to each card type's backing colour, and provided areas for the 'decks' of available cards to be picked from. Each backing mat provided a separate home for family member actions, staff actions, and joint actions. Additionally, each backing mat included a summary of the available action cards of this type, and a prompt question. An example of a backing mat, in this case for Problem Cards, is shown in [Figure ARI4.2](#figure-ari4.2).
 
 **Introduction and Practice**
 
@@ -108,62 +159,23 @@ The scenarios used for this activity by the two groups were (a) a new scenario w
 
 For a completed storyboard layout example, see [Figure 3.10](#figure-3.10).
 
-Additional 4: Notation for Quotations in Chapter 4{#ari-quotes .unnumbered}
-==================
+ARI4.4 Notation for Quotations in Chapter 4{#ari-quote-notation .unnumbered}
+------------------------------------
 
 Quotations included in section [4.3](#4.3) are references using the following notation:
 
   - FQnn = Family Quote - a quote from the families-only workshop (A)
   - SQnn = Staff Quote - a quote from a staff-only workshop (B)
   - CQnn = Combined Quote - a quote from the combined workshop (C).
-  - Sn = Sentence n - a sentence from the _Sentence Ranking_ exercise, see [Additional 2](#ari-sentences).
+  - Sn = Sentence n - a sentence from the _Sentence Ranking_ exercise, see [ARI4.2](#ari-sentences).
 
 The number after FQ/CQ/SQ provides a unique identifier for each quote, which can be used to look up the referenced quote in [TODO INSERT REF TO APPENDIX SECTION HERE]. Individual speakers are identified only by their role. Within each quote, or in brackets afterwards, the speakers are identified as _Worker_, _Parent_, _Child_, or _Researcher_.
 
-Additional 5: Family Civic Data Categories
-==========================================
-
-The table below illustrates the types of _family civic data_ identified in the pilot study [[3.4.1](#3.4.1.2); @bowyer2018family; [Appendix A](#appendix-A)], and referenced in Case Study One [[4.2.1](#4.2.1)].
-
-| <a name="table-ari.1">Category</a>  | Type of data | Examples/Details |
-|---------|---------|--------------------------------------|
-| Family|Personal details|Date of birth, address, telephone number.|
-|      |Relationships|Marital status, exs, step-parents, living arrangements.|
-|      |Children|Parentage, adoption, fostering, childcare.|
-| Education|School Records|Attendance (truancy), special needs.|
-|         |Academic Results|SATs, reports, exam failures, training courses.|
-| Welfare|Social Support|Social worker visits & notes, details of family crises, interventions, allegations.|
-|       |Welfare Benefits|Jobseeker's Allowance, child support, Disability Living Allowance, tax credits|
-| Money/Work|Family Finances|Salary, savings, credit cards, spending, debt|
-|          |Employment|Job history, periods of unemployment, performance at work, NI, PAYE, pensions.|
-| Civil|Housing data|Council house provision, eligibility criteria.|
-|     |Legal documents|Birth / marriage / death certificates, citizenship /immigration status, work permits.|
-| Crime|Criminal records|Arrests, cautions, offenders' registers, prison time, speeding tickets, spent convictions. |
-|     | Court orders| Restraining orders, lawsuits, custody, ASBOs. |
-|     |Domestic Violence|Allegations made, medical records, social / legal interventions, victim support.|
-| Medical|GP records|GP's notes, prescriptions, tests, referrals.|
-|       | Hospital records|Operations, hospital stays, emergency care.|
-|       | Medical conditions|Diagnoses, diseases, allergies, blood type.|
-|       | Mental health|PTSD, breakdowns, depression, sectioning. |
-|       | Addictions| Substance abuse, gambling, rehab, crime. |
-| Leisure[^19]|Library Usage|Books/CDs borrowed, computer access.|
-|       |Sports & Health|Gym usage, class attendance.|
-|       |Shopping Habits|Loyalty cards, store & online purchases.|
-|       |Transport Data|Buses used, ANPR tracking, walking patterns.|
-
-Table: Table ARI.1 - Example Categories of Family Civic Data.
-
-[^19]: Some leisure categories (namely Shopping and Transport) were included that are not strictly civic data, as these would be useful for exploring issues around ethics. These also provided a reference point for participants to better consider the 'big data' benefits of data linking.
-
-Additional 6: The Private Data Viewing Monitor {#ari-monitor .unnumbered}
+ARI5 Additional Reference Information for Chapter 5 {#ari-chapter-5 .unnumbered}
 ===========
 
-By removing the filter layer on an old monitor and modifying cinema IMAX glasses, a monitor was created that only allowed viewing by the holder of the viewing glasses, which would be ideal for interviewing someone about their data while respecting privacy. Face to face interviewing had to be abandoned due to COVID-19, so this technique was sadly never used in practice.
-
-![Figure ARI.X: Private Data Viewing Monitor with Viewing Glasses](./src/figs/figF.1-private-viewing-monitor.jpg){#figure-ARI.x}
-
-Additional 7: GDPR Data Analysis Approach {#ari-gdpr-data-analysis .unnumbered}
-===========
+ARI5.1 GDPR Data Analysis Approach {#ari-gdpr-data-analysis .unnumbered}
+---------------------------
 
 In this section, the methodology used for the analysis of data from Case Study Two is explained. The content of this appendix is identical to Appendix 3 in the Supplemental Materials of the CHI 2022 paper from this study [@bowyer2022gdpr]. Case Study Two was written first as a paper and then expanded to produce Chapter 5. While the paper was co-written, Chapter 5 was written entirely by Alex Bowyer.
 
@@ -227,14 +239,14 @@ This produced too many files for import into Quirkos Cloud, so once organised by
 The majority of the analysis took place with the use of Quirkos Cloud [@quirkos2013], a computer-assisted qualitative data analysis software (CAQDAS) package that allows for collaborative analysis by more than one researcher. The 57 files from stage 3 were imported into Quirkos Cloud, with each having a unique number. The sources in Quirkos were labelled by Participant, Company and Topic for easy search and retrieval. The researchers then collaboratively coded sections of the interview transcripts to develop and ensure a consistent approach, based on established techniques [@braun2006; @huberman2002]. Codes were identified inductively and not according to a fixed or predetermined set. Once a baseline codeset and strategy had been established, they each coded sections of interviews in parallel, regularly regrouping to discuss generated codes and any new questions or challenges arising. At first, these codes were created in an unstructured/flat state with only occasional clustering on the Quirkos interface. Due to the volume of data, not every piece of every transcript was coded, however care was taken to ensure a representative sample of views from across the participant pool was included.
 These were clustered into loose code-topic areas, an example is shown in the following screenshot taken approximately 6 weeks into coding:
 
-![Figure ARI.3: Screenshot from Quirkos During Coding Process](./src/figs/figARI.3-quirkos-coding.png){#figure-ARI.3}
+![Figure ARI5.1: Screenshot from Quirkos During Coding Process](./src/figs/figARI5.1-quirkos-coding.png){#figure-ari5.1}
 
 **5. Reductive Cycles**
 
 As more codes were identified and structures and commonalities between them were formed, existing codes were merged or absorbed into one another and grouped together in small clusters. The researchers regularly met to discuss each other's codes according to their context and occasionally amended wording or merged concepts that were labelled differently but semantically equivalent. All codes were checked and agreed between these two researchers. Over time, the codes were iteratively structured and restructured, creating top-level thematic clusters around different research questions that held multiple layers of related codes. These clusters were then summarised with a short sentence or paragraph of text, allowing summaries to be produced at different levels of hierarchy. These summaries were kept in the Description fields of codes in Quirkos and also in external structured text-based documents.
 These can be seen in the following screenshot, taken 5 months into coding:
 
-![Figure ARI.4: Screenshot from Quirkos at End of Coding Process](./src/figs/figARI.4-quirkos-coding-at-end.png){#figure-ARI.4}
+![Figure ARI5.2: Screenshot from Quirkos at End of Coding Process](./src/figs/figARI5.2-quirkos-coding-at-end.png){#figure-ari5.2}
 
 The above-pictured structure of the coded corpus at the end of the Quirkos Cloud phase was as follows:
 
@@ -262,7 +274,7 @@ Total codes = 645.
 
 Having produced the structure above as a reduced representation of _'what the codes say'_ that the participants think, the researchers used outlining tool Workflowy [@workflowy2010] to develop the arguments and primary narrative of the chapter into a structured three-theme-based summary of the most important items from these findings. The code hierarchy was used as source material to populate the three key themes with illustrative quotes and observed findings. An example from later in this process (around 8-9 months since Stage 1 began) is shown in the screenshot below:
 
-![Figure ARI.5: Screenshot from Workflowy During Theme Construction](./src/figs/figARI.5-workflowy-theme-construction.png){#figure-ARI.5}
+![Figure ARI5.3: Screenshot from Workflowy During Theme Construction](./src/figs/figARI5.3-workflowy-theme-construction.png){#figure-ari5.3}
 
 The themes are broken down in detail in [5.4](#5.4) and can be summarised as:
 
@@ -354,10 +366,10 @@ Format: `NN-pXX-iX-[….]-[company first three letters].txt`
 
 e.g. `01-p01-i3-Cred-Indr.txt` or `02-p01-i3-Genr-Wrap.txt`
 
-Additional 8: Best and Worst Companies for GDPR Handling {#ari-bestworst .unnumbered}
-===========
+ARI5.2 Best and Worst Companies for GDPR Handling {#ari-bestworst .unnumbered}
+-------------------------------------------------
 
-The quality and coverage datapoints described in [5.3.3](#5.3.3) also allowed insights about which service providers were strongest or weakest in each category, and overall, to be drawn. This was done by tallying the 'Yes' responses for each category and overall, then dividing by the number of times that provider was selected, to avoid inflating scores for popular companies. The outcome of this analysis is shown in [Table ARI.2](#table-ARI.2) below. The companies that fared worst overall were those that did not return any data at all in response to a GDPR request (Sainsbury's, Freeprints, Tyne Tunnels, LinkedIn, Huawei, Bumble, LNER). It should be noted that Sainsbury's and Huawei _did_ respond, claiming to hold no data for the requesting participant, though participants found this implausible, which indicates either a problem with compliance, explanation or trust. The other named companies here did not respond at all, despite at least two follow-up emails being sent to them, and despite in some cases having initially acknowledged and promised to satisfy the request.
+The quality and coverage datapoints described in [5.3.3](#5.3.3) also allowed insights about which service providers were strongest or weakest in each category, and overall, to be drawn. This was done by tallying the 'Yes' responses for each category and overall, then dividing by the number of times that provider was selected, to avoid inflating scores for popular companies. The outcome of this analysis is shown in [Table ARI5.1](#table-ari5.1). The companies that fared worst overall were those that did not return any data at all in response to a GDPR request (Sainsbury's, Freeprints, Tyne Tunnels, LinkedIn, Huawei, Bumble, LNER). It should be noted that Sainsbury's and Huawei _did_ respond, claiming to hold no data for the requesting participant, though participants found this implausible, which indicates either a problem with compliance, explanation or trust. The other named companies here did not respond at all, despite at least two follow-up emails being sent to them, and despite in some cases having initially acknowledged and promised to satisfy the request.
 
 Companies producing responses with good coverage and good quality included Niantic, Nectar and Sunderland AFC as well as to a lesser extent Natural Cycles, Revolut, Spotify, Tesco and Amazon. Facebook and Google fared well for the breadth of data returned (due in part to their download dashboards), though the quality of Google's data was found lacking across multiple categories. Last.fm (owned by CBS) fared poorly overall due to poor category coverage, despite the limited data that it did return being of high quality.
 
@@ -368,8 +380,11 @@ Companies producing responses with good coverage and good quality included Niant
 
 Table: Table ARI.2 - Best and Worst Data Holders for GDPR, according to Participants' Judgements<sup>a</sup>
 
-Additional 9: BBC R&D's Cornmarket Project {#ari-bbc .unnumbered}
+ARI7 Additional Reference Information for Chapter 7 {#ari-chapter-7 .unnumbered}
 ===========
+
+ARI7.1 BBC R&D's Cornmarket Project {#ari-bbc .unnumbered}
+----------------------------
 
 I took a three-month sabbatical from my PhD in the summer of 2020. I was remotely embedded within a full-time research internship at **BBC R&D** - the British Broadcasting Corporation (BBC)'s Research and Development (R&D) department [@bbc1997rd], working with specialists, designers, researchers and developers on an exploratory research project codenamed _Cornmarket_. I continued this involvement as a part-time research consultant and critical friend for a further 5 months after the conclusion of the initial three-month placement.
 
@@ -392,8 +407,8 @@ A number of articles relating to the Cornmarket project have been published:
 - https://www.telegraph.co.uk/business/2022/06/09/bbc-wages-war-online-echo-chambers-unbiased-tech/
 - https://parliamentlive.tv/event/index/7d249bcf-78e9-447b-907c-81df72b87542?in=15:01:35
 
-Additional 10: Hestia.ai, and Sitra's _digipower_ Project {#ari-digipower .unnumbered}
-===========
+ARI7.2 Hestia.ai, and Sitra's _digipower_ Project {#ari-digipower .unnumbered}
+-------------------------------------------------
 
 Following the conclusion of the funded period of my PhD, I took up a near-full-time position as Project Leader and Personal Data Coach at **Hestia.ai** [@dehaye2019]), a startup based in Geneva, Switzerland. Hestia.ai is a company conducting research, developing technologies, and delivering training, in the emergent MyData/PDE space [[2.3.4](#2.3.4)]. In essence, the company's mission is to help individuals and especially collectives to more easily obtain and understand data held about them, and to help them visualise, aggregate and make use of that data. It is an example of a **data access and understanding services** company as described in [7.4.5](#7.4.5.3).
 
@@ -408,15 +423,15 @@ At the time of publication of this thesis (August 2022), I continue to be employ
 
 Where the [BBC internship](#ari-bbc) has helped me to understand the practicalities of connecting people with their personal data in pursuit of Life Information Utilisation [[7.2.3](#7.2.3.1)], my work with Hestia.ai has helped me understand the practicalities of how people might acquire greater Personal Data Ecosystem Control [[7.2.3](#7.2.3.1)]. In this sense, both peripheral activities have been highly complementary to developing an overview of the pursuit of HDR in practice.
 
-Additional 11: DERC's Healthy Eating Web Augmentation Project {#ari-derc .unnumbered}
-===========
+ARI7.3 DERC's Healthy Eating Web Augmentation Project {#ari-derc .unnumbered}
+-----------------------------------------------------
 
 As a software developer I have been aware for a long time that one of the biggest challenges in building new data interfaces is to gain programmatic access to the necessary data. As part of the trend towards cloud-based services and data-centric business practices, it has become increasingly difficult to access all of the data held about users by service providers. Application Programming Interfaces (APIs) are a technical means for programmers to access a user's data so that third-party applications may be built using that data. Unfortunately, as a result of commercial incentives to lock users in and keep data trapped [@abiteboul2015; @bowyer2018freedata], much of users' data can no longer be accessed via APIs. While GDPR data portability requests do open up a new option for the use of one's provider-collected data in third-party applications, this is an awkward and time-consuming route for both users and developers. **Web augmentation** provides a third possible technical avenue for obtaining data from online service providers. It relies on the fact that a user's data is loaded to the user's local machine and displayed within their web browser every time a website is used, and therefore it is possible to extract that data from the browser using a browser extension; this as another **seam** that can be hacked - see [7.4.4](#7.4.4) and [Insight 12](#insight-12). Similarly, once loaded into the browser, a provider's webpage can be modified to display additional data or useful human-centric functionality that the provider failed to provide.
 
 In order to better understand what is and is not possible using this technique, I participated part-time from 2018 to 2020 as the sole software engineer in a DERC (Digital Economy Research Centre) project. This project was using the web augmentation technique to explore how researchers could improve the information given to users of Just Eat, a takeaway food ordering platform in the UK. The theoretical basis for this research was published in [@goffe2021; @goffe2022]. While this particular use case does not concern personal data, the technology and techniques being used by the project to exploit the browser seam were considered highly relevant to the exploration of HDR-improving possibilities, and the goals of the research project were also human-centric, and consistent with this thesis's research goals - tackling the hegemony of service providers in order to better serve individual needs.
 
-Additional 12: Special Attribution Note for Chapter 7 {#ari-attribution .unnumbered}
-===========
+ARI7.4 Special Attribution Note for Chapter 7 {#ari-attribution .unnumbered}
+---------------------------------------------
 
 This is a note about the attribution of insights within [Chapter 7](#chapter-7), as the ideas originate quite differently than from the rest of the thesis.
 
@@ -431,8 +446,8 @@ This thesis is my own work. All ideas in Chapter 7 are original. Some of the spe
 
 Due to these collaborations and the ongoing and parallel nature of many of these projects to my PhD research, it is impossible to precisely delineate the origin of each idea or insight. In practice, ideas from my developing thesis and own thinking informed the projects' trajectories and thinking, and vice-versa. These ideas would not have emerged in this form without my participation, so they are not the sole intellectual property of others, but equally I would not have reached the same conclusions alone, so the ideas are not solely my own either. All diagrams and illustrations were produced by me, except where specified, and the overall synthesis and framing presented in this chapter is my own original work. Where this chapter includes material from the four peripheral projects [[7.1.2](#7.1.2)], that material is either already public, or permission has been obtained from the corresponding individuals or project teams.
 
-Additional N: Eight Lenses on Personal Data
-===========================================
+ARI7.5 Eight Lenses on Personal Data{#ari-lenses .unnumbered}
+------------------------------------
 
 This table is referenced and contextualised in section [7.2.1](#7.2.1).
 

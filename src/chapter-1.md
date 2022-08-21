@@ -1,7 +1,7 @@
 Introduction{#chapter-1}
 =======================
 
-> _"My data is everywhere, and I am nowhere."_ — Imogen Heap (musician and digital rights advocate), speaking at MyData 2019.
+> _"My data is everywhere, and I am nowhere."_—Imogen Heap (musician and digital rights advocate), speaking at MyData 2019.
 
 Background and Motivation for this Research{#1.1}
 -------------------------------------------
