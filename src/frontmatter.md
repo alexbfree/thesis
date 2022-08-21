@@ -78,7 +78,7 @@ Lists of Tables by Chapter {.unnumbered .unlisted}
 
 [ARI4.1](#table-ari4.1) - Example Categories of Family Civic Data<br/>
 [ARI5.1](#table-ari5.1) - Best and Worst Data Holders for GDPR, according to Participants' Judgements<br/>
-[ARI5.2](#table-ari5.2) - Eight Lenses on Personal Data
+[ARI7.1](#table-ari7.1) - Eight Lenses on Personal Data
 
 Lists of Figures by Chapter {.unnumbered .unlisted}
 ---------------------------

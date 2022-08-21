@@ -39,7 +39,7 @@ ARI4.1 Family Civic Data Categories{#ari-fcd-types .unnumbered}
 
 The table below illustrates the types of _family civic data_ identified in the pilot study [[3.4.1](#3.4.1.2); @bowyer2018family; [Appendix A](#appendix-A)], and referenced in Case Study One [[4.2.1](#4.2.1)].
 
-| <a name="table-ari.1">Category</a>  | Type of data | Examples/Details |
+| <a name="table-ari4.1">Category</a>  | Type of data | Examples/Details |
 |---------|---------|--------------------------------------|
 | Family|Personal details|Date of birth, address, telephone number.|
 |      |Relationships|Marital status, exs, step-parents, living arrangements.|
@@ -65,7 +65,7 @@ The table below illustrates the types of _family civic data_ identified in the p
 |       |Shopping Habits|Loyalty cards, store & online purchases.|
 |       |Transport Data|Buses used, ANPR tracking, walking patterns.|
 
-Table: Table ARI.1 - Example Categories of Family Civic Data.
+Table: Table ARI4.1 - Example Categories of Family Civic Data.
 
 [^20]: Some leisure categories (namely Shopping and Transport) were included that are not strictly civic data, as these would be useful for exploring issues around ethics. These also provided a reference point for participants to better consider the 'big data' benefits of data linking.
 
@@ -373,12 +373,11 @@ The quality and coverage datapoints described in [5.3.3](#5.3.3) also allowed in
 
 Companies producing responses with good coverage and good quality included Niantic, Nectar and Sunderland AFC as well as to a lesser extent Natural Cycles, Revolut, Spotify, Tesco and Amazon. Facebook and Google fared well for the breadth of data returned (due in part to their download dashboards), though the quality of Google's data was found lacking across multiple categories. Last.fm (owned by CBS) fared poorly overall due to poor category coverage, despite the limited data that it did return being of high quality.
 
-<a name="table-ari.2"></a>
+<a name="table-ari5.1"></a>
 
 ![](./src/figs/table11-best-worst-companies.png)
-[PRODUCTION TODO replace table with text]
 
-Table: Table ARI.2 - Best and Worst Data Holders for GDPR, according to Participants' Judgements<sup>a</sup>
+Table: Table ARI5.1 - Best and Worst Data Holders for GDPR, according to Participants' Judgements<sup>a</sup>
 
 ARI7 Additional Reference Information for Chapter 7 {#ari-chapter-7 .unnumbered}
 ===========
@@ -451,7 +450,7 @@ ARI7.5 Eight Lenses on Personal Data{#ari-lenses .unnumbered}
 
 This table is referenced and contextualised in section [7.2.1](#7.2.1).
 
-| <a name="table-ari.3">Way of thinking about data</a> | Explanation & Implications |
+| <a name="table-ari7.1">Way of thinking about data</a> | Explanation & Implications |
 |:--------|:---------------------------------------------------|
 | Data as property|Data can be considered as a possession. This highlights issues of ownership, responsibility, liability and theft.|
 | Data as a source of information about you|Knowing that data contains encoded assertions about you and can be used to derive further conjectures enables thinking about how it might be exploited by others, but also how you can explore and use it yourself for reflection, asking questions, self-improvement and planning. It invites consideration of the right to access, data protection, and issues around accuracy, fairness and misinterpretation / misuse.|
@@ -462,6 +461,6 @@ This table is referenced and contextualised in section [7.2.1](#7.2.1).
 | Data as currency|Many data-centric services require data to be sacrificed in exchange for access to functionality, and some businesses now explicitly enable you to sell your own data. This lens highlights that data can be thought of as a tradable asset, and invites consideration of issues of data's worth, individual privacy, exploitation and loss of control.|
 | Data as a medium for thinking, communicating and expression|Some people collect and organise data into curated collections, or use it to convey facts and ideas, to persuade or to evoke an emotional impact. This lens is useful to consider data uses such as lists, annotation, curation, editing, remixing, visualisation and producing different views of data for different audiences.|
 
-Table: Table ARI.3 - **Eight Lenses on Personal Data**.
+Table: Table ARI7.1 - **Eight Lenses on Personal Data**.
 
 ---
