@@ -59,4 +59,4 @@ cut from c7 intro
 The shape this chapter takes is to  then to to illustrate what specific **obstacles** and **opportunities** are relevant when attempting to pursue those objectives, as well as to highlight specific **designerly insights** that are relevant.
 
 
- In 7.4.1 I introduce the concept of , which are used as a framing device for structuring the four approaches to pursuing change that follow in 7.4.2 to 7.4.5. Each for these four approach sections is modelled as a different possible trajectories for change.
+ In 9.1 I introduce the concept of , which are used as a framing device for structuring the four approaches to pursuing change that follow in 9.2 to 9.5. Each for these four approach sections is modelled as a different possible trajectories for change.

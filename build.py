@@ -35,7 +35,6 @@ def buildThesis(format):
     for i in range(getChapterCount()):
         args.append("src/chapter-{}.md".format(i+1))
 
-
     # Finish the bulk of arguments
     args.append("src/bibliography.md") # this always comes last after the chapters
     args.extend(["-s", "--toc", "--toc-depth=3", "--self-contained", "--number-sections", "--top-level-division=chapter", "--citeproc", "--output={}{}".format(outputPath, filename)])
@@ -156,11 +155,15 @@ def buildCoversheet(outputPath):
         elif chap==5:
             item["title"]="5 Case Study Two: The Human Experience of GDPR"
         elif chap==6:
-            item["title"]="6 Discussion I: An Understanding of Human Data Relations"
+            item["title"]="6 Discussion: An Understanding of Human Data Relations"
         elif chap==7:
-            item["title"]="7 Discussion II: Designing and Pursuing Better Human Data Relations"
+            item["title"]="7 Defining a New Field: Human Data Relations"
         elif chap==8:
-            item["title"]="8 Conclusion"
+            item["title"]="8 Mapping the Human Data Relations Landscape"
+        elif chap==9:
+            item["title"]="9 Practical Approaches to Improve HDR"
+        elif chap==10:
+            item["title"]="10 Conclusion"
         else:
             item["title"] = "Chapter {}".format(chap)
 
@@ -246,10 +249,10 @@ def buildWebsiteHtmlOnly():
 
 # Returns a count of all chapters, used in loops to manipulate chapters dynamically
 def getChapterCount():
-    pattern = "chapter-[0-9]*.md"
+    #pattern = "chapter-[0-9]*.md"
 
-    return len(glob.glob("{}/{}".format(SRC_PATH, pattern)))
-
+    #return len(glob.glob("{}/{}".format(SRC_PATH, pattern)))
+    return 10;
 
     # deploy it to github pages
     #print("\nStashing any changes so we don't commit them...");

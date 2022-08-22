@@ -8,12 +8,12 @@ Despite seeing further potential for smarter, more helpful computer systems thro
 
 
 The HDR field is then explored and understood through the two research questions RQ1 [[3.3.1](#RQ1)] and RQ2 [[3.3.2](#RQ2)]. Both RQs are explored through participatory research and qualitative data analysis across the two contexts of [Chapter 4](#chapter-4) and [Chapter 5](#chapter-4), contributing to a synthesis in [Chapter 6](#chapter-6) of what people want in direct data interaction [RQ1, [6.1](#6.1)] and in relationships that involve the use of personal data by the other party [RQ2, [6.2](#6.2)].
-Finally in Chapter 7, the field of HDR is refined [[7.2](#7.2)], and a landscape of possible approaches to improve HDR is mapped out, including the identification of specific obstacles to progress [[7.3](#7.3)] and possible approaches that could be explored [[7.4](#7.3)].
+Finally in Chapter 7, the field of HDR is refined [[7.2](#7.2)], and a landscape of possible approaches to improve HDR is mapped out, including the identification of specific obstacles to progress [[8](#8)] and possible approaches that could be explored [[9](#8)].
 
 
 
 
-, including the identification of specific obstacles to progress [[7.3](#7.3)] and possible approaches that could be explored [[7.4](#7.3)].
+, including the identification of specific obstacles to progress [[8](#8)] and possible approaches that could be explored [[9](#8)].
 
 The goal of this thesis is to set the stage for future research and innovation in the newly-defined space of Human Data Relations. While evaluating methods and approaches 'in the wild' was well-beyond the scope of this thesis, my involvement in external research settings allowed a broad and grounded understanding of the HDR landscape and its practicalities to be formed, such that the landscape can be mapped from multiple perspectives.
 

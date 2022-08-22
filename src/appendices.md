@@ -31,39 +31,39 @@ Indirect Data Relations:
 
 ### HDR Objectives {.unnumbered .unlisted}
 
-The objectives are introduced in [7.2.4](#7.2.4). They are explored in 7.3:
+The objectives are introduced in [7.2.4](#7.2.4). They are explored in [Chapter 8](#chapter-8)]:
 
-  Objective 1. Data Awareness & Understanding - [7.3.1](#7.3.1)<br/>
-  Objective 2. Data Useability<sup>[10](#fn10)</sup> - [7.3.2](#7.3.2)<br/>
-  Objective 3. Data Ecosystem Awareness & Understanding - [7.3.3](#7.3.3)<br/>
-  Objective 4. Data Ecosystem Negotiability - [7.3.4](#7.3.4)<br/>
-  Objective 5. Effective, Commercially Viable and Desirable HDR Systems - [7.3.5](#7.3.5)
+  Objective 1 - Data Awareness & Understanding - [8.1](#8.1)<br/>
+  Objective 2 - Data Useability<sup>[10](#fn10)</sup> - [8.2](#8.2)<br/>
+  Objective 3 - Data Ecosystem Awareness & Understanding - [8.3](#8.3)<br/>
+  Objective 4 - Data Ecosystem Negotiability - [8.4](#8.4)<br/>
+  Objective 5 - Effective, Commercially Viable and Desirable HDR Systems - [8.5](#8.5)
 
 ### HDR Obstacles {.unnumbered .unlisted}
 
-The obstacles are collectively shown in [Figure 7.3](#figure-7.3) and are explained in the following subsections of 7.3:
+The obstacles are collectively shown in [Figure 7.3](#figure-7.3) and are explained in the following subsections of [Chapter 8](#chapter-8)]:
 
-  - Closed, Insular and Introspective Practices - [7.3.5](#obstacle-self-interest-interop)
-  - Complex and Invisible Personal Data Ecosystems - [7.3.3](#obstacle-complex-invisible-eco)
-  - Diminishing Individual Agency - [7.3.4](#7.3.4.2)
-  - Data Holder Hegemony - [7.3.4](#7.3.4.1)
-  - Immobile Data - [7.3.2](#obstacle-immobile-inaccessible-unmalleable)
-  - Inaccessible Data - [7.3.1](#obstacle-inaccessible-unrelatable-invisible),  [7.3.2](#obstacle-immobile-inaccessible-unmalleable)
-  - Insufficient Machine Understanding of Human Data - [7.3.5](#obstacle-lack-machine-understanding)
-  - Intractable Data Self, the - [7.3.4](#7.3.4.3)
-  - Invisible Data - [7.3.1](#obstacle-inaccessible-unrelatable-invisible)
-  - Lack of Metadata - [7.3.3](#obstacle-lack-metadata)
-  - Lack of Individual Demand - [7.3.5](#obstacle-demand)
-  - Lack of Interoperability - [7.3.5](#obstacle-self-interest-interop)
-  - Lack of Provider Investment - [7.3.5](#obstacle-self-interest-interop)
-  - Non-Interrogable Data - [7.3.2](#obstacle-immobile-inaccessible-unmalleable)
-  - Personal Data Diaspora, the - [7.3.1](#obstacle-diaspora)
-  - Unmalleable Data - [7.3.2](#obstacle-immobile-inaccessible-unmalleable)
-  - Unrelatable Data - [7.3.1](#obstacle-inaccessible-unrelatable-invisible)
+  Closed, Insular and Introspective Practices - [8.5.2](#8.5.2)<br/>
+  Complex and Invisible Personal Data Ecosystems - [8.3.1](#8.3.1)<br/>
+  Diminishing Individual Agency - [8.4.2](#8.4.2)<br/>
+  Data Holder Hegemony - [8.4.1](#8.4.1)<br/>
+  Immobile Data - [8.2.1](#8.2.1)<br/>
+  Inaccessible Data - [8.1.1](#8.1.1),  [8.2.1](#8.2.1)<br/>
+  Insufficient Machine Understanding of Human Data - [8.5.4](#8.5.5)<br/>
+  Intractable Data Self, the - [8.4.3](#8.4.3)<br/>
+  Invisible Data - [8.1.1](#8.1.1)<br/>
+  Lack of Metadata - [8.3.2](#8.3.2)<br/>
+  Lack of Individual Demand - [8.5.1](#8.5.1)<br/>
+  Lack of Interoperability - [8.5.4](#8.5.4)<br/>
+  Lack of Provider Investment - [8.5.3](#8.5.3)<br/>
+  Non-Interrogable Data - [8.2.1](#8.2.1)<br/>
+  Personal Data Diaspora, the - [8.1.2](#8.1.2)<br/>
+  Unmalleable Data - [8.2.1](#8.2.1)<br/>
+  Unrelatable Data - [8.1.1](#8.1.1)
 
-### HDR Insights {#hdr-insights .unnumbered .unlisted}
+### HDR Insights {#hdr-glossary-insights .unnumbered .unlisted}
 
-Insights in [7.3](#7.3):
+Insights in [Chapter 8](#chapter-8):
 
 [Insight 1](#insight-1) - Life Information Makes Data Relatable.<br/>
 [Insight 2](#insight-2) - Data Needs to be United and Unified.<br/>
@@ -74,7 +74,7 @@ Insights in [7.3](#7.3):
 [Insight 7](#insight-7) - Human-centred Information Systems Must Serve Human Values, Relieve Pain and Deliver New Life Capabilities.<br/>
 [Insight 8](#insight-8) - We Need to Teach Computers to Understand Human Information.<br/>
 
-Insights in [7.4](#7.4):
+Insights in [Chapter 9](#chapter-9):
 
 [Insight 9](#insight-9) - Individual GDPR Requests can Compel Companies to Change Data Practices.<br/>
 [Insight 10](#insight-10) - Collectives can Compare and Unify their Data and Use it to Demand Change.<br/>
@@ -84,61 +84,76 @@ Insights in [7.4](#7.4):
 
 ### HDR Approaches {.unnumbered .unlisted}
 
-The four approaches are collectively summarised in [7.5](#7.5), and illustrated and explained individually in subsections of [7.4](#7.4):
+The four approaches are collectively summarised in [9.6](#9.6), and explained and illustrated as follows:
 
-[Approach 1](#7.4.2). Discovery-Driven Activism - [7.4.2](#7.4.2)<br/>
-[Approach 2](#7.4.3). Building the Human-centric Future - [7.4.3](#7.4.3)<br/>
-[Approach 3](#7.4.4). Defending User Autonomy and Hacking the Information Landscape - [7.4.4](#7.4.4)<br/>
-[Approach 4](#7.4.5). Teaching, Championing and Selling the HDR Vision - [7.4.5](#7.4.5)
+[Approach 1](#9.2) - Discovery-Driven Activism - [9.2](#9.2), [Figure 9.2](#figure-9.2)<br/>
+[Approach 2](#9.3) - Building the Human-centric Future - [9.3](#9.3), [Figure 9.3](#figure-9.3)<br/>
+[Approach 3](#9.4) - Defending User Autonomy and Hacking the Information Landscape - [9.4](#9.4), [Figure 9.19](#figure-9.19)<br/>
+[Approach 4](#9.5) - Teaching, Championing and Selling the HDR Vision - [9.5](#9.5), [Figure 9.21](#figure-9.21)
 
-### Contributions and Major Concepts of This Thesis {.unnumbered .unlisted}
+### Thesis Contributions {.unnumbered .unlisted}
 
-<br/>Auditing Data Holders - [7.4.2](#flow-audit)<br/>
-Categories of Family Civic Data - [ARI4.1](#ari-fcd-types)<br/>
-Categories of Personal Data - [Figure 3.6](#figure-3.6)<br/>
-Data Access & Understanding Services - [7.4.2](#daus), [7.4.4](#7.4.4)<br/>
-Data Literacy in an HDR Context - see HDR Literacy<br/>
-Data Cards - [Figure 3.5](#figure-3.5), [3.5.2](#3.5.2), [4.2.1](#4.2.1); [4.4.2](#4.4.2), @bowyer2018family <br/>
-Data Wants - [Chapter 6](#chapter-6)<br/>
-Data Relations, Direct - [6.1](#6.1)<br/>
-Data Relations, Indirect - [6.2](#6.2)<br/>
-Digital Self Curation - [4.4.3](#4.4.3), [5.5.2](#5.5.2), [6.3](#6.3)<br/>
-Ecosystem Detection - [Insight 4](#insight-4)<br/>
-Ecosystem Information - [7.2.4](#7.2.4), [Insight 4](#insight-4)<br/>
-Ecosystem Information Display - [Insight 4](#insight-4)<br/>
-Ecosystem Negotiability - [7.2.4](#7.2.4), [7.3.4](#7.3.4)<br/>
-Empowerment (in the context of data wants)** - [6.3](#6.3)<br/>
-Family Design Games - see @bowyer2018family <br/>
-Family Facts - see @bowyer2018family <br/>
-Free Data Interfaces - @bowyer2018freedata <br/>
-Human Data Relations (HDR) - [7.2](#7.2)<br/>
-HDR Literacy - [7.4.5](#7.4.5.1)<br/>
-HDR Wants - see Data Wants<br/>
-Human Information Operating System - [7.3.2](#info-os)<br/>
-Human Information - see Life Information and Ecosystem Information<br/>
-Inclusive Data Flows - [7.4.3](#7.4.3.5)<br/>
-Information Standards - [5.5.1](#5.5.1), [7.3.5](#7.3.5)<br/>
-Landscape of HDR Opportunity - [Figure 7.3](#figure-7.3), [7.4](#7.4), [Figure 7.36](#figure-7.36)<br/>
-Life Concepts - [7.3.1](#7.3.1)<br/>
-Life Information Utilisation - [7.2.3](#7.2.3.1), [Figure 7.1](#figure-7.1)<br/>
-Life Information - [Insight 1](#insight-1)<br/>
-Life Interface Design - [7.4.3](#7.4.3.1)<br/>
-Life Partitioning - [7.4.3](#7.4.3.2)<br/>
-Locus of Decision Making (LDM) - [4.4.3](#4.4.3)<br/>
-Meaning in Data - [Figure 2.1](#figure-2.1), [4.3.2](#4.3.2), [5.4.2](#5.4.2), [6.1.2](#6.1.2), [Insight 1](#insight-1)<br/>
-Perceived Individual Power - [5.3.4](#5.3.4)<br/>
-Personal Data Diaspora, the - [7.3.1](#obstacle-diaspora)<br/>
-Personal Data Ecosystem Control - [7.2.3](#7.2.3.2), [Figure 7.1](#figure-7.1)<br/>
-Personal Data as a Proxy for Involvement - [5.4.4](#5.4.4.1), @bowyer2018family <br/>
-Personal Data Stewardship - [4.3.3](4.3.3.4), [5.6](#5.6)<br/>
-Pushing the Seams - [Insight 12](#insight-12)<br/>
-Proxy Representations of Immobile Data - [Insight 4](#insight-4)<br/>
-Shared Data Interaction - [4.2.4](#4.2.4)<br/>
-Surface Information Injustices - [7.4.5](#7.4.5.1), [Insight 12](#insight-12)<br/>
-Storyboarding Action Cards - [ARI4.3](#ari-storyboarding)<br/>
-Trust - [4.3.4](#4.3.4), [4.4.1](#4.4.1.1), [5.3.4](#5.3.4), [5.4.4](#5.4.4.1), [6.2.1](#want-i1), [Insight 13](#insight-13)<br/>
-Types of Personal Data (by origin) - [Table 5.2](#table-5.2)<br/>
-Useability<sup>[10](#fn10)</sup> (as distinct from Usability) - [6.1.3](#6.1.3)]
+[Contribution C1](#c1) - An understanding of What People Want in Direct Data Relations
+[Contribution C2](#c2) - An Understanding of What People Want in Indirect Data Relations
+[Contribution C3](#c3) - The Synthesis and Formulation of the Field of Human Data Relations (HDR)
+[Contribution C4](#c4) - A clear delineation of two primary motivators for individuals seeking better HDR
+[Contribution C5](#c5) - A map of the HDR landscape, identifying obstacles and insights
+[Contribution C6](#c6) - Four identified trajectories for advancing Human Data Relations
+[Contribution C7](#c7) - A reframing of data literacy for the HDR space
+[Contribution C8](#c8) - Validation and enumeration of supported families' attitudes and needs around civic data
+[Contribution C9](#c9) - _Shared Data Interaction_ - A proposed model for more efficient and empowering social support relationships that embraces human-centricity
+[Contribution C10](#c10) - A model to understand the five different origins of held personal data
+[Contribution C11](#c11) - A rich understanding of the lived experience of accessing data using GDPR rights and of motivations for GDPR data access
+[Contribution C12](#c12) - Evidence for the impact of knowledge about data handling practices on provider trust and perceived individual power
+[Contribution C13](#c13) - Guidance for policymakers, data holders and individuals on how to improve HDR
+[Contribution C14](#c14) - A proto-methodology for educating individuals about held data, data access and the data ecosystem
+
+### Major Concepts of This Thesis {.unnumbered .unlisted}
+
+**Auditing Data Holders** - [9.2.2](#9.2.2)<br/>
+**Categories of Family Civic Data** - [ARI4.1](#ari-fcd-types)<br/>
+**Categories of Personal Data** - [Figure 3.6](#figure-3.6)<br/>
+**Data Access & Understanding Services** - [9.2.4](#9.2.4), [9.4](#9.4)<br/>
+**Data Literacy in an HDR Context** - see HDR Literacy<br/>
+**Data Cards** - [Figure 3.5](#figure-3.5), [3.5.2](#3.5.2), [4.2.1](#4.2.1), [4.4.2](#4.4.2), @bowyer2018family <br/>
+**Data Wants** - [Chapter 6](#chapter-6)<br/>
+**Data Relations, Direct** - [6.1](#6.1)<br/>
+**Data Relations, Indirect** - [6.2](#6.2)<br/>
+**Digital Self Curation** - [4.4.3](#4.4.3), [5.5.2](#5.5.2), [6.3](#6.3)<br/>
+**Ecosystem Detection** - [Insight 4](#insight-4)<br/>
+**Ecosystem Information** - [7.2.4](#7.2.4), [Insight 4](#insight-4)<br/>
+**Ecosystem Information Display** - [Insight 4](#insight-4)<br/>
+**Ecosystem Negotiability** - [7.2.4](#7.2.4), [8.4](#8.4)<br/>
+**Empowerment (in the context of data wants)** - [6.3](#6.3)<br/>
+**Free Data Interfaces** - @bowyer2018freedata <br/>
+**Hacking the Seams** - [Insight 12](#insight-12)<br/>
+**Human Data Relations (HDR)** - [7.2](#7.2)<br/>
+**HDR Literacy** - [9.5.1](#9.5.1)<br/>
+**HDR Wants** - see Data Wants<br/>
+**Human Information Operating System** - [8.2](#info-os)<br/>
+**Human Information** - see Life Information and Ecosystem Information<br/>
+**Inclusive Data Flows** - [9.3.5](#9.3.5)<br/>
+**Information Standards** - [5.5.1](#5.5.1), [8.5](#8.5)<br/>
+**Landscape of HDR Opportunity** - [Figure 7.3](#figure-7.3), [9](#9), **[Figure 9.23](#figure-9.23)<br/>
+**Life Concepts** - [8.1.1](#8.1.1)<br/>
+**Life Information Utilisation** - [7.2.3](#7.2.3.1), [Figure 7.1](#figure-7.1)<br/>
+**Life Information** - [Insight 1](#insight-1)<br/>
+**Life Interface Design** - [9.3.1](#9.3.1)<br/>
+**Life Partitioning** - [9.3.2](#9.3.2)<br/>
+**Locus of Decision Making (LDM)** - [4.4.3](#4.4.3)<br/>
+**Meaning in Data** - [Figure 2.1](#figure-2.1), [4.3.2](#4.3.2), [5.4.2](#5.4.2), [6.1.2](#6.1.2), [Insight 1](#insight-1)<br/>
+**Perceived Individual Power** - [5.3.4](#5.3.4)<br/>
+**Personal Data Diaspora, the** - [8.1.2](#8.1.2)<br/>
+**Personal Data Ecosystem Control** - [7.2.3](#7.2.3.2), [Figure 7.1](#figure-7.1)<br/>
+**Personal Data as a Proxy for Involvement** - [5.4.4](#5.4.4.1), @bowyer2018family <br/>
+**Personal Data Stewardship** - [4.3.3](4.3.3.4), [5.6](#5.6)<br/>
+**Proxy Representations of Immobile Data** - [Insight 4](#insight-4)<br/>
+**Shared Data Interaction** - [4.2.4](#4.2.4)<br/>
+**Surface Information Injustices** - [9.5.1](#9.5.1), [Insight 12](#insight-12)<br/>
+**Storyboarding Action Cards** - [ARI4.3](#ari-storyboarding)<br/>
+**Trust - [4.3.4](#4.3.4), [4.4.1](#4.4.1.1), [5.3.4](#5.3.4), [5.4.4](#5.4.4.1), [6.2.1](#want-i1), [Insight 13](#insight-13)<br/>
+**Types of Personal Data (by origin)** - [Table 5.2](#table-5.2)<br/>
+**Useability**<sup>[10](#fn10)</sup> (as distinct from Usability) - [6.1.3](#6.1.3)]
 
 Glossary of Pre-Existing Abbreviations, Names and Terms {#glossary .unnumbered}
 ========================================================

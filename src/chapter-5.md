@@ -1,5 +1,5 @@
 Case Study Two: The Human Experience of GDPR {#chapter-5}
-=============================================
+=========================================================
 
 > _"The Crystal Wind is the storm, and the storm is data, and the data is life.<br/>You have been slaves, denied the storm, denied the freedom of your data.<br/>That is now ended; the whirlwind is upon you . . . . . . Whether you like it or not."_<br/> — from _'The Long Run: A Tale of the Continuing Time'_ by Daniel Keys Moran (computer programmer and science fiction writer)
 
