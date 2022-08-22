@@ -437,7 +437,7 @@ This is a note about the attribution of insights within [Chapter 7](#chapter-7),
 This thesis is my own work. All ideas in Chapter 7 are original. Some of the specific details, theories and ideas presented in Chapter 7 arose or were developed or augmented through my close collaboration, discussion and ideation with other researchers both alongside and prior to the PhD timeframe, including:
 
   - Jasmine Cox, Suzanne Clarke, Tim Broom, Rhianne Jones, Alex Ballantyne and others at BBC R&D;
-  - Paul-Olivier Dehaye, Jessica Pidoux, Francois Quellec at Hestia.ai;
+  - Paul-Olivier Dehaye, Jessica Pidoux, Francois Quellec aand others at Hestia.ai;
   - Stuart Wheater of Arjuna Technologies and Kyle Montague of Open Lab during the SILVER project;
   - Louis Goffe of Open Lab on the DERC Healthy Eating project;</li>
   - earlier innovation work with Alistair Croll at Rednod, Montréal, Canada (circa 2011); and
