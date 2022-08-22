@@ -33,7 +33,7 @@ As established [[3.2.2](#3.2.2); [3.6](#3.6); [7.1.1](#7.1.1)], this chapter des
 Concurrent to this PhD, I took a major role in two industrial research projects (1 & 2), and two academic research projects (3 & 4):
 
   1. **BBC R&D's Cornmarket Project** [@sharp2021], which explored through user experience design, technical prototyping and participatory research, how individuals might interact with data through a Personal Data Store interface [see [ARI7.1](#additional-bbc)];
-  2. **SITRA/Hestia.ai's digipower Project** [@härkönen2022project], a successor to Case Study Two, in which European politicians examined companies' data practices through exercising data rights and conducting technical audits [see [ARI7.2](#additional-digipower)];
+  2. **Sitra/Hestia.ai's digipower Investigation** [@härkönen2022project], a successor to Case Study Two, in which European politicians examined companies' data practices through exercising data rights and conducting technical audits [see [ARI7.2](#additional-digipower)];
   3. **Connected Health Cities (CHC)'s SILVER Project** [@ConnectedHealthCities2017silver], where I, along with a backend developer and a team of researchers, developed a prototype health data viewing interface for Early Help support worker [see [3.4.1](#3.4.1.1)]; and
   4. **Digital Economy Research Centre (DERC)'s Healthy Eating Web Augmentation Project**, which explored the use of web augmentation techniques to modify the user interface of takeaway service Just Eat to insert health information, in support of healthy eating [see [ARI7.3](#additional-derc)].
 
