@@ -50,13 +50,13 @@
     <choose>
       <if type="chapter paper-conference" match="none">
         <names variable="editor translator" delimiter=". ">
-          <label form="verb" text-case="capitalize-first" suffix=" "/>
+          <label form="verb" suffix=" "/>
           <name and="text" initialize-with=". " delimiter=", "/>
         </names>
       </if>
       <else-if variable="container-author" match="any">
         <names variable="editor translator" delimiter=". ">
-          <label form="verb" text-case="capitalize-first" suffix=" "/>
+          <label form="verb" suffix=" "/>
           <name and="text" initialize-with=". " delimiter=", "/>
         </names>
       </else-if>
@@ -105,10 +105,10 @@
         <text variable="DOI" prefix="doi: "/>
       </if>
       <else-if variable="URL">
-        <text term="available at" suffix=": " text-case="capitalize-first"/>
+        <text term="available at" suffix=": "/>
         <text variable="URL"/>
         <group prefix=" (" delimiter=": " suffix=")">
-          <text term="accessed" text-case="capitalize-first"/>
+          <text term="accessed"/>
           <date form="text" variable="accessed">
             <date-part name="day"/>
             <date-part name="month"/>
