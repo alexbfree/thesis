@@ -61,16 +61,16 @@ Today, almost anything can be encoded as data. Many previously analogue objects 
 
 People may think of their personal data through any or all of these _lenses_ [@karger2005; [2.2.2](#2.2.2.5)] at any given time. Any data interaction process or interface design should take these into account. Different informational representations might be needed at different times [@lindley2018], bringing different aspects of the data to the forefront. Looking across these lenses, I identify four specific _roles_ that data can serve:
 
-1. Data has a role as an **artifact of value** to your life;
+1. Data has a role as an **artefact of value** to your life;
 2. Data has a role in **informing** you about yourself, the world, and the prior or recent actions of others that may affect you;
 3. Data has a role as **a useable<sup>[10](#fn10)</sup> material with which to effect change** in your life;
 4. Data has a role as **a means to monitor changes** in data holders' behaviours, in digital influences upon you, or within your life.
 
 ### Human Data Interaction or Human Information Interaction?{#7.2.2}
 
-To unpack HDR further, we must differentiate between humans relating to data, and humans relating to information. HDI concerns the way people interact with data. Mortier _et al._  [@mortier2013; @mortier2014] defined the field of HDI without making the important distinction between data (the digital artifact stored on computer) and information (the facts or assertions available from that data). This is an important distinction. _Human Information Interaction (HII)_ originated in library sciences to consider how humans relate to information without regard to the technologies involved [@marchionini2008]. Jones _et al._ called for a new sub-field of HII in an HCI context[^12], highlighting the need to focus on information interaction:
+To unpack HDR further, we must differentiate between humans relating to data, and humans relating to information. HDI concerns the way people interact with data. Mortier _et al._ [@mortier2013; @mortier2014] defined the field of HDI without making the important distinction between data (the digital artefact stored on computer) and information (the facts or assertions available from that data). This is an important distinction. _Human Information Interaction (HII)_ originated in library sciences to consider how humans relate to information without regard to the technologies involved [@marchionini2008]. Jones _et al._ called for a new sub-field of HII in an HCI context[^12], highlighting the need to focus on information interaction:
 
-> _"_[HCI can] _unduly focus attention on the computer when, for most people, the computer is a means to an end—the effective use of information."_—[@jones2006]
+> _"_[HCI can] _unduly focus attention on the computer when, for most people, the computer is a means to an end—the effective use of information."_—@jones2006
 
 DIKW theory [[2.1.1](#2.1.1)] highlights that interpretation of data to obtain information is a discrete activity. This was borne out in the findings of Case Study Two, where it became clear that participants have distinct needs from data, and from information [[5.4.3](#5.4.3.2)]. Access to data _and_ information is critical to both understanding and useability [[6.1.2](#6.1.2); [6.1.3](#6.1.3)].
 
@@ -131,7 +131,7 @@ Let us revisit the stance from which we approach this change. This PhD has been 
 
 In this, we can consider ourselves (those who pursue better HDR, or _HDR reformers_ as a shorthand) as a nascent _recursive public_ [@p2pwikiRecursivePublic]. This term originates in the free software movement to describe:
 
-> _'a collective, independent of other forms of constituted power, capable of speaking to existing forms of power through the production of actually existing alternatives'_-[@kelty2008]
+> _'a collective, independent of other forms of constituted power, capable of speaking to existing forms of power through the production of actually existing alternatives'_-@kelty2008
 
 Being a recursive public means using various means at our disposal to seek to modify the systems and practices we live within in pursuit of our goals. These methods might include participatory research, experience-centred design, software prototyping, rights exertion and campaigning.
 
@@ -203,7 +203,7 @@ To overcome these obstacles, data must be freed from its current constraints and
 |:-------------------------------------------------|
 | It is clear that better HDR involves recognising this splintered reality [@lemley2021] and moving beyond it. To make data useable for individuals, the diaspora must be united. This means that data from different sources must first be **united**—brought together—and then **unified**, which means making it into a collection of data about the individual and their life, rather than scattered slices of company data that may have secondary value to the individual. This is a multi-faceted sociotechnical problem of access, interpretation and _integration_ [@li2010; [[2.2.3](#2.2.3)]]. Negotiability remains important; we can only unite data that we can access, and only data holders can fully explain it [see [7.3.3](#7.3.3) and [7.3.4](#7.3.4)]. Setting that aspect aside, the pragmatic way forward begins with creating a space where data can be held, combined, controlled and **owned** by the individual - _'a place for your personal data'_ [@jones2011pim,[[2.2.4](#2.2.4)]]. This can form the seed of their new human-centric personal data ecosystem. This follows Bergman's _subjective classification principle_: |
 
-> _'All related items should be classified together regardless of technological format'_—[@bergman2003]
+> _'All related items should be classified together regardless of technological format'_—@bergman2003
 
 | (continues…)|
 |:--|
@@ -316,11 +316,11 @@ Structural power is not the only form of power which modern-day data-centric ser
 
 | **INSIGHT 6: Data Holders use Four Levers of Infrastructural Power** |{#insight-6}
 | :------------------------------------------------ |
-| Hestia.ai [[ARI7.2](#ari-7.2-digipower)] have produced a model to explain the mechanisms by which technology companies gain power and use it to shape today's digital landscape. In this model, _infrastructural power_ comes from three things: |
+| Hestia.ai [[ARI7.2](#ari-digipower)] have produced a model to explain the mechanisms by which technology companies gain power and use it to shape today's digital landscape. In this model, _infrastructural power_ comes from three things: |
 
-_**technical ability**_,
-_**organisational ability**_, and
-_**the acquisition of data about individuals and populations**_.
+  - _technical ability_,
+  - _organisational ability_, and
+  - _the acquisition of data about individuals and populations_.
 
 | (continues…)|
 |:--|
@@ -342,7 +342,7 @@ _**the acquisition of data about individuals and populations**_.
 
 The second major obstacle to ecosystem negotiability is that platformisation and power exertion are not a one-off transition, but rather an ongoing process. Today's platforms exhibit **a continuing trend of actively diminishing individuals' agency**, especially in the last decade. When software was sold in a box, manufacturers competed based upon which product would let the user take home the greatest range of features and capabilities. New releases with new features drove new product sales. But in the cloud computing era, a smaller set of core features done well is sufficient to guarantee an ongoing subscription revenue from a user. Cost savings in development and support costs can be made by reducing feature sets. Constrained, compliant users are easier to manage. The relentless pursuit of increased profits and further cost saving sees products lose, not gain, features. Interfaces are reshaped to serve businesses' interests first and foremost. Providers' focus on making user behaviours constrained, predictable and profitable, more than meeting their needs or providing maximal value [[2.3.5](#2.3.5)]. Plantin _et al._ describe the particular harmful influence on the ecosystem of Facebook's power exertions:
 
-> _"Facebook is a formidable force in a profit-motivated platformisation which is beginning to eat away at the Open Web.  This entails moving away from published URIs and open HTTP transactions in favour of closed apps that undertake hidden transactions with Facebook through a Facebook-controlled API."_—[@plantin2018]
+> _"Facebook is a formidable force in a profit-motivated platformisation which is beginning to eat away at the Open Web.  This entails moving away from published URIs and open HTTP transactions in favour of closed apps that undertake hidden transactions with Facebook through a Facebook-controlled API."_—@plantin2018
 
 Here are just a few examples of the ways in which users' agency has been, and continues to be, diminished:
 
@@ -356,7 +356,7 @@ Here are just a few examples of the ways in which users' agency has been, and co
 
 Unchecked, trends to reduce users' agency and further providers' interests at the expense of human autonomy are likely to continue. Today's data-centric systems suffer from a lack of consideration to individual welfare. Data centricity encourages neglect of the human end user perspective, creating potential for harm:
 
-> _"There are certain things you do not in good conscience do to humans. To data, you can do whatever you like."_—[@sonnad2022]
+> _"There are certain things you do not in good conscience do to humans. To data, you can do whatever you like."_—@sonnad2022
 
 The trend to diminish users' agency is needs explicit targeting if data interfaces are to become more free-flowing [@bowyer2018freedata], and if ecosystem negotiability is to be realised. Somehow, the trend needs to be halted, before it can be reversed. The TikTok example suggests this can only be achieved through regulatory changes.
 
@@ -374,7 +374,7 @@ The previous four subsections considered the obstacles to the HDR objectives [[7
 
 Customers are not demanding HDR capabilities in their lives, and, all but the most socially-responsible businesses do not see value in an approach that runs so contrary to current business models, based as they are on data accumulation and the constraining of customer experiences.
 
-Data is overwhelming, complex, and 'sounds boring'. Engaging with your personal data economy to any degree more than that of passive consumer is hard work. People routinely accept data sacrifice, click through T&Cs and cookie banners and are unwilling (or in some cases lack sufficient technical literacy, comprehension or skill) to do the work of asserting control over their digital lives. There is not a clear demand for holistic and novel ways of managing your digital life and exerting agency and negotiability over it. Across both Case Studies and the PDS work at BBC R&D, it was clear that even if new **human-centric information systems** and more inclusive service interaction practices could be created, we cannot assume that people will be inclined to use them in great numbers, especially not if it seems like hard work or not worthwhile. This can be seen as an obstacle that affects all HDR improvement approaches we see, and indeed is why many companies in the emergent PDE economy [[2.3.4](#2.3.4)] struggle to find a business model - while there are clear benefits, better HDR does not appear to something that a mainstream audience would be directly be willing to pay for. But this should not deter disruptive innovation nor does it indicate that such offerings would not be useful. As automobile pioneer Henry Ford famously said, _"If I had asked people what they wanted, they would have said faster horses."_ Nonetheless, it is a clear overarching obstacle to overcome.
+Data is overwhelming, complex, and 'sounds boring'. Engaging with your personal data economy to any degree more than that of passive consumer is hard work. People routinely accept data sacrifice, click through T&Cs and cookie banners and are unwilling (or in some cases lack sufficient technical literacy, comprehension or skill) to do the work of asserting control over their digital lives. There is not a clear demand for holistic digital life management and control. Research in this this and at Cornmarket suggests that even if human-centric information systems and more inclusive service interaction practices emerged, people would not be inclined to use them in great numbers. It could seem like hard work or not worthwhile. This obstacle that affects all HDR improvement approaches. Indeed is why many companies in the emergent PDE economy [[2.3.4](#2.3.4)] struggle to find a business model. There are clear benefits, but better HDR does not appear to something a mainstream audience will pay for. This should not deter disruptive innovation nor diminish the potential value for such tools. As automobile pioneer Henry Ford famously said, _"If I had asked people what they wanted, they would have said faster horses."_ Nonetheless, it is a clear overarching obstacle, which [Insight 7](#insight-7) attempts to address.
 
 | **INSIGHT 7: Human-centred Information Systems must serve Human Values, Relieve Pain and Deliver New Life Capabilities** | {#insight-7}
 | :------------------------------------------------------------ |
@@ -667,7 +667,7 @@ The reason that seams are so important, is that because they a point of friction
 
 It is too early to evaluate exactly what these laws will change or what their impact will be, but HDR reformers should observe carefully: they will almost certainly play as pivotal a role in protecting the information landscape as the GDPR has in opening up data access to individuals.
 
-In this approach, I have highlighted how important it is for HDR reformers to **seize and harness the powers we are given, and fight to hold onto them**. Groups of HDR reformers can combine development skills, innovation and disruptive design approaches to find and publicise new ways to circumvent providers' efforts to control and limit users' agency, and policymakers can prevent further erosion of individual agency through legislation and enforcement over the information landscape. As the popularised adage based on the words of John Philpot Curran and Thomas Jefferson goes, _"The price of freedom is eternal vigilance"_.
+In this approach, I have highlighted how important it is for HDR reformers to **seize and harness the powers we are given, and fight to hold onto them**. Groups of HDR reformers can combine development skills, innovation and disruptive design approaches to find and publicise new ways to circumvent providers' efforts to control and limit users' agency, and policymakers can prevent further erosion of individual agency through legislation and enforcement over the information landscape. As the popularised adage based on the words of John Philpot Curran and Thomas Jefferson goes, _'The price of freedom is eternal vigilance'_.
 
 ### Approach 4 to Improving HDR: Winning Hearts and Minds: Teaching, Championing and Selling the Vision{#approach-4}
 
