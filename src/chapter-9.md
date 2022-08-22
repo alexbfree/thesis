@@ -1,7 +1,7 @@
 Practical Approaches to Improve HDR {#chapter-9}
 ===================================
 
-> "The world is working exactly as designed. And it's not working very well. Which means we need to do a better job of designing it."—Mike Monteiro, author of _Ruined by Design: How Designers Destroyed the World, and What We Can Do to Fix It_
+> _"The world is working exactly as designed. And it's not working very well. Which means we need to do a better job of designing it."_—Mike Monteiro, author of _Ruined by Design: How Designers Destroyed the World, and What We Can Do to Fix It_
 
 [TODO mention adversarial design framing]
 

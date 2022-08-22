@@ -1,7 +1,7 @@
 Thesis Conclusion {#chapter-10}
 =================
 
-> "Our research should transform, not just inform, society." — Kingsley ofosu-Ampong, Researcher & Lecturer in Digital Transformation
+> _"Our research should transform, not just inform, society."_ — Kingsley ofosu-Ampong, Researcher & Lecturer in Digital Transformation
 
 Section [6.3](#6.3) concluded the academic inquiry part of the thesis with a clear answer to what sort of relationship people need with their personal data in order to be empowered - they need visible, understandable and useable data, as well as process transparency, individual oversight and decision-making involvement.
 

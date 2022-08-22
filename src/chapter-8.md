@@ -1,7 +1,7 @@
 Mapping the Human Data Relations Landscape {#chapter-8}
 ==========================================
 
-> "There are certain things you do not in good conscience do to humans. To data, you can do whatever you like."—Nikhil Sonnad, award-winning<br/>data journalist<br/>and technology commentator
+> _"There are certain things you do not in good conscience do to humans. To data, you can do whatever you like."_—Nikhil Sonnad, award-winning<br/>data journalist<br/>and technology commentator
 
 Considering how the four objectives [7.2.4](#7.2.4) might be tackled, specific _obstacles_ have been identified. Analogous to Li's _barriers cascade_ [[2.2.3](#2.2.3); @li2010], these are the challenges that individuals or system designers must be empowered to overcome. These obstacles, documented below, are accompanied by _insights_ that might help. [Figure 8.1](#figure-8.1) shows an HDR-specific barriers cascade: a route of overcoming obstacles through which individuals might be empowered and by which organisations might become more HDR-friendly.
 
