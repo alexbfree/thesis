@@ -270,7 +270,7 @@ Glossary of Pre-Existing Abbreviations, Names and Terms {#glossary .unnumbered}
 * **SAR - Subject Access Request** - [ADD SECTIONREF] [ADD DEFINITION]
 * **SI - Self Informatics** - Self Informatics [[ADD REF] () ]
 * **SILVER** - [ADD SECTIONREF] [ADD DEFINITION]
-* **SITRA** - [ADD SECTIONREF] [ADD DEFINITION]
+* **Sitra** - [ADD SECTIONREF] [ADD DEFINITION]
 * **Scraping** - [ADD SECTIONREF] [ADD DEFINITION]
 * **Seams** - [ADD SECTIONREF] [ADD DEFINITION]
 * **Subject Access Request** - [ADD SECTIONREF] [ADD DEFINITION]
