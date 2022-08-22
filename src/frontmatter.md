@@ -42,7 +42,7 @@ I would also like to thank, in no particular order:
   - Tom Nappey and Laura Pinzon Cardona for their assistance with graphic design;
   - Louis Goffe, Debbie Smart, Kat Jackson, Liam Spencer, Ruth McGovern and Kyle Montague for giving their time to help run workshops with participants in Case Study One;
   - Paul-Olivier Dehaye, Mike Martin, Soheil Human, Jasmine Cox, Peter Wells, Ian Forrester, Rhianne Jones, Tim Broom, Suzanne Clarke, Hannes Ricklefs, Max Leonard, Chris Gameson, Iain Henderson, Dalia Al-Shahrabi, Sarah Knowles, and Michael Jelly, all of whom I have had the pleasure to work with, ruminate with or learn from;
-  - Chris Lintott and everyone in the Oxford University/Zooniverse team for giving me the smoothest possible start in postgradute academia before this PhD;
+  - Chris Lintott and everyone in the Oxford University/Zooniverse team for giving me the smoothest possible start in postgraduate academia before I joined Open Lab;
   - Kellie Morrissey, Aare Puussaar, Andy Dow, Zander Wilson, Raghda Zahran, Michael Jelly, Jay Rainey, David Williams, Ben Wright, Paul Whittles, Jon Bowyer, and all the other lovely people who have encouraged me and supported me along the way on this journey; and
   - the research participants themselves, who shall remain nameless but without which this work could not exist.
 

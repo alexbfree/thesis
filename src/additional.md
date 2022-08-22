@@ -434,7 +434,7 @@ ARI7.4 Special Attribution Note for Chapter 7 {#ari-attribution .unnumbered}
 
 This is a note about the attribution of insights within [Chapter 7](#chapter-7), as the ideas originate quite differently than from the rest of the thesis.
 
-This thesis is my own work. All ideas in Chapter 7 are original. Some of the specific details, theories and ideas presented in Chapter 7 arose or were developed or augmented through my close collaboration, discussion and ideation with other researchers both alongside and prior to the PhD timeframe, including:
+This thesis is my own work. All ideas synthesised in Chapter 7 are original. Some of the specific details, theories and ideas presented in Chapter 7 arose or were developed or augmented through my close collaboration, discussion and ideation with other researchers both alongside and prior to the PhD timeframe, including:
 
   - Jasmine Cox, Suzanne Clarke, Tim Broom, Rhianne Jones, Alex Ballantyne and others at BBC R&D;
   - Paul-Olivier Dehaye, Jessica Pidoux, Francois Quellec aand others at Hestia.ai;

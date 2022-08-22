@@ -132,10 +132,10 @@ To begin to address these obstacles, [thirteen insights](#hdr-insights) are expl
 
 Section [7.4](#7.4) explains, with detailed real-world examples and original design work from the author's peripheral work in industry, four distinct approaches for furthering the cause of HDR:
 
-  1. Discovery-Driven Activism [[7.4.2](#approach-1)]
-  2. Building the Human-Centric Future [[7.4.3](#approach-2)]
-  3. Defending User Autonomy and Hacking the Information Landscape [[7.4.4](#approach-3)]
-  4. Teaching, Championing and Selling the HDR Vision [[7.4.5](#approach-4)]
+  1. Discovery-Driven Activism [[7.4.2](#7.4.2)]
+  2. Building the Human-Centric Future [[7.4.3](#7.4.3)]
+  3. Defending User Autonomy and Hacking the Information Landscape [[7.4.4](#7.4.4)]
+  4. Teaching, Championing and Selling the HDR Vision [[7.4.5](#7.4.5)]
 
 **C7: A reframing of data literacy for the HDR space**
 

@@ -12,283 +12,294 @@ B Ethics Approvals {#appendix-e .unnumbered}
 Index of Key Ideas, Insights and Contributions {#hdr-glossary .unnumbered}
 ===============================================
 
-This section serves as both a glossary to explain abbreviations and existing terms used, as well as an index to easily locate key HDR-related concepts, ideas and contributions within this thesis.
+This section serves as both a glossary to explain abbreviations and existing terms used, as well as an index to easily locate key HDR-related concepts, ideas and contributions that this thesis contributes.
 
 
 ### HDR Wants {.unnumbered .unlisted}
 
-* **[Direct Data Want 1](#want-d1): Data Visibility** - [ADD SECTIONREF]
-* **[Direct Data Want 2](#want-d2): Data Understanding** - [ADD SECTIONREF]
-* **[Direct Data Want 3](#want-d3): Data Useability**<sup>[10](#fn10)</sup> - [ADD SECTIONREF]
-* **[Indirect Data Want 1](#want-i1): Process Transparency** - [ADD SECTIONREF]
-* **[Indirect Data Want 2](#want-i2): Individual Oversight** - [ADD SECTIONREF]
-* **[Indirect Data Want 3](#want-i3): Involvement in Decision Making** - [ADD SECTIONREF]
+Direct Data Relations:
+
+  1. Data Visibility - [6.1.1](#want-d1)
+  2. Data Understanding - [6.1.2](#want-d2)
+  3. Data Useability<sup>[10](#fn10)</sup> - [6.1.3](#want-d3)
+
+Indirect Data Relations:
+
+  1. Process Transparency - [6.2.1](#want-i1)
+  2. Individual Oversight - [6.2.2](#want-i2)
+  3. Involvement in Decision Making - [6.2.3](#want-i3)
 
 ### HDR Objectives {.unnumbered .unlisted}
 
-* **[HDR Objective 1](#objective-1): Data Awareness & Understanding** - [ADD SECTIONREF]
-* **[HDR Objective 2](#objective-2): Data Useability**<sup>[10](#fn10)</sup> - [ADD SECTIONREF]
-* **[HDR Objective 3](#objective-3): Ecosystem Awareness & Understanding** - [ADD SECTIONREF]
-* **[HDR Objective 4](#objective-4): Ecosystem Negotiability** - [ADD SECTIONREF]
-* **[HDR Objective 5](#objective-5): Effective, Commercially Viable and Desirable HDR Systems** - [ADD SECTIONREF]
+The objectives are introduced in [7.2.4](#7.2.4). They are explored in 7.3:
+
+  Objective 1. Data Awareness & Understanding - [7.3.1](#7.3.1)
+  Objective 2. Data Useability<sup>[10](#fn10)</sup> - [7.3.2](#7.3.2)
+  Objective 3. Data Ecosystem Awareness & Understanding - [7.3.3](#7.3.3)
+  Objective 4. Data Ecosystem Negotiability - [7.3.4](#7.3.4)
+  Objective 5. Effective, Commercially Viable and Desirable HDR Systems - [7.3.5](#7.3.5)
 
 ### HDR Obstacles {.unnumbered .unlisted}
 
-* **Closed, Insular and Introspective Practices** - [ADD SECTIONREF]
-* **Diminishing Individual Agency** - [ADD SECTIONREF]
-* **Immobile Data** - [ADD SECTIONREF]
-* **Inaccessible Data** - [ADD SECTIONREF]
-* **Increasing Data Holder Hegemony** - [ADD SECTIONREF]
-* **Insufficient Machine Understanding of Human Data** - [ADD SECTIONREF]
-* **Intractable Data Self, the** - [ADD SECTIONREF]
-* **Invisible Data** - [ADD SECTIONREF]
-* **Lack of Individual Demand** - [ADD SECTIONREF]
-* **Lack of Interoperability** - [ADD SECTIONREF]
-* **Lack of Provider Investment** - [ADD SECTIONREF]
-* **Non-Interrogable Data** - [ADD SECTIONREF]
-* **Unmalleable Data** - [ADD SECTIONREF]
-* **Unrelatable Data** - [ADD SECTIONREF]
+The obstacles are collectively shown in [Figure 7.3](#figure-7.3) and are explained in the following subsections of 7.3:
 
-### HDR Insights & Approaches {#hdr-insights .unnumbered .unlisted}
+  - Closed, Insular and Introspective Practices - [7.3.5](#obstacle-self-interest-interop)
+  - Complex and Invisible Personal Data Ecosystems - [7.3.3](#obstacle-complex-invisible-eco)
+  - Diminishing Individual Agency - [7.3.4](#7.3.4.2)
+  - Data Holder Hegemony - [7.3.4](#7.3.4.1)
+  - Immobile Data - [7.3.2](#obstacle-immobile-inaccessible-unmalleable)
+  - Inaccessible Data - [7.3.1](#obstacle-inaccessible-unrelatable-invisible),  [7.3.2](#obstacle-immobile-inaccessible-unmalleable)
+  - Insufficient Machine Understanding of Human Data - [7.3.5](#obstacle-lack-machine-understanding)
+  - Intractable Data Self, the - [7.3.4](#7.3.4.3)
+  - Invisible Data - [7.3.1](#obstacle-inaccessible-unrelatable-invisible)
+  - Lack of Metadata - [7.3.3](#obstacle-lack-metadata)
+  - Lack of Individual Demand - [7.3.5](#obstacle-demand)
+  - Lack of Interoperability - [7.3.5](#obstacle-self-interest-interop)
+  - Lack of Provider Investment - [7.3.5](#obstacle-self-interest-interop)
+  - Non-Interrogable Data - [7.3.2](#obstacle-immobile-inaccessible-unmalleable)
+  - Personal Data Diaspora, the - [7.3.1](#obstacle-diaspora)
+  - Unmalleable Data - [7.3.2](#obstacle-immobile-inaccessible-unmalleable)
+  - Unrelatable Data - [7.3.1](#obstacle-inaccessible-unrelatable-invisible)
 
-* **[HDR Insight 1](#insight-1): Life Information Makes Data Relatable** - [ADD SECTIONREF]
-* **[HDR Insight 2](#insight-2): Data Needs to be United and Unified** - [ADD SECTIONREF]
-* **[HDR Insight 3](#insight-3): Data Must Be Transformed into a Versatile Material.** - [ADD SECTIONREF]
-* **[HDR Insight 4](#insight-4): Ecosystem Information Is an Antidote to Digital Life Complexity**] - [ADD SECTIONREF]
-* **[HDR Insight 5](#insight-5): We Must Know Data's Provenance.** - [ADD SECTIONREF]
-* **[HDR Insight 6](#insight-6): Data Holders use Four Levers of Infrastructural Power.**] - [ADD REF]
-* **[HDR Insight 7](#insight-7): Human-centred Information Systems Must Serve Human Values, Relieve Pain and Deliver New Life Capabilities.** - [ADD REF]
-* **[HDR Insight 8](#insight-8): We Need to Teach Computers To Understand Human Information.** - [ADD REF]
-* **[HDR Insight 9](#insight-9): Individual GDPR requests can compel companies to change data practices.** - [ADD REF]
-* **[HDR Insight 10](#insight-10): Collectives can compare and unify their data and use it to demand change.** - [ADD REF]
-* **[HDR Insight 11](#insight-11): Automating the Identification of Entities can enhance Machine Understanding and Unburden Life Interface Users.**
-* **[HDR Insight 12](#insight-12): The 'Seams' of Digital Services need to be identified, exploited and protected.** - [ADD REF]
-* **[HDR Insight 13](#insight-13): It is Possible (and Necessary) to Demonstrate Business Benefits of Transparency and Human-centricity.** - [ADD REF]
+### HDR Insights {#hdr-insights .unnumbered .unlisted}
+
+Insights in [7.3](#7.3):
+
+- [1](#insight-1) - Life Information Makes Data Relatable
+- [2](#insight-2) - Data Needs to be United and Unified.
+- [3](#insight-3) - Data Must be Transformed into a Versatile Material.
+- [4](#insight-4) - Ecosystem Information is an Antidote to Digital Life Complexity.
+- [5](#insight-5) - We Must Know Data's Provenance.
+- [6](#insight-6) - Data Holders use Four Levers of Infrastructural Power.
+- [7](#insight-7) - Human-centred Information Systems Must Serve Human Values, Relieve Pain and Deliver New Life Capabilities.
+- [8](#insight-8) - We Need to Teach Computers to Understand Human Information.
+
+Insights in [7.4](#7.4):
+
+- [9](#insight-9) - Individual GDPR Requests can Compel Companies to Change Data Practices.
+- [10](#insight-10) - Collectives can Compare and Unify their Data and Use it to Demand Change.
+- [11](#insight-11) - Automating the Identification of Entities can enhance Machine Understanding and Unburden Life Interface Users.
+- [12](#insight-12) - The 'Seams' of Digital Services need to be identified, exploited and protected.
+- [13](#insight-13) - It is Possible (and Necessary) to Demonstrate Business Benefits of Transparency and Human-centricity.
 
 ### HDR Approaches {.unnumbered .unlisted}
 
-* **[HDR Approach 1](#approach-1): Discovery-Driven Activism** - [ADD SECTIONREF]
-* **[HDR Approach 2](#approach-2): Building the Human-centric Future** - [ADD SECTIONREF]
-* **[HDR Approach 3](#approach-3): Defending User Autonomy and Hacking the Information Landscape** - [ADD SECTIONREF]
-* **[HDR Approach 4](#approach-4): Teaching, Championing and Selling the HDR Vision** - [ADD SECTIONREF]
+The four approaches are collectively summarised in [7.5](#7.5), and illustrated and explained individually in subsections of [7.4](#7.4):
+
+  - Approach 1. Discovery-Driven Activism - [7.4.2](#7.4.2)
+  - Approach 2. Building the Human-centric Future - [7.4.3](#7.4.3)
+  - Approach 3. Defending User Autonomy and Hacking the Information Landscape - [7.4.4](#7.4.4)
+  - Approach 4. Teaching, Championing and Selling the HDR Vision - [7.4.5](#7.4.5)
 
 ### Contributions and Major Concepts of This Thesis {.unnumbered .unlisted}
 
-* **Auditing Data Holders** - [ADD SECTIONREF]
-* **Categories of Family Civic Data** - [ADD SECTIONREF]
-* **Categories of Personal Data** - [ADD SECTIONREF]
-* **Data Access & Understanding Services** - [ADD SECTIONREF]
-* **Data Literacy in an HDR Context** - [ADD SECTIONREF]
-* **Data Cards** - [ADD SECTIONREF]
-* **Data Wants** - [ADD SECTIONREF]
-* **Data Relations, Direct** - [ADD SECTIONREF]
-* **Data Relations, Indirect** - [ADD SECTIONREF]
-* **Digital Self Curation** - [ADD SECTIONREF]
-* **Ecosystem Detection** - [ADD SECTIONREF]
-* **Ecosystem Information** - [ADD SECTIONREF]
-* **Ecosystem Information Display** - [ADD SECTIONREF]
-* **Ecosystem Negotiability** - [ADD SECTIONREF]
-* **Empowerment (in the context of data wants)** - [6.3](#6.3)
-* **Family Design Games** - [ADD SECTIONREF]
-* **Family Facts** - [ADD SECTIONREF]
-* **Free Data Interfaces** - [ADD SECTIONREF]
-* **Human Data Relations (HDR)** - [ADD SECTIONREF]
-* **Human Information Operating System** - [ADD SECTIONREF]
-* **Human Information** - see Life Information and Ecosystem Information
-* **Inclusive Data Flows** - [ADD SECTIONREF]
-* **Information Standards** - [ADD SECTIONREF]
-* **Inclusive Data Flows** - [ADD SECTIONREF]
-* **Landscape of HDR Opportunity** - [ADD SECTIONREF]
-* **Life Concepts** - [ADD SECTIONREF]
-* **Life Information Utilisation** - [ADD SECTIONREF]
-* **Life Information** - [ADD SECTIONREF]
-* **Life Interface Design** - [ADD SECTIONREF]
-* **Life Partitioning** - [ADD SECTIONREF]
-* **Locus of Decision Making (LDM)** - [ADD SECTIONREF]
-* **Meaning in Data** - [ADD SECTIONREF]
-* **Perceived Individual Power** - [ADD SECTIONREF]
-* **Personal Data Diaspora, the** - [ADD SECTIONREF]
-* **Personal Data Ecosystem Control** - [ADD SECTIONREF]
-* **Personal Data as a Proxy for Involvement** - [ADD SECTIONREF]
-* **Personal Data Stewardship** - [ADD SECTIONREF]
-* **Pushing the Seams** - [ADD SECTIONREF]
-* **Proxy Representations of Immobile Data** - [ADD SECTIONREF]
-* **Shared Data Interaction** - [ADD SECTIONREF]
-* **Surface Information Injustices** - [ADD SECTIONREF]
-* **Storyboarding Action Cards** - [ADD SECTIONREF]
-* **Trust in Providers, effects upon** - [ADD SECTIONREF]
-* **Types of Personal Data (by origin)** - [ADD SECTIONREF]
-* **Useability**<sup>[10](#fn10)</sup> (as distinct from Usability) - [6.1.3](#want-d3)]
+- Auditing Data Holders - [7.4.2](#flow-audit)
+- Categories of Family Civic Data - [ARI4.1](#ari-fcd-types)
+- Categories of Personal Data - [Figure 3.6](#figure-3.6)
+- Data Access & Understanding Services - [7.4.2](#daus), [7.4.4](#7.4.4)
+- Data Literacy in an HDR Context - see HDR Literacy
+- Data Cards - [Figure 3.5](#figure-3.5), [3.5.2](#3.5.2), [4.2.1](#4.2.1); [4.4.2](#4.4.2), @bowyer2018family
+- Data Wants - [Chapter 6](#chapter-6)
+- Data Relations, Direct - [6.1](#6.1)
+- Data Relations, Indirect - [6.2](#6.2)
+- Digital Self Curation - [4.4.3](#4.4.3), [5.5.2](#5.5.2), [6.3](#6.3)
+- Ecosystem Detection - [Insight 4](#insight-4)
+- Ecosystem Information - [7.2.4](#7.2.4), [Insight 4](#insight-4)
+- Ecosystem Information Display - [Insight 4](#insight-4)
+- Ecosystem Negotiability - [7.2.4](#7.2.4), [7.3.4](#7.3.4)
+- Empowerment (in the context of data wants)** - [6.3](#6.3)
+- Family Design Games - see @bowyer2018family
+- Family Facts - see @bowyer2018family
+- Free Data Interfaces - @bowyer2018freedata
+- Human Data Relations (HDR) - [7.2](#7.2)
+- HDR Literacy - [7.4.5](#7.4.5.1)
+- HDR Wants - see Data Wants
+- Human Information Operating System - [7.3.2](#info-os)
+- Human Information - see Life Information and Ecosystem Information
+- Inclusive Data Flows - [7.4.3](#7.4.3.5)
+- Information Standards - [5.5.1](#5.5.1), [7.3.5](#7.3.5)
+- Landscape of HDR Opportunity - [Figure 7.3](#figure-7.3), [7.4](#7.4), [Figure 7.36](#figure-7.36)
+- Life Concepts - [7.3.1](#7.3.1)
+- Life Information Utilisation - [7.2.3](#7.2.3.1), [Figure 7.1](#figure-7.1)
+- Life Information - [Insight 1](#insight-1)
+- Life Interface Design - [7.4.3](#7.4.3.1)
+- Life Partitioning - [7.4.3](#7.4.3.2)
+- Locus of Decision Making (LDM) - [4.4.3](#4.4.3)
+- Meaning in Data - [Figure 2.1](#figure-2.1), [4.3.2](#4.3.2), [5.4.2](#5.4.2), [6.1.2](#want-d2), [Insight 1](#insight-1)
+- Perceived Individual Power - [5.3.4](#5.3.4)
+- Personal Data Diaspora, the - [7.3.1](#obstacle-diaspora)
+- Personal Data Ecosystem Control - [7.2.3](#7.2.3.2), [Figure 7.1](#figure-7.1)
+- Personal Data as a Proxy for Involvement - [5.4.4](#5.4.4.1), @bowyer2018family
+- Personal Data Stewardship - [4.3.3](4.3.3.4), [5.6](#5.6)
+- Pushing the Seams - [Insight 12](#insight-12)
+- Proxy Representations of Immobile Data - [Insight 4](#insight-4)
+- Shared Data Interaction - [4.2.4](#4.2.4)
+- Surface Information Injustices - [7.4.5](#7.4.5.1), [Insight 12](#insight-12)
+- Storyboarding Action Cards - [ARI4.3](#ari-storyboarding)
+- Trust - [4.3.4](#4.3.4), [4.4.1](#4.4.1.1), [5.3.4](#5.3.4), [5.4.4](#5.4.4.1), [6.2.1](#want-i1), [Insight 13](#insight-13)
+- Types of Personal Data (by origin) - [Table 5.2](#table-5.2)
+- Useability<sup>[10](#fn10)</sup> (as distinct from Usability) - [6.1.3](#want-d3)]
 
 Glossary of Pre-Existing Abbreviations, Names and Terms {#glossary .unnumbered}
 ========================================================
 
-* **Action (stage of Personal Informatics)** - see SI
-* **Action Research** - [ADD SECTIONREF] [ADD DEFINITION]
-* **Accessibility Tags (ARIA)** - [ADD SECTIONREF] [ADD DEFINITION]
-* **Activism** - [ADD SECTIONREF] [ADD DEFINITION]
-* **Agency** - [ADD SECTIONREF] [ADD DEFINITION]
-* **Barriers Cascade** - [ADD SECTIONREF] [ADD DEFINITION]
-* **BBC R&D** - [ADD SECTIONREF] [ADD DEFINITION]
-* **Boundary Objects**  - [ADD SECTIONREF] [ADD DEFINITION]
-* **Card Sorting** - [ADD SECTIONREF] [ADD DEFINITION]
-* **CHC - Connected Health Cities** - [ADD SECTIONREF] [ADD DEFINITION]
-* **Civic Hacking** - [ADD SECTIONREF] [ADD DEFINITION]
-* **Civil Libertarianism** - [ADD SECTIONREF] [ADD DEFINITION]
-* **Collection (stage of Personal Informatics)** - see SI
-* **Consent, Dynamic** - [ADD SECTIONREF] [ADD DEFINITION]
-* **Consent, Informed** - [ADD SECTIONREF] [ADD DEFINITION]
-* **Constructivism** - [ADD SECTIONREF] [ADD DEFINITION]
-* **Conceptual Anchors** - [ADD SECTIONREF] [ADD DEFINITION]
-* **Context-aware Computing** - [ADD SECTIONREF] [ADD DEFINITION]
-* **Co-experience** - [ADD SECTIONREF] [ADD DEFINITION]
-* **Cornmarket** - [ADD SECTIONREF] [ADD DEFINITION]
-* **Critical Algorithm Studies** - [ADD SECTIONREF] [ADD DEFINITION]
-* **Data Access and Understanding Services** - [ADD SECTIONREF] [ADD DEFINITION]
-* **Data Access Request** - see Subject Access Request
-* **Data Brokers** - [ADD SECTIONREF] [ADD DEFINITION]
-* **Data Controller** - [ADD SECTIONREF] [ADD DEFINITION]
-* **Data Download Portal** - [ADD SECTIONREF] [ADD DEFINITION]
-* **Data Flow Auditing** - [ADD SECTIONREF] [ADD DEFINITION]
-* **Data Justice** - [ADD SECTIONREF] [ADD DEFINITION]
-* **Data Portability Request** - [ADD SECTIONREF] [ADD DEFINITION]
-* **Data Processor** - [ADD SECTIONREF] [ADD DEFINITION]
-* **Data Provenance** - [ADD SECTIONREF] [ADD DEFINITION]
-* **Data Self** - [ADD SECTIONREF] [ADD DEFINITION]
-* **Data Subject** - [ADD SECTIONREF] [ADD DEFINITION]
-* **Data Transcendence** - [ADD SECTIONREF] [ADD DEFINITION]
-* **Data (general)** - [ADD SECTIONREF] [ADD DEFINITION]
-* **Data, Civic / Family Civic** - [ADD SECTIONREF] [ADD DEFINITION]
-* **Data, Acquired** - [ADD SECTIONREF] [ADD DEFINITION]
-* **Data, Derived** - [ADD SECTIONREF] [ADD DEFINITION]
-* **Data, Metadata** - [ADD SECTIONREF] [ADD DEFINITION]
-* **Data, Observed** - [ADD SECTIONREF] [ADD DEFINITION]
-* **Data, Personal** - [ADD SECTIONREF] [ADD DEFINITION]
-* **Data, Volunteered** - [ADD SECTIONREF] [ADD DEFINITION]
-* **Data, Trapped** - [ADD SECTIONREF] [ADD DEFINITION]
-* **DERC** - [ADD SECTIONREF] [ADD DEFINITION]
-* **Design, Co-** - [ADD SECTIONREF] [ADD DEFINITION]
-* **Design, Adversarial** - [ADD SECTIONREF] [ADD DEFINITION]
-* **Design, Design After** - [ADD SECTIONREF] [ADD DEFINITION]
-* **Design, Disrespectful** - [ADD SECTIONREF] [ADD DEFINITION]
-* **Design, Experience-centred** - [ADD SECTIONREF] [ADD DEFINITION]
-* **Design, Magical** - [ADD SECTIONREF] [ADD DEFINITION]
-* **Design, User-centred Design** - [ADD SECTIONREF] [ADD DEFINITION]
-* **Design, Value-centred Design** - [ADD SECTIONREF] [ADD DEFINITION]
-* **Device Tenancy** - [ADD SECTIONREF] [ADD DEFINITION]
-* **Digital Civics** - [ADD SECTIONREF] [ADD DEFINITION]
-* **Digital Self** - see Data Self
-* **DIKW pyramid** - see Wisdom Curve
-* **Double Diamond** - [ADD SECTIONREF] [ADD DEFINITION]
-* **DPA - Data Protection Authority** - [ADD SECTIONREF] [ADD DEFINITION]
-* **DPO - Data Protection Officer** - [ADD SECTIONREF] [ADD DEFINITION]
-* **EPSRC** - [ADD SECTIONREF] [ADD DEFINITION]
-* **Early Help** - [ADD SECTIONREF] [ADD DEFINITION]
-* **Effective Access** - [ADD SECTIONREF] [ADD DEFINITION]
-* **Embodied Interaction** - [ADD SECTIONREF] [ADD DEFINITION]
-* **Empowerment in Use** - [ADD SECTIONREF] [ADD DEFINITION]
-* **Entities** - [ADD SECTIONREF] [ADD DEFINITION]
-* **Entity Extraction** - [ADD SECTIONREF] [ADD DEFINITION]
-* **Explainable AI** - [ADD SECTIONREF] [ADD DEFINITION]
-* **Faceted Search** - [ADD SECTIONREF] [ADD DEFINITION]
-* **Entity Extraction** - [ADD SECTIONREF] [ADD DEFINITION]
-* **File Biography** - [ADD SECTIONREF] [ADD DEFINITION]
-* **Files, why they need to die** - [ADD SECTIONREF] [ADD DEFINITION]
-* **GDPR - General Data Protection Regulation** - [ADD SECTIONREF] [ADD DEFINITION]
-* **Gatekeeper**- [ADD SECTIONREF] [ADD DEFINITION]
-* **HCI - Human Computer Interaction** - [ADD SECTIONREF] [ADD DEFINITION]
-* **HDI - Human Data Interaction** - [ADD SECTIONREF] [ADD DEFINITION]
-* **Hestia.ai** - [ADD SECTIONREF] [ADD DEFINITION]
-* **HestiaLabs** - [ADD SECTIONREF] [ADD DEFINITION]
-* **HII - Human Information Interaction** - [ADD SECTIONREF] [ADD DEFINITION]
-* **Humane Technology** - [ADD SECTIONREF] [ADD DEFINITION]
-* **ICO - Information Commissioner's Office** - [ADD SECTIONREF] [ADD DEFINITION]
-* **Ideation Grids** - [ADD SECTIONREF] [ADD DEFINITION]
-* **Individualism** - [ADD SECTIONREF] [ADD DEFINITION]
-* **Information (general)** - [ADD SECTIONREF] [ADD DEFINITION]
-* **Information, Human** - [ADD SECTIONREF] [ADD DEFINITION]
-* **Information, Life** - [ADD SECTIONREF] [ADD DEFINITION]
-* **Information, Ecosystem** - [ADD SECTIONREF] [ADD DEFINITION]
-* **Information Landscape** - [ADD SECTIONREF] [ADD DEFINITION]
-* **Infrastructural Power, and its Four Levers** - [ADD SECTIONREF] [ADD DEFINITION]
-* **Integration (stage of Personal Informatics)** - see Self Informatics
-* **Interoperability** -
-* **Interoperability, Adversarial** - [ADD SECTIONREF] [ADD DEFINITION]
-* **Keeping** - [ADD SECTIONREF] [ADD DEFINITION]
-* **Legibility** - [ADD SECTIONREF] [ADD DEFINITION]
-* **Lifelogging** - [ADD SECTIONREF] [ADD DEFINITION]
-* **Lifestreams** - [ADD SECTIONREF] [ADD DEFINITION]
-* **Lenses** - [ADD SECTIONREF] [ADD DEFINITION]
-* **Life Sketching** - [ADD SECTIONREF] [ADD DEFINITION]
-* **MyData** - [ADD SECTIONREF] [ADD DEFINITION]
-* **Negotiability** - [ADD SECTIONREF] [ADD DEFINITION]
-* **NER - Named Entity Recognition** - see Entity Extraction
-* **Open Lab** - [ADD SECTIONREF] [ADD DEFINITION]
-* **Orienteering** - [ADD SECTIONREF] [ADD DEFINITION]
-* **PDS - Personal Data Store** - See Personal Data Lockers
-* **PIM - Personal Information Management** - [ADD SECTIONREF] [ADD DEFINITION]
-* **PIM systems, contextual** - [ADD SECTIONREF] [ADD DEFINITION]
-* **PIM systems, networked** - [ADD SECTIONREF] [ADD DEFINITION]
-* **PIM systems, semantic** - [ADD SECTIONREF] [ADD DEFINITION]
-* **PIM systems, spatial** - [ADD SECTIONREF] [ADD DEFINITION]
-* **PIM systems, subjective** - [ADD SECTIONREF] [ADD DEFINITION]
-* **PIM systems, temporal** - [ADD SECTIONREF] [ADD DEFINITION]
-* **PIMS** - Personal Information Management Services - See Personal Data Lockers
-* **Participatory Action Research** - see Action Research
-* **PDE - Personal Data Economy** - [ADD SECTIONREF] [ADD DEFINITION]
-* **Personal Data Ecosystem** - [ADD SECTIONREF] [ADD DEFINITION]
-* **Personal Data Lockers** - [ADD SECTIONREF] [ADD DEFINITION]
-* **Personal Data Vault** - See Personal Data Lockers
-* **Personal Informatics** - see SI
-* **Preparation (stage of Personal Informatics)** - see SI
-* **Perspectives** - [ADD SECTIONREF] [ADD DEFINITION]
-* **Point of Severance** - [ADD SECTIONREF] [ADD DEFINITION]
-* **Power - Behavioural Influence** - [ADD SECTIONREF] [ADD DEFINITION]
-* **Power - Interpretative Influence** - [ADD SECTIONREF] [ADD DEFINITION]
-* **Power - Network Centrality** - [ADD SECTIONREF] [ADD DEFINITION]
-* **Power, Authority** - [ADD SECTIONREF] [ADD DEFINITION]
-* **Power, Disciplinary** - [ADD SECTIONREF] [ADD DEFINITION]
-* **Power, Infrastructural** - [ADD SECTIONREF] [ADD DEFINITION]
-* **Power, Interpretive** - [ADD SECTIONREF] [ADD DEFINITION]
-* **Power, (power to)** - [ADD SECTIONREF] [ADD DEFINITION]
-* **Power, (power over)** - [ADD SECTIONREF] [ADD DEFINITION]
-* **Power, Processual** - [ADD SECTIONREF] [ADD DEFINITION]
-* **Power, Rational** - [ADD SECTIONREF] [ADD DEFINITION]
-* **Power, Resource Control** - [ADD SECTIONREF] [ADD DEFINITION]
-* **Power, Social** - [ADD SECTIONREF]
-* **Power, Socially-shaped** - [ADD SECTIONREF] [ADD DEFINITION]
-* **Power, Systems/Structural** - see Infrastructural Power
-* **Power, Zero Sum** - [ADD SECTIONREF] [ADD DEFINITION]
-* **Power Imbalance (over Personal Data)** - [ADD SECTIONREF] [ADD DEFINITION]
-* **Pragmatism** - [ADD SECTIONREF] [ADD DEFINITION]
-* **Priming a Discussion** - [ADD SECTIONREF] [ADD DEFINITION]
-* **QSM - Quantified Self Movement** - see SI
-* **R&D - Research & Development** - [ADD SECTIONREF] [ADD DEFINITION]
-* **Reflection (stage of Personal Informatics)** - see SI
-* **Recursive Public** - [ADD SECTIONREF] [ADD DEFINITION]
-* **Reminding** - [ADD SECTIONREF] [ADD DEFINITION]
-* **SAR - Subject Access Request** - [ADD SECTIONREF] [ADD DEFINITION]
-* **SI - Self Informatics** - Self Informatics [[ADD REF] () ]
-* **SILVER** - [ADD SECTIONREF] [ADD DEFINITION]
-* **Sitra** - [ADD SECTIONREF] [ADD DEFINITION]
-* **Scraping** - [ADD SECTIONREF] [ADD DEFINITION]
-* **Seams** - [ADD SECTIONREF] [ADD DEFINITION]
-* **Subject Access Request** - [ADD SECTIONREF] [ADD DEFINITION]
-* **Subjective Classification Principle** - [ADD SECTIONREF] [ADD DEFINITION]
-* **Subjective Importance Principle** - [ADD SECTIONREF] [ADD DEFINITION]
-* **Subjective Context Principle** - [ADD SECTIONREF] [ADD DEFINITION]
-* **Support Worker** - [ADD SECTIONREF] [ADD DEFINITION]
-* **Supported Family** - [ADD SECTIONREF] [ADD DEFINITION]
-* **Text Mining** - [ADD SECTIONREF] [ADD DEFINITION]
-* **ToC - Theories of Change** - [ADD SECTIONREF] [ADD DEFINITION]
-* **Things to Think With** - [ADD SECTIONREF] [ADD DEFINITION]
-* **Timelines** - [ADD SECTIONREF] [ADD DEFINITION]
-* **TrackerControl** - see Data Flow Auditing.
-* **Troubled Families** - [ADD SECTIONREF] [ADD DEFINITION]
-* **VRM - Vendor Relationship Management** - [ADD SECTIONREF] [ADD DEFINITION]
-* **Web Augmentation** - [ADD SECTIONREF] [ADD DEFINITION]
-* **Web Extensions** - [ADD SECTIONREF] [ADD DEFINITION]
-* **Wisdom Curve** - [ADD SECTIONREF] [ADD DEFINITION]
-* **world2vec** - [ADD SECTIONREF] [ADD DEFINITION]
+**Action (stage of Personal Informatics)** - see SI
+**Action Research** - a mode of research where cycles of investigation shape future studies
+**Accessibility Tags (ARIA)** - tags within HTML code that screenreaders use and which can be exploited for seam hacking
+**Activism** - using vigorous campaigning to bring about political or social change
+**Agency** - the ability, described in HDI, to act for oneself in a system, see HDI
+**Barriers Cascade** - a series of obstacles in SI
+**BBC R&D** - the Research & Development division of the British Broadcasting Corporation, where I did a research internship
+**Boundary Objects** - tangible objects and representations that help different populations that may think in different terms to collaborate effeectively
+**Card Sorting** - a technique used in Participatory co-design where participants arrange cards to convey their thinking
+**CHC** - Connected Health Cities** - government initiative behind the SILVER project, which I worked on
+**Civic Hacking** - technologists or enthusiasts working to reconfigure the way society works
+**Civil Libertarianism** - argues for the supremacy of individual rights and personal freedoms over imposition by **thority
+**Collection (stage of Personal Informatics)** - see SI
+**Consent, Dynamic** - ongoing and changeable expression of preference
+**Consent, Informed** - initial one-time expression of preference
+**Constructivism** - a belief that new knowledge is formed by developing one's own mental models in order to explain new experiences
+**Conceptual Anchors** - the mental scaffolds which we use to organise our thinking and human information
+**Context-aware Computing** - designing systems that take account of the user's situation and varying needs
+**Co-experience** - bringing participants towards a shared perspective
+**Cornmarket** - codename for the BBC R&D PDS project I interned with
+**Critical Algorithm Studies** - research into making computer systems and their behaviour more understandable and **countable
+**Data Access Request** - see Subject Access Request
+**Data Brokers** - third parties that buy and sell user's data
+**Data Controller** - an organisation responsible for collecting and storing user data
+**Data Download Portal** - a website or service that allows users to access held data in a 'self-service' manner
+**Data Flow Auditing** - the use of apps or system services to monitor the communication and data sharing behaviours of consumer apps
+**Data Justice** - research into the relationship between datafication and social justice
+**Data Portability Request** - a particular kind of access request focussed on retrieving data in a machine-readable and useable format
+**Data Processor** - one who handles user data on behalf of a data controller
+**Data Provenance** - the history and origin of a piece of data
+**Data Self** - the representation of an individual in data through which state or commercial actors understand that **rson when making decisions
+**Data Subject** - the individual about whom data is stored
+**Data Transcendence** - the idea that data should not be tied to a single machine, but should move freely to the places it is needed
+**Data (general)** - digitally-encoded human information
+**Data, Civic / Family Civic** - the data stored about families by social care organisations such as Early Help programmes
+**Data, Acquired** - personal data that has been obtained from an official or public source or a third party
+**Data, Derived** - new data that has been extrapolated through interpretation of existing data
+**Data, Metadata** - data about the data itself, or about the incident recorded in data
+**Data, Observed** - data collected about individuals automatically, as a by-product of other actions or in the background
+**Data, Personal** - data about or related to identifiable individuals
+**Data, Volunteered** - personal data that has been knowingly shared by that individual with an organisation
+**Data, Trapped** - data that is hard to access due to technical, commercial or other restrictions
+**DERC** - Digital Economy Research Centre, funders of the Healthy Eating Web Augmentation project
+**Design, Co-** - researchers and participants collaboratively exploring problems and solutions
+**Design, Adversarial** - the design of systems or processes that challenge current norms
+**Design, Design After** - the ability to repurpose products or services for new objectives that might not have been initially considered
+**Design, Disrespectful** - design practices (often in user interfaces) that prioritise commercial needs over human convenience
+**Design, Experience-centred** - design that focusses on human psychology and lived experience of the situation
+**Design, Magical** - the presentation of technology offerings as powerful and mysterious, that need not be examined or understood
+**Design, User-centred Design** - design approach that builds up an understanding of user needs that is subsequently used by technical experts
+**Design, Value-centred Design** - designing in ways that focus on positive impacts on human life
+**Device Tenancy** - the idea that we are no longer owners of our devices, and lack control and autonomy over their use
+**Digital Civics** - a multi-disciplinary research field encompassing HCI, governance, education, planning, social science and computer science, practiced by Open Lab, where I studied this PhD
+**Digital Self** - see Data Self
+**DIKW pyramid** - see Wisdom Curve
+**DPA** - Data Protection Authority** - the official authority for regulating data use in a given country
+**DPO** - Data Protection Officer** - the individual legally responsible for managing data use within a company and for handling access requests
+**EPSRC** - Engineering and Physical Sciences Research Council, funders of this PhD research
+**Early Help** - a set of programmes in UK local authorities designed to identify 'at risk' families and help them with targeted interventions
+**Effective Access** - ensuring that individuals have all necessary skills, systems and capabilities necessary to see and understand information
+**Embodied Interaction** - allowing users to create their own practices in information interaction
+**Empowerment in Use** - having freedom to use products and services in the way you want
+**Entities** - people, places, organisations, brands, topics or other identifiable 'things' that could be a stakeholder of, or related to, a piece of data
+**Entity Extraction** - the process of identifying real-world entities in data
+**Explainable AI** - algorithms whose decision making processes are described to system users
+**Faceted Search** - the ability to search information by its shared aspects
+**File Biography** - the lifetime of past actions on a computer file
+**Files, why they need to die** - article by myself [@bowyer2011filesdie]
+**GDPR** - General Data Protection Regulation - the EU's 2018 regulations that give users rights over the collection and **e of their personal data
+**Gatekeeper** - One who controls the flow of data or information between an organisation and an individual
+**HCI** - Human Computer Interaction** - research and practice that explores how people relate to and use computer systems
+**HDI** - Human Data Interaction** - a subdiscipline of HCI that focuses on people's relationship with data, rather than with the system
+**Hestia.ai** - Swiss company working in the data access and understanding services space, which I currently work for
+**HII** - Human Information Interaction** - a discipline in library sciences that considers how humans relate to **formation regardless of technology used
+**Humane Technology** - a movement focused on making technology that is more sensitive to people's lives and needs
+**ICO** - Information Commissioner's Office** - the UK's Data Protection Authority
+**Ideation Deck** - a participatory design technique that uses 'ingredients' cards shuffled in a grid to generate new ideas
+**Individualism** - the pursuit of one's own objectives as a primary objective
+**Information (general)** - facts and assertions understood by interpreting data
+**Information, Human** - information about people that can be related to their lives or to their digital world
+**Information, Life** - information about people's lived experience that can be found within data
+**Information, Ecosystem** - information about people's data, where it is stored, and how it is used and shared
+**Information Landscape** - the general terrain of available information that a user can see and interact with through **e services and apps they use
+**Infrastructural Power** - see Power, Infrastructural
+**Integration (stage of Personal Informatics)** - see Self Informatics
+**Interoperability** - getting systems to connect and exchange information through data standards or conversion
+**Interoperability, Adversarial** - making systems connect together in ways that were not intended by manufacturers
+**Legibility** - the ability, as defined in HDI, of being able to understand stored data
+**Lifelogging** - the practice of maximal data capture for personal SI benefit
+**Lenses** - different ways of focussing on some data or information according to the aspect of interest or the current role
+**Life Sketching** - a process of mapping out mental models of one's life on paper
+**MyData** - an organisation whose members pursue a human-centric change agenda
+**Negotiability** - the ability described in HDI to flexibly adapt and change one's preferences as the world or digital **stem changes
+**NER** - Named Entity Recognition** - see Entity Extraction
+**Open Lab** - the research lab in Newcastle University in which I conducted this PhD research
+**Orienteering** - an associative process of information-finding
+**PDS - Personal Data Store** - See Personal Data Lockers
+**PIM - Personal Information Management** - the 1990s/2000s discipline that focused on new ways to manage and interact with data and information
+**PIM systems, contextual** - PIM systems that organise information according to what context it relates to
+**PIM systems, networked** - PIM systems that focus on the relationships between different pieces of information
+**PIM systems, semantic** - PIM systems that focus on the underlying meaning of the stored data
+**PIM systems, spatial** - PIM systems that focus on arranging data in a virtual space for easier management
+**PIM systems, subjective** - PIM systems that focus on the varied individual needs of users
+**PIM systems, temporal** - PIM systems that represent information using timelines or other visualisations that highlight change over time
+**PIMS** - Personal Information Management Services** - See Personal Data Lockers
+**Participatory Action Research** - see Action Research
+**PDE** - Personal Data Economy** - the emergent marketplace of companies innovating and offering services relating to the management, self-exploitation or harnessing of one's personal data
+**Personal Data Ecosystem** - the network of systems, accounts, files and digital information that constitutes an individual's digital life
+**Personal Data Lockers** - a place to store personal data so that it can be united, unified and interpreted by the data subject
+**Personal Data Vault** - See Personal Data Lockers
+**Personal Informatics** - see SI
+**Preparation (stage of Personal Informatics)** - see SI
+**Perspectives** - different presentations or aspects of information that support different mental models, focus or tasks
+**Point of Severance** - the point at which data is handed over, beyond which data subjects lose visibility, control and influence
+**Power** - Behavioural Influence** - persuading others to carry out the desired behaviour
+**Power** - Interpretative Influence** - determining how reality is externally represented
+**Power** - Network Centrality** - becoming an indispensable hub of a wider ecosystem
+**Power, Authority** - ownership of technology or infrastructure
+**Power, Disciplinary** - using an influential position to affect others’ mental models
+**Power, Infrastructural** - a model of understanding how providers exert power over their users, created as part of the digipower investigation
+**Power, Interpretive** - creating the internal representations of reality within an organisation
+**Power, (power to)** - an individual's ability to act (see Agency)
+**Power, (power over)** - a dominant actor's ability to limit or manipulate the actions of others
+**Power, Obscure** - where the subservient cannot tell when they are watched
+**Power, Pervasive** - where the one in power can see everything all the time
+**Power, Processual** - changing processes for competitive advantage
+**Power, Rational** - controlling decision-making processes
+**Power, Resource Control
+**Power, Social** - power where the power holder attempts to influence the behaviour of individuals in pursuit their desired outcomes
+**Power, Socially-shaped** - influencing a wide audience to settle upon a preferred interpretation
+**Power, Systems/Structural** - see Infrastructural Power
+**Power, Zero Sum** - winning a battle for ownership/resource control at the other party’s expense
+**Power Imbalance (over Personal Data)** - the established fact that data holders have more power in service relationships than data subjects.
+**Pragmatism** - an epistemology that believes knowledge is constantly renegotiated by individuals
+**QSM** - Quantified Self Movement** - see SI
+**R&D** - Research & Development
+**Reflection (stage of Personal Informatics)** - see SI
+**Recursive Public** - a community of people who are attempting to reconfigure society for the better
+**SAR** - Subject Access Request
+**SI** - Self Informatics** - an umbrella term for Personal Informatics and the Quantified Self Movement, where people track their activity in data and reflect upon it, setting goals and tracking progress
+**SILVER** - the project working in the Early Help space that I worked with for Case Study One
+**Sitra** - Finnish non-profit research organisation for which the digipower investigation was conducted
+**Scraping** - the process of programmatically extracting information from interfaces such as websites that were intended for human browsing.
+**Seams** - the 'edges' of products and services, at which service providers can exert restrictions and at which users **n find new ways to adapt their product usage and data access
+**Subject Access Request** - a request to a DPO of an organisation for a copy of held personal data
+**Support Worker** - a specialist social worker who helps a family in an Early Help context
+**Supported Family** - a family participating in an Early Help social care programme
+**Text Mining** - the process of programmatically examining textual data to infer new facts and assertions from the data
+**ToC - Theories of Change** - a model for thinking about how to achieve change in society
+**Things to Think With** - the idea that tangible representations can be useful to aid discussions
+**Timelines** - visual representations of information anchored against points in time
+**TrackerControl** - see Data Flow Auditing.
+**Troubled Families** - historic term for those families targeted for help by programmes such as Early Help
+**VRM** - Vendor Relationship Management** - a model where vendors are selected by customers in response to their published needs, instead of relying on broadcast advertising to find customers
+**Web Augmentation** - the process of modifying a web page to provide new functionality or access data after it has been downloaded to a user's we browser
+**Web Extensions** - pieces of user code that are loaded into a web browser to modify or programmatically interrogate web pages
+**Wisdom Curve** - the process of converting data, to information, to knowledge, to wisdom
+**world2vec** - a system in Facebook that attempts to understand the world through analysis of social media content**
 
 ---
