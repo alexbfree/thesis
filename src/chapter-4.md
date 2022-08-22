@@ -338,7 +338,7 @@ In current practice, data handling *is* generally respectful - data mishandling 
 
 In order to earn, build and maintain trust, support workers must always be seeking to form a completer and more up-to-date picture of the family, in line with the finding in [4.3.3](#4.3.3.1) that individuals are more than what is stored in their records, and this requires human interaction to uncover. Demonstrating a deep understanding of the family, and that a family's lived reality has greater priority than what a database says can be a critical to trust-building: _'You don't want to reduce them to this number in a database. You want to understand their actual experiences and support them in getting better.'_ [Worker, SQ74]. It is important that families understand workers' good intentions when accessing data about them [FQ15]. However, if workers had to show all available data to families this could make it challenging to maintain good relations, _'because literally [the data we have] is like everything, isn't it? So I don't know how I would feel…'_ [Worker, SQ21]. In addition to avoiding breaches of expectations (see Theme 2 above), a transparent approach ensures that the privacy of families is respected, because data is not used in decisions without the chance for explanation:
 
-> Parent: _'I don't want everybody knowing how rubbish I am with money.'_<br/>Child: _'That's my life.'_ [FQ2]
+> Parent: _'I don't want everybody knowing how rubbish I am with money.'_<br/>Child: _'That's my life.'_—[FQ2]
 
 Participants also indicated that families' desire for transparency (as mentioned in the previous section) does not just imply reporting data usage, they need dialogue and human engagement to give them reassurance; trust and reassurance can is best achieved through a conversation [FQ1], not a data interface. Support processes need to change to better recognise the role of dialogue, rather than just consultation of a database, as the best way to achieve a rich and nuanced understanding.
 
@@ -420,7 +420,7 @@ families to 'open up'. Many participants talked about how looking at data could 
 
 Shared data interaction would also enable support workers to be less adversarial. They could position themselves as equals (_'Let's make sure this data is right.'_) and avoid appearing to side with the data (_'Our records say that you have…'_). As we see in this study, data representations serve as _'things to think with'_ [@bowyer2018family; [3.5.2](#3.5.2)]. Shared data interaction—played out in abstract through the use of storyboarding cards in Workshop C—helped participants to navigate scenarios and quickly imagine possible actions together.
 
-<a name="4.4.2.3">**Agency & Negotiability**</a>.
+<a name="4.4.2.3">**Agency & Negotiability**</a>
 
 Yellow-bordered cards (for families) and blue-bordered cards (for staff) triggered both parties to take ownership of their piece of the puzzle, placing their 'own' actions without any direction having been given as to who should place which cards. Parents and staff had each taken a role in the scenario and felt ownership over the choice of options available to them. Similarly, green-bordered cards (actions involving both parties) usually resulted in both parties discussing and agreeing a view before the card was placed, showing that the way data is presented is key to how people respond to it. This gives some insight into how the dynamics of shared data interaction might work if implemented in practice. Feeling able to perfom actions such as commenting or correcting data would provide some _agency_ [@mortier2014] for family members;
 The availability of capabilities over data, including the ability to raise a question or start a conversation would satisfy the second HDI requirement of _negotiability_. Conversely, an inability to act upon or influence shown data and its use would indicate a lack of negotiability, reinforcing the idea that simply viewing data is insufficient.
@@ -439,7 +439,7 @@ Analysis of the Child Index, an early warning child welfare system in the Nether
 
 In pursuit of [RQ2](#RQ2), the workshops explored the role of data within the EH support relationship. Workshop C brought parents and workers together to explore the mechanics of shared data interaction at an interpersonal, sociotechnical level [[2.2.5](#2.2.5); [2.3.3](#2.3.3)] to explore the mutual benefits that might be offered by _shared data interaction_. The participants worked together to construct possible narratives expressed through human-human and human-data interactions. In doing so, they modelled how shared data interaction could rebalancing power over data. I conceptualise this as **shifting the Locus of Decision Making (LDM)**. LDM is a concept distinct from _locus of control_ [@spector1982] which normally refers to personal willpower, and _locus of power_, which refers to the concentration of power within an organisational hierarchy. The LDM is the the place where decisions are made. It may or may not coincide with existing authority structures. Accumulated understandings of EH practice, and more generally of data-centric service provision, suggest that decisions are typically made, germinated or championed close to where data is accessed. In an effect that has been expected since as early as 1970 [@klatzky1970] the increasing use of data in service provision [[2.1.2](#2.1.2)] has concentrated the LDM with data holders, who collect service users' data to serve their own purposes.
 
-![Figure 4.2: Current Model of Data Interaction, and Proposed Model of Shared Data Interaction](./src/figs/fig4.2-shifting-locus.png)
+![Figure 4.2: Current Model of Data Interaction, <br/>and Proposed Model of Shared Data Interaction](./src/figs/fig4.2-shifting-locus.png)
 
 <a name="4.4.3.1">**Removing the Gatekeeper**</a>
 
@@ -460,7 +460,7 @@ take steps to influence any poorer metrics, and then use the improved metrics as
 
 Shifting the LDM could enable families to take more responsibility, through an increased ability to reflect and make plans—an important element of harnessing one's personal data for self-improvement [[2.2.3](#2.2.3); @abiteboul2015], and through better accountability [SQ75]. Exposure to data is required for accountability [@crabtree2016]. The perceived benefit of individuals directly using data-based interfaces for health and wellbeing are already accepted; 93% of doctors believe apps can improve health outcomes [@kostkova2015].
 
-<a name="4.4.3.3">**Care Provider Benefits**</a>.
+<a name="4.4.3.3">**Care Provider Benefits**</a>
 
 Benefits to supported individuals can be seen as benefits to the EH practitioner too, given their role to help improve the family's situation. But co-stewardship of family data can also reduce the burden and responsibility upon the authority to look after that data. Responsibility for ensuring completeness, accuracy and fairness is now shared. This could also reduce the likelihood of complaints or litigation, not least because families can shift from an 'us and them' mentality towards a more favourable perspective.
 
