@@ -3,22 +3,14 @@ Practical Approaches to Improve HDR {#chapter-9}
 
 > _"The world is working exactly as designed. And it's not working very well. Which means we need to do a better job of designing it."_—Mike Monteiro, author of _Ruined by Design: How Designers Destroyed the World, and What We Can Do to Fix It_
 
-[TODO mention adversarial design framing]
+In this chapter, I take on the roles of adversarial designer, social activist and technical strategist, drawing upon:
 
-In this chapter, I will present four different 'flavours' of activity, that we can pursue as HDR reformers. These are represented diagrammatically as trajectories of change using a model known as _Theories of Change (ToC)_ which is explained in [[9.1](#9.1)].
+ - the findings of Part One [[Chapter 6](#chapter-6)];
+ - my practical experiences from peripheral projects [7.2](#7.2)];
+ - the theoretical framing and research agenda of HDR laid out in [Chapter 7](#chapter-7); and
+ - the established understanding of key obstacles and proposed strategies to tackle them from [Chapter 8](#chapter-8).
 
-These trajectories for change could be supported or pursued in many different ways, which may appeal to different readers:
-
-  - prototyping and creating proofs of concepts;
-  - fundraising or investment; design activities;
-  - market research, participatory research or usability research;
-  - 'early adopter' testing and quality assurance of PDE / PDS offerings;
-  - promotion, advocacy and journalism of HDR issues;
-  - critical audits of provider practices;
-  - policy design;
-  - political pressure on governments and regulators;
-  - participation in open data, PDE, civic hacking or _MyData_ communities; or even
-  - individual self-experimentation with HDR tools, rights and capabilities.
+The objective here is to expand further on the map of the HDR landscape in [Figure 8.1](#figure-8.1) so that we might chart a course towards the desired change. In particular, the focus now is solution-focused, considering the nuts and bolts of _how_ we might begin to tackle those obstacles in pursuit of the HDR objectives [[7.7](#7.7)] of data and ecosystem awareness, understanding and negotiability. In the following sections, I will present four different 'flavours' of HDR reform. Each section begins with a diagrammatic representation of that approach as a trajectories of change. These diagrams use a model known as _Theories of Change (ToC)_ which is explained in [[9.1](#9.1)] below.
 
 Additional Background: Theories of Change (ToC){#9.1}
 -----------------------------------------
@@ -351,28 +343,39 @@ Looking at Approach 4 as a whole, this section has shown that pursuing HDR is no
 Summation of Chapter 9, and of Part One{#9.6}
 ---------------------------------------
 
-[TODO ADD TEXT HERE]
-
 ![Figure 9.23: Summary of Generalised Change Strategies for Pursuing Better HDR, Using the ToC Model](./src/figs/fig9.23-summary-change-trajectories.jpg){#figure-9.23}
 
-This chapter examined the expanded research question [[7.1](#exRQ)] of how better Human Data Relations might be achieved in practice. Through detailed practical examples drawn from the peripheral research settings [[7.2](#7.2)] and elsewhere, I have identified key obstacles [[Chapter 8](#chapter-8); [Figure 8.1](#figure-8.1)] to better HDR including invisible, inaccessible, scattered, immobile, unmalleable, or unrelatable data; the complexity of current personal data ecosystems; a lack of metadata and machine understanding;  the ongoing exertion of power by introspective data holders to diminish user agency; and a lack of demand and investment in HDR.
+This chapter examined the expanded research question [[7.1](#exRQ)] of how better Human Data Relations might be achieved in practice. Through detailed practical examples drawn from the peripheral research settings [[7.2](#7.2)] and elsewhere, and building upon the 13 insights [Insights](#inset-boxes) introduced throughout Chapters [8](#chapter-8) and [9](#chapter-9), I have, as illustrated and described four distinct trajectories for improving HDR. These provide practical strategies for HDR reform that could to begin to address the expanded research question [[7.1](#exRQ)] of how better HDR can be achieved.
 
-Building upon the 13 insights introduced throughout Chapters [8](#chapter-8) and [9](#chapter-9), I have, as illustrated in Figures [9.2](#figure-9.2), [9.3](#figure-9.3), [82](#figure-9.19), and [84](#figure-9.21), described four distinct trajectories for improving HDR, which provide not a complete answer, but provide steps to begin to address that [expanded research question](#exRQ):
-
-  1. **Discovery-Driven Activism** [[9.2](#9.2)]
-  2. **Building the Human-Centric Future**  [[9.3](#9.3)]
-  3. **Defending User Autonomy and Hacking the Information Landscape** [[9.4](#9.4)]
-  4. **Teaching, Championing and Selling the HDR Vision** [[9.5](#9.5)]
+  1. **Discovery-Driven Activism** [[9.2](#9.2); [Figure 9.2](#figure-9.2)]
+  2. **Building the Human-Centric Future**  [[9.3](#9.3); [Figure 9.3](#figure-9.3)]
+  3. **Defending User Autonomy and Hacking the Information Landscape** [[9.4](#9.4); [Figure 9.19](#figure-9.19)]
+  4. **Teaching, Championing and Selling the HDR Vision** [[9.5](#9.5); [Figure 9.21](#figure-9.21)]
 
 The common elements of these four approaches are summarised in abstract in [Figure 10.1](#figure-10.1) above, and can be considered in terms of the four ToC quadrants:
 
 - _**Learn & Discover**_ (CI): In this quadrant, individuals, researchers, activists and other stakeholders work in groups to understand data attitudes and user needs, and to gain collective knowledge of data collection and usage practices which are sometimes hidden.
 - _**Defend & Create**_ (CE): In this quadrant, activists work to ensure current HDR capabilities are not eroded, while researchers, designers, technologists and social innovators design and create new technologies, operating models, organisations and interface designs, the structures enabling a world with better HDR.
 - _**Influence & Motivate**_ (IE): In this quadrant, individuals' relationships with data and with data holders, as well as data holders and policymakers' relationships, can be improved. For us, as external actors seeking change, the task is to influence the many parties by showcasing and facilitating newly created structures and capabilities, and to harness our new collective knowledge to advocate the benefits of changing data-related behaviours.
-- _**Educate & Empower**_ (II): In this quadrant, individuals' ways of thinking about data and data holders grow and evolve towards a state we could call _'feeling empowered'_ [[6.3](#6.3)], which would show true progress in delivering the better HDR that participants of this thesis's research called for. This change is driven through education, improving Human Data Relations literacy, and through the experience of new capabilities and changed relationships with data and with data holders that can empower individuals to hold a more aware and equitable position in those relationships and in their digital life.
+- _**Educate & Empower**_ (II): In this quadrant, individuals' ways of thinking about data and data holders grow and evolve towards a state we could call _'feeling empowered'_ [[6.3](#6.3)]. This would constitute definitive progress in delivering the better HDR that I and the participants of Part One's research called for. This change is driven through education, improving HDR literacy, and through the experience of new capabilities and changed relationships with data and with data holders. Such changed relations would empower individuals to hold a more aware and equitable position in every aspect of their digital life.
 
-Taken together, these various efforts show how better HDR might be achievable in practice, even despite the identified obstacles. The [glossary](#hdr-glossary) included at the back of this thesis provides a convenient way for future researchers, innovators, activities and HDR reformers to quickly locate insights and designs of value within this chapter and the wider thesis, so that others can build on this research to pursue improved Human Data Relations. In the [next and final chapter](#chapter-8), the legacy and contributions of the thesis are discussed in more detail.
+Taken together, these multi-pronged efforts show how better HDR might be achievable in practice, even despite the identified obstacles. The [glossary](#hdr-glossary) included at the back of this thesis provides a convenient way for future researchers, innovators, activities and other HDR reformers to quickly locate insights and designs of value within this the thesis, so that others can build on this research to pursue improved Human Data Relations.
 
-[TODO ADD TEXT HERE]
+Those who wish to pursue these approaches need not be technical or experts. The HDR reform agenda, and in particular these four approaches, can be supported or pursued in many different ways, which may appeal to different readers:
+
+  - prototyping and creating proofs of concepts;
+  - fundraising or investment;
+  - design activities;
+  - documentation and knowledge sharing;
+  - market research, participatory research or usability research;
+  - 'early adopter' testing and quality assurance of PDE / PDS offerings;
+  - promotion, advocacy and journalism of HDR issues;
+  - critical audits of provider practices;
+  - policy design;
+  - political pressure on governments and regulators;
+  - participation in open data, PDE, civic hacking or _MyData_ communities; or even
+  - individual self-experimentation with HDR tools, rights and capabilities
+
+This concludes Part Two of the thesis. In the next and final chapter [[Chapter 10](#chapter-10)], the legacy and contributions of the whole thesis are discussed.
 
 -----

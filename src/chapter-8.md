@@ -1,13 +1,13 @@
 Mapping the Human Data Relations Landscape {#chapter-8}
 ==========================================
 
-> _"There are certain things you do not in good conscience do to humans. To data, you can do whatever you like."_—Nikhil Sonnad, award-winning<br/>data journalist<br/>and technology commentator
+> _"There are certain things you do not in good conscience do to humans. To data, you can do whatever you like."_—Nikhil Sonnad, data journalist and technology commentator
 
-Considering how the four objectives [7.7](#7.7) might be tackled, specific _obstacles_ have been identified. Analogous to Li's _barriers cascade_ [[2.2.3](#2.2.3); @li2010], these are the challenges that individuals or system designers must be empowered to overcome. These obstacles, documented below, are accompanied by _insights_ that might help. [Figure 8.1](#figure-8.1) shows an HDR-specific barriers cascade: a route of overcoming obstacles through which individuals might be empowered and by which organisations might become more HDR-friendly.
+In this chapter, we begin to engage with the expanded research question laid out in [[7.1](#exRQ). Considering how better HDR might be achieved in practice generates further questions. Like SI's _barriers cascade_ [@li2010], what barriers exist that inhibit the building or adoption of human-centric technologies? What opportunities might overcome these barriers? How can we catalyse progress toward _MyData_'s human-centric agenda [@mydata2017declaration]? What challenges are faced when attempting to build human-centric technologies for today's world? Building on an understanding of human experience of the data-centric world, can we more provide an outlook for PDE design & development and define a _research agenda_ for the next step of tackling the PDE challenge?
+
+Focusing on the four objectives [[7.7](#7.7)], and informed by the peripheral work [[7.2](#7.2)], I can identify specific _obstacles_. Analogous to Li's _barriers cascade_ [[2.2.3](#2.2.3); @li2010], these are the challenges that individuals or system designers must be empowered to overcome. These obstacles are documented in the following sections, accompanied by _insights_ that might help adversarial designers or strategists to tackle them. [Figure 8.1](#figure-8.1) shows an HDR-specific barriers cascade: a route of overcoming obstacles through which individuals might be empowered and by which organisations might become more HDR-friendly. The concepts on this diagram will be refined and explained across this chapter and the next. The last of these (corresponding to the 'solution space' box) covers some of more pervasive obstacles that apply to all four HDR objectives.
 
 ![Figure 8.1: Obstacles and Resulting Insights in the HDR Opportunity Landscape](./src/figs/fig8.1-obstacles-insights-hdr-landscape.jpg){#figure-8.1}
-
-The obstacles and insights in the figure are explained in this chapter and chapter 9. The last of these (corresponding to the 'solution space' box) covers some of more pervasive obstacles that apply to all four HDR objectives.
 
 Obstacles to the HDR Objective of Data Awareness & Understanding{#8.1}
 ----------------------------------------------------------------
@@ -297,9 +297,11 @@ In summary, whichever of the above four HDR objectives are targeted, all HDR ref
   2. invest in systems that elevate computers from data-processing machines to **human-information-processing machines**, and
   3. make a persuasive case to both businesses and individuals that the new approach offers **tangible, previously unavailable value**.
 
-Summation of Chapter 8{#8.6}
+Summation of Chapter 8: From Obstacles to Opportunities{#8.6}
 ----------------------
 
-[TODO ADD TEXT HERE]
+This chapter has presented, in effect, a map of the HDR landscape. It has described the major obstacles to better HDR including invisible, inaccessible, scattered, immobile, unmalleable, or unrelatable data; the complexity of current personal data ecosystems; a lack of metadata and machine understanding; the ongoing exertion of power by introspective data holders to diminish user agency; and a lack of demand and investment in HDR. [Figure 8.1](#figure-8.1)] showed an overview of how these different obstacles relate.
+
+From the details above, HDR reformers can 'hit the ground running' with a clear understanding of some of the challenges that exist, as well as having been introduced to some insights that may suggest possible strategies to tackle them. A good high-level understanding of the landscape combined with some specific ideas should be valuable for anyone working in the HDR space. [Chapter 9](#chapter-9) expands further on these understandings and insights, presenting four specific and detailed strategic approaches to tackling the obstacles in this chapter.
 
 -----

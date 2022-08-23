@@ -63,13 +63,13 @@ People may think of their personal data through any or all of these _lenses_ [@k
 Human Data Interaction or Human Information Interaction?{#7.5}
 --------------------------------------------------------
 
-To unpack HDR further, we must differentiate between humans relating to data, and humans relating to information. HDI concerns the way people interact with data. Mortier _et al._ [@mortier2013; @mortier2014] defined the field of HDI without making the important distinction between data (the digital artefact stored on computer) and information (the facts or assertions available from that data). This is an important distinction. _Human Information Interaction (HII)_ originated in library sciences to consider how humans relate to information without regard to the technologies involved [@marchionini2008]. Jones _et al._ called for a new sub-field of HII in an HCI context[^12], highlighting the need to focus on information interaction:
+To unpack HDR further, we must differentiate between humans relating to data, and humans relating to information. HDI concerns the way people interact with data. Mortier _et al._ [@mortier2013; @mortier2014] defined the field of HDI without making the important distinction between data (the digital artefact stored on computer) and information (the facts or assertions available from that data). This is an important distinction. _Human Information Interaction (HII)_ originated in library sciences to consider how humans relate to information without regard to the technologies involved [@marchionini2008]. Jones _et al._ called for a new sub-field of HII in an HCI context[^11], highlighting the need to focus on information interaction:
 
 > _"_[HCI can] _unduly focus attention on the computer when, for most people, the computer is a means to an end—the effective use of information."_—@jones2006
 
 DIKW theory [[2.1.1](#2.1.1)] highlights that interpretation of data to obtain information is a discrete activity. This was borne out in the findings of Case Study Two, where it became clear that participants have distinct needs from data, and from information [[5.4.3](#5.4.3.2)]. Access to data _and_ information is critical to both understanding and useability [[6.1.2](#6.1.2); [6.1.3](#6.1.3)].
 
-[^12]: The HCI panelists involved (excepting Fidel) were seemingly unaware of the existing HII field in library sciences, as they positioned the publication as a call for a 'new field'.
+[^11]: The HCI panelists involved (excepting Fidel) were seemingly unaware of the existing HII field in library sciences, as they positioned the publication as a call for a 'new field'.
 
 Drawing on DIKW theory, allows the identification of three distinct artefacts people can have relations with:
 
@@ -86,13 +86,13 @@ Considering these two types of information in the context of the six wants [[Cha
 
 (ii) to acquire _information about yourself_, so that you might gain insights into your own behaviour, and gain personal benefits from those insights or make changes in your life. This is **Life Information Utilisation (LIU)**.
 
-[Figure 7.1](#figure-7.1) shows processes individuals might go through in pursuit of these motives. PDEC is a process of holding organisations to account and managing _what happens_ to personal data, often regardless of what it means. LIU is more concerned with _what the data means_ and its inherent personal value, regardless of where it is stored and how it is used[^13]. This novel motivational model was first proposed in [@bowyer2021twopurposes].
+[Figure 7.1](#figure-7.1) shows processes individuals might go through in pursuit of these motives. PDEC is a process of holding organisations to account and managing _what happens_ to personal data, often regardless of what it means. LIU is more concerned with _what the data means_ and its inherent personal value, regardless of where it is stored and how it is used[^12]. This novel motivational model was first proposed in [@bowyer2021twopurposes].
 
-![Figure 7.1: The Two Motivations for HDR: Controlling Your Personal Data Ecosystem and Utilising Your Information About Your Life<br/>(with 'idealised'[^14] processes illustrated)](./src/figs/fig7.1-the-two-motivations-for-hdr.jpg){#figure-7.1}
+![Figure 7.1: The Two Motivations for HDR: Controlling Your Personal Data Ecosystem and Utilising Your Information About Your Life<br/>(with 'idealised'[^13] processes illustrated)](./src/figs/fig7.1-the-two-motivations-for-hdr.jpg){#figure-7.1}
 
-[^13]: There is some overlap. Organisations hold data to enable interpretation (usually algorithmic) to inform decision making. In this way, organisations are doing LIU for _their_ benefit. This grey area is situated as part of PDEC, because from the individual's perspective, how organisations understand you through information informs decisions that affect your life. As such, it is more likely to enable you to exert control over use of your data than to pursue personal LIU goals.
+[^12]: There is some overlap. Organisations hold data to enable interpretation (usually algorithmic) to inform decision making. In this way, organisations are doing LIU for _their_ benefit. This grey area is situated as part of PDEC, because from the individual's perspective, how organisations understand you through information informs decisions that affect your life. As such, it is more likely to enable you to exert control over use of your data than to pursue personal LIU goals.
 
-[^14]: The illustrated processes incorporate existing data access processes such as GDPR, where the only access is through provision of a copy of one's data. This is _not_ ideal, as it creates divergent versions and will quickly become out-of-sync, however for the sake of simplicity that inefficiency is ignored [see [5.5.1](#5.5.1) for improvements to copy-based access].
+[^13]: The illustrated processes incorporate existing data access processes such as GDPR, where the only access is through provision of a copy of one's data. This is _not_ ideal, as it creates divergent versions and will quickly become out-of-sync, however for the sake of simplicity that inefficiency is ignored [see [5.5.1](#5.5.1) for improvements to copy-based access].
 
 ### Life Information Utilisation (LIU){#7.6.1}
 
@@ -115,10 +115,10 @@ To offer future value to future researchers, activists and innovators, this chap
 
   1. Data Awareness & Understanding;
   2. Data Useability<sup>[10](#fn10)</sup>;
-  3. Data Ecosystem Awareness & Understanding[^15] and
-  4. Data Ecosystem Negotiability<sup>[15](#fn15)</sup>.
+  3. Data Ecosystem Awareness & Understanding[^14] and
+  4. Data Ecosystem Negotiability<sup>[15](#fn14)</sup>.
 
-[^15]: To avoid overly cumbersome wording, subsequent sections will drop the 'Data' prefix from 'Data Ecosystem Awareness & Understanding' and 'Data Ecosystem Negotiability'.
+[^14]: To avoid overly cumbersome wording, subsequent sections will drop the 'Data' prefix from 'Data Ecosystem Awareness & Understanding' and 'Data Ecosystem Negotiability'.
 
 As [Figure 7.2](#figure-7.2) shows, the need for data to be understandable, visible and useable applies to all types of data, whether that data is interpretable as _life information_ (information within the data, that says something about the individual) or _ecosystem information_ (information _about_ the data, where it is held and how it is used). These two types of information will collectively be referred to as **human information**. These terms are used in subsequent sections.
 
@@ -148,13 +148,17 @@ This idea of reconfiguring society in this way has been conceived as _civic hack
 - humane technology [@harris2013]; and
 - explainable AI [@explainableAI].
 
-Summation: HDR—A Landscape to Explore{#7.9}
+Summation: HDR—A Landscape Ready to Explore{#7.9}
 ---------------------------------
 
 The commonality to so many groups [7.8](#7.8) suggests HDR reform is an emergent cultural phenomenon, whether or not a single identifiable public coalesces. Time will tell whether _Human Data Relations_ as laid out in this thesis is sufficient to give form to that phenomenon. At the least, HDR offers as descriptive umbrella term. The breadth of research, innovation and activism validates the need _and_ the desire for such a recursive public around HDR reform to exist. In fact, it already does, whether named or not. Therefore, this chapter takes an unashamedly critical view of the status quo, favouring disruptive societal change that would further HDR reform and provide actionable approaches for members of this public. This chapter asks,
 
-> _"How can we change the world into the one we want?"_
+> **_"How can we change the world into the one we want?"_**
 
-[TODO ADD TEXT HERE - now we will dive into this field, start out on the road]
+This chapter has established a clear scope, motivation and research question for the new field of Human Data Relations. This sets the stage for the next two chapters, where I will take the reader on a journey of exploration through the HDR landscape to consider that question in more detail, taking note of the pitfalls and opportunities that exist.
+
+What follows in Chapters [8](#chapter-8) and [9](#chapter-9) is deliberately broad and open-ended[^15]. It does not provide a complete answer to this question or the expanded research question [[7.1](#exRQ)], nor could it. I do not pretend to be complete or definitive in my interpretation of the outlook for HDR. What follows is not a roadmap, but rather a snapshot of ongoing work, identified challenges and known opportunities, that can be understood through Part Two of this thesis and subsequently exploited by HDR reformers and practitioners.
+
+[^15]: Some of the challenges and opportunities described in the next two chapters are covered in greater detail than others. This corresponds only to my proximity and depth of engagement with those ideas, rather than their relative merit, complexity or impact potential. Given the broad aim to chart a new field, I consider it is more useful to introduce a range of applicable ideas even if some are only lightly detailed than to document just a few.
 
 ---
