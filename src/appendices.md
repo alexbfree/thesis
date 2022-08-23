@@ -15,7 +15,7 @@ Index of Key Ideas, Insights and Contributions {#hdr-glossary .unnumbered}
 This section serves as both a glossary to explain abbreviations and existing terms used, as well as an index to easily locate key HDR-related concepts, ideas and contributions that this thesis contributes.
 
 
-### HDR Wants {.unnumbered .unlisted}
+### The Six Wants in Data Relations {.unnumbered .unlisted}
 
 Direct Data Relations:
 
@@ -31,7 +31,7 @@ Indirect Data Relations:
 
 ### HDR Objectives {.unnumbered .unlisted}
 
-The objectives are introduced in [7.2.4](#7.2.4). They are explored in [Chapter 8](#chapter-8)]:
+The objectives are introduced in [7.7](#7.7). They are explored in [Chapter 8](#chapter-8)]:
 
   Objective 1 - Data Awareness & Understanding - [8.1](#8.1)<br/>
   Objective 2 - Data Useability<sup>[10](#fn10)</sup> - [8.2](#8.2)<br/>
@@ -41,7 +41,7 @@ The objectives are introduced in [7.2.4](#7.2.4). They are explored in [Chapter 
 
 ### HDR Obstacles {.unnumbered .unlisted}
 
-The obstacles are collectively shown in [Figure 7.3](#figure-7.3) and are explained in the following subsections of [Chapter 8](#chapter-8)]:
+The obstacles are collectively shown in [Figure 8.1](#figure-8.1) and are explained in the following subsections of [Chapter 8](#chapter-8)]:
 
   Closed, Insular and Introspective Practices - [8.5.2](#8.5.2)<br/>
   Complex and Invisible Personal Data Ecosystems - [8.3.1](#8.3.1)<br/>
@@ -121,22 +121,21 @@ The four approaches are collectively summarised in [9.6](#9.6), and explained an
 **Data Relations, Indirect** - [6.2](#6.2)<br/>
 **Digital Self Curation** - [4.4.3](#4.4.3), [5.5.2](#5.5.2), [6.3](#6.3)<br/>
 **Ecosystem Detection** - [Insight 4](#insight-4)<br/>
-**Ecosystem Information** - [7.2.4](#7.2.4), [Insight 4](#insight-4)<br/>
+**Ecosystem Information** - [7.7](#7.7), [Insight 4](#insight-4)<br/>
 **Ecosystem Information Display** - [Insight 4](#insight-4)<br/>
-**Ecosystem Negotiability** - [7.2.4](#7.2.4), [8.4](#8.4)<br/>
+**Ecosystem Negotiability** - [7.7](#7.7), [8.4](#8.4)<br/>
 **Empowerment (in the context of data wants)** - [6.3](#6.3)<br/>
 **Free Data Interfaces** - @bowyer2018freedata <br/>
 **Hacking the Seams** - [Insight 12](#insight-12)<br/>
 **Human Data Relations (HDR)** - [7.2](#7.2)<br/>
 **HDR Literacy** - [9.5.1](#9.5.1)<br/>
-**HDR Wants** - see Data Wants<br/>
 **Human Information Operating System** - [8.2](#info-os)<br/>
 **Human Information** - see Life Information and Ecosystem Information<br/>
 **Inclusive Data Flows** - [9.3.5](#9.3.5)<br/>
 **Information Standards** - [5.5.1](#5.5.1), [8.5](#8.5)<br/>
-**Landscape of HDR Opportunity** - [Figure 7.3](#figure-7.3), [9](#9), **[Figure 9.23](#figure-9.23)<br/>
+**Landscape of HDR Opportunity** - [Figure 8.1](#figure-8.1), [9](#9), **[Figure 9.23](#figure-9.23)<br/>
 **Life Concepts** - [8.1.1](#8.1.1)<br/>
-**Life Information Utilisation** - [7.2.3](#7.2.3.1), [Figure 7.1](#figure-7.1)<br/>
+**Life Information Utilisation** - [7.6](#7.6.1), [Figure 7.1](#figure-7.1)<br/>
 **Life Information** - [Insight 1](#insight-1)<br/>
 **Life Interface Design** - [9.3.1](#9.3.1)<br/>
 **Life Partitioning** - [9.3.2](#9.3.2)<br/>
@@ -144,7 +143,7 @@ The four approaches are collectively summarised in [9.6](#9.6), and explained an
 **Meaning in Data** - [Figure 2.1](#figure-2.1), [4.3.2](#4.3.2), [5.4.2](#5.4.2), [6.1.2](#6.1.2), [Insight 1](#insight-1)<br/>
 **Perceived Individual Power** - [5.3.4](#5.3.4)<br/>
 **Personal Data Diaspora, the** - [8.1.2](#8.1.2)<br/>
-**Personal Data Ecosystem Control** - [7.2.3](#7.2.3.2), [Figure 7.1](#figure-7.1)<br/>
+**Personal Data Ecosystem Control** - [7.6](#7.6.2), [Figure 7.1](#figure-7.1)<br/>
 **Personal Data as a Proxy for Involvement** - [5.4.4](#5.4.4.1), @bowyer2018family <br/>
 **Personal Data Stewardship** - [4.3.3](4.3.3.4), [5.6](#5.6)<br/>
 **Proxy Representations of Immobile Data** - [Insight 4](#insight-4)<br/>

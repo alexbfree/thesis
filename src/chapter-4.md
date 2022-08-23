@@ -1,5 +1,5 @@
-Case Study One: Accessing and Using Civic Data in Early Help {#chapter-4}
-=======================
+Case Study One: Access to Civic Data in Early Help {#chapter-4}
+==================================================
 
 > _"If you can see the invisible, then you can see the possible and provide the opportunities for trust, commitment and ways of empowering others to manage their past, present and future."_—Ken Wyatt (Australian politician, teacher and equal rights campaigner)
 
@@ -435,7 +435,7 @@ Analysis of the Child Index, an early warning child welfare system in the Nether
 
 > _"Taking into account that_ [care] _professionals' first love is the best interest of and care for a child,_ [policymakers should] _provide room for the 'love' between future technologies and their social actors to flourish."_—@lecluijze2015
 
-### The Implications of Shifting the Locus of Decision Making Through Shared Data Interaction{#4.4.3}
+### Shifting the Locus of Decision Making Through Shared Data Interaction{#4.4.3}
 
 In pursuit of [RQ2](#RQ2), the workshops explored the role of data within the EH support relationship. Workshop C brought parents and workers together to explore the mechanics of shared data interaction at an interpersonal, sociotechnical level [[2.2.5](#2.2.5); [2.3.3](#2.3.3)] to explore the mutual benefits that might be offered by _shared data interaction_. The participants worked together to construct possible narratives expressed through human-human and human-data interactions. In doing so, they modelled how shared data interaction could rebalancing power over data. I conceptualise this as **shifting the Locus of Decision Making (LDM)**. LDM is a concept distinct from _locus of control_ [@spector1982] which normally refers to personal willpower, and _locus of power_, which refers to the concentration of power within an organisational hierarchy. The LDM is the the place where decisions are made. It may or may not coincide with existing authority structures. Accumulated understandings of EH practice, and more generally of data-centric service provision, suggest that decisions are typically made, germinated or championed close to where data is accessed. In an effect that has been expected since as early as 1970 [@klatzky1970] the increasing use of data in service provision [[2.1.2](#2.1.2)] has concentrated the LDM with data holders, who collect service users' data to serve their own purposes.
 
@@ -451,7 +451,7 @@ In a more equitable model (bottom), support worker and family member are positio
 
 The removal of the gatekeeper role redistributes the power to interpret, select and judge data. Families would no longer be prevented from participating in data-based decision making. I theorise that shifting the data access from the domain of the support worker to the shared domain of the support meeting would move the LDM closer to the heart of the support relationship, creating a more balanced relationship and increasing families' agency and power.
 
-Support for shifting the LDM through shared data interaction is seen in the findings: Both families and staff said they would value a shared data interaction approach. Multiple participants independently imagined benefits of reviewing data and consent together [[4.3.2](#4.3.2.2); [4.3.3](#4.3.3.2); [4.3.3](#4.3.3.3)]. Participants perceive shared data interaction as an improvement, but it has not been tested in practice, so it is important to consider the benefits and implications of such a shift.
+Support for shifting the LDM through shared data interaction is seen in the findings: Both families and staff said they would value a shared data interaction approach. Multiple participants independently imagined benefits of reviewing data and consent together [[4.3.2](#4.3.2.2); [4.3.3](#4.3.3.2); [4.3.3](#4.3.3.3)]. Participants perceive shared data interaction as an improvement, but it has not been tested in practice, so the remainder of this subsection will consider the benefits and implications of such a shift.
 
 <a name="4.4.3.2">**Individual/Family Benefits**</a>
 
@@ -478,7 +478,7 @@ Dispute resolution procedures and additional legal and information governance su
 
 It would be fair to criticise human-centred state interaction as something that would not be cheap or scalable. With more individual-state interactions, every case could take more worker time in a system that is already overburdened and underfunded [@copeland2015;@lga2017]. The state has adopted a data-centric approach to citizen interaction in part because it cannot manage to provide human relationships with every individual citizen. But now this approach has become ingrained into government approaches to citizen relations:
 
-> _'It is no longer a technological necessity but it has become a political intention.'_—[@bridle2016]
+> _'_[Data-centric citizen interaction] _is no longer a technological necessity, but it has become a political intention.'_—[@bridle2016]
 
 There is a need to reverse this trend, not only in practice but in political ambition, if people's interests are to be best served, and if a welfare state is to be truly _enabling_ [@miettinen2013]. By taking a more innovative approach to digital policy, it is possible that governments could be more effective in helping to involve those citizens that have become disadvantaged by the current system. A more human-centred approach could help to combat the digital divide [@kalvet2008; @steyaert2009].
 

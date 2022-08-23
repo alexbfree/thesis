@@ -3,7 +3,7 @@ Mapping the Human Data Relations Landscape {#chapter-8}
 
 > _"There are certain things you do not in good conscience do to humans. To data, you can do whatever you like."_—Nikhil Sonnad, award-winning<br/>data journalist<br/>and technology commentator
 
-Considering how the four objectives [7.2.4](#7.2.4) might be tackled, specific _obstacles_ have been identified. Analogous to Li's _barriers cascade_ [[2.2.3](#2.2.3); @li2010], these are the challenges that individuals or system designers must be empowered to overcome. These obstacles, documented below, are accompanied by _insights_ that might help. [Figure 8.1](#figure-8.1) shows an HDR-specific barriers cascade: a route of overcoming obstacles through which individuals might be empowered and by which organisations might become more HDR-friendly.
+Considering how the four objectives [7.7](#7.7) might be tackled, specific _obstacles_ have been identified. Analogous to Li's _barriers cascade_ [[2.2.3](#2.2.3); @li2010], these are the challenges that individuals or system designers must be empowered to overcome. These obstacles, documented below, are accompanied by _insights_ that might help. [Figure 8.1](#figure-8.1) shows an HDR-specific barriers cascade: a route of overcoming obstacles through which individuals might be empowered and by which organisations might become more HDR-friendly.
 
 ![Figure 8.1: Obstacles and Resulting Insights in the HDR Opportunity Landscape](./src/figs/fig8.1-obstacles-insights-hdr-landscape.jpg){#figure-8.1}
 
@@ -229,7 +229,7 @@ To date, research and innovation on ecosystem negotiability has been very limite
 Obstacles to the HDR Objective of Effective, Commercially-Viable and Desirable Systems{#8.5}
 ---------------------------------------------------------------------------------------
 
-The previous four subsections considered the obstacles to the HDR objectives [[7.2.4](#7.2.4)]. However, through pursuit of these objectives, and through observation of public and business responses to human-centricity, I observed additional obstacles that affect _all_ efforts to make progress towards improving HDR. The main challenge is around building such disruptive systems that are so different from the status quo:
+The previous four subsections considered the obstacles to the HDR objectives [[7.7](#7.7)]. However, through pursuit of these objectives, and through observation of public and business responses to human-centricity, I observed additional obstacles that affect _all_ efforts to make progress towards improving HDR. The main challenge is around building such disruptive systems that are so different from the status quo:
 
 **Businesses and individuals will not readily invest time and money in HDR, because it is unfamiliar**.
 

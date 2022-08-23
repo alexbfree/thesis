@@ -183,7 +183,7 @@ Lists of Figures by Chapter {.unnumbered .unlisted}
 List of Inset Boxes by Chapter{#inset-boxes .unnumbered .unlisted}
 ------------------------------
 
-### Inset Boxes in Chapter 8 {.unnumbered}
+### Inset Boxes in Chapter 8 {#inset-boxes-c8 .unnumbered}
 
 [Insight 1](#insight-1) - Life Information Makes Data Relatable.<br/>
 [Insight 2](#insight-2) - Data Needs to be United and Unified.<br/>
@@ -194,7 +194,7 @@ List of Inset Boxes by Chapter{#inset-boxes .unnumbered .unlisted}
 [Insight 7](#insight-7) - Human-centred Information Systems Must Serve Human Values, Relieve Pain and Deliver New Life Capabilities.<br/>
 [Insight 8](#insight-8) - We Need to Teach Computers to Understand Human Information.<br/>
 
-### Inset Boxes in Chapter 9 {.unnumbered}
+### Inset Boxes in Chapter 9 {#inset-boxes-c9 .unnumbered}
 
 [Insight 9](#insight-9) - Individual GDPR Requests can Compel Companies to Change Data Practices.<br/>
 [Insight 10](#insight-10) - Collectives can Compare and Unify their Data and Use it to Demand Change.<br/>

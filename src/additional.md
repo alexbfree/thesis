@@ -418,9 +418,9 @@ I was specifically hired to co-lead the _digipower_ project [@härkönen2022proj
   - A high-level interpretation of models of power and influence in the data economy [@pidoux2022]; and
   - A detailed auditing of provider practices, evidenced by examples from participants' data [@bowyer2022hestia].
 
-At the time of publication of this thesis (August 2022), I continue to be employed by Hestia.ai, working on the research, design and development of tools to help collectives [[Insight 10](#insight-10)] with data, make data easier to understand [[6.1.2](#6.1.2); [7.2.4](#7.2.4)], and exploring methods to help people 'hack the seams' of digital platforms and services [[9.4](#9.4)].
+At the time of publication of this thesis (August 2022), I continue to be employed by Hestia.ai, working on the research, design and development of tools to help collectives [[Insight 10](#insight-10)] with data, make data easier to understand [[6.1.2](#6.1.2); [7.7](#7.7)], and exploring methods to help people 'hack the seams' of digital platforms and services [[9.4](#9.4)].
 
-Where the [BBC internship](#ari-bbc) has helped me to understand the practicalities of connecting people with their personal data in pursuit of Life Information Utilisation [[7.2.3](#7.2.3.1)], my work with Hestia.ai has helped me understand the practicalities of how people might acquire greater Personal Data Ecosystem Control [[7.2.3](#7.2.3.1)]. In this sense, both peripheral activities have been highly complementary to developing an overview of the pursuit of HDR in practice.
+Where the [BBC internship](#ari-bbc) has helped me to understand the practicalities of connecting people with their personal data in pursuit of Life Information Utilisation [[7.6](#7.6.1)], my work with Hestia.ai has helped me understand the practicalities of how people might acquire greater Personal Data Ecosystem Control [[7.6](#7.6.1)]. In this sense, both peripheral activities have been highly complementary to developing an overview of the pursuit of HDR in practice.
 
 ARI7.3 DERC's Healthy Eating Web Augmentation Project {#ari-derc .unnumbered}
 -----------------------------------------------------
@@ -443,12 +443,12 @@ This thesis is my own work. All ideas synthesised in Chapter 7 are original. Som
   - earlier innovation work with Alistair Croll at Rednod, Montréal, Canada (circa 2011); and
   - earlier innovation work with Megan Beynon and Dean Upton at IBM Hursley, UK (circa 2006).
 
-Due to these collaborations and the ongoing and parallel nature of many of these projects to my PhD research, it is impossible to precisely delineate the origin of each idea or insight. In practice, ideas from my developing thesis and own thinking informed the projects' trajectories and thinking, and vice-versa. These ideas would not have emerged in this form without my participation, so they are not the sole intellectual property of others, but equally I would not have reached the same conclusions alone, so the ideas are not solely my own either. All diagrams and illustrations were produced by me, except where specified, and the overall synthesis and framing presented in this chapter is my own original work. Where this chapter includes material from the four peripheral projects [[7.1.2](#7.1.2)], that material is either already public, or permission has been obtained from the corresponding individuals or project teams.
+Due to these collaborations and the ongoing and parallel nature of many of these projects to my PhD research, it is impossible to precisely delineate the origin of each idea or insight. In practice, ideas from my developing thesis and own thinking informed the projects' trajectories and thinking, and vice-versa. These ideas would not have emerged in this form without my participation, so they are not the sole intellectual property of others, but equally I would not have reached the same conclusions alone, so the ideas are not solely my own either. All diagrams and illustrations were produced by me, except where specified, and the overall synthesis and framing presented in this chapter is my own original work. Where this chapter includes material from the four peripheral projects [[7.2](#7.2)], that material is either already public, or permission has been obtained from the corresponding individuals or project teams.
 
 ARI7.5 Eight Lenses on Personal Data{#ari-lenses .unnumbered}
 ------------------------------------
 
-This table is referenced and contextualised in section [7.2.1](#7.2.1).
+This table is referenced and contextualised in section [7.4](#7.4).
 
 | <a name="table-ari7.1">Way of thinking about data</a> | Explanation & Implications |
 |:--------|:---------------------------------------------------|
