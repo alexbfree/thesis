@@ -374,7 +374,6 @@ The quality and coverage datapoints described in [5.3.3](#5.3.3) also allowed in
 Companies producing responses with good coverage and good quality included Niantic, Nectar and Sunderland AFC as well as to a lesser extent Natural Cycles, Revolut, Spotify, Tesco and Amazon. Facebook and Google fared well for the breadth of data returned (due in part to their download dashboards), though the quality of Google's data was found lacking across multiple categories. Last.fm (owned by CBS) fared poorly overall due to poor category coverage, despite the limited data that it did return being of high quality.
 
 <a name="table-ari5.1"></a>
-
 ![](./src/figs/table11-best-worst-companies.png)
 
 Table: Table ARI5.1 - Best and Worst Data Holders for GDPR, according to Participants' Judgements<sup>a</sup>
