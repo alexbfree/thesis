@@ -148,6 +148,8 @@ We then produced a mock app workflow for assigning different elements of your li
 
 ![Figure 9.10: Mock-up: Browsing by Areas of Life](./src/figs/fig9.10-browse-by-areas-of-life.png){#figure-9.10}
 
+During a Cornmarket hack week, I coded a proof-of-concept: a functional prototype entity extractor, which is detailed in [ARI7.1](#ari-bbc) and shown in [Figure ARI7.1](#figure-ari7.1).
+
 ### Entity Extraction From Pooled Life Data{#9.3.3}
 
 | **INSIGHT 11: Automating the Identification of Entities can enhance Machine Understanding and Unburden Life Interface Users.** |{#insight-11}

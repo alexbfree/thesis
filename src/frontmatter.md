@@ -178,7 +178,8 @@ Lists of Figures by Chapter {.unnumbered .unlisted}
 [ARI4.2](#figure-ari4.2) - Example Backing Mat for Storyboard Decks<br/>
 [ARI5.1](#figure-ari5.1) - Screenshot from Quirkos During Coding Process<br/>
 [ARI5.2](#figure-ari5.2) - Screenshot from Quirkos at End of Coding Process<br/>
-[ARI5.3](#figure-ari5.3) - Screenshot from Workflowy During Theme Construction
+[ARI5.3](#figure-ari5.3) - Screenshot from Workflowy During Theme Construction<br/>
+[ARI7.1](#figure-ari7.1) - Screenshot from Web Augmented version of Just Eat Website
 
 List of Inset Boxes by Chapter{#inset-boxes .unnumbered .unlisted}
 ------------------------------

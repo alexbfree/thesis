@@ -72,7 +72,6 @@ GDPR Request Outcomes{#5.3}
 Initially eight participants chose 5 target companies and three chose 4 to request data from. One participant (P9) withdrew from the study due to COVID-19 after Interview 1. Five participants withdrew a chosen company upon further consideration. Reasons for withdrawing chosen targets included having one's personal data mixed with other household members (Netflix), the account being in someone else's name (Morrisons), not wishing to impact active customer support matters (LNER), and inability to contact the provider by email (ifun.tv, see below). One participant selected Newcastle University, which was vetoed by the research team to avoid conflicts of interest. Hence, 41 out of a possible 52 GDPR subject access requests were made (to 28 distinct data holders) as shown in Table 5.1:
 
 <a name="table-5.1"></a>
-
 ![](./src/figs/table8-targets.png)
 
 Table: Table 5.1 - Types of Data Holding Organisation Targeted for GDPR Requests by Study Participants<sup>a</sup>
@@ -80,7 +79,6 @@ Table: Table 5.1 - Types of Data Holding Organisation Targeted for GDPR Requests
 To ensure fairness and consistency, the aim was that all GDPR requests be sent by e-mail by the participant to the data-holder's identified Data Protection Officer, requesting both a subject access request [@ico2021sar] and a data portability request [@ico2021dp] be initiated, and specifically enumerating and asking for all those datapoints that the company stated in its privacy policy, as well as others which the GDPR entitles individuals to obtain. To identify these datapoints, company privacy policies were analysed and the necessary information was compiled in personaldata.io's semantic wiki [@personaldataio2021list]. This has a feature to generate bespoke GDPR request emails, which were adapted then provided to participants [@bowyer2022gdpr, supplemental materials]. Facebook, Apple, Huawei and Philips Hue do not offer a contact e-mail address, so the email text (shortened where length restrictions applied) was pasted into a contact form. In one case, entertainment website ifun.tv, the only available means of contact was via WeChat, resulting in the participant (a Chinese citizen) choosing not to contact ifun.tv due to fear of Chinese government surveillance. Through analysis of companies' privacy policies and with reference to GDPR rights, a taxonomy of the types of personal data that could be returned was constructed, using terms from those privacy policies and GDPR legislation: there are five types of personal data, as shown in Table 5.2:
 
 <a name="table-5.2"></a>
-
 ![](./src/figs/table9-data-types.png)
 
 Table: Table 5.2 - Types of Personal Data Potentially Accessible from Data Holders via GDPR Rights

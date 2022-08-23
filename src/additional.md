@@ -76,27 +76,27 @@ In this section, additional details are provided on the _Sentence Ranking_ exerc
 
 The sentences offered to participants across the 4 workshops were as follows:
 
-  - ` S1` A family’s data should all be joined up and looked at together.
+  - ` S1` A family's data should all be joined up and looked at together.
   - ` S2` Any information from more than 5 years ago should be hidden from staff.
   - ` S3` Asking families for consent to share data just once at the start is enough.
   - ` S4` Councils should treat families like people, not records in a database.
-  - ` S5` Families don’t want to be responsible for looking after their data.
+  - ` S5` Families don't want to be responsible for looking after their data.
   - ` S6` Families find setting privacy preferences to be annoying and tedious.
   - ` S7` Families should always be able to talk to someone from the authorities about their data.
   - ` S8` Families should have rights to see their data and how it is used.
   - ` S9` Families will be willing to spend time checking their data is correct.
-  - `S10` Families won’t mind lots of data being collected about them if they can see it.
+  - `S10` Families won't mind lots of data being collected about them if they can see it.
   - `S11` Families' data should be private unless they say it can be shared.
   - `S12` Information stored about families must be fair and accurate.
   - `S13` It is important for support workers to know mental health details.
-  - `S14` Just looking at data doesn’t tell you everything about a family.
+  - `S14` Just looking at data doesn't tell you everything about a family.
   - `S15` Labels like 'domestic abuse' are damaging to families & hard to shake off.
   - `S16` Numerical scores are a good way to compare the progress families have made.
   - `S17` Officials should be able to see historical records about families.
-  - `S18` Public sector officials can make good judgements just by looking at families’ data.
+  - `S18` Public sector officials can make good judgements just by looking at families' data.
   - `S19` Support workers make better decisions if they have more data about a family.
   - `S20` Support workers should be able to see family medical records.
-  - `S21` The police should be able to see all of a family’s data.
+  - `S21` The police should be able to see all of a family's data.
 
 Where participants unanimously or mainly disagreed with a sentence, it is referenced in the inverse using a prime notation, e.g. `S18'`, which would imply a reference to the opposite of the statement - in this case 'Public sector officials can **not** make good judgements just by looking at families' data.'
 
@@ -169,7 +169,295 @@ Quotations included in section [4.3](#4.3) are references using the following no
   - CQnn = Combined Quote - a quote from the combined workshop (C).
   - Sn = Sentence n - a sentence from the _Sentence Ranking_ exercise, see [ARI4.2](#ari-sentences).
 
-The number after FQ/CQ/SQ provides a unique identifier for each quote, which can be used to look up the referenced quote in [TODO INSERT REF TO APPENDIX SECTION HERE]. Individual speakers are identified only by their role. Within each quote, or in brackets afterwards, the speakers are identified as _Worker_, _Parent_, _Child_, or _Researcher_.
+The number after FQ/CQ/SQ provides a unique identifier for each quote. Individual speakers are identified only by their role. Within each quote, or in brackets afterwards, the speakers are identified as _Worker_, _Parent_, _Child_, or _Researcher_.
+
+Most quotes and conversation extracts are directly embedded into section [4.3](#4.3). All other quotes referenced in the text (excluded for reasons of space and flow) are included in [ARI4.5](#ari-quotes-extra-c4).
+
+ARI4.5 Additional Participant Quotations{#ari-quotes-extra-c4 .unnumbered}
+----------------------------------------
+
+The majority of quotations and conversation extracts in Case Study Two are embedded inline throughout section [4.3](#4.3). The following quotes were referenced in the text but excluded for reasons of space and flow:
+
+### Quotes from Families-Only Workshop [A] {.unlisted .unnumbered}
+
+**FQ1** [Researcher(A), Parent(B) & Daughter(C)]
+A: "So [you think that she should be able to be] selective about the things she wants her worker to know and leave out things that she doesn't?"
+B: "Yes, like only her mental health and what tablets she's on and things."
+C, talking to B: "It sounds like you." […]
+B: "If she trusted her worker, I think she'd tell her herself though."
+A: "Do you think that makes a big difference?"
+B: "I had a worker and my daughter didn't like her and it made it really difficult when she came out. But she likes the new one."
+C: "I don't."
+B: "Why?"
+C: "She's annoying."
+A: "So do you think the relationship makes a difference to how much you tell?"
+C: "Yes. Because if you don't like them, why should you tell them?"
+
+**FQ3** [Researcher (A) & Parent (B)]
+A: What do you think could be done? What would help [this family] feel a bit happier?
+B: Give them a one-to-one support worker who they can build up a trust and understanding where you feel like they're not going to share your information. I don't know, maybe come up with a computer thing so you [the family] know what they're [the workers] putting in or maybe sign paperwork [to give your approval].
+
+**FQ6** [Parents]
+A: "It's so hard because we've all done things in our past […]"
+B: "I think for him to see [old medical records] the doctor should have requested it, it shouldn't just be there for him to see. I don't know, if he was going for some mental health problems or something and then [he can] look back... […] It should be like you have to request to look at that data. I know when I've been to the doctors and they actually go into a different part of the system to find my old records, which I think is a bit bad. It shouldn't just be there."
+
+**FQ9** [Child]
+"I [designed] a graph to show how you are feeling day by day."
+
+**FQ11A** [Parent]
+[discussing the sentence 'Numerical scores are a good way to judge a family's progress']
+"No, I disagree, because just anybody can tick any numbers. You could have a good day, you could have a bad day."
+
+**FQ11B** [Researcher (A) & Parents (B, C, D)]
+A: "Do people have a right to know [past incidents with police]?"
+B: "Not really. The past is the past, isn't it?"
+C: "No, because..."
+D: "You shouldn't be judged on your past, but I think it should be there [accessible in the data] because I think at the end of the day, you can fall back into old ways. The thing is, if you're putting a child at risk or a person at risk, I think you [the worker] need to know everything, don't you?"
+
+**FQ12** [Parent]
+"[The parent could] countersign. [The worker would] say, 'I feel that we've talked about this today so I'm going to write that down. I'm going to show you. Can you sign and me sign if you're happy and I'm going to share this.' That's a bit different [better]".
+
+**FQ15** [Parent]
+"You would think that it would help with your benefits, [that] you wouldn't mind sharing your data, would you, because they [support workers] are trying to help you. It's not like they're saying, 'Well she gets too much money,' They're not trying to cut [families'] benefits, they're trying to help [families]."
+
+**FQ16** [Parent]
+"[Families need to] feel they're being involved. […] [We need to be able to] sit together and say, 'Right, that's the information I'll allow you to share. I don't want that bit shared. But this bit, because it will help me and the family […]'. Say in this [scenario] family, she might have been married before and had domestic violence so she doesn't want that bit shared, that's in the past. So it's [only] certain up-to-date information about the family [that would be shared] because this [the family suggested by the data] isn't her family." [Parent, SQ76]
+
+**FQ17** (Worker (A) & Parents (B, C))
+A: "'Families don't want to be responsible for looking after their data'"? 
+B: "It's one of those things where …"
+C: "You've enough on without all that."
+A: "You just don't think about it."
+C: "And if you were to think about it, would you actually do anything?"
+
+### Quotes from Staff-Only Workshop [B] {.unlisted .unnumbered}
+
+**SQ3** [Workers]
+A: "I think we would have to see all the data." […]
+B: "If you're going out to visit a family, you don't know what you're going to."
+A: "It's about protecting ourselves as well."
+B: "Yes, we have to check for markers, potential violence, things like that."
+
+**SQ4** [Worker]
+[imagining an interface that would allow workers to see missed appointments]
+"Often they can lie to you, can't they, and say, "Well yes, I've been to the doctor. Yes, I've been to the dentist. Yes, I've done that and yes, I've done that. But then [with this] we've kind of got the proof.
+
+**SQ5** [Worker]
+"[a benefit of having family's data is that] families don't have to tell the tale over and over again […] they don't want to have to keep verbally telling everybody."
+
+**SQ6** [Worker]
+I had one [client] yesterday where she was nearly all fives [out of 5] because they'd made that much progress. I had to put that on. So, she saw that as a real positive […] She was like, "I don't need your support on this, I don't need your support on this."
+
+**SQ14** [Worker]
+"Parents might not want certain information [shared] so it might not be on [the visible data records] anyway..."
+
+**SQ9** [Workers]
+A: Sometimes they might have been out and had a drink, had an argument but the police have been called and it's recorded as domestic abuse.
+B: That's what I'm saying about it [the "domestic violence" label] being overused.
+A: In isolation, it probably wouldn't be classed as domestic abuse. It was just an argument.
+
+**SQ10** [Worker]
+I think we make a lot of assumptions on information that we get about families without actually talking to them to find out why.
+
+**SQ11** [Workers]
+A: "I think you should never make a judgement on data …, that data could be wrong."
+B: "It takes individuality, working with that person as well, doesn't it?"
+
+**SQ12** [Worker]
+"It all depends on what data they've got. You take that family I worked with, if there was nothing on there about the mental health, she just looked like a really, really poor parent when in fact she's not. I think a lot of the professionals over the years have just thought that. So, I disagree [with that sentence]."
+
+**SQ13** [Researcher (A) & Workers (B, C)]
+A: "Was that fair and appropriate and is that accurate in terms of [what data has been viewed]?"
+B: "I think it would be fair... I think for me it's fair if it's current because..."
+C: "It can only be fair if it's complete, [if] you've got all the information there."
+
+**SQ15** [Worker]
+"They [families] don't like people knowing what's going on in their lives."
+
+**SQ17** [Worker]
+"You often get [that] by the time they've got back from the doctors, it's ten times worse than the conversation actually was and three other things were thrown in and then they started spiralling out of control thinking about 'What has been said behind my back?' sort of thing."
+
+**SQ18** [Worker]
+"It hasn't been explained property to this family that their information will be shared with other professionals. So, they've been left feeling really let down and probably quite angry about it. So, although that information does need to be shared, they [the support workers involved] ought to make the family properly aware that information will be shared."
+
+**SQ20** [Worker]
+"A lot of the families we work with have got the fear that we're still social workers or attached to social workers. So, they're saying, 'I'm not going to share with you or work with you.' […] [They might] say, "You're not social services are you? We're not going to have the kids taken away?"
+
+**SQ23** [Workers]
+A: I think [the medical data we can access] has to be issue-specific. I think to be able to see somebody's full medical history is not always relevant to why we're working with them.
+B: I had a gran who had residency and the GP sent everything from when she was 15 [including the details of her lost pregnancies]. That wasn't relevant to what they were doing at the time with the grandchildren and residency. It's got to be relevant. […]
+A: Relevant to what you're doing with the family.
+B: Yes, relevant with the priorities and the issues what's affecting them.
+
+**SQ24** [Workers]
+A: "Yes." [to the sentence 'Families' data should be private unless they say it can be shared.']
+B: "Unless it's safeguarding, obviously."
+A: […] "It's private, but I guess if there was a real significant need for us to know or somebody else to know that information for safeguarding…"
+B: "The law will overrule."
+
+**SQ25** [Workers]
+A: "Imagine somebody doing that [checking all the different data sources] though, that would be a lot of work, wouldn't it?" […]
+B: "But actually, that's a really good idea to have it all in one place."
+
+**SQ26** [Workers]
+A: "[In this imagined ideal system] you would press on 'Mum' and then get all the data."
+B: "You'd get all the data, anything you want."
+A: "Crime, financial, just the things that we get. Then everything for Dad."
+
+**SQ30** [Worker]
+"I think for some parents it will be good for them to visually see it as well. […] So you're able to give them almost a visual context rather than just talking at them. Different people take information in different ways, don't they?"
+
+**SQ31** [Worker]
+"I guess the things with [tables of data] is that might just be like a number or a percentage… whereas [using a pie chart or graph] is actually giving some context."
+
+**SQ32** [Workers]
+A: "A lot of the time they say, 'I'm not going to get into any more trouble,' [but with the ability to show them data] you can say, "But if you did, this could happen."
+B: "If you get into more bother, you're going to go straight back down to there [acts pointing at data]. Look where you are now. If you carry on you're going to end up up there but if you go back, if you continue to smoke that weed and smash that phone box, you're going to go straight back down to there."
+
+**SQ34** [Workers]
+A: "[Our idea is] an app for checking that data, with graphs and charts."
+B: "That would be amazing if we just sat down with them and handed them [a tablet] and said, "We've just updated [our records]. Can I just check the accuracy?"
+
+**SQ35** [Researcher(A) & Worker (B)]
+A: What do you think determines whether [families] do or don't have an interest in [checking their data]?
+B:  I think the experiences that they've had […]  If it's historical to say a safeguarding, [they'll just think] 'we know what the process is, we know how things are kept, we're not going to be able to do anything about it.' [Worker & Researcher, SQ35]
+
+**SQ38** [Worker]
+"Families don't know [what] data was being collected anyway […] If they knew what data was being collected about them and why it was being collected about them, I think they would mind – but I think that regardless of the fact whether they can see it or not, a lot of families don't know how to access it because it all comes in the small print."
+
+**SQ39** [Worker]
+"Not many families ask to see the case notes, whether it's a social worker or whether it's a family partner, other members of the authority or any other services. So […] even if they've seen the data, [I'm not sure] whether they'd be confident with everything that's been on it."
+
+**SQ40** [Worker]
+"Some families will go, 'Well you know that information because it's all there somewhere.' We're like, 'Yes, but we don't want to trawl back to eight years ago.' There's reams and reams and reams of it [data]."
+
+**SQ41** [Worker]
+"The information that we hold [...] you would verbalise this as well when you go to visit the family. But what we [imagine] is expanding that a little bit more so: explaining why we hold the information that we hold, the process of why we store data, the information that we've got."
+
+**SQ42** [Worker]
+"A lot of […] families talk to us about data we've collected and not one family I've ever met has got an issue with that. We go to them and say, 'We're aware that you've got these issues going on,' and it might be antisocial behaviour or school attendance, health or a domestic violence incident and they've never said, "How on earth have you got that information?"
+
+**SQ44** [Worker]
+"For me, there's so much data that's stored. For me, for a parent to understand that through a text or email but just in point form. […] The less written, the better for the parent. [What we need is] a small synopsis […] like a summary view."
+
+**SQ45** [Workers]
+A: "You know when people do have difficulties in terms of reading, on the computer you [could] press the sound button and it can read it for you. […] like text to audio."
+B: "[It needs to be in an] easily understandable format, taking into account the family's needs."
+
+**SQ46** [Workers]
+A: "[using a data interface to convey data to families] is quite verbal, isn't it?"
+B: "It is. The way you use your words, the way you use your language […] [the] husband's needs are completely different to what [the] wife's are. Her levels are really low and your levels are really high. I think that's about the way you use your words…"
+A: "It's how you explain it."
+
+**SQ47** [Workers]
+A: "In terms of children, [you would need to have] more pictures and it would [need to] be clearer. [… Let's write down] 'Using age appropriate information'."
+B: "Yes […] so it [would be] tailored content for the individual, if the age is there it might be sensitive information."
+
+**SQ48** [Workers]
+A: "[There should be] separate data for each member."
+B: "So really, if you want to talk to the daughter, she's not going to see the mum or dad's data. If you're talking to the dad, he's not going to see..."
+A: "Unless they get permission. So you [could] have a tick box system at the start about who can see what…"
+
+**SQ51** [Worker]
+"[The families would have] a little app which they can log in to and read all their information - what's recorded about themselves, they can read the consent policy, who we share the information with, who we have shared the information with. If they're not happy — this would be a read-only app for them — if they're not happy they can fire off an email to us and let us know what they disagree with or if they want their information taken down or their consent."
+
+**SQ52** [Worker]
+"You'd just have a different page for each one of the priorities what we work with and all the information stored under there. So our key feature would be you'd be able to have individual family members log in. That would be to prevent the child seeing what mum and dad's issues were and stuff like that if it wasn't relevant. You'd be able to select what information is visible to other family members."
+
+**SQ55** [Workers]
+A: "[It'd be good to have a way to] capture young person's voice and conversations." […]
+B: "Self-help buttons [would be good] so say if somebody is feeling depressed […] There is a lot of self-harm going on at the moment."
+
+**SQ56** [Worker]
+"[our app design] would allow [families] to record audios and then the workers can then access those transcriptions. […] There's no chat, it's just about getting their worries, if they can't sit and talk to you in a face to face, one on one conversation..."
+
+**SQ57** [Worker (A) & Researcher (B)]
+A: "There's times when I've been totally stuck in terms of getting information from professionals, GP, CAMHS9, so I'll say to the family, "I need this information, can you ring and get it?"
+B: "So the family point you in the right direction, so they fill in the gaps for you?"
+A: "Yes."
+
+**SQ58** [Workers]
+A: "There's loads of things where [families] make massive improvements, it's just not recorded. [They might have] changed their diet or lifestyle. There are loads and loads of things..."
+B: "But it's not recorded as data."
+
+**SQ62** [Workers]
+A: 'I would be inclined to agree because they can't get away from it.'
+B: 'I think it depends on how you would pass it back, really.'
+A: 'Well, it would be useful in meetings to know that she'd suffered from domestic abuse.'
+C: 'Yes, I can see the benefits and the downsides, yes.'
+B: 'Yes, so, they can shake it off but it also gets in the way.'
+
+**SQ63** [Workers]
+A: "[reading sentence] 'Asking families for consent to share data just once at the start is enough.' This is what we do now but how many times, when things go wrong families say to you, 'I didn't consent to that, I didn't. That's not what you asked me at the beginning.'" […] I don't know if there should be a regular..."
+B: "…like an update, because things change in their life." […]
+A: "[Should] we then [have] reviews, every six weeks [or so …], say to them, 'Well let's just remind each other what share consent is for and about.'? […] Obviously it's got to be regularly done because […] circumstances change."
+
+**SQ64** [Workers]
+A: "[You would] click on the feed [an imagined feed of updates concerning the family] and it would bring up if they've been in trouble."
+B: "Absolutely. This [would] definitely [be] your perspective of families."
+
+**SQ65** [Workers]
+A: "We would get a report through to say..."
+B: "They've recorded something."
+A: "Yes. Then I suppose we would follow it up [...] face to face."
+
+**SQ67** [Researcher (A) & Worker (B)]
+A: "So is the key point of this one, that the families have input, as well and agree on what is put on there?"
+B: "Yes, so, agree on it and then they can add their signature."
+
+**SQ72** [Worker]
+"You will have parents who will say that they don't want to share because they know the consequences. One of our families, the little one, she's six, and there was a DV [= Domestic Violence] incident and her mum was like, 'Don't say anything at school.'"
+
+**SQ75** [Worker]
+"[This imagined data interface] would be accessible to both worker and family member so that we can be in sync but [would be] encouraging the family to take full accountability for their own responsibilities."
+
+**SQ76** [Worker]
+"Let's say dad was sexually abused when he was a child, I think that's important that we know that because dad could have mental health problems now which would be a result and we didn't know that and he didn't want to speak about it."
+
+**SQ77** [Researcher (A) & Workers (B,C)]
+
+A: "Was that fair and appropriate and is that accurate in terms of [what data has been viewed]?"
+B: "I think it would be fair... I think for me it's fair if it's current because..."
+C: "It can only be fair if it's complete, you've got all the information there."
+
+**SQ78** [Worker]
+"So maybe you've got groups of young people who are, I don't know, there's something going on maybe in [local park], you've got some antisocial behaviour and they might be putting on their things that they like to do it with their friends. Then we pull from that, actually you've got a group of these young people who are involved in this. Then from that you can have focus groups. So, I think [if] we all as family partners know that we've got groups of young people where they are hanging out together so instead of just being one worker, I might think, "Well actually, there's so many people in my team have got these kids so we can have a focus group."
+
+### Quotes from Combined Parents and Staff Workshop [C] {.unlisted .unnumbered}
+
+**CQ1** [Worker (A) & Parents(B, C)]
+A: "I think most families wouldn't think about [checking their data] until […] something happens and they go, 'Hang on a minute, that's not right.'"
+B: "Yes, 'Where've you got that from?'"
+C: "Yes, yes."
+A: "But I think, other than that, we tend to just trust that everything that has been put down is right, don't we?"
+C: "Yes."
+
+**CQ2** [Worker]
+"That happens a lot, doesn't it? It does happen where information is shared and then somebody gets upset because they didn't think that level of information would be made available, even though permission had been given at the start of the plan."
+
+**CQ8** [Parents (A, D), Worker (B)& Researcher(C)]
+A: if you find [a criminal record for burglary], you're looking and thinking, "God! She's gone out and committed a bloody burglary."
+B: Well, it could affect your employment chances if that comes back on your DBS. But I explored it and talk about it and she said, "Well, I don't agree with that. That's not what happened." I mean, she did break in but she wasn't stealing anyone else's stuff, it was her own stuff. […] If there is breaking and entering and burglary, and no explanation of that, and no way for that person to give you an explanation …
+C: It's just somebody's version of what happened?
+B: Well, it is, isn't it?
+D: Well, the Courts need to change what's recorded because if you broke into a house and stole a telly, that would come to the top. Whereas, something like that, which is more or less trespassing. In the eyes of any decent solicitor, it's trespassing, to get your own stuff but, technically, you've stolen your own stuff. That should be put on a scale of severity, of 1 to 5, in the circumstances. If you're homeless and you break into an empty house, is that burglary? Is that worth three years in prison? You know what I mean?
+[Parents, Worker & Researcher, CQ8]
+
+**CQ11** [Parent (A) & Researcher (B)]
+A: "I would want to see what information is held about me but then there are people out there who aren't very confident in being able to ask or if they can't read, if they've got learning [difficulties]"
+B: "What should happen for those people then?"
+A: "They should be supported by whoever is around them to access it in some form or another."
+B: "They need to have someone talk them through it, or something?"
+A: "Yes."
+
+**CQ12** [Parent]
+"I think a lot of people would like to be able to [access their data]. I think the prospect of, if you want to see your medical records […] having to make an appointment and go up and sit down and read paper records [is not something people would choose, whereas] if they were able to access it, in their own time, at their own pace [that would work better]. I'd love to see what's been written about me in my medical records, I think some of it could be quite interesting."
+
+**CQ15** [Parent]
+"I think [whether support workers should be able to access mental health details] depends on how long ago it was. […] I went through a really, really rough patch […] nearly 20 years ago and I had a brief patch of about three weeks where I was really not controlling my depression and I self-harmed and made an absolute fool of myself, and I'm fine with that now but I wouldn't want people, everybody, to know about that because I wouldn't want people to jump to the conclusion — because they still do — that there's something wrong and I'm going to do it again and things like that. Because people change, and situations change."
+
+**CQ17** [Worker]
+"I think most families wouldn't think about [looking at or checking their data] until […] something happens and they go, 'Hang on a minute, that's not right.'"
 
 ARI5 Additional Reference Information for Chapter 5 {#ari-chapter-5 .unnumbered}
 ===========
@@ -278,7 +566,7 @@ Having produced the structure above as a reduced representation of _'what the co
 
 The themes are broken down in detail in [5.4](#5.4) and can be summarised as:
 
-  1. **Insufficient Transparency**: Organisations appear evasive over data when responding to GDPR, leaving people “in the dark” even after making GDPR requests.
+  1. **Insufficient Transparency**: Organisations appear evasive over data when responding to GDPR, leaving people "in the dark" even after making GDPR requests.
   2. **Confusing Data**: When presented with their data, people struggle to understand it and relate it to their lives and are not able to make use of it.
   3. **Fragile Relationships**: Companies' data practices, and in particular their privacy policies and GDPR response handling, can be impactful to customer relationships, carrying a risk of damaging trust but also the potential to improve relations.
 
@@ -394,6 +682,10 @@ With a cross-disciplinary team of around 20 people including architects, develop
 
 Much of the work I did during this extended internship can be seen in the designs within [9.3](#9.3), as well as the research report I wrote [@bowyer2020bbcreport] and internship writeup [@bowyer2020internreport]. My work with the Cornmarket project can be seen as the concluding part of one of several action research cycles within my PhD [[3.2.2](#3.2.2)].
 
+An additional Figure from my time on Cornmarket that was not featured in the main body of the thesis is shown in Figure 7.1 below. This shows a screenshot from a functional prototype tool I produced during a hack week that allows the user to upload data retreived via GDPR or download portal, and proved the concept of programmatically identifying key entities [9.3.3](#9.3.3) and identifying time-labelled events for display as life information to users.
+
+![Figure ARI7.1: Prototype Entity Extractor and Time-Event Extractor](./src/figs/figARI7.1-prototype-gdpr-interface.png){#figure-ari7.1}
+
 A number of articles relating to the Cornmarket project have been published:
 
 - https://www.bbc.co.uk/rd/blog/2021-09-personal-data-store-research
@@ -426,7 +718,9 @@ ARI7.3 DERC's Healthy Eating Web Augmentation Project {#ari-derc .unnumbered}
 
 As a software developer I have been aware for a long time that one of the biggest challenges in building new data interfaces is to gain programmatic access to the necessary data. As part of the trend towards cloud-based services and data-centric business practices, it has become increasingly difficult to access all of the data held about users by service providers. Application Programming Interfaces (APIs) are a technical means for programmers to access a user's data so that third-party applications may be built using that data. Unfortunately, as a result of commercial incentives to lock users in and keep data trapped [@abiteboul2015; @bowyer2018freedata], much of users' data can no longer be accessed via APIs [[8.4](#8.4.2)]. While GDPR data portability requests do open up a new option for the use of one's provider-collected data in third-party applications, this is an awkward and time-consuming route for both users and developers. **Web augmentation** provides a third possible technical avenue for obtaining data from online service providers. It relies on the fact that a user's data is loaded to the user's local machine and displayed within their web browser every time a website is used, and therefore it is possible to extract that data from the browser using a browser extension; this as another **seam** that can be hacked—see [9.4](#9.4) and [Insight 12](#insight-12). Similarly, once loaded into the browser, a provider's webpage can be modified to display additional data or useful human-centric functionality that the provider failed to provide.
 
-In order to better understand what is and is not possible using this technique, I participated part-time from 2018 to 2020 as the sole software engineer in a DERC (Digital Economy Research Centre) project. This project was using the web augmentation technique to explore how researchers could improve the information given to users of Just Eat, a takeaway food ordering platform in the UK. The theoretical basis for this research was published in [@goffe2021; @goffe2022]. While this particular use case does not concern personal data, the technology and techniques being used by the project to exploit the browser seam were considered highly relevant to the exploration of HDR-improving possibilities, and the goals of the research project were also human-centric, and consistent with this thesis's research goals - tackling the hegemony of service providers in order to better serve individual needs.
+![Figure ARI7.2: Screenshot from Web-Augmented version of Just Eat Website,<br/>showing hygiene information and offering additional sorting](./src/figs/figARI7.2-justeat-webaug.jpg){#figure-ari7.2}
+
+In order to better understand what is and is not possible using this technique, I participated part-time from 2018 to 2020 as the sole software engineer in a DERC (Digital Economy Research Centre) project. This project was using the web augmentation technique to explore how researchers could improve the information given to users of Just Eat, a takeaway food ordering platform in the UK. Hygiene Rating information for each outlet was added, as well as a feature to enable user to sort by hygiene rating, as shown in [Figure ARI7.1](#figure-ari7.1). The theoretical basis for this research was published in [@goffe2021; @goffe2022]. While this particular use case does not concern personal data, the technology and techniques being used by the project to exploit the browser seam were considered highly relevant to the exploration of HDR-improving possibilities, and the goals of the research project were also human-centric, and consistent with this thesis's research goals - tackling the hegemony of service providers in order to better serve individual needs.
 
 ARI9 Special Attribution Note for Chapter 7 {#ari-attribution .unnumbered}
 ---------------------------------------------
