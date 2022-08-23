@@ -314,5 +314,3 @@ Glossary of Pre-Existing Abbreviations, Names and Terms {#glossary .unnumbered}
 **Web Extensions** - pieces of user code that are loaded into a web browser to modify or programmatically interrogate web pages<br/>
 **Wisdom Curve** - the process of converting data, to information, to knowledge, to wisdom<br/>
 **world2vec** - a system in Facebook that attempts to understand the world through analysis of social media content
-
----
