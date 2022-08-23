@@ -81,7 +81,7 @@ Facebook's DYI tool, mentioned in the insight above, represents a useful class o
 
 In general, what the discovery-driven activism approach highlights is that there is a role for pro-active citizens to play in challenging the power of data-holding organisations by treating those organisations as a subject of investigation, both in research [@walby2012] and in the pursuit of improving civic society [@schrock2016].
 
-### In Pursuit of Change {#9.2.3}
+### How Activists Pursue Change {#9.2.3}
 
 Once information has been obtained, the HDR reformer activist can use a variety of means to try to bring about the desired change:
 
