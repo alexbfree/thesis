@@ -176,7 +176,7 @@ Most quotes and conversation extracts are directly embedded into section [4.3](#
 ARI4.5 Additional Participant Quotations{#ari-quotes-extra-c4 .unnumbered}
 ----------------------------------------
 
-The majority of quotations and conversation extracts in Case Study Two are embedded inline throughout section [4.3](#4.3). The following quotes were referenced in the text but excluded for reasons of space and flow:
+The majority of quotations and conversation extracts in Case Study Two are embedded inline throughout section [4.3](#4.3). The following quotes were referenced in the text but excluded for reasons of space and flow. The following list also includes some quotes or extracts which were abridged in the Chapter body but are included in full here.
 
 ### Quotes from Families-Only Workshop [A] {.unlisted .unnumbered}
 
@@ -194,8 +194,8 @@ A: "So do you think the relationship makes a difference to how much you tell?"
 C: "Yes. Because if you don't like them, why should you tell them?"
 
 **FQ3** [Researcher (A) & Parent (B)]
-A: What do you think could be done? What would help [this family] feel a bit happier?
-B: Give them a one-to-one support worker who they can build up a trust and understanding where you feel like they're not going to share your information. I don't know, maybe come up with a computer thing so you [the family] know what they're [the workers] putting in or maybe sign paperwork [to give your approval].
+A: "What do you think could be done? What would help [this family] feel a bit happier?"
+B: "Give them a one-to-one support worker who they can build up a trust and understanding where you feel like they're not going to share your information. I don't know, maybe come up with a computer thing so you [the family] know what they're [the workers] putting in or maybe sign paperwork [to give your approval].""
 
 **FQ6** [Parents]
 A: "It's so hard because we've all done things in our past […]"
@@ -415,7 +415,6 @@ B: "Yes, so, agree on it and then they can add their signature."
 "Let's say dad was sexually abused when he was a child, I think that's important that we know that because dad could have mental health problems now which would be a result and we didn't know that and he didn't want to speak about it."
 
 **SQ77** [Researcher (A) & Workers (B,C)]
-
 A: "Was that fair and appropriate and is that accurate in terms of [what data has been viewed]?"
 B: "I think it would be fair... I think for me it's fair if it's current because..."
 C: "It can only be fair if it's complete, you've got all the information there."
