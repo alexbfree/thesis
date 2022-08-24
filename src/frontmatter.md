@@ -90,7 +90,7 @@ Lists of Figures by Chapter {.unnumbered .unlisted}
 
 ### Figures in Chapter 1 {.unnumbered}
 
-- [1.1](#figure-1.1) - Poster Presentation of Case Study One
+- [1.1](#figure-1.1) - Poster Presentation of Case Study One at CHI 2019
 - [1.2](#figure-1.2) - The Structure of This Thesis
 
 ### Figures in Chapter 2 {.unnumbered}

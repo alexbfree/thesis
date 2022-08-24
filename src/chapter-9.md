@@ -295,9 +295,9 @@ My interactions with participants in the pilot study [[1.3.1]](#1.3.1)], Case St
 
 _**Data literacy**_ is already a strong education and skills focus area across public and private sector, for both children and adults. However, I identify some inadequacy in this concept when viewed through an HDR lens. Given the broad and varying perspectives of data [[2.1.1](#2.1.1)], there are also varying ideas about what data literacy is. To some, data literacy is about the technical skills of number crunching, spreadsheets and data analysis [@precisely2022]. To others, it is a more high-level ability to read, understand and argue with data, and to exercise critical thinking or identify bias [@knight2016]. A third perspective is that of technical prowess, as outlined by Gurstein as one of the needs for effective data access - the literal ability to interpret and visualise the information within your data [@gurstein2011]. While all of these are clearly important aspects, something broader is needed to encompass _**HDR literacy**_. This would encompass such as aspects as:
 
-  - being able to **appreciate the value** of your personal data as containing stored facts and records about your life [[5.5.3](#5.5.3)];
+  - being able to **appreciate the intrinsic value** of your personal data as containing stored facts and records about your life [[5.5.3](#5.5.3)];
   - being able to understand the implications of **how your personal data is used and shared** by organisations you interact with [[8.3](#8.3)];
-  - having an appreciation of the importance of establishing **portable data and separation** between data and services [[9.2](#9.2)];
+  - having an appreciation of the importance of establishing **portable data and separation** between data and platforms/services [[9.2](#9.2)];
   - knowing how to **exercise your rights** to obtain your own data, being able to recognise incomplete data returns and knowing how to demand corrections or better responses [[5.1](#5.1)]; and
   - understanding the need for a **free and fair information landscape** and being able to identify when individual agency is being diminished [[8.4](#8.4.2); [9.3](#9.3)].
 
