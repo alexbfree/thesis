@@ -354,7 +354,7 @@ This chapter examined the expanded research question [[7.1](#exRQ)] of how bette
   3. **Defending User Autonomy and Hacking the Information Landscape** [[9.4](#9.4); [Figure 9.19](#figure-9.19)]
   4. **Teaching, Championing and Selling the HDR Vision** [[9.5](#9.5); [Figure 9.21](#figure-9.21)]
 
-The common elements of these four approaches are summarised in abstract in [Figure 10.1](#figure-10.1) above, and can be considered in terms of the four ToC quadrants:
+The common elements of these four approaches are summarised in abstract in [Figure 9.23](#figure-9.23) above, and can be considered in terms of the four ToC quadrants:
 
 - _**Learn & Discover**_ (CI): In this quadrant, individuals, researchers, activists and other stakeholders work in groups to understand data attitudes and user needs, and to gain collective knowledge of data collection and usage practices which are sometimes hidden.
 - _**Defend & Create**_ (CE): In this quadrant, activists work to ensure current HDR capabilities are not eroded, while researchers, designers, technologists and social innovators design and create new technologies, operating models, organisations and interface designs, the structures enabling a world with better HDR.

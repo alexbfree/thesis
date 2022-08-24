@@ -39,7 +39,7 @@ The major contribution of this thesis, beyond evidencing these wants in chapters
 
 HDR builds upon HDI but takes a broader sociotechnical stance. HDR encompasses all the ways people and organisations can and should relate to data, not just direct data interaction. Through its greater focus on relationships and ecosystems, and approaches that address today's data-centric power-imbalanced reality, it offers a more actionable research agenda for the world of the 2020s. HDR's definition draws upon three distinct connotations or readings of its name:
 
-| Human Data Relations - A Definition |{#HDR}
+| <a name="hdr-definition">A Definition of Human Data Relations (HDR)</a> |
 | :---------------------------------- |
 | The field of HDR encompasses all the ways in which humans and human organisations relate to, and with, data, specifically: |
 |   1. _Human-Data Relations_: users' direct interaction with data to understand and use it, similar to HDI, in service of the direct data wants [[6.1](#6.1)] of visible, understandable and useable data. |
