@@ -1,7 +1,7 @@
 Defining a New Field: Human Data Relations {#chapter-7}
 =======================================================
 
-> _"What drives and drags the world are not machines, but ideas."_—Victor Hugo
+> _"What drives and drags the world are not machines, but ideas."_<br/>—Victor Hugo (19th century poet)
 
 Introduction to Part Two{#7.1}
 ------------------------

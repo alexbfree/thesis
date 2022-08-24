@@ -1,7 +1,7 @@
 Mapping the Human Data Relations Landscape {#chapter-8}
 ==========================================
 
-> _"There are certain things you do not in good conscience do to humans. To data, you can do whatever you like."_—Nikhil Sonnad, data journalist and technology commentator
+> _"There are certain things you do not in good conscience do to humans. To data, you can do whatever you like."_<br/>—Nikhil Sonnad, data journalist and technology commentator
 
 In this chapter, we begin to engage with the expanded research question laid out in [7.1](#exRQ). Considering how better HDR might be achieved in practice generates further questions. Like SI's _barriers cascade_ [@li2010], what barriers exist that inhibit the building or adoption of human-centric technologies? What opportunities might overcome these barriers? How can we catalyse progress toward _MyData_'s human-centric agenda [@mydata2017declaration]? What challenges are faced when attempting to build human-centric technologies for today's world? Building on an understanding of human experience of the data-centric world, can we more provide an outlook for PDE design & development and define a _research agenda_ for the next step of tackling the PDE challenge?
 

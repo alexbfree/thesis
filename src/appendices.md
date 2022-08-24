@@ -1,13 +1,19 @@
 Appendices {.unnumbered}
 ===========
 
-A The Pilot Study: CHI 2018 Paper {#appendix-a .unnumbered}
----------------------------------
+A The Pilot Study: Published CHI 2018 Paper {#appendix-a .unnumbered}
+-------------------------------------------
 
-For additional context, see [1.3.1](#1.3.1). The paper is on the following pages.
+For additional context, see [1.3.1](#1.3.1). The paper is on the following 13 pages.
 
-B Ethics Approvals {#appendix-e .unnumbered}
+B Ethics Approvals {#appendix-b .unnumbered}
 ------------------
+
+The following 8 pages include three different ethical approvals
+
+  – the original ethics approval focused on Case Study One,
+  - the original ethics approval for Case Study Two, and
+  - the ethics-reapproval of Case Study Two for COVID-19 mitigations.
 
 Index of Key Ideas, Insights and Contributions {#hdr-glossary .unnumbered}
 ===============================================
