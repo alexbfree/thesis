@@ -90,7 +90,7 @@ Overview of Activities by Research Context{#3.4}
 
 In this section I will introduce the two contexts in which the research questions are explored, and both the preliminary activities and Case Studies undertaken in each context.
 
-### Context One: Civic Data Use and Access to Data in the Early Help Context{#3.4.1}
+### Context One: Civic Data Access in the Early Help Context{#3.4.1}
 
 The first research context I explored in this PhD was _Early Help_. This is explained in more detail in [4.1](#4.1), but in brief: Early Help is a particular type of social support offered by UK local authorities as voluntary help to families who are considered to be at risk of falling into poverty, crime, truancy, addiction or other issues which are both problematic for the individuals and costly to the state. Families enrolled in the scheme meet a social worker (called a _support worker_ in this context) regularly who can provide advice and connect the family with appropriate health, lifestyle and social services to their needs.
 As part of this, the support worker has access to a variety of data from civic sources: school records, employment and benefits data, social housing data, criminal records, and more, so that they might be better informed about the family's situation. However, the families do not have any access to this data, and thus despite this being a scheme that is on the face of it intended to empower families to help themselves, it runs the risk of _disempowering_ the families through a data-centric power imbalance [2.1.2](#2.1.2). Therefore, this setting provides a very interesting context in which to examine both [RQ1](#RQ1) (finding out how these supported families feel about their data) and [RQ2](#RQ2) (examining the impacts of data use within a service relationship) as well as to explore how the families and support workers could imagine their data relations being improved.
@@ -109,7 +109,7 @@ In the summer of 2017, in the MRes year of this doctoral training programme (alo
 
 In the summer of 2018, informed by the SILVER project and the pilot study, I designed and conducted my first major case study of this thesis: a series of three participatory co-design workshops with people directly involved in _Early Help_ relationships in North East England. The workshops were funded by CHC and were led by myself and were designed with a dual purpose: to inform the design of the SILVER system but also to serve [RQ1](#RQ1) and [RQ2](#RQ2) of this thesis. These workshops sought initially to validate findings from SILVER's earlier research and my pilot study. Once this had been done, the main objective of this phase was to develop a deeper understanding of what supported families (workshop 1) and support workers (workshop 2) perceive as problems with data use in the Early Help context, and to explore perceived solutions to these problems. A second phase workshop (workshop 3) was specifically designed to focus on the use of data _within the support relationship_ [[4.2.4](#4.2.4)], and was a joint workshop involving staff and parents working together. This case study is described in detail as [Chapter 4](#chapter-4), and contributes to the general findings about [RQ1](#RQ1) and [RQ2](#RQ2) presented in [Chapter 6](#chapter-6).
 
-### Context Two: Accessing the Personal Data from Your Digital Life using GDPR{#3.4.2}
+### Context Two: Accessing Your Personal Data Using GDPR{#3.4.2}
 
 From the start, a core motivation for my interest in this research has been to look at the power imbalance around personal data from the _everyday life_ perspective - to explore our relationship with and through the data that we hold, use or live with as we go about our lives, online and in person. This power imbalance seems to touch everyone, and therefore for my second research context I chose not to focus on a particular community or group but to look at these problems at the level of ordinary day-to-day digital life. I designed research activities where I would talk to people about their everyday experiences of data in their lives [[RQ1](#RQ1)] and their views on the usage of data within their relationships with commercial or civic service providers [[RQ2](#RQ2)] . In 2018, during this PhD, the European Union's GDPR regulations came into force, enabling people to obtain copies of their own data. This enabled me to take the research deeper than a simple conversation and to guide my participants through the GDPR process to obtain their data from providers, and then to use this retrieved data as a stimulus for discussion. I hoped this might result in a far more grounded and less theoretical perspective.
 
@@ -252,8 +252,8 @@ All research activities referenced in this thesis were planned in advance, with 
 
 4. _Adapting to COVID-19_: As COVID-19 changed working and living conditions in early 2020, Case Study Two was adapted to no longer rely on face-to-face engagement. The in-person privacy monitor approach mentioned above was abandoned and replaced with an online Zoom-based approach. In this model, participants would share parts of their data using screen sharing instead, and could move windows off screen to protect their privacy. The full study plan for Case Study Two was rewritten for online-based participation and was re-approved by the Ethics Board.
 
-Summation: Towards an Understanding of Human Data Relations and Beyond
-----------------------------------------------------------------------
+Summation: Towards an Understanding of Better Data Relations
+------------------------------------------------------------
 
 ![Figure 3.14: How the Case Studies and Peripheral Activities Contribute to This Thesis](./src/figs/fig3.14-rqs-and-activities.jpg){#figure-3.14}
 

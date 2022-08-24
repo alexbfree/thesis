@@ -721,17 +721,17 @@ As a software developer I have been aware for a long time that one of the bigges
 
 In order to better understand what is and is not possible using this technique, I participated part-time from 2018 to 2020 as the sole software engineer in a DERC (Digital Economy Research Centre) project. This project was using the web augmentation technique to explore how researchers could improve the information given to users of Just Eat, a takeaway food ordering platform in the UK. Hygiene Rating information for each outlet was added, as well as a feature to enable user to sort by hygiene rating, as shown in [Figure ARI7.1](#figure-ari7.1). The theoretical basis for this research was published in [@goffe2021; @goffe2022]. While this particular use case does not concern personal data, the technology and techniques being used by the project to exploit the browser seam were considered highly relevant to the exploration of HDR-improving possibilities, and the goals of the research project were also human-centric, and consistent with this thesis's research goals - tackling the hegemony of service providers in order to better serve individual needs.
 
-ARI9 Special Attribution Note for Chapter 7 {#ari-attribution .unnumbered}
+ARI7.4 Special Attribution Note for Part Two {#ari-attribution .unnumbered}
 ---------------------------------------------
 
-This is a note about the attribution of insights within [Chapter 7](#chapter-7), as the ideas originate quite differently than from the rest of the thesis.
+This is a note about the attribution of insights within Chapters [7](#chapter-7), [8](#chapter-8) and [9](#chapter-9), as the ideas originate quite differently than from the rest of the thesis.
 
-This thesis is my own work. All ideas synthesised in Chapter 7 are original. Some of the specific details, theories and ideas presented in Chapter 7 arose or were developed or augmented through my close collaboration, discussion and ideation with other researchers both alongside and prior to the PhD timeframe, including:
+This thesis is my own work. All ideas synthesised in Part Two are original. Some of the specific details, theories and ideas presented in Part Two arose or were developed or augmented through my close collaboration, discussion and ideation with other researchers both alongside and prior to the PhD timeframe, including:
 
   - Jasmine Cox, Suzanne Clarke, Tim Broom, Rhianne Jones, Alex Ballantyne and others at BBC R&D;
   - Paul-Olivier Dehaye, Jessica Pidoux, Francois Quellec aand others at Hestia.ai;
   - Stuart Wheater of Arjuna Technologies and Kyle Montague of Open Lab during the SILVER project;
-  - Louis Goffe of Open Lab on the DERC Healthy Eating project;</li>
+  - Louis Goffe of Open Lab on the DERC Healthy Eating project;
   - earlier innovation work with Alistair Croll at Rednod, Montréal, Canada (circa 2011); and
   - earlier innovation work with Megan Beynon and Dean Upton at IBM Hursley, UK (circa 2006).
 

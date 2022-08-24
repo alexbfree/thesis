@@ -187,7 +187,7 @@ Table: Table 4.3 - **Theme 2 - Giving a Voice to the Family**. Subthemes & Parti
 
 Table: Table 4.4 - **Theme 3 - Earning Families' Trust Through Transparency**. Subthemes & Participant Quotes.
 
-### Theme 1: Meaningful Data Interaction for families{#4.3.2}
+### Theme 1: Meaningful Data Interaction for Families{#4.3.2}
 
 Through discussions with families and support workers a deep understanding of what sort of families' ideal data interactions was obtained. Setting aside interface considerations, which were not the main focus of the inquiry, and focusing on the wider sociotechnical context around the data and its access, it seems that in order to maximise understanding for all parties, data interaction needs to be _meaningful_—the first theme of these findings. Encompassed within this concept are the need for understandable and effective summaries and visualisations, the need for direct and ongoing data access with human support, and the recommendation for families and support workers to interact with data together within the support interaction.
 

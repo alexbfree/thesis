@@ -15,7 +15,7 @@ The following 8 pages include three different ethical approvals
   - the original ethics approval for Case Study Two, and
   - the ethics-reapproval of Case Study Two for COVID-19 mitigations.
 
-Index of Key Ideas, Insights and Contributions {#hdr-glossary .unnumbered}
+Index of Key Ideas, Insights and Contributions {#hdr-index .unnumbered}
 ===============================================
 
 This section serves as both a glossary to explain abbreviations and existing terms used, as well as an index to easily locate key HDR-related concepts, ideas and contributions that this thesis contributes.

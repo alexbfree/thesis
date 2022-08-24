@@ -86,7 +86,7 @@ Section [6.2](#6.2) answers [RQ2](#RQ2) by explaining the three things people ne
 - individual oversight [[6.2.2](#6.2.2)], and
 - involvement in processes and decision making [[6.2.3](#6.2.3)].
 
-### Establishing a new field: Human Data Relations{#1.2.2}
+### Establishing a New Field: Human Data Relations{#1.2.2}
 
 **<a name="c3">C3</a>: The Synthesis and Formulation of the Field of Human Data Relations (HDR)**.
 
@@ -155,7 +155,7 @@ Section [9.5.1](#9.5.1) broadens existing conceptions of _data literacy_ that in
   - knowing how to exercise data rights and evaluate responses;
   - identifying diminishing agency and erosions of a free and fair information landscape.
 
-### Additional contributions in the Early Help and Civic Data Use context{#1.2.3}
+### Additional Contributions in the Early Help and Civic Data Context{#1.2.3}
 
 **<a name="c8">C8</a>: Validation and enumeration of supported families' attitudes and needs around civic data**
 
@@ -169,7 +169,7 @@ The pilot study [[1.3.1](#1.3.1)] and its continuation through Case Study One [[
 
 Support service providers want to be more data-centric to improve accuracy [[4.1.2](#4.1.2), [4.2.3](#4.2.3)], while supported families want a more human, less data-centric treatment. [[4.2.4](#4.2.4)] describes a novel model that has the potential to address both parties' conflicting needs and enhance the support relationship: _Shared Data Interaction_. While this was not evaluated in the field, it is consistent with emergent practices [[4.3.1](#4.3.1)], and, after thorough exploration by participants [[Table 3.1](#table-3.1)] - was perceived to be beneficial. The expected benefits (and challenges) of such an approach are explored in [[4.4.3](#4.4.3)]. The success of this study's methodology [[3.5.2](#3.5.2)] provides further evidence for the effectiveness of bringing people together around representations of data, echoing other researchers' work on _boundary objects_ [@star1989] and _things to think with_ [@brandt2004].
 
-### Additional contributions in the context of GDPR and Everyday Data Access{#1.2.4}
+### Additional Contributions in the GDPR and Everyday Data Context {#1.2.4}
 
 **<a name="c10">C10: A model to understand the five different origins of held personal data**
 
@@ -203,7 +203,7 @@ Synthesis and analysis of participant experiences in Case Study Two enabled the 
 
 While it was not designed as a methodological contribution nor formally evaluated as such within the scope of this thesis, the guided-data-retrieval-and-interview approach of Case Study Two [[5.2](#5.2)] has proven to be valuable and replicable as means to connect people with their held data and conduct research at that intersection point. The creation of this methodology resulted in this author being approached and employed as lead researcher of Hestia.ai/Sitra's digipower investigation [@härkönen2022project], which adopted Case Study Two's methodology, with some adaptation and broadening of scope, for an extensive EU study auditing and understanding the power of data holders in the data economy [@bowyer2022hestia; @pidoux2022; @härkönen2022report].
 
-Publications arising from and connected to this research{#1.3}
+Publications Arising From and Connected to This Research{#1.3}
 --------------------------------------------------------
 
 ### Pilot Study{#1.3.1}
@@ -216,7 +216,7 @@ This study is given a special status in this thesis; while it is not officially 
 
 [^1]: MRes result awarded: Distinction.
 
-### Primary Case studies{#1.3.2}
+### Primary Case Studies{#1.3.2}
 
 <a name="1.3.2.1">**Publications from Case Study One**</a>
 
