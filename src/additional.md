@@ -687,14 +687,14 @@ An additional Figure from my time on Cornmarket that was not featured in the mai
 
 A number of articles relating to the Cornmarket project have been published:
 
-- https://www.bbc.co.uk/rd/blog/2021-09-personal-data-store-research
-- https://paper.dropbox.com/doc/Building-trusted-data-services-and-capabilities-Us49Ek0nex7yClKughPN4
-- https://www.wired.co.uk/article/bbc-data-personalisation
-- https://www.theregister.com/2021/10/04/column_data_privacy/
-- https://www.thetimes.co.uk/article/bbc-and-sir-tim-berners-lee-app-mines-netflix-data-to-find-shows-viewers-like-lxp002gg8
-- https://www.ibc.org/download?ac=18659
-- https://www.telegraph.co.uk/business/2022/06/09/bbc-wages-war-online-echo-chambers-unbiased-tech/
-- https://parliamentlive.tv/event/index/7d249bcf-78e9-447b-907c-81df72b87542?in=15:01:35
+  - Personal data stores: building and trialling trusted data services - BBC R&D [@sharp2021]
+  - Building trusted data services and capabilities (explainer videos) [@sharp2022bbcvideos]
+  - The BBC’s radical new data plan takes aim at Netflix (Wired) [@orphanides2021]
+  - Sir Tim Berners-Lee and the BBC stage a very British coup to rescue our data from Facebook and friends (The Register) [@goodwins2021]
+  - BBC and Sir Tim Berners-Lee app mines Netflix data to find shows viewers like (The Times) [@kanter2021]
+  - Stronger Together: Cross Service Media Recommendations (research paper) [@ibc2021]
+  - BBC wages war on online echo chambers with ‘unbiased’ tech (The Telegraph) [@woods2022]
+  - Richard Sharp (BBC Chairman) discusses Data management & privacy (video) [@parl2022bbc]
 
 ARI7.2 Hestia.ai, and Sitra's _digipower_ Project {#ari-digipower .unnumbered}
 -------------------------------------------------
