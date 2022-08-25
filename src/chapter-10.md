@@ -3,12 +3,12 @@ Thesis Conclusion {#chapter-10}
 
 > _"Our research should transform, not just inform, society."_<br/>—Kingsley ofosu-Ampong, Researcher & Lecturer in Digital Transformation
 
-Section [6.3](#6.3) concluded Part One's academic enquiry with a clear answer to the question [[2.4](#RQ)] of what relationship people need with their personal data in order to be empowered. They need:
+Section [6.3](#6.3) concluded Part One's academic enquiry with a clear answer to the question [[2.4](#RQ)] of what relationship people want with their personal data in order to be empowered. They want:
 
   - visible, understandable and useable data, as well as
   - process transparency, individual oversight and involvement in decision making.
 
-Section [9.6](#9.6) summarised the outlook for improving Human Data Relations, through four strategic trajectories for producing change in the HDR landscape:
+Section [9.6](#9.6) concluded Part Two's exploratory design work by summarising the outlook for improving Human Data Relations, through four strategic trajectories for producing change in the HDR landscape:
 
   - discovery-driven activism,
   - building human-centric life interfaces,

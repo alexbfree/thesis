@@ -755,4 +755,32 @@ This table is referenced and contextualised in section [7.4](#7.4).
 
 Table: Table ARI7.1 - **Eight Lenses on Personal Data**.
 
+
+
+ARI9.1 Additional Reference Information for Chapter 9{#ari-chapter-9 .unnumbered}
+=====================================================
+
+ARI9.1 How I compelled Spotify to improve their GDPR return {#ari-9.1 .unnumbered}
+------------------------------------------------
+
+In this section, I will provide additional details of my mini-case study where I was able to get Spotify to improve the quality of their GDPR returns, as referenced in [Insight 9](#insight-9) within section [9.2.1](#9.2.1).
+
+As an avid user for several years of the music streaming service Spotify who has built up a large library of playlists, I have made a number of GDPR requests to get copies of my personal data.
+
+When I was first given a copy of my personal data, I was returned a basic ZIP file including 12 JSON files containing playlists, search queries, account information, my last 12 months of track play history, and inferences about my musical tastes. Spotify also make an extended data download available, including technical log data, and extended play history (which covers the lifetime of my account).
+
+I requested this extended download and received a much larger dataset with 175 JSON files, including granular details of when I had used different interface features and the precise details of every song I had ever played.
+
+Thinking that I would like to use this data to build a view of my listening history that was not tied to the Spotify platform (in line with the idea of increasing agency by separating one's data from the service that holds it [[Chapter 8](#chapter-8)]), I examined the streaming history and playlist data with this purpose in mind. What I found was that individual songs were identified only by textual strings of the title, artist and album name. This information is insufficient for a programmer's use - there is no unique identifier or Uniform Resource Indicator (URI) to uniquely identify the specific version and release of a track played. Also without such an identifier, it would not be possible to generate a thumbnail image of the track, or build functionality such as a clickable link to 'play this track in Spotify'.
+
+This highlights a common issue that occurs with data access requests, as highlighted in [5.4.3](#5.4.3.2) - there is ambiguity over whether providers should identify data in a machine-readable way (useful for programming), or in a human-readable way (to optimise understanding). In my case, I needed both. I e-mailed Spotify back and was provided with an alternative file set which contained only Spotify Track URIs, such as `spotify:track:4cOdK2wGLETKBW3PvgPWqT`. These met the programmer need to uniquely identify the track, but not the human need–I had no idea which artist or track each of these URIs corresponded to, as there was no human-readable text accompanying each entry.
+
+So, I e-mailed Spotify back, making the case that my GDPR rights had not been fully satisfied, because I needed _for each play history entry_, both machine-readable ID and human-readable track title and artist name.
+
+I sent Spotify over 30 e-mails on this matter between October 2020 and May 2021. There is little continuity of conversation between support agents, and it was hard to be escalated to the correct staff with the technical or legal expertise to assist with such nuanced questions.
+
+However, by persistently and politely repeating my questions and not accepting 'No' for an answer, I was able to achieve a notable outcome, Spotify **changed the format of their data returns**, not just for me but  **for all future customers**. Now, each item in the playback history data you get back from Spotify, every item includes textual track and artist details AND a Spotify track URI. The data can now be understood by both human and machine.
+
+The likely interpretation here is that I successfully able to persuade their Data Protection Officers (who handle GDPR requests) the importance of returning data that is both machine-readable and human-understandable. Perhaps they also recognised the amount of work they had invested in supporting my query, and wanted to **avoid having to do such work ever again** should I or any other customer make the same request in future. This was a tiny impact, but a lasting one, and it shows that the discovery-driven activism / civic hacking approach [[9.2](#9.2)] can have an effect in improving HDR with a target organisation.
+
 ---

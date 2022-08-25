@@ -23,10 +23,10 @@ As established earlier [[3.6](#3.6)], Part Two explores the wider action researc
 
 Concurrent to this PhD, I took a major role in two industrial research projects (1 & 2), and two academic research projects (3 & 4):
 
-  1. **BBC R&D's Cornmarket Project** [@sharp2021], which explored through user experience design, technical prototyping and participatory research, how individuals might interact with data through a Personal Data Store interface [see [ARI7.1](#ari7.1)];
-  2. **Sitra/Hestia.ai's _digipower_ Investigation** [@härkönen2022project], a successor to Case Study Two, in which European politicians examined companies' data practices through exercising data rights and conducting technical audits [see [ARI7.2](#ari7.2)];
+  1. **BBC R&D's Cornmarket Project** [@sharp2021], which explored through user experience design, technical prototyping and participatory research, how individuals might interact with data through a Personal Data Store interface [see [ARI7.1](#ari-bbc)];
+  2. **Sitra/Hestia.ai's _digipower_ Investigation** [@härkönen2022project], a successor to Case Study Two, in which European politicians examined companies' data practices through exercising data rights and conducting technical audits [see [ARI7.2](#ari-digipower)];
   3. **Connected Health Cities (CHC)'s SILVER Project** [@ConnectedHealthCities2017silver], where I, along with a backend developer and a team of researchers, developed a prototype health data viewing interface for Early Help support workers [see [3.4.1](#3.4.1.1)]; and
-  4. **Digital Economy Research Centre (DERC)'s Healthy Eating Web Augmentation Project**, which explored the use of web augmentation techniques to modify the user interface of takeaway service _Just Eat_ to include health information, in support of healthy eating [see [ARI7.3](#ari7.3)].
+  4. **Digital Economy Research Centre (DERC)'s Healthy Eating Web Augmentation Project**, which explored the use of web augmentation techniques to modify the user interface of takeaway service _Just Eat_ to include health information, in support of healthy eating [see [ARI7.3](#ari-derc)].
 
 For additional details about these projects and my involvement in them, see the linked sections. See also [ARI7.4](#ari-attribution) for a note about the attribution and origin of the ideas presented within this chapter.
 
