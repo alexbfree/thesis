@@ -1,7 +1,8 @@
 Case Study One: Access to Civic Data in Early Help {#chapter-4}
 ==================================================
 
-> _"If you can see the invisible, then you can see the possible and provide the opportunities for trust, commitment and ways of empowering others to manage their past, present and future."_<br/>—Ken Wyatt (Australian politician, teacher and equal rights campaigner)
+> _"If you can see the invisible, then you can see the possible and provide the opportunities for trust, commitment and ways of empowering others to manage their past, present and future."_
+>—Ken Wyatt (Australian politician, teacher and equal rights campaigner)
 
 This chapter describes Case Study One, which involved four 2-hour participatory co-design workshops with local authority support workers, parents and children from supported families involved with _Early Help (EH)_ programmes [[3.4.1](#3.4.1)]. Its objectives were to understand family and staff attitudes to civic data holding (RQ1 [[3.3.1](#RQ1)]) and to explore the role of data within the support relationship (per RQ2 [[3.3.2](#RQ2)]). A model of _shared data interaction_, was explored, where supported families would interact with data together with their support workers.
 

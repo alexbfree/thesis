@@ -1,7 +1,8 @@
 Methodology {#chapter-3}
 ========================
 
-> _"Research is defining the invisible."_<br/>—Steven Magee (author and researcher)
+> _"Research is defining the invisible."_
+>—Steven Magee (author and researcher)
 
 In the previous chapter, I described the two research areas this thesis seeks to explore: how people think about data and what they want from it; and the role data takes and should take in people's relationships with organisations. In this chapter, I will explain my approach to conducting research in this area, detail the types of methods used, and explain how the different research activities I carried out contribute to the research objectives.
 
