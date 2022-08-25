@@ -361,7 +361,7 @@ These findings suggest that not just transparency but a progressive attitude to 
 Discussion{#4.4}
 ----------
 
-The findings have provided a deeper understanding of families' experience of data [RQ1 [3.3.1](#RQ1)] and the role of data within EH relationships [RQ2 [3.3.2](#RQ2)]. This section discusses three implications:
+The findings have provided a deeper understanding of families' experience of data RQ1 [[3.3.1](#RQ1)] and the role of data within EH relationships RQ2 [[3.3.2](#RQ2)]. This section discusses three implications:
 
 - the value of involving people with their data [[4.4.1](#4.4.1)],
 - the need for human interaction to make data access effective [[4.4.2](#4.4.2)], and
