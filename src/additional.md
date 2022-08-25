@@ -143,7 +143,7 @@ Based on the accumulated knowledge of Early Help processes amongst myself and SI
 
 The intent behind the storyboarding action cards is that they serve as both a boundary object and _things to think with_ (as with the Family Data Cards described in [@bowyer2018family]) to provoke discussion among participants. They have an additional function over the Family Data Cards, however: they can be arranged in a sequence, much like a storyboard or comic strip, and filled in, to tell the story of exactly who would do what and how in the process of a support conversation involving shared data interaction. In this way they lend themselves to model processes rather than object design. [Figure ARI4.1](#figure-ari4.1) shows an example of three cards having been filled in and arranged in sequence to tell a simple story of how a scenario of a worker seeking out an address following new information from the family member.
 
-![Figure ARI4.2: Example Backing Mat for Storyboard Decks (pictured here: backing mat for all three 'problem' card decks](./src/figs/figARI4.2-backing-mat.png){#figure-ari4.2}
+![Figure ARI4.2: Example Backing Mat for Storyboard Decks (pictured here: backing mat for all three 'problem' card decks](./src/figs/figARI4.2-backing-mat.png)){#figure-ari4.2}
 
 In addition to the storyboard cards, I also designed 'backing mats' for each of the eight card types. These were printed on large coloured card corresponding to each card type's backing colour, and provided areas for the 'decks' of available cards to be picked from. Each backing mat provided a separate home for family member actions, staff actions, and joint actions. Additionally, each backing mat included a summary of the available action cards of this type, and a prompt question. An example of a backing mat, in this case for Problem Cards, is shown in [Figure ARI4.2](#figure-ari4.2).
 
@@ -753,11 +753,11 @@ This table is referenced and contextualised in section [7.4](#7.4).
 | Data as currency|Many data-centric services require data to be sacrificed in exchange for access to functionality, and some businesses now explicitly enable you to sell your own data. This lens highlights that data can be thought of as a tradable asset, and invites consideration of issues of data's worth, individual privacy, exploitation and loss of control.|
 | Data as a medium for thinking, communicating and expression|Some people collect and organise data into curated collections, or use it to convey facts and ideas, to persuade or to evoke an emotional impact. This lens is useful to consider data uses such as lists, annotation, curation, editing, remixing, visualisation and producing different views of data for different audiences.|
 
-Table: Table ARI7.1 - **Eight Lenses on Personal Data**.
+Table: Table ARI7.1 - Eight Lenses on Personal Data.
 
 
 
-ARI9.1 Additional Reference Information for Chapter 9 {#ari-chapter-9 .unnumbered}
+ARI9 Additional Reference Information for Chapter 9 {#ari-chapter-9 .unnumbered}
 =====================================================
 
 ARI9.1 How I compelled Spotify to improve their GDPR return {#ari-9.1 .unnumbered}

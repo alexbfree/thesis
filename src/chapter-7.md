@@ -117,7 +117,7 @@ To offer future value to future researchers, activists and innovators, this chap
   1. Data Awareness & Understanding;
   2. Data Useability<sup>[10](#fn10)</sup>;
   3. Data Ecosystem Awareness & Understanding[^14] and
-  4. Data Ecosystem Negotiability<sup>[15](#fn14)</sup>.
+  4. Data Ecosystem Negotiability<sup>[14](#fn14)</sup>.
 
 [^14]: To avoid overly cumbersome wording, subsequent sections will drop the 'Data' prefix from 'Data Ecosystem Awareness & Understanding' and 'Data Ecosystem Negotiability'.
 
