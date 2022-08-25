@@ -48,8 +48,11 @@ I would also like to thank, in no particular order:
 
 Finally, I would like to thank my parents, Jim and Rosi Bowyer. You have always been there for me, whenever I needed you. Thank you for your unquestioning love and support in an ever-changing world.
 
---
+-----
+
 This PhD was funded by the Engineering and Physical Sciences Research Council (EPSRC)'s Centre for Doctoral Training in Digital Civics at Newcastle University in the UK (EP/L016176/1).
+
+-----
 
 Lists of Tables, Figures and Inset Boxes {.unnumbered}
 ========================================
