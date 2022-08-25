@@ -68,7 +68,7 @@ This section lists the 14 major contributions (**Cn**) of this thesis, which can
 
 ### An Understanding of what People want from Personal Data{#1.2.1}
 
-Through the concluding sections of Chapters [4](#chapter-4) and [5](#chapter-5), the reader will be able to see that research participants across both studies (and the pilot study) shared common issues around personal data. These commonalities provide the answers to RQ1 [3.3.1](#RQ1) and RQ2 [3.3.2](#RQ2), which form the first two contributions C1 and C2:
+Through the concluding sections of Chapters [4](#chapter-4) and [5](#chapter-5), the reader will be able to see that research participants across both studies (and the pilot study) shared common issues around personal data. These commonalities provide the answers to RQ1 [[3.3.1](#RQ1)] and RQ2 [[3.3.2](#RQ2)], which form the first two contributions C1 and C2:
 
 **<a name="c1">C1</a>: An understanding of What People Want in Direct Data Relations**
 

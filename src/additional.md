@@ -757,7 +757,7 @@ Table: Table ARI7.1 - **Eight Lenses on Personal Data**.
 
 
 
-ARI9.1 Additional Reference Information for Chapter 9{#ari-chapter-9 .unnumbered}
+ARI9.1 Additional Reference Information for Chapter 9 {#ari-chapter-9 .unnumbered}
 =====================================================
 
 ARI9.1 How I compelled Spotify to improve their GDPR return {#ari-9.1 .unnumbered}
