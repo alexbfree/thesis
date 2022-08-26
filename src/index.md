@@ -10,10 +10,10 @@ css:
 link-citations: true
 csl: src/harvard-cite-them-right.csl
 
-thesis-source: https://github.com/alexbfree/thesis
+thesis-source: https://github.com/alexbfree/thesis/tree/master/src
 download-button-format: docx
 website-build-formats:
   - docx
   - pdf
-# - epub
+  - epub
 ---

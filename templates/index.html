@@ -5,7 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="https://unpkg.com/purecss@2.0.3/build/pure-min.css" integrity="sha384-4ZPLezkTZTsojWFhpdFembdzFudphhoOzIunR1wH6g1WQDzCAiPvDyitaK67mp0+" crossorigin="anonymous">
     <link rel="stylesheet" href="https://unpkg.com/purecss@2.0.3/build/buttons-min.css">
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
+    <script src="https://kit.fontawesome.com/cbcaa8d8ee.js" crossorigin="anonymous"></script>
+    <!--<link rel="stylesheet" href="https://use.fontawesome.com/releases/v6.1.2/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">-->
     <link rel="stylesheet" href="styles.css">
     <title>{{ thesis_title }} | {{ thesis_author }}</title>
   </head>
@@ -15,9 +16,8 @@
       <div class="pure-u-1 pure-u-sm-1">
         <div id="header">
 
-        <h1>{{ thesis_title }}</h1>
-        <h2 class="author">{{ thesis_author }}</h2>
-
+        <h2>{{ thesis_title }}</h2>
+        <h4 class="author">A PhD thesis by {{ thesis_author }} <a class="twitter" href="https://twitter.com/alexbfree"><i class="fab fa-twitter"></i></a> - <a href="https://openlab.ncl.ac.uk">Open Lab</a>, Newcastle University. 2016-2022</h4>
         </div>
       </div>
     </div>
@@ -26,10 +26,17 @@
       <div class="pure-u-1 pure-u-sm-1">
         <div class="download-links margins-top">
           <p class="centre">
-            <a class="pure-button pure-button-primary" href="./html/thesis.html"><i class="fab fa-html5"></i> Read Online</a> <a class="pure-button pure-button-primary" href="./{{download_button_format}}/thesis.{{download_button_format}}"><i class="fas fa-download"></i> Download</a>
+            My PhD thesis is available to read here.<br/>This is the submitted-for-viva version, and is subject to future corrections.<br/>
+            If sharing, only share the link <a href="http://thesis.alexbowyer.com/">http://thesis.alexbowyer.com/</a>
           </p>
           <p class="centre">
-            <a href="{{ thesis_source }}" class="pure-button"><i class="fab fa-gitlab"></i> Source</a>
+            <a class="pure-button pure-button-primary" href="./html/thesis.html"><i class="fa-solid fa-earth-europe"></i> Read Online</a>
+            <!--<a class="pure-button pure-button-primary" href="./{{download_button_format}}/thesis.{{download_button_format}}"><i class="fas fa-download"></i> Download</a>-->
+            <a class="pure-button pure-button-primary" href="./submitted/2022-08-25-1347.docx"><i class="fas fa-file-word"></i> Download (DOCX)</a>
+            <a class="pure-button pure-button-primary" href="./submitted/2022-08-25-1347.pdf"><i class="fas fa-file-pdf"></i> Download (PDF)</a>
+          </p>
+          <p class="centre">
+            <a href="{{ thesis_source }}" class="pure-button"><i class="fab fa-github"></i> Source</a>
           </p>
         </div>
       </div>
@@ -37,21 +44,11 @@
 
     <div class="pure-g">
       <div class="pure-u-1 pure-u-sm-1">
-        <h2>Last Updated <span id="last_updated_date">{{ last_updated }}</span></h2>
-        <p>
-          If this date looks off, try doing a hard refresh with Ctrl &#43; R (not F5).
-        </p>
-      </div>
-    </div>
-
-
-    <div class="pure-g">
-      <div class="pure-u-1 pure-u-sm-1">
         <div id="chapter-table">
           <table class="pure-table">
             <thead>
               <tr>
-                <th>Web</th>
+                <th>Web (click to read in browser)</th>
                 {% for format in build_formats %}
                 <th>{{format}}</th>
                 {% endfor %}
@@ -62,12 +59,20 @@
 
               <tr>
                 <td>
-                  <a href="./html/thesis.html">Thesis</a>
+                  <a href="./html/thesis.html">Full Thesis</a>
                 </td>
 
                 {% for format in build_formats %}
                 <td>
-                  <a href="./{{format}}/thesis.{{format}}">thesis.{{format}}</a>
+                  {% if format=="docx" %}
+                    <a href="./submitted/2022-08-25-1347.docx">thesis.docx</a>
+                  {% endif %}
+                  {% if format=="pdf" %}
+                    <a href="./submitted/2022-08-25-1347.pdf">thesis.pdf</a>
+                  {% endif %}
+                  {% if format=="epub" %}
+                    <a href="./{{format}}/thesis.{{format}}">thesis.{{format}}</a>
+                  {% endif %}
                 </td>
                 {% endfor %}
 
@@ -75,7 +80,7 @@
 
               <tr>
                 <td>
-                  <a href="./html/frontmatter.html">Frontmatter</a>
+                  <a href="./html/frontmatter.html">Abstract, Dedication & Acknowledgements</a>
                 </td>
 
                 {% for format in build_formats %}
@@ -114,7 +119,7 @@
 
               <tr>
                 <td>
-                  <a href="./html/appendices.html">Appendices</a>
+                  <a href="./html/appendices.html">Appendices & Glossary</a>
                 </td>
 
                 {% for format in build_formats %}
@@ -131,6 +136,14 @@
       </div>
     </div>
 
+    <div class="pure-g">
+      <div class="pure-u-1 pure-u-sm-1">
+        <h4>Last Updated:</h4> <span id="last_updated_date">{{ last_updated }}</span>
+        <p>
+          To load the newest version, hard refresh with Ctrl &#43; R (Windows) or ⌘ &#43; R (Mac).
+        </p>
+      </div>
+    </div>
 
   </body>
 </html>
