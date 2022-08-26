@@ -26,12 +26,47 @@ p, li, h1,h2,h3,h4,h5,h6{
   font-weight: normal;
 }
 
-.twitter {
-  color: #1DA1F2;
+.author a.twitter i,
+.author a.mywebsite i,
+.author a.scholar i {
+  margin-left:0.1em;
+  margin-right:0.1em;
 }
 
-a.twitter:link,a.twitter:visited,a.twitter:active,a.twitter:hover {
+.twitter,
+a.twitter:link,
+a.twitter:visited,
+a.twitter:active,
+a.twitter:hover {
   color: #1DA1F2 !important;
+}
+
+span.smallrow {
+  font-size: smaller;
+}
+
+.scholar,
+a.scholar:link,
+a.scholar:visited,
+a.scholar:active,
+a.scholar:hover {
+  color: #DB4437 !important;
+}
+
+.mywebsite,
+a.mywebsite:link,
+a.mywebsite:visited,
+a.mywebsite:active,
+a.mywebsite:hover {
+  color: #0F9D58 !important;
+}
+
+.linkedin,
+a.linkedin:link,
+a.linkedin:visited,
+a.linkedin:active,
+a.linkedin:hover {
+  color: #0077b5 !important;
 }
 
 #header {
