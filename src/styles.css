@@ -45,6 +45,10 @@ span.smallrow {
   font-size: smaller;
 }
 
+#last_updated_date {
+  font-weight:normal;
+}
+
 .scholar,
 a.scholar:link,
 a.scholar:visited,
