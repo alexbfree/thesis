@@ -302,6 +302,9 @@ def main(argv):
     appendices_parser = subparsers.add_parser("appendices", help="Builds only appendices.md in [format]")
     appendices_parser.add_argument("format", type=str, help="The format you want to build into e.g. html or docx")
 
+    # Parser for building the web menu page (a.k.a. 'coversheet') only
+    menu_parser = subparsers.add_parser("menu", help="Builds only the web menu page")
+
     # Parser for building an entire website
     website_parser = subparsers.add_parser("website", help="Generates a website including a frontpage and html, docx, epub and pdf versions of each chapter and entire thesis")
 
@@ -330,6 +333,11 @@ def markdown_thesis(args):
     elif args.subparser == "htmlwebsite":
         print ("Building website (HTML only) \n======\n")
         buildWebsiteHtmlOnly()
+
+    elif args.subparser == "menu":
+        print ("Building web menu page only \n======\n")
+        copy("./src/styles.css", WEBSITE_PATH)
+        buildCoversheet("{}/".format(WEBSITE_PATH))
 
     elif args.subparser == "chapter":
         print("Building Chapter in {}\n======\n".format(args.format))
