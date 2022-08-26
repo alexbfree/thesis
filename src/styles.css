@@ -30,6 +30,10 @@ p, li, h1,h2,h3,h4,h5,h6{
   color: #1DA1F2;
 }
 
+a.twitter:link,a.twitter:visited,a.twitter:active,a.twitter:hover {
+  color: #1DA1F2 !important;
+}
+
 #header {
   text-align: center;
 }
