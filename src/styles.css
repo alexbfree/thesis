@@ -4,6 +4,42 @@ body {
   font-family: sans-serif;
 }
 
+.goodnote {
+  color: green;
+  font-weight: bold;
+  text-align: center;
+  display: block;
+  border: 1px solid green;
+  padding: 5px;
+  text-transform: capitalize;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+.movenote {
+  color: orange;
+  font-weight: bold;
+  text-align: center;
+  display: block;
+  border: 1px solid orange;
+  padding: 5px;
+  text-transform: capitalize;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+.editnote {
+  color: red;
+  font-weight: bold;
+  text-align: center;
+  display: block;
+  border: 1px solid red;
+  padding: 5px;
+  text-transform: capitalize;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
 p, li, h1,h2,h3,h4,h5,h6{
   line-height: 1.65;
 }

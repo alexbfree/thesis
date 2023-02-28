@@ -7,33 +7,38 @@
   <meta name="author" content="Alex Bowyer" />
   <title>Understanding and Improving Human Data Relations</title>
   <style>
-    code{white-space: pre-wrap;}
-    span.smallcaps{font-variant: small-caps;}
-    span.underline{text-decoration: underline;}
-    div.column{display: inline-block; vertical-align: top; width: 50%;}
-    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
-    ul.task-list{list-style: none;}
-    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
-    div.csl-bib-body { }
-    div.csl-entry {
-      clear: both;
-    }
-    .hanging div.csl-entry {
-      margin-left:2em;
-      text-indent:-2em;
-    }
-    div.csl-left-margin {
-      min-width:2em;
-      float:left;
-    }
-    div.csl-right-inline {
-      margin-left:2em;
-      padding-left:1em;
-    }
-    div.csl-indent {
-      margin-left: 2em;
-    }
-  </style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+width: 0.8em;
+margin: 0 0.8em 0.2em -1.6em;
+vertical-align: middle;
+}
+.display.math{display: block; text-align: center; margin: 0.5rem auto;}
+
+div.csl-bib-body { }
+div.csl-entry {
+clear: both;
+}
+.hanging-indent div.csl-entry {
+margin-left:2em;
+text-indent:-2em;
+}
+div.csl-left-margin {
+min-width:2em;
+float:left;
+}
+div.csl-right-inline {
+margin-left:2em;
+padding-left:1em;
+}
+div.csl-indent {
+margin-left: 2em;
+} </style>
   <style type="text/css">
 
 html{line-height:1.15;-webkit-text-size-adjust:100%}body{margin:0}main{display:block}h1{font-size:2em;margin:.67em 0}hr{-webkit-box-sizing:content-box;box-sizing:content-box;height:0;overflow:visible}pre{font-family:monospace,monospace;font-size:1em}a{background-color:transparent}abbr[title]{border-bottom:none;text-decoration:underline;-webkit-text-decoration:underline dotted;text-decoration:underline dotted}b,strong{font-weight:bolder}code,kbd,samp{font-family:monospace,monospace;font-size:1em}small{font-size:80%}sub,sup{font-size:75%;line-height:0;position:relative;vertical-align:baseline}sub{bottom:-.25em}sup{top:-.5em}img{border-style:none}button,input,optgroup,select,textarea{font-family:inherit;font-size:100%;line-height:1.15;margin:0}button,input{overflow:visible}button,select{text-transform:none}[type=button],[type=reset],[type=submit],button{-webkit-appearance:button}[type=button]::-moz-focus-inner,[type=reset]::-moz-focus-inner,[type=submit]::-moz-focus-inner,button::-moz-focus-inner{border-style:none;padding:0}[type=button]:-moz-focusring,[type=reset]:-moz-focusring,[type=submit]:-moz-focusring,button:-moz-focusring{outline:1px dotted ButtonText}fieldset{padding:.35em .75em .625em}legend{-webkit-box-sizing:border-box;box-sizing:border-box;color:inherit;display:table;max-width:100%;padding:0;white-space:normal}progress{vertical-align:baseline}textarea{overflow:auto}[type=checkbox],[type=radio]{-webkit-box-sizing:border-box;box-sizing:border-box;padding:0}[type=number]::-webkit-inner-spin-button,[type=number]::-webkit-outer-spin-button{height:auto}[type=search]{-webkit-appearance:textfield;outline-offset:-2px}[type=search]::-webkit-search-decoration{-webkit-appearance:none}::-webkit-file-upload-button{-webkit-appearance:button;font:inherit}details{display:block}summary{display:list-item}template{display:none}[hidden]{display:none}html{font-family:sans-serif}.hidden,[hidden]{display:none!important}.pure-img{max-width:100%;height:auto;display:block}.pure-g{letter-spacing:-.31em;text-rendering:optimizespeed;font-family:FreeSans,Arimo,"Droid Sans",Helvetica,Arial,sans-serif;display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-orient:horizontal;-webkit-box-direction:normal;-ms-flex-flow:row wrap;flex-flow:row wrap;-ms-flex-line-pack:start;align-content:flex-start}@media all and (-ms-high-contrast:none),(-ms-high-contrast:active){table .pure-g{display:block}}.opera-only :-o-prefocus,.pure-g{word-spacing:-.43em}.pure-u{display:inline-block;letter-spacing:normal;word-spacing:normal;vertical-align:top;text-rendering:auto}.pure-g [class*=pure-u]{font-family:sans-serif}.pure-u-1,.pure-u-1-1,.pure-u-1-12,.pure-u-1-2,.pure-u-1-24,.pure-u-1-3,.pure-u-1-4,.pure-u-1-5,.pure-u-1-6,.pure-u-1-8,.pure-u-10-24,.pure-u-11-12,.pure-u-11-24,.pure-u-12-24,.pure-u-13-24,.pure-u-14-24,.pure-u-15-24,.pure-u-16-24,.pure-u-17-24,.pure-u-18-24,.pure-u-19-24,.pure-u-2-24,.pure-u-2-3,.pure-u-2-5,.pure-u-20-24,.pure-u-21-24,.pure-u-22-24,.pure-u-23-24,.pure-u-24-24,.pure-u-3-24,.pure-u-3-4,.pure-u-3-5,.pure-u-3-8,.pure-u-4-24,.pure-u-4-5,.pure-u-5-12,.pure-u-5-24,.pure-u-5-5,.pure-u-5-6,.pure-u-5-8,.pure-u-6-24,.pure-u-7-12,.pure-u-7-24,.pure-u-7-8,.pure-u-8-24,.pure-u-9-24{display:inline-block;letter-spacing:normal;word-spacing:normal;vertical-align:top;text-rendering:auto}.pure-u-1-24{width:4.1667%}.pure-u-1-12,.pure-u-2-24{width:8.3333%}.pure-u-1-8,.pure-u-3-24{width:12.5%}.pure-u-1-6,.pure-u-4-24{width:16.6667%}.pure-u-1-5{width:20%}.pure-u-5-24{width:20.8333%}.pure-u-1-4,.pure-u-6-24{width:25%}.pure-u-7-24{width:29.1667%}.pure-u-1-3,.pure-u-8-24{width:33.3333%}.pure-u-3-8,.pure-u-9-24{width:37.5%}.pure-u-2-5{width:40%}.pure-u-10-24,.pure-u-5-12{width:41.6667%}.pure-u-11-24{width:45.8333%}.pure-u-1-2,.pure-u-12-24{width:50%}.pure-u-13-24{width:54.1667%}.pure-u-14-24,.pure-u-7-12{width:58.3333%}.pure-u-3-5{width:60%}.pure-u-15-24,.pure-u-5-8{width:62.5%}.pure-u-16-24,.pure-u-2-3{width:66.6667%}.pure-u-17-24{width:70.8333%}.pure-u-18-24,.pure-u-3-4{width:75%}.pure-u-19-24{width:79.1667%}.pure-u-4-5{width:80%}.pure-u-20-24,.pure-u-5-6{width:83.3333%}.pure-u-21-24,.pure-u-7-8{width:87.5%}.pure-u-11-12,.pure-u-22-24{width:91.6667%}.pure-u-23-24{width:95.8333%}.pure-u-1,.pure-u-1-1,.pure-u-24-24,.pure-u-5-5{width:100%}.pure-button{display:inline-block;line-height:normal;white-space:nowrap;vertical-align:middle;text-align:center;cursor:pointer;-webkit-user-drag:none;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;-webkit-box-sizing:border-box;box-sizing:border-box}.pure-button::-moz-focus-inner{padding:0;border:0}.pure-button-group{letter-spacing:-.31em;text-rendering:optimizespeed}.opera-only :-o-prefocus,.pure-button-group{word-spacing:-.43em}.pure-button-group .pure-button{letter-spacing:normal;word-spacing:normal;vertical-align:top;text-rendering:auto}.pure-button{font-family:inherit;font-size:100%;padding:.5em 1em;color:rgba(0,0,0,.8);border:none transparent;background-color:#e6e6e6;text-decoration:none;border-radius:2px}.pure-button-hover,.pure-button:focus,.pure-button:hover{background-image:-webkit-gradient(linear,left top,left bottom,from(transparent),color-stop(40%,rgba(0,0,0,.05)),to(rgba(0,0,0,.1)));background-image:linear-gradient(transparent,rgba(0,0,0,.05) 40%,rgba(0,0,0,.1))}.pure-button:focus{outline:0}.pure-button-active,.pure-button:active{-webkit-box-shadow:0 0 0 1px rgba(0,0,0,.15) inset,0 0 6px rgba(0,0,0,.2) inset;box-shadow:0 0 0 1px rgba(0,0,0,.15) inset,0 0 6px rgba(0,0,0,.2) inset;border-color:#000}.pure-button-disabled,.pure-button-disabled:active,.pure-button-disabled:focus,.pure-button-disabled:hover,.pure-button[disabled]{border:none;background-image:none;opacity:.4;cursor:not-allowed;-webkit-box-shadow:none;box-shadow:none;pointer-events:none}.pure-button-hidden{display:none}.pure-button-primary,.pure-button-selected,a.pure-button-primary,a.pure-button-selected{background-color:#0078e7;color:#fff}.pure-button-group .pure-button{margin:0;border-radius:0;border-right:1px solid rgba(0,0,0,.2)}.pure-button-group .pure-button:first-child{border-top-left-radius:2px;border-bottom-left-radius:2px}.pure-button-group .pure-button:last-child{border-top-right-radius:2px;border-bottom-right-radius:2px;border-right:none}.pure-form input[type=color],.pure-form input[type=date],.pure-form input[type=datetime-local],.pure-form input[type=datetime],.pure-form input[type=email],.pure-form input[type=month],.pure-form input[type=number],.pure-form input[type=password],.pure-form input[type=search],.pure-form input[type=tel],.pure-form input[type=text],.pure-form input[type=time],.pure-form input[type=url],.pure-form input[type=week],.pure-form select,.pure-form textarea{padding:.5em .6em;display:inline-block;border:1px solid #ccc;-webkit-box-shadow:inset 0 1px 3px #ddd;box-shadow:inset 0 1px 3px #ddd;border-radius:4px;vertical-align:middle;-webkit-box-sizing:border-box;box-sizing:border-box}.pure-form input:not([type]){padding:.5em .6em;display:inline-block;border:1px solid #ccc;-webkit-box-shadow:inset 0 1px 3px #ddd;box-shadow:inset 0 1px 3px #ddd;border-radius:4px;-webkit-box-sizing:border-box;box-sizing:border-box}.pure-form input[type=color]{padding:.2em .5em}.pure-form input[type=color]:focus,.pure-form input[type=date]:focus,.pure-form input[type=datetime-local]:focus,.pure-form input[type=datetime]:focus,.pure-form input[type=email]:focus,.pure-form input[type=month]:focus,.pure-form input[type=number]:focus,.pure-form input[type=password]:focus,.pure-form input[type=search]:focus,.pure-form input[type=tel]:focus,.pure-form input[type=text]:focus,.pure-form input[type=time]:focus,.pure-form input[type=url]:focus,.pure-form input[type=week]:focus,.pure-form select:focus,.pure-form textarea:focus{outline:0;border-color:#129fea}.pure-form input:not([type]):focus{outline:0;border-color:#129fea}.pure-form input[type=checkbox]:focus,.pure-form input[type=file]:focus,.pure-form input[type=radio]:focus{outline:thin solid #129fea;outline:1px auto #129fea}.pure-form .pure-checkbox,.pure-form .pure-radio{margin:.5em 0;display:block}.pure-form input[type=color][disabled],.pure-form input[type=date][disabled],.pure-form input[type=datetime-local][disabled],.pure-form input[type=datetime][disabled],.pure-form input[type=email][disabled],.pure-form input[type=month][disabled],.pure-form input[type=number][disabled],.pure-form input[type=password][disabled],.pure-form input[type=search][disabled],.pure-form input[type=tel][disabled],.pure-form input[type=text][disabled],.pure-form input[type=time][disabled],.pure-form input[type=url][disabled],.pure-form input[type=week][disabled],.pure-form select[disabled],.pure-form textarea[disabled]{cursor:not-allowed;background-color:#eaeded;color:#cad2d3}.pure-form input:not([type])[disabled]{cursor:not-allowed;background-color:#eaeded;color:#cad2d3}.pure-form input[readonly],.pure-form select[readonly],.pure-form textarea[readonly]{background-color:#eee;color:#777;border-color:#ccc}.pure-form input:focus:invalid,.pure-form select:focus:invalid,.pure-form textarea:focus:invalid{color:#b94a48;border-color:#e9322d}.pure-form input[type=checkbox]:focus:invalid:focus,.pure-form input[type=file]:focus:invalid:focus,.pure-form input[type=radio]:focus:invalid:focus{outline-color:#e9322d}.pure-form select{height:2.25em;border:1px solid #ccc;background-color:#fff}.pure-form select[multiple]{height:auto}.pure-form label{margin:.5em 0 .2em}.pure-form fieldset{margin:0;padding:.35em 0 .75em;border:0}.pure-form legend{display:block;width:100%;padding:.3em 0;margin-bottom:.3em;color:#333;border-bottom:1px solid #e5e5e5}.pure-form-stacked input[type=color],.pure-form-stacked input[type=date],.pure-form-stacked input[type=datetime-local],.pure-form-stacked input[type=datetime],.pure-form-stacked input[type=email],.pure-form-stacked input[type=file],.pure-form-stacked input[type=month],.pure-form-stacked input[type=number],.pure-form-stacked input[type=password],.pure-form-stacked input[type=search],.pure-form-stacked input[type=tel],.pure-form-stacked input[type=text],.pure-form-stacked input[type=time],.pure-form-stacked input[type=url],.pure-form-stacked input[type=week],.pure-form-stacked label,.pure-form-stacked select,.pure-form-stacked textarea{display:block;margin:.25em 0}.pure-form-stacked input:not([type]){display:block;margin:.25em 0}.pure-form-aligned input,.pure-form-aligned select,.pure-form-aligned textarea,.pure-form-message-inline{display:inline-block;vertical-align:middle}.pure-form-aligned textarea{vertical-align:top}.pure-form-aligned .pure-control-group{margin-bottom:.5em}.pure-form-aligned .pure-control-group label{text-align:right;display:inline-block;vertical-align:middle;width:10em;margin:0 1em 0 0}.pure-form-aligned .pure-controls{margin:1.5em 0 0 11em}.pure-form .pure-input-rounded,.pure-form input.pure-input-rounded{border-radius:2em;padding:.5em 1em}.pure-form .pure-group fieldset{margin-bottom:10px}.pure-form .pure-group input,.pure-form .pure-group textarea{display:block;padding:10px;margin:0 0 -1px;border-radius:0;position:relative;top:-1px}.pure-form .pure-group input:focus,.pure-form .pure-group textarea:focus{z-index:3}.pure-form .pure-group input:first-child,.pure-form .pure-group textarea:first-child{top:1px;border-radius:4px 4px 0 0;margin:0}.pure-form .pure-group input:first-child:last-child,.pure-form .pure-group textarea:first-child:last-child{top:1px;border-radius:4px;margin:0}.pure-form .pure-group input:last-child,.pure-form .pure-group textarea:last-child{top:-2px;border-radius:0 0 4px 4px;margin:0}.pure-form .pure-group button{margin:.35em 0}.pure-form .pure-input-1{width:100%}.pure-form .pure-input-3-4{width:75%}.pure-form .pure-input-2-3{width:66%}.pure-form .pure-input-1-2{width:50%}.pure-form .pure-input-1-3{width:33%}.pure-form .pure-input-1-4{width:25%}.pure-form-message-inline{display:inline-block;padding-left:.3em;color:#666;vertical-align:middle;font-size:.875em}.pure-form-message{display:block;color:#666;font-size:.875em}@media only screen and (max-width :480px){.pure-form button[type=submit]{margin:.7em 0 0}.pure-form input:not([type]),.pure-form input[type=color],.pure-form input[type=date],.pure-form input[type=datetime-local],.pure-form input[type=datetime],.pure-form input[type=email],.pure-form input[type=month],.pure-form input[type=number],.pure-form input[type=password],.pure-form input[type=search],.pure-form input[type=tel],.pure-form input[type=text],.pure-form input[type=time],.pure-form input[type=url],.pure-form input[type=week],.pure-form label{margin-bottom:.3em;display:block}.pure-group input:not([type]),.pure-group input[type=color],.pure-group input[type=date],.pure-group input[type=datetime-local],.pure-group input[type=datetime],.pure-group input[type=email],.pure-group input[type=month],.pure-group input[type=number],.pure-group input[type=password],.pure-group input[type=search],.pure-group input[type=tel],.pure-group input[type=text],.pure-group input[type=time],.pure-group input[type=url],.pure-group input[type=week]{margin-bottom:0}.pure-form-aligned .pure-control-group label{margin-bottom:.3em;text-align:left;display:block;width:100%}.pure-form-aligned .pure-controls{margin:1.5em 0 0 0}.pure-form-message,.pure-form-message-inline{display:block;font-size:.75em;padding:.2em 0 .8em}}.pure-menu{-webkit-box-sizing:border-box;box-sizing:border-box}.pure-menu-fixed{position:fixed;left:0;top:0;z-index:3}.pure-menu-item,.pure-menu-list{position:relative}.pure-menu-list{list-style:none;margin:0;padding:0}.pure-menu-item{padding:0;margin:0;height:100%}.pure-menu-heading,.pure-menu-link{display:block;text-decoration:none;white-space:nowrap}.pure-menu-horizontal{width:100%;white-space:nowrap}.pure-menu-horizontal .pure-menu-list{display:inline-block}.pure-menu-horizontal .pure-menu-heading,.pure-menu-horizontal .pure-menu-item,.pure-menu-horizontal .pure-menu-separator{display:inline-block;vertical-align:middle}.pure-menu-item .pure-menu-item{display:block}.pure-menu-children{display:none;position:absolute;left:100%;top:0;margin:0;padding:0;z-index:3}.pure-menu-horizontal .pure-menu-children{left:0;top:auto;width:inherit}.pure-menu-active>.pure-menu-children,.pure-menu-allow-hover:hover>.pure-menu-children{display:block;position:absolute}.pure-menu-has-children>.pure-menu-link:after{padding-left:.5em;content:"\25B8";font-size:small}.pure-menu-horizontal .pure-menu-has-children>.pure-menu-link:after{content:"\25BE"}.pure-menu-scrollable{overflow-y:scroll;overflow-x:hidden}.pure-menu-scrollable .pure-menu-list{display:block}.pure-menu-horizontal.pure-menu-scrollable .pure-menu-list{display:inline-block}.pure-menu-horizontal.pure-menu-scrollable{white-space:nowrap;overflow-y:hidden;overflow-x:auto;padding:.5em 0}.pure-menu-horizontal .pure-menu-children .pure-menu-separator,.pure-menu-separator{background-color:#ccc;height:1px;margin:.3em 0}.pure-menu-horizontal .pure-menu-separator{width:1px;height:1.3em;margin:0 .3em}.pure-menu-horizontal .pure-menu-children .pure-menu-separator{display:block;width:auto}.pure-menu-heading{text-transform:uppercase;color:#565d64}.pure-menu-link{color:#777}.pure-menu-children{background-color:#fff}.pure-menu-disabled,.pure-menu-heading,.pure-menu-link{padding:.5em 1em}.pure-menu-disabled{opacity:.5}.pure-menu-disabled .pure-menu-link:hover{background-color:transparent}.pure-menu-active>.pure-menu-link,.pure-menu-link:focus,.pure-menu-link:hover{background-color:#eee}.pure-menu-selected>.pure-menu-link,.pure-menu-selected>.pure-menu-link:visited{color:#000}.pure-table{border-collapse:collapse;border-spacing:0;empty-cells:show;border:1px solid #cbcbcb}.pure-table caption{color:#000;font:italic 85%/1 arial,sans-serif;padding:1em 0;text-align:center}.pure-table td,.pure-table th{border-left:1px solid #cbcbcb;border-width:0 0 0 1px;font-size:inherit;margin:0;overflow:visible;padding:.5em 1em}.pure-table thead{background-color:#e0e0e0;color:#000;text-align:left;vertical-align:bottom}.pure-table td{background-color:transparent}.pure-table-odd td{background-color:#f2f2f2}.pure-table-striped tr:nth-child(2n-1) td{background-color:#f2f2f2}.pure-table-bordered td{border-bottom:1px solid #cbcbcb}.pure-table-bordered tbody>tr:last-child>td{border-bottom-width:0}.pure-table-horizontal td,.pure-table-horizontal th{border-width:0 0 1px 0;border-bottom:1px solid #cbcbcb}.pure-table-horizontal tbody>tr:last-child>td{border-bottom-width:0}</style>
@@ -41,6 +46,39 @@ html{line-height:1.15;-webkit-text-size-adjust:100%}body{margin:0}main{display:b
 margin: 2.5em;
 font-size: 16pt;
 font-family: sans-serif;
+}
+.goodnote {
+color: green;
+font-weight: bold;
+text-align: center;
+display: block;
+border: 1px solid green;
+padding: 5px;
+text-transform: capitalize;
+margin-top: 5px;
+margin-bottom: 5px;
+}
+.movenote {
+color: orange;
+font-weight: bold;
+text-align: center;
+display: block;
+border: 1px solid orange;
+padding: 5px;
+text-transform: capitalize;
+margin-top: 5px;
+margin-bottom: 5px;
+}
+.editnote {
+color: red;
+font-weight: bold;
+text-align: center;
+display: block;
+border: 1px solid red;
+padding: 5px;
+text-transform: capitalize;
+margin-top: 5px;
+margin-bottom: 5px;
 }
 p, li, h1,h2,h3,h4,h5,h6{
 line-height: 1.65;
@@ -290,9 +328,8 @@ One</a></li>
 <li><a href="#bibliography" id="toc-bibliography">Bibliography</a></li>
 </ul>
 </nav>
-<section id="chapter-4" data-number="1">
-<h1 data-number="4"><span class="header-section-number">4</span> Case
-Study One: Access to Civic Data in Early Help</h1>
+<h1 data-number="4" id="chapter-4"><span class="header-section-number">4</span> Case Study One: Access to Civic
+Data in Early Help</h1>
 <blockquote>
 <p><em>“If you can see the invisible, then you can see the possible and
 provide the opportunities for trust, commitment and ways of empowering
@@ -319,12 +356,10 @@ the value of data involvement [<a href="#4.4.1">4.4.1</a>], the need for
 human interaction [<a href="#4.4.2">4.4.2</a>], and the pros and cons of
 the shifting of the <em>Locus of Decision Making (LDM)</em> towards the
 family [<a href="#4.4.3">4.4.3</a>].</p>
-<section id="4.1" data-number="1.1">
-<h2 data-number="4.1"><span class="header-section-number">4.1</span>
-Context: Data Use in Early Help</h2>
-<section id="4.1.1" data-number="1.1.1">
-<h3 data-number="4.1.1"><span class="header-section-number">4.1.1</span>
-Data-centric Family Intervention in UK Social Care</h3>
+<h2 data-number="4.1" id="4.1"><span class="header-section-number">4.1</span> Context: Data Use in Early
+Help</h2>
+<h3 data-number="4.1.1" id="4.1.1"><span class="header-section-number">4.1.1</span> Data-centric Family
+Intervention in UK Social Care</h3>
 <p>The UK’s social care system has been shaped by a series of efforts to
 improve the lives of children through data-driven interventions:
 <em>Every Child Matters</em>, <em>ContactPoint</em>, and the <em>Common
@@ -370,10 +405,8 @@ has exacerbated as data-driven approaches to family care have been
 encouraged through policy and reports about improving quality of the
 sector <span class="citation" data-cites="bate2018 dfe2018 field2010 ofsted2015">(<a href="#ref-field2010" role="doc-biblioref">Field, 2010</a>; <a href="#ref-ofsted2015" role="doc-biblioref">OFSTED, 2015</a>; <a href="#ref-bate2018" role="doc-biblioref">Bate and Bellis, 2018</a>; <a href="#ref-dfe2018" role="doc-biblioref">Department for Education,
 2018</a>)</span>.</p>
-</section>
-<section id="4.1.2" data-number="1.1.2">
-<h3 data-number="4.1.2"><span class="header-section-number">4.1.2</span>
-Current Practice: Early Help Case Records as a Source of Truth</h3>
+<h3 data-number="4.1.2" id="4.1.2"><span class="header-section-number">4.1.2</span> Current Practice: Early Help
+Case Records as a Source of Truth</h3>
 <p>Through the 2010s, <em>Early Help (EH)</em> programmes became a key
 social care offering from most UK local authorities, aiming to intervene
 in families’ lives before costly additional help is needed. To meet the
@@ -434,10 +467,8 @@ to create and expand the EH record as a central representation of truth
 about the family can be seen as data-centric solutionism <span class="citation" data-cites="morozov2013">(<a href="#ref-morozov2013" role="doc-biblioref">Morozov, 2013</a>)</span>, being applied to a
 problem that was created by a data-centric approach in the first
 place.</p>
-</section>
-<section id="4.1.3" data-number="1.1.3">
-<h3 data-number="4.1.3"><span class="header-section-number">4.1.3</span>
-Rethinking the Role of Data in Early Help Support Relationships</h3>
+<h3 data-number="4.1.3" id="4.1.3"><span class="header-section-number">4.1.3</span> Rethinking the Role of Data
+in Early Help Support Relationships</h3>
 <p>Families’ only awareness of EH data occurs when support workers or
 TAF professionals choose to share elements with them. Such sharing is
 usually verbal, unrecorded and rarely complete. Critiques suggest the
@@ -487,12 +518,8 @@ interaction.</li>
 </ul>
 <p>The design and approach of the study is described in more detail in
 the next section.</p>
-</section>
-</section>
-<section id="4.2" data-number="1.2">
-<h2 data-number="4.2"><span class="header-section-number">4.2</span>
-Preliminary Explorations of Family Civic Data: Families’ and Support
-Workers’ Perspectives</h2>
+<h2 data-number="4.2" id="4.2"><span class="header-section-number">4.2</span> Preliminary Explorations of
+Family Civic Data: Families’ and Support Workers’ Perspectives</h2>
 <p>The first step in study design was to achieve sensitisation [<a href="#3.5.1">3.5.1</a>] as a researcher, specifically three ways:</p>
 <ul>
 <li>to understand what data is stored about families [<a href="#4.2.1">4.2.1</a>];</li>
@@ -500,9 +527,8 @@ Workers’ Perspectives</h2>
 and</li>
 <li>to understand the support worker perspective [<a href="#4.3.3">4.2.3</a>]</li>
 </ul>
-<section id="4.2.1" data-number="1.2.1">
-<h3 data-number="4.2.1"><span class="header-section-number">4.2.1</span>
-What is Family Civic Data?</h3>
+<h3 data-number="4.2.1" id="4.2.1"><span class="header-section-number">4.2.1</span> What is Family Civic
+Data?</h3>
 <p>In order to communicate effectively with participants, an
 understanding of what data is held in an EH context was needed. Through
 the pilot study [<a href="#3.4.1.2">3.4.1</a>; <a href="#appendix-a">Appendix A</a>] and grey literature review within
@@ -530,10 +556,8 @@ was very successful, keeping a light and playful environment and making
 the topic relatable. The cards enabled families to talk freely about
 their own lives and views without feeling personally interrogated, as
 they were dissociated from the participants’ lives.</p>
-</section>
-<section id="4.2.2" data-number="1.2.2">
-<h3 data-number="4.2.2"><span class="header-section-number">4.2.2</span>
-What is the Family Perspective on Their Civic Data and its Use?</h3>
+<h3 data-number="4.2.2" id="4.2.2"><span class="header-section-number">4.2.2</span> What is the Family
+Perspective on Their Civic Data and its Use?</h3>
 <p>Families participating in the pilot study and in SILVER’s early
 research cared very much about what happened to their civic data,
 contrary to peers’ expectations. They perceived a variety of risks due
@@ -556,10 +580,8 @@ identified that while there was a willingness to consent to information
 being shared in order to improve their care, they had very little
 understanding of how it was used and could not be deemed to have given
 informed consent to the way their data is currently used.</p>
-</section>
-<section id="4.2.3" data-number="1.2.3">
-<h3 data-number="4.2.3"><span class="header-section-number">4.2.3</span>
-What is the Staff Perspective on Family Civic Data and its Use?</h3>
+<h3 data-number="4.2.3" id="4.2.3"><span class="header-section-number">4.2.3</span> What is the Staff Perspective
+on Family Civic Data and its Use?</h3>
 <p>SILVER worked closely with local authority staff, providing an
 understanding of support worker and staff perspectives. SILVER conducted
 a series of ‘Amy’s Page’ <span class="citation" data-cites="wilson2020">(<a href="#ref-wilson2020" role="doc-biblioref">Wilson, Wilson and Martin, 2020</a>)</span> focus
@@ -582,11 +604,8 @@ nor to pursue a purely data-centric solution. I wanted to explore
 whether it might be possible to satisfy the needs of both parties and to
 maintain focus on human-centricity and the need for a balanced
 relationship.</p>
-</section>
-<section id="4.2.4" data-number="1.2.4">
-<h3 data-number="4.2.4"><span class="header-section-number">4.2.4</span>
-Shared Data Interaction: An Equitable and Mutually Beneficial Data Use
-Model</h3>
+<h3 data-number="4.2.4" id="4.2.4"><span class="header-section-number">4.2.4</span> Shared Data Interaction: An
+Equitable and Mutually Beneficial Data Use Model</h3>
 <p>In attempting to reconcile the conflicting desires of families and
 support workers, <strong>Shared Data Interaction</strong> was conceived.
 What if, instead of workers gatekeeping data access and using it by
@@ -609,10 +628,7 @@ it would be perceived to benefit the support relationship. Even if the
 model was not well-regarded, such an exploration would still help to put
 participants in a speculative, co-design mindset that could elicit
 deeper insights about how civic data <em>should</em> be used.</p>
-</section>
-<section id="4.2.5" data-number="1.2.5">
-<h3 data-number="4.2.5"><span class="header-section-number">4.2.5</span>
-The Workshops</h3>
+<h3 data-number="4.2.5" id="4.2.5"><span class="header-section-number">4.2.5</span> The Workshops</h3>
 <table>
 <caption>Table 4.1 - Case Study One Group Design Workshops.</caption>
 <colgroup>
@@ -674,10 +690,8 @@ could imagine themselves using data together.</p>
 audio recorded and transcribed. Transcripts were analysed thematically,
 and in some cases quantitatively [<a href="#3.5.5">3.5.5</a>]. Thematic
 findings are documented in <a href="#4.3">4.3</a>.</p>
-</section>
-<section id="4.2.6" data-number="1.2.6">
-<h3 data-number="4.2.6"><span class="header-section-number">4.2.6</span>
-Sensitising Participants and Discovering Shared Values</h3>
+<h3 data-number="4.2.6" id="4.2.6"><span class="header-section-number">4.2.6</span> Sensitising Participants and
+Discovering Shared Values</h3>
 <p>In all workshops, it was important to ensure participants arrived at
 a common understanding of their ‘design brief’. To achieve this, and to
 validate if these participants’ perspectives matched those observed
@@ -745,11 +759,7 @@ Deduced from Sentence Rankings Data</figcaption>
 on to carry out the other co-design activities [<a href="#table-4.1">Table 4.1</a>]. Transcripts of these activities were
 analysed to produce thematic findings, which are detailed in the next
 section.</p>
-</section>
-</section>
-<section id="4.3" data-number="1.3">
-<h2 data-number="4.3"><span class="header-section-number">4.3</span>
-Thematic Findings</h2>
+<h2 data-number="4.3" id="4.3"><span class="header-section-number">4.3</span> Thematic Findings</h2>
 <p>The 120,000-word corpus from audio recordings of workshops A, B and C
 was divided by activity, group, and family/staff focus into 85 different
 source texts. Each text was thematically coded. The coded texts were
@@ -759,9 +769,7 @@ data were referenced for context. Results of the thematic analysis are
 presented below. In <a href="#4.3.1">4.3.1</a> the three main themes and
 subthemes are introduced. Each theme is detailed in <a href="#4.3.2">4.3.2</a> to <a href="#4.3.4">4.3.4</a>, including
 participant quotes. Notation for quotes is explained in <a href="#ari-quote-notation">ARI4.4</a>.</p>
-<section id="4.3.1" data-number="1.3.1">
-<h3 data-number="4.3.1"><span class="header-section-number">4.3.1</span>
-Themes &amp; Subthemes</h3>
+<h3 data-number="4.3.1" id="4.3.1"><span class="header-section-number">4.3.1</span> Themes &amp; Subthemes</h3>
 <p>Since workshop discussions were framed as explorations of data use
 within the EH relationship, thematic findings are expressed as desirable
 best practices. These best practices are divided into three themes:</p>
@@ -1012,10 +1020,8 @@ SQ18]</td>
 </tr>
 </tbody>
 </table>
-</section>
-<section id="4.3.2" data-number="1.3.2">
-<h3 data-number="4.3.2"><span class="header-section-number">4.3.2</span>
-Theme 1: Meaningful Data Interaction for Families</h3>
+<h3 data-number="4.3.2" id="4.3.2"><span class="header-section-number">4.3.2</span> Theme 1: Meaningful Data
+Interaction for Families</h3>
 <p>Through discussions with families and support workers a deep
 understanding of what sort of families’ ideal data interactions was
 obtained. Setting aside interface considerations, which were not the
@@ -1180,10 +1186,8 @@ Groups imagined families being able to send a message [SQ51] or record
 audio to raise an issue for discussion, letting their disagreement be
 known and empowering them to be part of a dialogue about what is
 recorded [SQ60].</p>
-</section>
-<section id="4.3.3" data-number="1.3.3">
-<h3 data-number="4.3.3"><span class="header-section-number">4.3.3</span>
-Theme 2: Giving a Voice to the Family</h3>
+<h3 data-number="4.3.3" id="4.3.3"><span class="header-section-number">4.3.3</span> Theme 2: Giving a Voice to
+the Family</h3>
 <p>The second theme systems and processes currently rely excessively
 upon the ‘facts’ within the data record, and they need to be updated to
 give the family an empowered role within their civic information
@@ -1402,10 +1406,8 @@ doctors give you appointments.’</em>—[Parent, FQ8]</p>
 <p>Theme 2 shows see that giving families a role in the creation and
 stewardship of their data selves may unlock new capabilities and a sense
 of empowerment for families.</p>
-</section>
-<section id="4.3.4" data-number="1.3.4">
-<h3 data-number="4.3.4"><span class="header-section-number">4.3.4</span>
-Theme 3: Earning Trust through Transparency</h3>
+<h3 data-number="4.3.4" id="4.3.4"><span class="header-section-number">4.3.4</span> Theme 3: Earning Trust
+through Transparency</h3>
 <p>The third theme looks at these imagined new data access capabilities
 and empowered role for data subjects in the wider sociotechnical context
 of how they could affect the support relationship. The topic of trust
@@ -1605,11 +1607,7 @@ making as requirements and lead to a healthier support relationship.
 This could even include thinking about new ways of using data, for
 example at a collective community level [SQ78], to promote an open
 data-sharing culture.</p>
-</section>
-</section>
-<section id="4.4" data-number="1.4">
-<h2 data-number="4.4"><span class="header-section-number">4.4</span>
-Discussion</h2>
+<h2 data-number="4.4" id="4.4"><span class="header-section-number">4.4</span> Discussion</h2>
 <p>The findings have provided a deeper understanding of families’
 experience of data RQ1 [<a href="#RQ1">3.3.1</a>] and the role of data
 within EH relationships RQ2 [<a href="#RQ2">3.3.2</a>]. This section
@@ -1620,9 +1618,8 @@ discusses three implications:</p>
 <li>the implications of a shared data interaction approach in terms of
 shifting the LDM closer to the supported family [<a href="#4.4.3">4.4.3</a>].</li>
 </ul>
-<section id="4.4.1" data-number="1.4.1">
-<h3 data-number="4.4.1"><span class="header-section-number">4.4.1</span>
-The Value of Involving People with Their Data</h3>
+<h3 data-number="4.4.1" id="4.4.1"><span class="header-section-number">4.4.1</span> The Value of Involving People
+with Their Data</h3>
 <p>Data about supported individuals is integral to current care
 practice, improving decision making by providing a more complete picture
 of a family’s life [<a href="#4.1.2">4.1.2</a>]. This prevalent mindset
@@ -1732,10 +1729,8 @@ data-centrism in the system and society at large [<a href="#2.1.2">2.1.2</a>]. W
 state—families would have greater trust that their interests are being
 served. Through data, they could take part in informed decisions to
 could improve their own lives.</p>
-</section>
-<section id="4.4.2" data-number="1.4.2">
-<h3 data-number="4.4.2"><span class="header-section-number">4.4.2</span>
-Effective Data Access Requires Human Interaction</h3>
+<h3 data-number="4.4.2" id="4.4.2"><span class="header-section-number">4.4.2</span> Effective Data Access
+Requires Human Interaction</h3>
 <p><a name="4.4.2.1"><strong>The Need for Support</strong></a></p>
 <p>The findings shows that current data inequalities will not be solved
 simply by opening up databases to families and giving them access. They
@@ -1829,11 +1824,8 @@ love is the best interest of and care for a child,</em> [policymakers
 should] <em>provide room for the ‘love’ between future technologies and
 their social actors to flourish.”</em>—<span class="citation" data-cites="lecluijze2015">Lecluijze <em>et al.</em> (<a href="#ref-lecluijze2015" role="doc-biblioref">2015</a>)</span></p>
 </blockquote>
-</section>
-<section id="4.4.3" data-number="1.4.3">
-<h3 data-number="4.4.3"><span class="header-section-number">4.4.3</span>
-Shifting the Locus of Decision Making Through Shared Data
-Interaction</h3>
+<h3 data-number="4.4.3" id="4.4.3"><span class="header-section-number">4.4.3</span> Shifting the Locus of
+Decision Making Through Shared Data Interaction</h3>
 <p>In pursuit of RQ2 [<a href="#RQ2">3.3.2</a>], the workshops explored
 the role of data within the EH support relationship. Workshop C brought
 parents and workers together to explore the mechanics of shared data
@@ -1981,11 +1973,8 @@ providers to question their priorities when it comes to the use of
 people’s civic data. The primary goal of EH is to empower families to
 help themselves as effectively as possible, and EH’s focus on data
 arguably works against this.</p>
-</section>
-</section>
-<section id="4.5" data-number="1.5">
-<h2 data-number="4.5"><span class="header-section-number">4.5</span>
-Summation of Case Study One</h2>
+<h2 data-number="4.5" id="4.5"><span class="header-section-number">4.5</span> Summation of Case Study
+One</h2>
 <p>Through four participatory co-design workshops with supported
 families and support workers in North-East England, this study
 highlighted five problem areas which participants perceive with current
@@ -2099,304 +2088,302 @@ and this emphasis upon individual capabilities over interface design is
 a mindset that could be applied to many human-computer interaction and
 design endeavours.</p>
 <hr />
-</section>
-</section>
 <h1 class="unnumbered" id="bibliography">Bibliography</h1>
-<div id="refs" class="references csl-bib-body" role="doc-bibliography">
-<div id="ref-abiteboul2015" class="csl-entry" role="doc-biblioentry">
+<div id="refs" class="references csl-bib-body" role="list">
+<div id="ref-abiteboul2015" class="csl-entry" role="listitem">
 Abiteboul, S., André, B. and Kaplan, D. (2015) <em><span class="nocase">Managing your digital life with a Personal information
 management system</span></em>. 5. ACM, pp. 32–35. doi: <a href="https://doi.org/10.1145/2670528">10.1145/2670528</a>.
 </div>
-<div id="ref-barbosa2018" class="csl-entry" role="doc-biblioentry">
+<div id="ref-barbosa2018" class="csl-entry" role="listitem">
 Barbosa Neves, B. and Casimiro, C. (2018) <em><span class="nocase">Connecting Families?: Information &amp; Communication
 Technologies, Generations, and the Life Course</span></em>. Policy
 Press.
 </div>
-<div id="ref-bate2018" class="csl-entry" role="doc-biblioentry">
+<div id="ref-bate2018" class="csl-entry" role="listitem">
 Bate, A. and Bellis, A. (2018) <em><span class="nocase">The Troubled
 Families programme ( England )</span></em>. July.
 </div>
-<div id="ref-bowker2016" class="csl-entry" role="doc-biblioentry">
+<div id="ref-bowker2016" class="csl-entry" role="listitem">
 Bowker, G. C. <em>et al.</em> (2015) <em><span class="nocase">Boundary
 objects and beyond : working with Leigh Star</span></em>. MIT Press, p.
 548. available at: <a href="https://books.google.co.uk/books?hl=en&amp;lr=&amp;id=nmSkCwAAQBAJ&amp;oi=fnd&amp;pg=PR5&amp;dq=Boundary+Objects+and+Beyond:+Working+with+Leigh+Star&amp;ots=blmnW7yz4u&amp;sig=F08uGeG_lT_klhhR64M18tQNI1s#v=onepage&amp;q=Boundary Objects and Beyond%3A Working with Leigh Star&amp;f=false">https://books.google.co.uk/books?hl=en&amp;lr=&amp;id=nmSkCwAAQBAJ&amp;oi=fnd&amp;pg=PR5&amp;dq=Boundary+Objects+and+Beyond:+Working+with+Leigh+Star&amp;ots=blmnW7yz4u&amp;sig=F08uGeG_lT_klhhR64M18tQNI1s#v=onepage&amp;q=Boundary
 Objects and Beyond%3A Working with Leigh Star&amp;f=false</a>.
 </div>
-<div id="ref-bowyer2018family" class="csl-entry" role="doc-biblioentry">
+<div id="ref-bowyer2018family" class="csl-entry" role="listitem">
 Bowyer, A. <em>et al.</em> (2018) <span>‘<span class="nocase">Understanding the Family Perspective on the Storage,
 Sharing and Handling of Family Civic Data</span>’</span>, in
 <em>Conference on human factors in computing systems - proceedings</em>.
 New York, New York, USA: ACM Press, pp. 1–13. doi: <a href="https://doi.org/10.1145/3173574.3173710">10.1145/3173574.3173710</a>.
 </div>
-<div id="ref-bowyer2019" class="csl-entry" role="doc-biblioentry">
+<div id="ref-bowyer2019" class="csl-entry" role="listitem">
 Bowyer, A. <em>et al.</em> (2019) <span>‘<span class="nocase">Human-data
 interaction in the context of care: Co-designing family civic data
 interfaces and practices</span>’</span>, in <em>Conference on human
 factors in computing systems - proceedings</em>. doi: <a href="https://doi.org/10.1145/3290607.3312998">10.1145/3290607.3312998</a>.
 </div>
-<div id="ref-brandt2004" class="csl-entry" role="doc-biblioentry">
+<div id="ref-brandt2004" class="csl-entry" role="listitem">
 Brandt, E. and Messeter, J. (2004) <span>‘<span class="nocase">Facilitating collaboration through design
 games</span>’</span>, in <em>Proceedings of the eighth conference on
 participatory design artful integration: Interweaving media, materials
 and practices - PDC 04</em>. New York, New York, USA: ACM Press, p. 121.
 doi: <a href="https://doi.org/10.1145/1011870.1011885">10.1145/1011870.1011885</a>.
 </div>
-<div id="ref-bridle2016" class="csl-entry" role="doc-biblioentry">
+<div id="ref-bridle2016" class="csl-entry" role="listitem">
 Bridle, J. (2016) <span>‘<span>Algorithmic Citizenship, Digital
 Statelessness</span>’</span>, <em>GeoHumanities</em>. James Bridle,
 2(2), pp. 377–381. doi: <a href="https://doi.org/10.1080/2373566x.2016.1237858">10.1080/2373566x.2016.1237858</a>.
 </div>
-<div id="ref-copeland2015" class="csl-entry" role="doc-biblioentry">
+<div id="ref-copeland2015" class="csl-entry" role="listitem">
 Copeland, E. (2015) <em><span class="nocase">Small Pieces Loosely
 Joined: How smarter use of technology and data can deliver real reform
 of local government</span></em>. available at: <a href="www.policyexchange.org.uk https://policyexchange.org.uk/publication/small-pieces-loosely-joined-how-smarter-use-of-technology-and-data-can-deliver-real-reform-of-local-government/">www.policyexchange.org.uk
 https://policyexchange.org.uk/publication/small-pieces-loosely-joined-how-smarter-use-of-technology-and-data-can-deliver-real-reform-of-local-government/</a>.
 </div>
-<div id="ref-cornford2013" class="csl-entry" role="doc-biblioentry">
+<div id="ref-cornford2013" class="csl-entry" role="listitem">
 Cornford, J., Baines, S. and Wilson, R. (2013) <span>‘<span class="nocase">Representing the family: how does the state ’think
 family’?</span>’</span>, <em>Policy &amp; Politics</em>, 41(1), pp.
 1–19. doi: <a href="https://doi.org/10.1332/030557312X645838">10.1332/030557312X645838</a>.
 </div>
-<div id="ref-corra2002" class="csl-entry" role="doc-biblioentry">
+<div id="ref-corra2002" class="csl-entry" role="listitem">
 Corra, M. and Willer, D. (2002) <span>‘The gatekeeper’</span>,
 <em>Sociological Theory</em>. SAGE Publications Sage CA: Los Angeles,
 CA, 20(2), pp. 180–207.
 </div>
-<div id="ref-crabtree2016" class="csl-entry" role="doc-biblioentry">
+<div id="ref-crabtree2016" class="csl-entry" role="listitem">
 Crabtree, A. and Mortier, R. (2016) <span>‘<span class="nocase">Personal
 Data, Privacy and the Internet of Things: The Shifting Locus of Agency
 and Control</span>’</span>, <em>SSRN Electronic Journal</em>, pp. 1–20.
 doi: <a href="https://doi.org/10.2139/ssrn.2874312">10.2139/ssrn.2874312</a>.
 </div>
-<div id="ref-crossley2022" class="csl-entry" role="doc-biblioentry">
+<div id="ref-crossley2022" class="csl-entry" role="listitem">
 Crossley, S. (2022) <span>‘Misrecognising ‘complex’families: A social
 harm perspective’</span>, in <em>Negotiating families and personal lives
 in the 21st century</em>. Routledge, pp. 30–45.
 </div>
-<div id="ref-crossley2017tfp" class="csl-entry" role="doc-biblioentry">
+<div id="ref-crossley2017tfp" class="csl-entry" role="listitem">
 Crossley, S. and Lambert, M. (2017) <span>‘Introduction: <span>“Looking
 for trouble?”</span> Critically examining the UK government’s troubled
 families programme’</span>, <em>Social Policy and Society</em>.
 Cambridge University Press, 16(1), pp. 81–85. doi: <a href="https://doi.org/10.1017/S1474746416000476">10.1017/S1474746416000476</a>.
 </div>
-<div id="ref-dfe2018" class="csl-entry" role="doc-biblioentry">
+<div id="ref-dfe2018" class="csl-entry" role="listitem">
 Department for Education (2018) <em><span class="nocase">Working
 Together to Safeguard Children</span></em>. March, p. 393. doi: <a href="https://doi.org/10.1080/13561820020003919">10.1080/13561820020003919</a>.
 </div>
-<div id="ref-everychildmatters2006" class="csl-entry" role="doc-biblioentry">
+<div id="ref-everychildmatters2006" class="csl-entry" role="listitem">
 Department of Health, Home Office and Department for Education and
 Skills (2006) <em>Working together to safeguard children: A guide to
 inter-agency working to safeguard and promote the welfare of
 children</em>. Department for Education; Skills, p. 256.
 </div>
-<div id="ref-vandijck2014" class="csl-entry" role="doc-biblioentry">
+<div id="ref-vandijck2014" class="csl-entry" role="listitem">
 Dijck, J. van (2014) <span>‘<span class="nocase">Datafication, dataism
 and dataveillance: Big data between scientific paradigm and
 ideology</span>’</span>, <em>Surveillance and Society</em>. Surveillance
 Studies Network, 12(2), pp. 197–208. doi: <a href="https://doi.org/10.24908/ss.v12i2.4776">10.24908/ss.v12i2.4776</a>.
 </div>
-<div id="ref-ec2014" class="csl-entry" role="doc-biblioentry">
+<div id="ref-ec2014" class="csl-entry" role="listitem">
 European Commission (2014) <em><span class="nocase">Research and
 Innovation in the field of ICT for Health, Wellbeing and Ageing Well: an
 overview</span></em>, p. 39.
 </div>
-<div id="ref-field2010" class="csl-entry" role="doc-biblioentry">
+<div id="ref-field2010" class="csl-entry" role="listitem">
 Field, F. (2010) <em><span class="nocase">The Foundation Years:
 preventing poor children becoming poor adults</span></em>. available at:
 <a href="www.frankfield.co.uk http://www.inspiredbybabies.org.uk/Page2NationalrelevantDocsresources/Frank Field Preventing poor children becoming poor adults 2011.pdf">www.frankfield.co.uk
 http://www.inspiredbybabies.org.uk/Page2NationalrelevantDocsresources/Frank
 Field Preventing poor children becoming poor adults 2011.pdf</a>.
 </div>
-<div id="ref-gheera2011" class="csl-entry" role="doc-biblioentry">
+<div id="ref-gheera2011" class="csl-entry" role="listitem">
 Gheera, M. (2011) <em>The ContactPoint database</em>. The House of
 Commons Library. available at: <a href="https://researchbriefings.files.parliament.uk/documents/SN05171/SN05171.pdf">https://researchbriefings.files.parliament.uk/documents/SN05171/SN05171.pdf</a>.
 </div>
-<div id="ref-gitelman2013" class="csl-entry" role="doc-biblioentry">
+<div id="ref-gitelman2013" class="csl-entry" role="listitem">
 Gitelman, L. (2013) <em><span class="nocase">Raw data is an
 oxymoron</span></em>. edited by Lisa Gitelman. MIT Press, p. 182.
 available at: <a href="https://mitpress.mit.edu/books/raw-data-oxymoron">https://mitpress.mit.edu/books/raw-data-oxymoron</a>.
 </div>
-<div id="ref-gurstein2011" class="csl-entry" role="doc-biblioentry">
+<div id="ref-gurstein2011" class="csl-entry" role="listitem">
 Gurstein, M. B. (2011) <span>‘<span class="nocase">Open data: Empowering
 the empowered or effective data use for everyone?</span>’</span>,
 <em>First Monday</em>. First Monday, 16(2). doi: <a href="https://doi.org/10.5210/fm.v16i2.3316">10.5210/fm.v16i2.3316</a>.
 </div>
-<div id="ref-harbird2006" class="csl-entry" role="doc-biblioentry">
+<div id="ref-harbird2006" class="csl-entry" role="listitem">
 Harbird, R. (2006) <span>‘<span class="nocase">Novel Applications for
 Information Technology in Risk Assessment for Children’s Social Care in
 the UK</span>’</span>, <em>Rn</em>. available at: <a href="http://www.cs.ucl.ac.uk/research/researchnotes/documents/RN_06_11.pdf">http://www.cs.ucl.ac.uk/research/researchnotes/documents/RN_06_11.pdf</a>.
 </div>
-<div id="ref-herselman2016" class="csl-entry" role="doc-biblioentry">
+<div id="ref-herselman2016" class="csl-entry" role="listitem">
 Herselman, M. <em>et al.</em> (2016) <span>‘<span class="nocase">A
 Digital Health Innovation Ecosystem for South Africa</span>’</span>, in
 <em>2016 IST-africa conference, IST-africa 2016</em>. doi: <a href="https://doi.org/10.1109/ISTAFRICA.2016.7530615">10.1109/ISTAFRICA.2016.7530615</a>.
 </div>
-<div id="ref-caf2012" class="csl-entry" role="doc-biblioentry">
+<div id="ref-caf2012" class="csl-entry" role="listitem">
 Holmes, L. <em>et al.</em> (2012) <em>Exploration of the costs and
 impact of the common assessment framework</em>. Department for
 Education.
 </div>
-<div id="ref-honeyman2016" class="csl-entry" role="doc-biblioentry">
+<div id="ref-honeyman2016" class="csl-entry" role="listitem">
 Honeyman, M., Dunn, P. and Mckenna, H. (2016) <em><span class="nocase">A
 digital NHS?</span></em>
 </div>
-<div id="ref-huberman2002" class="csl-entry" role="doc-biblioentry">
+<div id="ref-huberman2002" class="csl-entry" role="listitem">
 Huberman, M. and Miles, M. B. (2002) <em><span class="nocase">The
 qualitative researcher’s companion</span></em>. Sage.
 </div>
-<div id="ref-johnson2010" class="csl-entry" role="doc-biblioentry">
+<div id="ref-johnson2010" class="csl-entry" role="listitem">
 Johnson, S. L., Kim, Y. M. and Church, K. (2010) <span>‘<span class="nocase">Towards client-centered counseling: Development and
 testing of the WHO Decision-Making Tool</span>’</span>, <em>Patient
 Education and Counseling</em>. Elsevier Ireland Ltd, 81(3), pp. 355–361.
 doi: <a href="https://doi.org/10.1016/j.pec.2010.10.011">10.1016/j.pec.2010.10.011</a>.
 </div>
-<div id="ref-kalvet2008" class="csl-entry" role="doc-biblioentry">
+<div id="ref-kalvet2008" class="csl-entry" role="listitem">
 Kalvet, T. (2005) <span>‘<span class="nocase">Digital divide and the ICT
 paradigm generally and in estonia</span>’</span>, in <em>Encyclopedia of
 developing regional communities with information and communication
 technology</em>. IGI Global, pp. 182–187. doi: <a href="https://doi.org/10.4018/978-1-59140-575-7.ch032">10.4018/978-1-59140-575-7.ch032</a>.
 </div>
-<div id="ref-kaye2015" class="csl-entry" role="doc-biblioentry">
+<div id="ref-kaye2015" class="csl-entry" role="listitem">
 Kaye, J. <em>et al.</em> (2015) <span>‘<span class="nocase">Dynamic
 consent: a patient interface for twenty-first century research
 networks</span>’</span>, <em>European Journal of Human Genetics</em>.
 Nature Publishing Group, 23(2), pp. 141–146. doi: <a href="https://doi.org/10.1038/ejhg.2014.71">10.1038/ejhg.2014.71</a>.
 </div>
-<div id="ref-klatzky1970" class="csl-entry" role="doc-biblioentry">
+<div id="ref-klatzky1970" class="csl-entry" role="listitem">
 Klatzky, S. R. (1970) <span>‘<span class="nocase">Automation, size, and
 the locus of decision making: the cascade effect</span>’</span>, <em>The
 Journal of Business</em>. JSTOR, 43(2), pp. 141–151. available at: <a href="https://www.jstor.org/stable/pdf/2352107.pdf?refreqid=excelsior%3A24bde6bf7de0eccf42c6ea11f8446d38">https://www.jstor.org/stable/pdf/2352107.pdf?refreqid=excelsior%3A24bde6bf7de0eccf42c6ea11f8446d38</a>.
 </div>
-<div id="ref-kostkova2015" class="csl-entry" role="doc-biblioentry">
+<div id="ref-kostkova2015" class="csl-entry" role="listitem">
 Kostkova, P. (2015) <span>‘<span class="nocase">Grand Challenges in
 Digital Health</span>’</span>, <em>Frontiers in Public Health</em>.
 Frontiers Media SA, 3. doi: <a href="https://doi.org/10.3389/fpubh.2015.00134">10.3389/fpubh.2015.00134</a>.
 </div>
-<div id="ref-kriisk2017" class="csl-entry" role="doc-biblioentry">
+<div id="ref-kriisk2017" class="csl-entry" role="listitem">
 Kriisk, K. and Minas, R. (2017) <span>‘<span class="nocase">Social
 rights and spatial access to local social services: The role of
 structural conditions in access to local social services in
 Estonia</span>’</span>, <em>Social Work and Society</em>, 15(1).
 available at: <a href="https://www.socwork.net/sws/article/view/503/1007">https://www.socwork.net/sws/article/view/503/1007</a>.
 </div>
-<div id="ref-lecluijze2015" class="csl-entry" role="doc-biblioentry">
+<div id="ref-lecluijze2015" class="csl-entry" role="listitem">
 Lecluijze, I. <em>et al.</em> (2015) <span>‘<span class="nocase">Co-production of ICT and children at risk: The
 introduction of the Child Index in Dutch child welfare</span>’</span>,
 <em>Children and Youth Services Review</em>. Elsevier Ltd, 56, pp.
 161–168. doi: <a href="https://doi.org/10.1016/j.childyouth.2015.07.003">10.1016/j.childyouth.2015.07.003</a>.
 </div>
-<div id="ref-lga2017" class="csl-entry" role="doc-biblioentry">
+<div id="ref-lga2017" class="csl-entry" role="listitem">
 Local Government Association (2017) <em>Adult social care funding: State
 of the nation</em>. Local Government Association.
 </div>
-<div id="ref-lowe2015" class="csl-entry" role="doc-biblioentry">
+<div id="ref-lowe2015" class="csl-entry" role="listitem">
 Lowe, T. and Wilson, R. (2015) <span>‘Playing the game of outcomes-based
 performance management’</span>, <em>Is Gamesmanship Inevitable</em>.
 </div>
-<div id="ref-luger2013" class="csl-entry" role="doc-biblioentry">
+<div id="ref-luger2013" class="csl-entry" role="listitem">
 Luger, E. and Rodden, T. (2013) <span>‘<span class="nocase">An informed
 view on consent for ubicomp</span>’</span>, in <em>UbiComp 2013 -
 proceedings of the 2013 ACM international joint conference on pervasive
 and ubiquitous computing</em>. New York, New York, USA: ACM Press, pp.
 529–538. doi: <a href="https://doi.org/10.1145/2493432.2493446">10.1145/2493432.2493446</a>.
 </div>
-<div id="ref-malomo2017" class="csl-entry" role="doc-biblioentry">
+<div id="ref-malomo2017" class="csl-entry" role="listitem">
 Malomo, F. and Sena, V. (2017) <span>‘<span class="nocase">Data
 Intelligence for Local Government? Assessing the Benefits and Barriers
 to Use of Big Data in the Public Sector</span>’</span>, <em>Policy and
 Internet</em>, 9(1), pp. 7–27. doi: <a href="https://doi.org/10.1002/poi3.141">10.1002/poi3.141</a>.
 </div>
-<div id="ref-miettinen2013" class="csl-entry" role="doc-biblioentry">
+<div id="ref-miettinen2013" class="csl-entry" role="listitem">
 Miettinen, R. (2013) <em><span class="nocase">Innovation, human
 capabilities, and democracy: Towards an enabling welfare
 state</span></em>. Oxford University Press.
 </div>
-<div id="ref-morozov2013" class="csl-entry" role="doc-biblioentry">
+<div id="ref-morozov2013" class="csl-entry" role="listitem">
 Morozov, E. (2013) <em>To save everything, click here: The folly of
 technological solutionism</em>. Public Affairs.
 </div>
-<div id="ref-mortier2014" class="csl-entry" role="doc-biblioentry">
+<div id="ref-mortier2014" class="csl-entry" role="listitem">
 Mortier, R. <em>et al.</em> (2014) <span>‘<span class="nocase">Human-data interaction: The human face of the data-driven
 society</span>’</span>, <em>Available at SSRN 2508051</em>. doi: <a href="https://doi.org/10.2139/ssrn.2508051">10.2139/ssrn.2508051</a>.
 </div>
-<div id="ref-neff2013" class="csl-entry" role="doc-biblioentry">
+<div id="ref-neff2013" class="csl-entry" role="listitem">
 Neff, G. (2013) <span>‘<span class="nocase">Why Big Data Won’t Cure
 Us</span>’</span>, <em>Big Data</em>, 1(3), pp. 117–123. doi: <a href="https://doi.org/10.1089/big.2013.0029">10.1089/big.2013.0029</a>.
 </div>
-<div id="ref-ofsted2015" class="csl-entry" role="doc-biblioentry">
+<div id="ref-ofsted2015" class="csl-entry" role="listitem">
 OFSTED (2015) <em><span class="nocase">Early help: whose
 responsibility?</span></em>, p. 32. available at: <a href="www.ofsted.gov.uk https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/410378/Early_help_whose_responsibility.pdf">www.ofsted.gov.uk
 https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/410378/Early_help_whose_responsibility.pdf</a>.
 </div>
-<div id="ref-papert1980" class="csl-entry" role="doc-biblioentry">
+<div id="ref-papert1980" class="csl-entry" role="listitem">
 Papert, S. (1980) <span>‘<span class="nocase">Mindstorms: children,
 computers, and powerful ideas</span>’</span>. Basic Books, Inc.
 </div>
-<div id="ref-parr2016" class="csl-entry" role="doc-biblioentry">
+<div id="ref-parr2016" class="csl-entry" role="listitem">
 Parr, S. <em>et al.</em> (2016) <span>‘State intervention in family
 life’</span>.
 </div>
-<div id="ref-pollock2011" class="csl-entry" role="doc-biblioentry">
+<div id="ref-pollock2011" class="csl-entry" role="listitem">
 Pollock, R. (2011) <span>‘<span class="nocase">Building the (Open) Data
 Ecosystem – Open Knowledge Foundation Blog</span>’</span>. available at:
 <a href="https://blog.okfn.org/2011/03/31/building-the-open-data-ecosystem/">https://blog.okfn.org/2011/03/31/building-the-open-data-ecosystem/</a>
 (accessed: 23 July 2019).
 </div>
-<div id="ref-soja2015" class="csl-entry" role="doc-biblioentry">
+<div id="ref-soja2015" class="csl-entry" role="listitem">
 Soja, E. (2015) <span>‘<span class="nocase">Supporting Healthcare of the
 Elderly through ICT: Socio-demographic Conditions and Digital
 Inclusion</span>’</span>, in <em>Knowledge economy society - challenges
 and development trends of modern economy, finance and information
 technology.</em>, pp. 279–290.
 </div>
-<div id="ref-spector1982" class="csl-entry" role="doc-biblioentry">
+<div id="ref-spector1982" class="csl-entry" role="listitem">
 Spector, P. E. (1982) <span>‘<span class="nocase">Behavior in
 organizations as a function of employee’s locus of
 control</span>’</span>, <em>Psychological Bulletin</em>, 91(3), pp.
 482–497. doi: <a href="https://doi.org/10.1037/0033-2909.91.3.482">10.1037/0033-2909.91.3.482</a>.
 </div>
-<div id="ref-star1989" class="csl-entry" role="doc-biblioentry">
+<div id="ref-star1989" class="csl-entry" role="listitem">
 Star, S. L. (1989) <span>‘<span class="nocase">The Structure of
 Ill-Structured Solutions: Boundary Objects and Heterogeneous Distributed
 Problem Solving</span>’</span>, in <em>Distributed artificial
 intelligence</em>. Elsevier, pp. 37–54. doi: <a href="https://doi.org/10.1016/b978-1-55860-092-8.50006-x">10.1016/b978-1-55860-092-8.50006-x</a>.
 </div>
-<div id="ref-star2010" class="csl-entry" role="doc-biblioentry">
+<div id="ref-star2010" class="csl-entry" role="listitem">
 Star, S. L. (2010) <span>‘<span class="nocase">This is not a boundary
 object: Reflections on the origin of a concept</span>’</span>,
 <em>Science Technology and Human Values</em>, 35(5), pp. 601–617. doi:
 <a href="https://doi.org/10.1177/0162243910377624">10.1177/0162243910377624</a>.
 </div>
-<div id="ref-steyaert2009" class="csl-entry" role="doc-biblioentry">
+<div id="ref-steyaert2009" class="csl-entry" role="listitem">
 Steyaert, J. and Gould, N. (2009) <span>‘<span class="nocase">Social
 work and the changing face of the digital divide</span>’</span>,
 <em>British Journal of Social Work</em>, 39(4), pp. 740–753. doi: <a href="https://doi.org/10.1093/bjsw/bcp022">10.1093/bjsw/bcp022</a>.
 </div>
-<div id="ref-tregeagle2008" class="csl-entry" role="doc-biblioentry">
+<div id="ref-tregeagle2008" class="csl-entry" role="listitem">
 Tregeagle, S. and Darcy, M. (2008) <span>‘<span class="nocase">Child
 welfare and information and communication technology: Today’s
 challenge</span>’</span>, <em>British Journal of Social Work</em>,
 38(8), pp. 1481–1498. doi: <a href="https://doi.org/10.1093/bjsw/bcm048">10.1093/bjsw/bcm048</a>.
 </div>
-<div id="ref-white2010" class="csl-entry" role="doc-biblioentry">
+<div id="ref-white2010" class="csl-entry" role="listitem">
 White, S. <em>et al.</em> (2010) <span>‘When policy o’erleaps itself:
 The <span>“tragic tale”</span> of the integrated children’s
 system’</span>, <em>Critical Social Policy</em>, 30(3), pp. 405–429.
 doi: <a href="https://doi.org/10.1177/0261018310367675">10.1177/0261018310367675</a>.
 </div>
-<div id="ref-williams2015" class="csl-entry" role="doc-biblioentry">
+<div id="ref-williams2015" class="csl-entry" role="listitem">
 Williams, H. <em>et al.</em> (2015) <span>‘<span class="nocase">Dynamic
 consent: a possible solution to improve patient confidence and trust in
 how electronic patient records are used in medical
 research.</span>’</span>, <em>JMIR medical informatics</em>. JMIR
 Publications Inc., 3(1), p. e3. doi: <a href="https://doi.org/10.2196/medinform.3525">10.2196/medinform.3525</a>.
 </div>
-<div id="ref-wilson2020" class="csl-entry" role="doc-biblioentry">
+<div id="ref-wilson2020" class="csl-entry" role="listitem">
 Wilson, L., Wilson, R. and Martin, M. (2020) <em><span class="nocase">Health and Care Practitioner Insights: Understanding
 Information Sharing in Constellations of Care - Report on Amy’s Page
 workshop series.</span></em> Great North Care Record. available at: <a href="https://www.greatnorthcarerecord.org.uk">https://www.greatnorthcarerecord.org.uk</a>.
 </div>
-<div id="ref-wilson2011" class="csl-entry" role="doc-biblioentry">
+<div id="ref-wilson2011" class="csl-entry" role="listitem">
 Wilson, R. <em>et al.</em> (2011) <span>‘<span class="nocase">Re-Mixing
 Digital Economies in the Voluntary Community Sector? Governing Identity
 Information and Information Sharing in the Mixed Economy of Care for
@@ -2404,17 +2391,16 @@ Children and Young People*</span>’</span>, <em>Social Policy and
 Society</em>. Cambridge University Press, 10(3), pp. 379–391. doi: <a href="https://doi.org/10.1017/s1474746411000108">10.1017/s1474746411000108</a>.
 </div>
 </div>
-<section class="footnotes footnotes-end-of-document" role="doc-endnotes">
+<section id="footnotes" class="footnotes footnotes-end-of-document" role="doc-endnotes">
 <hr />
 <ol>
-<li id="fn1" role="doc-endnote"><p>The term ‘Troubled Families’,
-popularised by the TFP, has fallen from use, as it was considered to be
-negative and judgemental. A latter term ‘vulnerable families’ has also
-been criticised for being disempowering. Most councils now refer simply
-to ‘families’ or sometimes ‘supported families’, and the rest of this
+<li id="fn1"><p>The term ‘Troubled Families’, popularised by the TFP,
+has fallen from use, as it was considered to be negative and
+judgemental. A latter term ‘vulnerable families’ has also been
+criticised for being disempowering. Most councils now refer simply to
+‘families’ or sometimes ‘supported families’, and the rest of this
 thesis adopts this convention.<a href="#fnref1" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
-<li id="fn2" role="doc-endnote"><p>As judged at the time of the
-workshops—Summer 2018.<a href="#fnref2" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn2"><p>As judged at the time of the workshops—Summer 2018.<a href="#fnref2" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
 </ol>
 </section>
 </body>

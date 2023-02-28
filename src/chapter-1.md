@@ -1,10 +1,13 @@
 Introduction{#chapter-1}
 =======================
+<!-- SECTION 1: Background and Approach --->
 
 > _"My data is everywhere, and I am nowhere."_—Imogen Heap (musician and digital rights advocate), speaking at MyData 2019, encapsulating a core problem with modern digital life.
 
 Background and Motivation for this Research{#1.1}
 -------------------------------------------
+
+<span class="goodnote">good</span>
 
 We live in an increasingly data-centric world, where our direct and indirect interactions with computer systems depend upon the collection, storage and use of personal data about individuals. Motivated to reduce costly human interaction and scale to serve more customers, organisations capture and represent individuals as data and rely increasingly on the interpretation of those datapoints to make decisions—decisions that affect our everyday lives in myriad ways, from determining eligibility to access particular services, benefits or products or targeting advertisements or recommendations to influencing our decisions and behaviour. Data about people has become extremely valuable. It is 'the new oil' [@toonders2014] driving a model of _surveillance capitalism_ [@zuboff2019] that collects data and exploits it for profit.
 
@@ -20,6 +23,8 @@ Part Two, building upon these findings, defines a new, broader frame for this pr
 
 ### Personal Motivation and Context{#1.1.1}
 
+<span class="goodnote">good</span>
+
 This PhD and this thesis represent the culmination of my lifelong passion to help people get more value from our computers. My experience and expectations of computers was shaped by the 1980s home computing revolution, which taught me and a generation of young people that the computer was a machine to program, a tool to be exploited, mastered and bent to your will. Then, in my formative years approaching the turn of the millennium, I lived through the birth of the public Internet and marvelled at the ability for computers to connect people across the world, empower individuals as creators, innovators and broadcasters, level the playing field and transform the way people interact. In my software engineering career, I gradually transitioned from back-end to front-end development and ultimately to User Experience (UX), driven to take a more active role in building software features that directly benefit users and improve their lives. Keenly tracking and embracing the Web 2.0 revolution while observing the digitisation and disruption of so many industries, I became fascinated with the ways in which humans were shaping computer systems which in turn were shaping our habits and our society, phenomena I explored through the Human 2.0 blog which I co-founded [@bowyer2009human].
 
 But then, having seen Internet-era computing give us new capabilities, and knowing the potential of computers to become tools for positive change in society, I bore witness to a changing world, and the balkanisation and commercialisation of the once-free Internet. As companies adapted to the Information Age and shifted to data-driven, cloud-centric business models, our ability to harness computers for our own ends began to slip away. While immersed in the start-up community in Montréal, Canada, I became frustrated at this loss of potential. Driven to explore the reasons and implications of this loss of agency and the possibilities for more human-centric computing, I published several essays and presentations [@bowyer2009bitnorth; @bowyer2010bitnorth; @bowyer2011filesdie; @bowyer2012bitnorth; @bowyer2012timespace; @bowyer2013bitnorth] which collectively form the seed from which this thesis grew.
@@ -27,6 +32,8 @@ But then, having seen Internet-era computing give us new capabilities, and knowi
 By 2014, it was beyond doubt to me that the software industry had lost its way, prioritising business goals over user agency, reducing features and creating technology designed to limit and corral users to behave in certain ways. Web 2.0's revolutionary potential of a 'people's internet' had been squashed and withered away in the shadow of new data giants Google, Facebook, Apple and Amazon, who reshaped and usurped Internet, Web and smartphone technologies for profit, at great cost to human wellbeing. Against a backdrop of a social media revolution which was literally breaking society and democracy to drive profit [@tufekci2017; @hall2018], I took the leap to escape corporate IT. I sought to research, design and build a better digital future where computers could be made useful again. This led me to the _Digital Civics_ CDT programme [@digitalCivicsCDT2018], where I was finally able to work full-time on what I consider the most important problem of our age—**Understanding and Improving Human Data Relations**.
 
 ### Research Objectives and Purpose{#1.1.2}
+
+<span class="editnote">change positioning of two parts and check hybrid approach is properly framed</span>
 
 The aim of this thesis is to research how people relate to data, how they understand and use it, and what they want from it and its holders in order to thrive and to meet their own goals.
 
@@ -57,6 +64,8 @@ Taken together, the two parts of this thesis can serve as novel and actionable r
 
 Nature and Contributions of the Thesis{#1.2}
 --------------------------------------
+
+<span class="editnote">Shrink Contributions / Make More Abstract & save detail for C10</span>
 
 This section lists the 14 major contributions (**Cn**) of this thesis, which can be summarised as:
 
@@ -206,6 +215,8 @@ While it was not designed as a methodological contribution nor formally evaluate
 Publications Arising From and Connected to This Research{#1.3}
 --------------------------------------------------------
 
+<span class="editnote">Update presentations post-PhD</span>
+
 ### Pilot Study{#1.3.1}
 
 My Doctoral Training programme at Open Lab began with a Masters in Research in Digital Civics. For my MRes project[^1], I conducted a pilot study, interviewing and exploring issues around data with families who had experience of social care services. During the first months of this PhD, I conducted new analysis of previously collected data, resulting in the synthesis into a full first-author paper published and [presented at](https://chi2018.acm.org/attending/proceedings/) CHI 2018:
@@ -259,6 +270,10 @@ During the same timeframe as this PhD, I have also contributed to a number of pu
 
 The structure of this thesis{#1.4}
 ----------------------------
+
+<span class="editnote">Update Text to remove part A/B split</span>
+
+<span class="editnote">Update Structure Diagram Figure 1.2</span>
 
 The overall structure of this thesis is illustrated in [Figure 1.2](#figure-1.2). Clearly evident are its two distinct parts, as described in 1.1.2 above.
 

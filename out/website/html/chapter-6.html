@@ -7,33 +7,38 @@
   <meta name="author" content="Alex Bowyer" />
   <title>Understanding and Improving Human Data Relations</title>
   <style>
-    code{white-space: pre-wrap;}
-    span.smallcaps{font-variant: small-caps;}
-    span.underline{text-decoration: underline;}
-    div.column{display: inline-block; vertical-align: top; width: 50%;}
-    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
-    ul.task-list{list-style: none;}
-    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
-    div.csl-bib-body { }
-    div.csl-entry {
-      clear: both;
-    }
-    .hanging div.csl-entry {
-      margin-left:2em;
-      text-indent:-2em;
-    }
-    div.csl-left-margin {
-      min-width:2em;
-      float:left;
-    }
-    div.csl-right-inline {
-      margin-left:2em;
-      padding-left:1em;
-    }
-    div.csl-indent {
-      margin-left: 2em;
-    }
-  </style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+width: 0.8em;
+margin: 0 0.8em 0.2em -1.6em;
+vertical-align: middle;
+}
+.display.math{display: block; text-align: center; margin: 0.5rem auto;}
+
+div.csl-bib-body { }
+div.csl-entry {
+clear: both;
+}
+.hanging-indent div.csl-entry {
+margin-left:2em;
+text-indent:-2em;
+}
+div.csl-left-margin {
+min-width:2em;
+float:left;
+}
+div.csl-right-inline {
+margin-left:2em;
+padding-left:1em;
+}
+div.csl-indent {
+margin-left: 2em;
+} </style>
   <style type="text/css">
 
 html{line-height:1.15;-webkit-text-size-adjust:100%}body{margin:0}main{display:block}h1{font-size:2em;margin:.67em 0}hr{-webkit-box-sizing:content-box;box-sizing:content-box;height:0;overflow:visible}pre{font-family:monospace,monospace;font-size:1em}a{background-color:transparent}abbr[title]{border-bottom:none;text-decoration:underline;-webkit-text-decoration:underline dotted;text-decoration:underline dotted}b,strong{font-weight:bolder}code,kbd,samp{font-family:monospace,monospace;font-size:1em}small{font-size:80%}sub,sup{font-size:75%;line-height:0;position:relative;vertical-align:baseline}sub{bottom:-.25em}sup{top:-.5em}img{border-style:none}button,input,optgroup,select,textarea{font-family:inherit;font-size:100%;line-height:1.15;margin:0}button,input{overflow:visible}button,select{text-transform:none}[type=button],[type=reset],[type=submit],button{-webkit-appearance:button}[type=button]::-moz-focus-inner,[type=reset]::-moz-focus-inner,[type=submit]::-moz-focus-inner,button::-moz-focus-inner{border-style:none;padding:0}[type=button]:-moz-focusring,[type=reset]:-moz-focusring,[type=submit]:-moz-focusring,button:-moz-focusring{outline:1px dotted ButtonText}fieldset{padding:.35em .75em .625em}legend{-webkit-box-sizing:border-box;box-sizing:border-box;color:inherit;display:table;max-width:100%;padding:0;white-space:normal}progress{vertical-align:baseline}textarea{overflow:auto}[type=checkbox],[type=radio]{-webkit-box-sizing:border-box;box-sizing:border-box;padding:0}[type=number]::-webkit-inner-spin-button,[type=number]::-webkit-outer-spin-button{height:auto}[type=search]{-webkit-appearance:textfield;outline-offset:-2px}[type=search]::-webkit-search-decoration{-webkit-appearance:none}::-webkit-file-upload-button{-webkit-appearance:button;font:inherit}details{display:block}summary{display:list-item}template{display:none}[hidden]{display:none}html{font-family:sans-serif}.hidden,[hidden]{display:none!important}.pure-img{max-width:100%;height:auto;display:block}.pure-g{letter-spacing:-.31em;text-rendering:optimizespeed;font-family:FreeSans,Arimo,"Droid Sans",Helvetica,Arial,sans-serif;display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-orient:horizontal;-webkit-box-direction:normal;-ms-flex-flow:row wrap;flex-flow:row wrap;-ms-flex-line-pack:start;align-content:flex-start}@media all and (-ms-high-contrast:none),(-ms-high-contrast:active){table .pure-g{display:block}}.opera-only :-o-prefocus,.pure-g{word-spacing:-.43em}.pure-u{display:inline-block;letter-spacing:normal;word-spacing:normal;vertical-align:top;text-rendering:auto}.pure-g [class*=pure-u]{font-family:sans-serif}.pure-u-1,.pure-u-1-1,.pure-u-1-12,.pure-u-1-2,.pure-u-1-24,.pure-u-1-3,.pure-u-1-4,.pure-u-1-5,.pure-u-1-6,.pure-u-1-8,.pure-u-10-24,.pure-u-11-12,.pure-u-11-24,.pure-u-12-24,.pure-u-13-24,.pure-u-14-24,.pure-u-15-24,.pure-u-16-24,.pure-u-17-24,.pure-u-18-24,.pure-u-19-24,.pure-u-2-24,.pure-u-2-3,.pure-u-2-5,.pure-u-20-24,.pure-u-21-24,.pure-u-22-24,.pure-u-23-24,.pure-u-24-24,.pure-u-3-24,.pure-u-3-4,.pure-u-3-5,.pure-u-3-8,.pure-u-4-24,.pure-u-4-5,.pure-u-5-12,.pure-u-5-24,.pure-u-5-5,.pure-u-5-6,.pure-u-5-8,.pure-u-6-24,.pure-u-7-12,.pure-u-7-24,.pure-u-7-8,.pure-u-8-24,.pure-u-9-24{display:inline-block;letter-spacing:normal;word-spacing:normal;vertical-align:top;text-rendering:auto}.pure-u-1-24{width:4.1667%}.pure-u-1-12,.pure-u-2-24{width:8.3333%}.pure-u-1-8,.pure-u-3-24{width:12.5%}.pure-u-1-6,.pure-u-4-24{width:16.6667%}.pure-u-1-5{width:20%}.pure-u-5-24{width:20.8333%}.pure-u-1-4,.pure-u-6-24{width:25%}.pure-u-7-24{width:29.1667%}.pure-u-1-3,.pure-u-8-24{width:33.3333%}.pure-u-3-8,.pure-u-9-24{width:37.5%}.pure-u-2-5{width:40%}.pure-u-10-24,.pure-u-5-12{width:41.6667%}.pure-u-11-24{width:45.8333%}.pure-u-1-2,.pure-u-12-24{width:50%}.pure-u-13-24{width:54.1667%}.pure-u-14-24,.pure-u-7-12{width:58.3333%}.pure-u-3-5{width:60%}.pure-u-15-24,.pure-u-5-8{width:62.5%}.pure-u-16-24,.pure-u-2-3{width:66.6667%}.pure-u-17-24{width:70.8333%}.pure-u-18-24,.pure-u-3-4{width:75%}.pure-u-19-24{width:79.1667%}.pure-u-4-5{width:80%}.pure-u-20-24,.pure-u-5-6{width:83.3333%}.pure-u-21-24,.pure-u-7-8{width:87.5%}.pure-u-11-12,.pure-u-22-24{width:91.6667%}.pure-u-23-24{width:95.8333%}.pure-u-1,.pure-u-1-1,.pure-u-24-24,.pure-u-5-5{width:100%}.pure-button{display:inline-block;line-height:normal;white-space:nowrap;vertical-align:middle;text-align:center;cursor:pointer;-webkit-user-drag:none;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;-webkit-box-sizing:border-box;box-sizing:border-box}.pure-button::-moz-focus-inner{padding:0;border:0}.pure-button-group{letter-spacing:-.31em;text-rendering:optimizespeed}.opera-only :-o-prefocus,.pure-button-group{word-spacing:-.43em}.pure-button-group .pure-button{letter-spacing:normal;word-spacing:normal;vertical-align:top;text-rendering:auto}.pure-button{font-family:inherit;font-size:100%;padding:.5em 1em;color:rgba(0,0,0,.8);border:none transparent;background-color:#e6e6e6;text-decoration:none;border-radius:2px}.pure-button-hover,.pure-button:focus,.pure-button:hover{background-image:-webkit-gradient(linear,left top,left bottom,from(transparent),color-stop(40%,rgba(0,0,0,.05)),to(rgba(0,0,0,.1)));background-image:linear-gradient(transparent,rgba(0,0,0,.05) 40%,rgba(0,0,0,.1))}.pure-button:focus{outline:0}.pure-button-active,.pure-button:active{-webkit-box-shadow:0 0 0 1px rgba(0,0,0,.15) inset,0 0 6px rgba(0,0,0,.2) inset;box-shadow:0 0 0 1px rgba(0,0,0,.15) inset,0 0 6px rgba(0,0,0,.2) inset;border-color:#000}.pure-button-disabled,.pure-button-disabled:active,.pure-button-disabled:focus,.pure-button-disabled:hover,.pure-button[disabled]{border:none;background-image:none;opacity:.4;cursor:not-allowed;-webkit-box-shadow:none;box-shadow:none;pointer-events:none}.pure-button-hidden{display:none}.pure-button-primary,.pure-button-selected,a.pure-button-primary,a.pure-button-selected{background-color:#0078e7;color:#fff}.pure-button-group .pure-button{margin:0;border-radius:0;border-right:1px solid rgba(0,0,0,.2)}.pure-button-group .pure-button:first-child{border-top-left-radius:2px;border-bottom-left-radius:2px}.pure-button-group .pure-button:last-child{border-top-right-radius:2px;border-bottom-right-radius:2px;border-right:none}.pure-form input[type=color],.pure-form input[type=date],.pure-form input[type=datetime-local],.pure-form input[type=datetime],.pure-form input[type=email],.pure-form input[type=month],.pure-form input[type=number],.pure-form input[type=password],.pure-form input[type=search],.pure-form input[type=tel],.pure-form input[type=text],.pure-form input[type=time],.pure-form input[type=url],.pure-form input[type=week],.pure-form select,.pure-form textarea{padding:.5em .6em;display:inline-block;border:1px solid #ccc;-webkit-box-shadow:inset 0 1px 3px #ddd;box-shadow:inset 0 1px 3px #ddd;border-radius:4px;vertical-align:middle;-webkit-box-sizing:border-box;box-sizing:border-box}.pure-form input:not([type]){padding:.5em .6em;display:inline-block;border:1px solid #ccc;-webkit-box-shadow:inset 0 1px 3px #ddd;box-shadow:inset 0 1px 3px #ddd;border-radius:4px;-webkit-box-sizing:border-box;box-sizing:border-box}.pure-form input[type=color]{padding:.2em .5em}.pure-form input[type=color]:focus,.pure-form input[type=date]:focus,.pure-form input[type=datetime-local]:focus,.pure-form input[type=datetime]:focus,.pure-form input[type=email]:focus,.pure-form input[type=month]:focus,.pure-form input[type=number]:focus,.pure-form input[type=password]:focus,.pure-form input[type=search]:focus,.pure-form input[type=tel]:focus,.pure-form input[type=text]:focus,.pure-form input[type=time]:focus,.pure-form input[type=url]:focus,.pure-form input[type=week]:focus,.pure-form select:focus,.pure-form textarea:focus{outline:0;border-color:#129fea}.pure-form input:not([type]):focus{outline:0;border-color:#129fea}.pure-form input[type=checkbox]:focus,.pure-form input[type=file]:focus,.pure-form input[type=radio]:focus{outline:thin solid #129fea;outline:1px auto #129fea}.pure-form .pure-checkbox,.pure-form .pure-radio{margin:.5em 0;display:block}.pure-form input[type=color][disabled],.pure-form input[type=date][disabled],.pure-form input[type=datetime-local][disabled],.pure-form input[type=datetime][disabled],.pure-form input[type=email][disabled],.pure-form input[type=month][disabled],.pure-form input[type=number][disabled],.pure-form input[type=password][disabled],.pure-form input[type=search][disabled],.pure-form input[type=tel][disabled],.pure-form input[type=text][disabled],.pure-form input[type=time][disabled],.pure-form input[type=url][disabled],.pure-form input[type=week][disabled],.pure-form select[disabled],.pure-form textarea[disabled]{cursor:not-allowed;background-color:#eaeded;color:#cad2d3}.pure-form input:not([type])[disabled]{cursor:not-allowed;background-color:#eaeded;color:#cad2d3}.pure-form input[readonly],.pure-form select[readonly],.pure-form textarea[readonly]{background-color:#eee;color:#777;border-color:#ccc}.pure-form input:focus:invalid,.pure-form select:focus:invalid,.pure-form textarea:focus:invalid{color:#b94a48;border-color:#e9322d}.pure-form input[type=checkbox]:focus:invalid:focus,.pure-form input[type=file]:focus:invalid:focus,.pure-form input[type=radio]:focus:invalid:focus{outline-color:#e9322d}.pure-form select{height:2.25em;border:1px solid #ccc;background-color:#fff}.pure-form select[multiple]{height:auto}.pure-form label{margin:.5em 0 .2em}.pure-form fieldset{margin:0;padding:.35em 0 .75em;border:0}.pure-form legend{display:block;width:100%;padding:.3em 0;margin-bottom:.3em;color:#333;border-bottom:1px solid #e5e5e5}.pure-form-stacked input[type=color],.pure-form-stacked input[type=date],.pure-form-stacked input[type=datetime-local],.pure-form-stacked input[type=datetime],.pure-form-stacked input[type=email],.pure-form-stacked input[type=file],.pure-form-stacked input[type=month],.pure-form-stacked input[type=number],.pure-form-stacked input[type=password],.pure-form-stacked input[type=search],.pure-form-stacked input[type=tel],.pure-form-stacked input[type=text],.pure-form-stacked input[type=time],.pure-form-stacked input[type=url],.pure-form-stacked input[type=week],.pure-form-stacked label,.pure-form-stacked select,.pure-form-stacked textarea{display:block;margin:.25em 0}.pure-form-stacked input:not([type]){display:block;margin:.25em 0}.pure-form-aligned input,.pure-form-aligned select,.pure-form-aligned textarea,.pure-form-message-inline{display:inline-block;vertical-align:middle}.pure-form-aligned textarea{vertical-align:top}.pure-form-aligned .pure-control-group{margin-bottom:.5em}.pure-form-aligned .pure-control-group label{text-align:right;display:inline-block;vertical-align:middle;width:10em;margin:0 1em 0 0}.pure-form-aligned .pure-controls{margin:1.5em 0 0 11em}.pure-form .pure-input-rounded,.pure-form input.pure-input-rounded{border-radius:2em;padding:.5em 1em}.pure-form .pure-group fieldset{margin-bottom:10px}.pure-form .pure-group input,.pure-form .pure-group textarea{display:block;padding:10px;margin:0 0 -1px;border-radius:0;position:relative;top:-1px}.pure-form .pure-group input:focus,.pure-form .pure-group textarea:focus{z-index:3}.pure-form .pure-group input:first-child,.pure-form .pure-group textarea:first-child{top:1px;border-radius:4px 4px 0 0;margin:0}.pure-form .pure-group input:first-child:last-child,.pure-form .pure-group textarea:first-child:last-child{top:1px;border-radius:4px;margin:0}.pure-form .pure-group input:last-child,.pure-form .pure-group textarea:last-child{top:-2px;border-radius:0 0 4px 4px;margin:0}.pure-form .pure-group button{margin:.35em 0}.pure-form .pure-input-1{width:100%}.pure-form .pure-input-3-4{width:75%}.pure-form .pure-input-2-3{width:66%}.pure-form .pure-input-1-2{width:50%}.pure-form .pure-input-1-3{width:33%}.pure-form .pure-input-1-4{width:25%}.pure-form-message-inline{display:inline-block;padding-left:.3em;color:#666;vertical-align:middle;font-size:.875em}.pure-form-message{display:block;color:#666;font-size:.875em}@media only screen and (max-width :480px){.pure-form button[type=submit]{margin:.7em 0 0}.pure-form input:not([type]),.pure-form input[type=color],.pure-form input[type=date],.pure-form input[type=datetime-local],.pure-form input[type=datetime],.pure-form input[type=email],.pure-form input[type=month],.pure-form input[type=number],.pure-form input[type=password],.pure-form input[type=search],.pure-form input[type=tel],.pure-form input[type=text],.pure-form input[type=time],.pure-form input[type=url],.pure-form input[type=week],.pure-form label{margin-bottom:.3em;display:block}.pure-group input:not([type]),.pure-group input[type=color],.pure-group input[type=date],.pure-group input[type=datetime-local],.pure-group input[type=datetime],.pure-group input[type=email],.pure-group input[type=month],.pure-group input[type=number],.pure-group input[type=password],.pure-group input[type=search],.pure-group input[type=tel],.pure-group input[type=text],.pure-group input[type=time],.pure-group input[type=url],.pure-group input[type=week]{margin-bottom:0}.pure-form-aligned .pure-control-group label{margin-bottom:.3em;text-align:left;display:block;width:100%}.pure-form-aligned .pure-controls{margin:1.5em 0 0 0}.pure-form-message,.pure-form-message-inline{display:block;font-size:.75em;padding:.2em 0 .8em}}.pure-menu{-webkit-box-sizing:border-box;box-sizing:border-box}.pure-menu-fixed{position:fixed;left:0;top:0;z-index:3}.pure-menu-item,.pure-menu-list{position:relative}.pure-menu-list{list-style:none;margin:0;padding:0}.pure-menu-item{padding:0;margin:0;height:100%}.pure-menu-heading,.pure-menu-link{display:block;text-decoration:none;white-space:nowrap}.pure-menu-horizontal{width:100%;white-space:nowrap}.pure-menu-horizontal .pure-menu-list{display:inline-block}.pure-menu-horizontal .pure-menu-heading,.pure-menu-horizontal .pure-menu-item,.pure-menu-horizontal .pure-menu-separator{display:inline-block;vertical-align:middle}.pure-menu-item .pure-menu-item{display:block}.pure-menu-children{display:none;position:absolute;left:100%;top:0;margin:0;padding:0;z-index:3}.pure-menu-horizontal .pure-menu-children{left:0;top:auto;width:inherit}.pure-menu-active>.pure-menu-children,.pure-menu-allow-hover:hover>.pure-menu-children{display:block;position:absolute}.pure-menu-has-children>.pure-menu-link:after{padding-left:.5em;content:"\25B8";font-size:small}.pure-menu-horizontal .pure-menu-has-children>.pure-menu-link:after{content:"\25BE"}.pure-menu-scrollable{overflow-y:scroll;overflow-x:hidden}.pure-menu-scrollable .pure-menu-list{display:block}.pure-menu-horizontal.pure-menu-scrollable .pure-menu-list{display:inline-block}.pure-menu-horizontal.pure-menu-scrollable{white-space:nowrap;overflow-y:hidden;overflow-x:auto;padding:.5em 0}.pure-menu-horizontal .pure-menu-children .pure-menu-separator,.pure-menu-separator{background-color:#ccc;height:1px;margin:.3em 0}.pure-menu-horizontal .pure-menu-separator{width:1px;height:1.3em;margin:0 .3em}.pure-menu-horizontal .pure-menu-children .pure-menu-separator{display:block;width:auto}.pure-menu-heading{text-transform:uppercase;color:#565d64}.pure-menu-link{color:#777}.pure-menu-children{background-color:#fff}.pure-menu-disabled,.pure-menu-heading,.pure-menu-link{padding:.5em 1em}.pure-menu-disabled{opacity:.5}.pure-menu-disabled .pure-menu-link:hover{background-color:transparent}.pure-menu-active>.pure-menu-link,.pure-menu-link:focus,.pure-menu-link:hover{background-color:#eee}.pure-menu-selected>.pure-menu-link,.pure-menu-selected>.pure-menu-link:visited{color:#000}.pure-table{border-collapse:collapse;border-spacing:0;empty-cells:show;border:1px solid #cbcbcb}.pure-table caption{color:#000;font:italic 85%/1 arial,sans-serif;padding:1em 0;text-align:center}.pure-table td,.pure-table th{border-left:1px solid #cbcbcb;border-width:0 0 0 1px;font-size:inherit;margin:0;overflow:visible;padding:.5em 1em}.pure-table thead{background-color:#e0e0e0;color:#000;text-align:left;vertical-align:bottom}.pure-table td{background-color:transparent}.pure-table-odd td{background-color:#f2f2f2}.pure-table-striped tr:nth-child(2n-1) td{background-color:#f2f2f2}.pure-table-bordered td{border-bottom:1px solid #cbcbcb}.pure-table-bordered tbody>tr:last-child>td{border-bottom-width:0}.pure-table-horizontal td,.pure-table-horizontal th{border-width:0 0 1px 0;border-bottom:1px solid #cbcbcb}.pure-table-horizontal tbody>tr:last-child>td{border-bottom-width:0}</style>
@@ -41,6 +46,39 @@ html{line-height:1.15;-webkit-text-size-adjust:100%}body{margin:0}main{display:b
 margin: 2.5em;
 font-size: 16pt;
 font-family: sans-serif;
+}
+.goodnote {
+color: green;
+font-weight: bold;
+text-align: center;
+display: block;
+border: 1px solid green;
+padding: 5px;
+text-transform: capitalize;
+margin-top: 5px;
+margin-bottom: 5px;
+}
+.movenote {
+color: orange;
+font-weight: bold;
+text-align: center;
+display: block;
+border: 1px solid orange;
+padding: 5px;
+text-transform: capitalize;
+margin-top: 5px;
+margin-bottom: 5px;
+}
+.editnote {
+color: red;
+font-weight: bold;
+text-align: center;
+display: block;
+border: 1px solid red;
+padding: 5px;
+text-transform: capitalize;
+margin-top: 5px;
+margin-bottom: 5px;
 }
 p, li, h1,h2,h3,h4,h5,h6{
 line-height: 1.65;
@@ -267,9 +305,8 @@ Society</a></li>
 <li><a href="#bibliography" id="toc-bibliography">Bibliography</a></li>
 </ul>
 </nav>
-<section id="chapter-6" data-number="1">
-<h1 data-number="6"><span class="header-section-number">6</span>
-Discussion - An Understanding of What People Want in Data Relations</h1>
+<h1 data-number="6" id="chapter-6"><span class="header-section-number">6</span> Discussion - An Understanding of
+What People Want in Data Relations</h1>
 <blockquote>
 <p><em>“For a participatory system to work, you need: a plausible
 promise, an effective tool, and an acceptable bargain.”</em> —Clay
@@ -321,10 +358,8 @@ want from indirect data relations–which is the focus of <a href="#6.2">6.2</a>
 understandings can then be contextualised [<a href="#6.3">6.3</a>] as an
 answer to the overall research question and a conclusion to the academic
 inquiry part of this thesis.</p>
-<section id="6.1" data-number="1.1">
-<h2 data-number="6.1"><span class="header-section-number">6.1</span>
-Answering RQ1: What do people want in <em>direct</em> data
-relations?</h2>
+<h2 data-number="6.1" id="6.1"><span class="header-section-number">6.1</span> Answering RQ1: What do people
+want in <em>direct</em> data relations?</h2>
 <p>By comparing and grouping elements of the findings from CS1 (see 4.3)
 and from CS2 (see 5.4), three distinct data wants are evident when
 considering <em>direct</em> data relations. All data about individuals
@@ -340,9 +375,7 @@ data, including exploring it, asking questions of it, using it to serve
 their own goals, and gaining personal value from it.</li>
 </ol>
 <p>These wants are detailed in the following subsections.</p>
-<section id="6.1.1" data-number="1.1.1">
-<h3 data-number="6.1.1"><span class="header-section-number">6.1.1</span>
-Visible Data</h3>
+<h3 data-number="6.1.1" id="6.1.1"><span class="header-section-number">6.1.1</span> Visible Data</h3>
 <p><strong>Data matters to every individual now, in a way that
 previously it did not.</strong> As described in <a href="#2.1.2">2.1.2</a>, the role of data in our everyday lives has
 changed; data has become a material used by businesses to shape our
@@ -558,10 +591,7 @@ that data to make decisions [<a href="#2.1.2">2.1.2</a>; <span class="citation" 
 that individuals become sidelined and excluded [<a href="#2.3.3">2.3.3</a>; <span class="citation" data-cites="crabtree2016">Crabtree and Mortier (<a href="#ref-crabtree2016" role="doc-biblioref">2016</a>)</span>]. Without
 visibility of data, consent is not meaningful, and individual needs are
 more easily ignored or overlooked.</p>
-</section>
-<section id="6.1.2" data-number="1.1.2">
-<h3 data-number="6.1.2"><span class="header-section-number">6.1.2</span>
-Understandable Data</h3>
+<h3 data-number="6.1.2" id="6.1.2"><span class="header-section-number">6.1.2</span> Understandable Data</h3>
 <p><strong>Visibility and access to see data is not enough, people need
 to be able to interpret it</strong>. Data is only valuable in so much as
 it enables us to access the information which it encodes [<a href="#2.1.1">2.1.1</a>]. People need to be able to make sense of it.
@@ -736,10 +766,8 @@ their data <em>‘just made sense’</em>. P7 specifically distrusted
 LinkedIn because she felt they had not bothered to adequately engage
 with her [<a href="#5.4.4.3">5.4.4</a>]. The importance of trust will be
 discussed in more detail in [<a href="#6.2.1">6.2.1</a>] below.</p>
-</section>
-<section id="6.1.3" data-number="1.1.3">
-<h3 data-number="6.1.3"><span class="header-section-number">6.1.3</span>
-Useable<a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a> Data</h3>
+<h3 data-number="6.1.3" id="6.1.3"><span class="header-section-number">6.1.3</span> Useable<a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a>
+Data</h3>
 <p><strong>People need to be able to explore and interrogate data to ask
 questions of it.</strong> In both case studies, many participants showed
 they are aware that their personal data contains insights and value they
@@ -876,12 +904,8 @@ Without data usability, individuals are in effect digitally impaired,
 leading a less functional society where innovation and growth is limited
 [<span class="citation" data-cites="abiteboul2015">Abiteboul, André and
 Kaplan (<a href="#ref-abiteboul2015" role="doc-biblioref">2015</a>)</span>; <a href="#2.1.4">2.1.4</a>].</p>
-</section>
-</section>
-<section id="6.2" data-number="1.2">
-<h2 data-number="6.2"><span class="header-section-number">6.2</span>
-Answering RQ2: What do people want in <em>indirect</em> data
-relations?</h2>
+<h2 data-number="6.2" id="6.2"><span class="header-section-number">6.2</span> Answering RQ2: What do people
+want in <em>indirect</em> data relations?</h2>
 <p>By comparing and grouping elements of the findings from CS1 [<a href="#4.3">4.3</a>] and from CS2 [<a href="#5.4">5.4</a>], especially
 in the context of individual relationships with care providers and
 digital service providers respectively, three distinct data wants are
@@ -902,9 +926,7 @@ be aided by collaborative use of data, giving individuals a human point
 of contact, and consulting the person not just the record.</li>
 </ol>
 <p>These wants are detailed in the following sections:</p>
-<section id="want-i1" data-number="1.2.1">
-<h3 data-number="6.2.1"><span class="header-section-number">6.2.1</span>
-Process Transparency</h3>
+<h3 data-number="6.2.1" id="want-i1"><span class="header-section-number">6.2.1</span> Process Transparency</h3>
 <p><strong>People need a window into how their data is used; this means
 transparency of processes not just of data</strong>. It is
 well-established that there is currently extensive use of personal data
@@ -1079,10 +1101,7 @@ themselves and pursue greater transparency, and utilise their rights to
 motivate incremental changes from data holders [<a href="#5.5.3">5.5.3</a>]. Without transparency, data holders will
 continue to hold the balance of power, and individuals will lack agency
 and accountability.</p>
-</section>
-<section id="want-i2" data-number="1.2.2">
-<h3 data-number="6.2.2"><span class="header-section-number">6.2.2</span>
-Individual Oversight</h3>
+<h3 data-number="6.2.2" id="want-i2"><span class="header-section-number">6.2.2</span> Individual Oversight</h3>
 <p><strong>Data visibility and process transparency naturally leads to a
 desire for individual oversight.</strong> If you see something that is
 ‘not right’, you are motivated to want to fix it. And therefore, people
@@ -1272,10 +1291,8 @@ show that, in general, participants felt they had been forced to
 sacrifice data to access services, and offered <em>no</em> practical
 choices or control over that data. Without individual oversight, there
 is no choice and people remain powerless.</p>
-</section>
-<section id="want-i3" data-number="1.2.3">
-<h3 data-number="6.2.3"><span class="header-section-number">6.2.3</span>
-Involvement in Decision Making</h3>
+<h3 data-number="6.2.3" id="want-i3"><span class="header-section-number">6.2.3</span> Involvement in Decision
+Making</h3>
 <p><strong>Data represents people. But people are more than can be
 encapsulated in records. There is a need to engage the human behind the
 data, as people can never be fully represented in data.</strong>
@@ -1450,11 +1467,8 @@ giving them even a limited role in reviewing data, consenting and
 contributing to decisions, and just being informed, could carry
 significant benefits for both individual empowerment and organisational
 reputation, and trust.</p>
-</section>
-</section>
-<section id="6.3" data-number="1.3">
-<h2 data-number="6.3"><span class="header-section-number">6.3</span>
-Summation: Empowering Individuals with Better Data Relations</h2>
+<h2 data-number="6.3" id="6.3"><span class="header-section-number">6.3</span> Summation: Empowering
+Individuals with Better Data Relations</h2>
 <p>In this chapter, the separate Case Study findings and insights from
 Chapters <a href="#chapter-4">4</a> and <a href="#chapter-5">5</a> have
 been synthesised to identify six specific capabilities that people need
@@ -1464,9 +1478,7 @@ perspective of RQ1 [<a href="#RQ1">3.3.1</a>], where people want for
 perspective of RQ2 [<a href="#RQ2">3.3.2</a>], where people want for
 <strong>process transparency, individual oversight and decision-making
 involvement</strong>.</p>
-<section id="6.3.1" data-number="1.3.1">
-<h3 data-number="6.3.1"><span class="header-section-number">6.3.1</span>
-Empowerment</h3>
+<h3 data-number="6.3.1" id="6.3.1"><span class="header-section-number">6.3.1</span> Empowerment</h3>
 <p>In line with the pragmatist, individualist outlook of this thesis [<a href="#3.1">3.1</a>], these six wants amount to <strong>a desire for
 empowerment</strong>, motivated by a desire to pursue one’s own
 happiness and self-interest. Empowerment is defined as <em>‘the process
@@ -1485,10 +1497,7 @@ individual’s agency are merely material effects of the power holder’s
 attempts to influence the behaviour of individuals in pursuit of the
 power holder’s own desired outcomes <span class="citation" data-cites="pansardi2012">(<a href="#ref-pansardi2012" role="doc-biblioref">Pansardi, 2012</a>)</span>. Concepts of power are
 explored further in <a href="#8.4.1">8.4.1</a>.</p>
-</section>
-<section id="6.3.2" data-number="1.3.2">
-<h3 data-number="6.3.2"><span class="header-section-number">6.3.2</span>
-Disempowerment</h3>
+<h3 data-number="6.3.2" id="6.3.2"><span class="header-section-number">6.3.2</span> Disempowerment</h3>
 <p>Not only do these six wants lead to individual empowerment, there is
 a clear correlation. <strong>The more that the six data wants can be
 addressed, the more empowering it is to individuals.</strong> From the
@@ -1516,10 +1525,7 @@ with understanding [<a href="#6.1.1">6.1.1</a>], agency [<a href="#6.1.3">6.1.3<
 relations for the individual, but the combination of all six is likely
 to produce more than the sum of its parts—an empowered digital
 citizen.</p>
-</section>
-<section id="6.3.3" data-number="1.3.3">
-<h3 data-number="6.3.3"><span class="header-section-number">6.3.3</span>
-Towards A Better Society</h3>
+<h3 data-number="6.3.3" id="6.3.3"><span class="header-section-number">6.3.3</span> Towards A Better Society</h3>
 <p>Considering the societal level, these six wants show <strong>how
 society should be reconfigured to improve data relations</strong>.
 Giving people a role in influencing the life of their own data is a key
@@ -1582,314 +1588,309 @@ the research question [<a href="#RQ">2.4</a>] Part One of this thesis
 set out to answer: This data-empowered and process-involved future is
 what better data relatioins would look like.</p>
 <hr />
-</section>
-</section>
-</section>
 <h1 class="unnumbered" id="bibliography">Bibliography</h1>
-<div id="refs" class="references csl-bib-body" role="doc-bibliography">
-<div id="ref-abiteboul2015" class="csl-entry" role="doc-biblioentry">
+<div id="refs" class="references csl-bib-body" role="list">
+<div id="ref-abiteboul2015" class="csl-entry" role="listitem">
 Abiteboul, S., André, B. and Kaplan, D. (2015) <em><span class="nocase">Managing your digital life with a Personal information
 management system</span></em>. 5. ACM, pp. 32–35. doi: <a href="https://doi.org/10.1145/2670528">10.1145/2670528</a>.
 </div>
-<div id="ref-gdpr2018art13" class="csl-entry" role="doc-biblioentry">
+<div id="ref-gdpr2018art13" class="csl-entry" role="listitem">
 <span>‘<span class="nocase">Article 13: Information to be provided where
 personal data are collected from the data subject</span>’</span> (2020).
 doi: <a href="https://doi.org/10.1093/oso/9780198826491.003.0044">10.1093/oso/9780198826491.003.0044</a>.
 </div>
-<div id="ref-ec2010accountability" class="csl-entry" role="doc-biblioentry">
+<div id="ref-ec2010accountability" class="csl-entry" role="listitem">
 Article 29 Data Protection Working Party (2010) <em><span class="nocase">Opinion 3/2010 on the principle of
 accountability</span></em>. Brussels: European Commission.
 </div>
-<div id="ref-bakardjieva2001" class="csl-entry" role="doc-biblioentry">
+<div id="ref-bakardjieva2001" class="csl-entry" role="listitem">
 Bakardjieva, M. and Feenberg, A. (2001) <span>‘<span class="nocase">Involving the Virtual Subjects</span>’</span>, <em>Ethics
 and Information Technology</em>, 2, pp. 233–240. doi: <a href="https://doi.org/10.1023/A:1011454606534">10.1023/A:1011454606534</a>.
 </div>
-<div id="ref-binns2022" class="csl-entry" role="doc-biblioentry">
+<div id="ref-binns2022" class="csl-entry" role="listitem">
 Binns, R. (2022) <span>‘<span class="nocase">Tracking on the Web, Mobile
 and the Internet-of-Things</span>’</span>. available at: <a href="http://arxiv.org/abs/2201.10831">http://arxiv.org/abs/2201.10831</a>.
 </div>
-<div id="ref-bowker2005" class="csl-entry" role="doc-biblioentry">
+<div id="ref-bowker2005" class="csl-entry" role="listitem">
 Bowker, G. C. (2005) <em><span class="nocase">Memory practices in the
 sciences</span></em>. MIT Press, p. 261.
 </div>
-<div id="ref-bowker2016" class="csl-entry" role="doc-biblioentry">
+<div id="ref-bowker2016" class="csl-entry" role="listitem">
 Bowker, G. C. <em>et al.</em> (2015) <em><span class="nocase">Boundary
 objects and beyond : working with Leigh Star</span></em>. MIT Press, p.
 548. available at: <a href="https://books.google.co.uk/books?hl=en&amp;lr=&amp;id=nmSkCwAAQBAJ&amp;oi=fnd&amp;pg=PR5&amp;dq=Boundary+Objects+and+Beyond:+Working+with+Leigh+Star&amp;ots=blmnW7yz4u&amp;sig=F08uGeG_lT_klhhR64M18tQNI1s#v=onepage&amp;q=Boundary Objects and Beyond%3A Working with Leigh Star&amp;f=false">https://books.google.co.uk/books?hl=en&amp;lr=&amp;id=nmSkCwAAQBAJ&amp;oi=fnd&amp;pg=PR5&amp;dq=Boundary+Objects+and+Beyond:+Working+with+Leigh+Star&amp;ots=blmnW7yz4u&amp;sig=F08uGeG_lT_klhhR64M18tQNI1s#v=onepage&amp;q=Boundary
 Objects and Beyond%3A Working with Leigh Star&amp;f=false</a>.
 </div>
-<div id="ref-bowyer2011filesdie" class="csl-entry" role="doc-biblioentry">
+<div id="ref-bowyer2011filesdie" class="csl-entry" role="listitem">
 Bowyer, A. (2011) <span>‘<span class="nocase">Why files need to
 die</span>’</span>. available at: <a href="http://radar.oreilly.com/2011/07/why-files-need-to-die.html">http://radar.oreilly.com/2011/07/why-files-need-to-die.html</a>.
 </div>
-<div id="ref-bowyer2018family" class="csl-entry" role="doc-biblioentry">
+<div id="ref-bowyer2018family" class="csl-entry" role="listitem">
 Bowyer, A. <em>et al.</em> (2018) <span>‘<span class="nocase">Understanding the Family Perspective on the Storage,
 Sharing and Handling of Family Civic Data</span>’</span>, in
 <em>Conference on human factors in computing systems - proceedings</em>.
 New York, New York, USA: ACM Press, pp. 1–13. doi: <a href="https://doi.org/10.1145/3173574.3173710">10.1145/3173574.3173710</a>.
 </div>
-<div id="ref-brandt2004" class="csl-entry" role="doc-biblioentry">
+<div id="ref-brandt2004" class="csl-entry" role="listitem">
 Brandt, E. and Messeter, J. (2004) <span>‘<span class="nocase">Facilitating collaboration through design
 games</span>’</span>, in <em>Proceedings of the eighth conference on
 participatory design artful integration: Interweaving media, materials
 and practices - PDC 04</em>. New York, New York, USA: ACM Press, p. 121.
 doi: <a href="https://doi.org/10.1145/1011870.1011885">10.1145/1011870.1011885</a>.
 </div>
-<div id="ref-bridle2016" class="csl-entry" role="doc-biblioentry">
+<div id="ref-bridle2016" class="csl-entry" role="listitem">
 Bridle, J. (2016) <span>‘<span>Algorithmic Citizenship, Digital
 Statelessness</span>’</span>, <em>GeoHumanities</em>. James Bridle,
 2(2), pp. 377–381. doi: <a href="https://doi.org/10.1080/2373566x.2016.1237858">10.1080/2373566x.2016.1237858</a>.
 </div>
-<div id="ref-dictEmpowerment" class="csl-entry" role="doc-biblioentry">
+<div id="ref-dictEmpowerment" class="csl-entry" role="listitem">
 Cambridge Dictionary (no date) <span>‘<span>Empowerment</span>’</span>.
 available at: <a href="https://dictionary.cambridge.org/dictionary/english/empowerment">https://dictionary.cambridge.org/dictionary/english/empowerment</a>.
 </div>
-<div id="ref-chang2018" class="csl-entry" role="doc-biblioentry">
+<div id="ref-chang2018" class="csl-entry" role="listitem">
 Chang, A. (2018) <span>‘<span class="nocase">The Facebook and Cambridge
 Analytica scandal, explained with a simple diagram - Vox</span>’</span>.
 available at: <a href="https://www.vox.com/policy-and-politics/2018/3/23/17151916/facebook-cambridge-analytica-trump-diagram">https://www.vox.com/policy-and-politics/2018/3/23/17151916/facebook-cambridge-analytica-trump-diagram</a>.
 </div>
-<div id="ref-claburn2021" class="csl-entry" role="doc-biblioentry">
+<div id="ref-claburn2021" class="csl-entry" role="listitem">
 Claburn, T. (2021) <span>‘<span class="nocase">Android’s Messages,
 Dialer apps quietly sent text, call info to Google</span>’</span>.
 available at: <a href="https://www.theregister.com/2022/03/21/google_messages_gdpr/">https://www.theregister.com/2022/03/21/google_messages_gdpr/</a>.
 </div>
-<div id="ref-dictUseability" class="csl-entry" role="doc-biblioentry">
+<div id="ref-dictUseability" class="csl-entry" role="listitem">
 Collins English Dictionary (no date a)
 <span>‘<span>Useability</span>’</span>. available at: <a href="https://www.thefreedictionary.com/useability">https://www.thefreedictionary.com/useability</a>.
 </div>
-<div id="ref-dictUseable" class="csl-entry" role="doc-biblioentry">
+<div id="ref-dictUseable" class="csl-entry" role="listitem">
 Collins English Dictionary (no date b)
 <span>‘<span>Useable</span>’</span>. available at: <a href="https://www.thefreedictionary.com/useable">https://www.thefreedictionary.com/useable</a>.
 </div>
-<div id="ref-cormack2016" class="csl-entry" role="doc-biblioentry">
+<div id="ref-cormack2016" class="csl-entry" role="listitem">
 Cormack, A. (2016) <span>‘<span class="nocase">Is the Subject Access
 Right Now Too Great a Threat to Privacy?</span>’</span>, <em>European
 Data Protection Law Review</em>, 2(1), pp. 15–27. doi: <a href="https://doi.org/10.21552/edpl/2016/1/5">10.21552/edpl/2016/1/5</a>.
 </div>
-<div id="ref-cornford2013" class="csl-entry" role="doc-biblioentry">
+<div id="ref-cornford2013" class="csl-entry" role="listitem">
 Cornford, J., Baines, S. and Wilson, R. (2013) <span>‘<span class="nocase">Representing the family: how does the state ’think
 family’?</span>’</span>, <em>Policy &amp; Politics</em>, 41(1), pp.
 1–19. doi: <a href="https://doi.org/10.1332/030557312X645838">10.1332/030557312X645838</a>.
 </div>
-<div id="ref-crabtree2016" class="csl-entry" role="doc-biblioentry">
+<div id="ref-crabtree2016" class="csl-entry" role="listitem">
 Crabtree, A. and Mortier, R. (2016) <span>‘<span class="nocase">Personal
 Data, Privacy and the Internet of Things: The Shifting Locus of Agency
 and Control</span>’</span>, <em>SSRN Electronic Journal</em>, pp. 1–20.
 doi: <a href="https://doi.org/10.2139/ssrn.2874312">10.2139/ssrn.2874312</a>.
 </div>
-<div id="ref-avast2022databrokers" class="csl-entry" role="doc-biblioentry">
+<div id="ref-avast2022databrokers" class="csl-entry" role="listitem">
 <span>‘<span class="nocase">Data Brokers: Everything You Need to
 Know</span>’</span> (2022). available at: <a href="https://www.avast.com/c-data-brokers">https://www.avast.com/c-data-brokers</a>
 (accessed: 11 February 2022).
 </div>
-<div id="ref-dfe2018" class="csl-entry" role="doc-biblioentry">
+<div id="ref-dfe2018" class="csl-entry" role="listitem">
 Department for Education (2018) <em><span class="nocase">Working
 Together to Safeguard Children</span></em>. March, p. 393. doi: <a href="https://doi.org/10.1080/13561820020003919">10.1080/13561820020003919</a>.
 </div>
-<div id="ref-vandijck2014" class="csl-entry" role="doc-biblioentry">
+<div id="ref-vandijck2014" class="csl-entry" role="listitem">
 Dijck, J. van (2014) <span>‘<span class="nocase">Datafication, dataism
 and dataveillance: Big data between scientific paradigm and
 ideology</span>’</span>, <em>Surveillance and Society</em>. Surveillance
 Studies Network, 12(2), pp. 197–208. doi: <a href="https://doi.org/10.24908/ss.v12i2.4776">10.24908/ss.v12i2.4776</a>.
 </div>
-<div id="ref-edwards2006" class="csl-entry" role="doc-biblioentry">
+<div id="ref-edwards2006" class="csl-entry" role="listitem">
 Edwards, A. and Elwyn, G. (2006) <span>‘<span class="nocase">Inside the
 black box of shared decision making: distinguishing between the process
 of involvement and who makes the decision</span>’</span>, <em>Health
 Expectations</em>. Wiley/Blackwell (10.1111), 9(4), pp. 307–320. doi: <a href="https://doi.org/10.1111/j.1369-7625.2006.00401.x">10.1111/j.1369-7625.2006.00401.x</a>.
 </div>
-<div id="ref-evans2021" class="csl-entry" role="doc-biblioentry">
+<div id="ref-evans2021" class="csl-entry" role="listitem">
 Evans, W. (2021) <span>‘<span class="nocase">Amazon’s dark secret: It
 has failed to protect your data</span>’</span>.
 </div>
-<div id="ref-fisch2015" class="csl-entry" role="doc-biblioentry">
+<div id="ref-fisch2015" class="csl-entry" role="listitem">
 Fisch, J. (2015) <span>‘Individual self-determination’</span>, in.
 Cambridge University Press.
 </div>
-<div id="ref-gitelman2013" class="csl-entry" role="doc-biblioentry">
+<div id="ref-gitelman2013" class="csl-entry" role="listitem">
 Gitelman, L. (2013) <em><span class="nocase">Raw data is an
 oxymoron</span></em>. edited by Lisa Gitelman. MIT Press, p. 182.
 available at: <a href="https://mitpress.mit.edu/books/raw-data-oxymoron">https://mitpress.mit.edu/books/raw-data-oxymoron</a>.
 </div>
-<div id="ref-glavic2021" class="csl-entry" role="doc-biblioentry">
+<div id="ref-glavic2021" class="csl-entry" role="listitem">
 Glavic, B. <em>et al.</em> (2021) <span>‘<span class="nocase">Trends in
 Explanations: Understanding and Debugging Data-driven
 Systems</span>’</span>, <em>Foundations and Trends<span></span>in
 Databases</em>. Now Publishers, Inc., 11(3), pp. 226–318. doi: <a href="https://doi.org/10.1561/XXXXXXXXX.Boris">10.1561/XXXXXXXXX.Boris</a>.
 </div>
-<div id="ref-goffe2021" class="csl-entry" role="doc-biblioentry">
+<div id="ref-goffe2021" class="csl-entry" role="listitem">
 Goffe, L. <em>et al.</em> (2021) <span>‘Appetite for disruption:
 Designing human-centred augmentations to an online food ordering
 platform’</span>, in <em>34th british HCI conference</em>, pp. 155–167.
 </div>
-<div id="ref-gurstein2011" class="csl-entry" role="doc-biblioentry">
+<div id="ref-gurstein2011" class="csl-entry" role="listitem">
 Gurstein, M. B. (2011) <span>‘<span class="nocase">Open data: Empowering
 the empowered or effective data use for everyone?</span>’</span>,
 <em>First Monday</em>. First Monday, 16(2). doi: <a href="https://doi.org/10.5210/fm.v16i2.3316">10.5210/fm.v16i2.3316</a>.
 </div>
-<div id="ref-britannicaHobsonsChoice" class="csl-entry" role="doc-biblioentry">
+<div id="ref-britannicaHobsonsChoice" class="csl-entry" role="listitem">
 <span>‘<span class="nocase">Hobson’s Choice</span>’</span> (no date).
 available at: <a href="https://www.britannica.com/dictionary/Hobson%27s-choice">https://www.britannica.com/dictionary/Hobson%27s-choice</a>.
 </div>
-<div id="ref-wef2011" class="csl-entry" role="doc-biblioentry">
+<div id="ref-wef2011" class="csl-entry" role="listitem">
 Hoffman, W. (2011) <em><span class="nocase">Personal data : The
 emergence of a new asset class</span></em>. World Economic Forum, pp.
 1–40. available at: <a href="http://www.weforum.org/reports/personal-data-emergence-new-asset-class">http://www.weforum.org/reports/personal-data-emergence-new-asset-class</a>.
 </div>
-<div id="ref-wef2014lens" class="csl-entry" role="doc-biblioentry">
+<div id="ref-wef2014lens" class="csl-entry" role="listitem">
 Hoffman, W. (2014a) <em><span class="nocase">Rethinking Personal Data :
 A New Lens for Strengthening Trust</span></em>. May. World Economic
 Forum, p. 35. available at: <a href="http://www3.weforum.org/docs/WEF_RethinkingPersonalData_ANewLens_Report_2014.pdf">http://www3.weforum.org/docs/WEF_RethinkingPersonalData_ANewLens_Report_2014.pdf</a>.
 </div>
-<div id="ref-wef2014context" class="csl-entry" role="doc-biblioentry">
+<div id="ref-wef2014context" class="csl-entry" role="listitem">
 Hoffman, W. (2014b) <em><span class="nocase">Rethinking personal data:
 Trust and context in user-centred data ecosystems</span></em>. May.
 World Economic Forum, p. 35. available at: <a href="http://www3.weforum.org/docs/WEF_RethinkingPersonalData_TrustandContext_Report_2014.pdf">http://www3.weforum.org/docs/WEF_RethinkingPersonalData_TrustandContext_Report_2014.pdf</a>.
 </div>
-<div id="ref-ico2018" class="csl-entry" role="doc-biblioentry">
+<div id="ref-ico2018" class="csl-entry" role="listitem">
 Information Commissioner’s Office (2018) <span>‘<span class="nocase">Your data matters - Your rights</span>’</span>. available
 at: <a href="https://ico.org.uk/your-data-matters/">https://ico.org.uk/your-data-matters/</a>.
 </div>
-<div id="ref-kaye2015" class="csl-entry" role="doc-biblioentry">
+<div id="ref-kaye2015" class="csl-entry" role="listitem">
 Kaye, J. <em>et al.</em> (2015) <span>‘<span class="nocase">Dynamic
 consent: a patient interface for twenty-first century research
 networks</span>’</span>, <em>European Journal of Human Genetics</em>.
 Nature Publishing Group, 23(2), pp. 141–146. doi: <a href="https://doi.org/10.1038/ejhg.2014.71">10.1038/ejhg.2014.71</a>.
 </div>
-<div id="ref-kroger2021" class="csl-entry" role="doc-biblioentry">
+<div id="ref-kroger2021" class="csl-entry" role="listitem">
 Kröger, J. L., Miceli, M. and Müller, F. (2021) <span>‘<span class="nocase">How Data Can Be Used Against People: A Classification of
 Personal Data Misuses</span>’</span>, <em>SSRN Electronic Journal</em>,
 (December). doi: <a href="https://doi.org/10.2139/ssrn.3887097">10.2139/ssrn.3887097</a>.
 </div>
-<div id="ref-larsson2018" class="csl-entry" role="doc-biblioentry">
+<div id="ref-larsson2018" class="csl-entry" role="listitem">
 Larsson, S. (2018) <span>‘<span class="nocase">Algorithmic governance
 and the need for consumer empowerment in data-driven
 markets</span>’</span>, <em>Internet Policy Review</em>, 7(2). doi: <a href="https://doi.org/10.14763/2018.2.791">10.14763/2018.2.791</a>.
 </div>
-<div id="ref-li2010" class="csl-entry" role="doc-biblioentry">
+<div id="ref-li2010" class="csl-entry" role="listitem">
 Li, I., Forlizzi, J. and Dey, A. (2010) <span>‘<span class="nocase">Know
 thyself: Monitoring and reflecting on facets of one’s
 life</span>’</span>, <em>Conference on Human Factors in Computing
 Systems - Proceedings</em>, pp. 4489–4492. doi: <a href="https://doi.org/10.1145/1753846.1754181">10.1145/1753846.1754181</a>.
 </div>
-<div id="ref-luger2013" class="csl-entry" role="doc-biblioentry">
+<div id="ref-luger2013" class="csl-entry" role="listitem">
 Luger, E. and Rodden, T. (2013) <span>‘<span class="nocase">An informed
 view on consent for ubicomp</span>’</span>, in <em>UbiComp 2013 -
 proceedings of the 2013 ACM international joint conference on pervasive
 and ubiquitous computing</em>. New York, New York, USA: ACM Press, pp.
 529–538. doi: <a href="https://doi.org/10.1145/2493432.2493446">10.1145/2493432.2493446</a>.
 </div>
-<div id="ref-mcnamee2019" class="csl-entry" role="doc-biblioentry">
+<div id="ref-mcnamee2019" class="csl-entry" role="listitem">
 McNamee, R. (2019) <em><span class="nocase">Zucked: Waking up to the
 Facebook Catasrophe</span></em>, p. 336.
 </div>
-<div id="ref-melendez2019" class="csl-entry" role="doc-biblioentry">
+<div id="ref-melendez2019" class="csl-entry" role="listitem">
 Melendez, S. and Pasternack, A. (2019) <span>‘<span class="nocase">The
 data brokers quietly buying and selling your personal
 information</span>’</span>. available at: <a href="https://www.fastcompany.com/90310803/here-are-the-data-brokers-quietly-buying-and-selling-your-personal-information">https://www.fastcompany.com/90310803/here-are-the-data-brokers-quietly-buying-and-selling-your-personal-information</a>.
 </div>
-<div id="ref-dictUsability" class="csl-entry" role="doc-biblioentry">
+<div id="ref-dictUsability" class="csl-entry" role="listitem">
 Merriam-Webster Dictionary (no date a)
 <span>‘<span>Usability</span>’</span>. available at: <a href="https://www.merriam-webster.com/dictionary/usability">https://www.merriam-webster.com/dictionary/usability</a>.
 </div>
-<div id="ref-dictUsable" class="csl-entry" role="doc-biblioentry">
+<div id="ref-dictUsable" class="csl-entry" role="listitem">
 Merriam-Webster Dictionary (no date b)
 <span>‘<span>Usable</span>’</span>. available at: <a href="https://www.merriam-webster.com/dictionary/usable">https://www.merriam-webster.com/dictionary/usable</a>.
 </div>
-<div id="ref-mortier2013" class="csl-entry" role="doc-biblioentry">
+<div id="ref-mortier2013" class="csl-entry" role="listitem">
 Mortier, R. <em>et al.</em> (2013) <span>‘<span class="nocase">Challenges &amp; opportunities in human-data
 interaction</span>’</span>, <em>University of Cambridge, Computer
 Laboratory</em>. Citeseer. doi: <a href="https://doi.org/10.5210/fm.v17i5.4013">10.5210/fm.v17i5.4013</a>.
 </div>
-<div id="ref-mortier2014" class="csl-entry" role="doc-biblioentry">
+<div id="ref-mortier2014" class="csl-entry" role="listitem">
 Mortier, R. <em>et al.</em> (2014) <span>‘<span class="nocase">Human-data interaction: The human face of the data-driven
 society</span>’</span>, <em>Available at SSRN 2508051</em>. doi: <a href="https://doi.org/10.2139/ssrn.2508051">10.2139/ssrn.2508051</a>.
 </div>
-<div id="ref-neff2013" class="csl-entry" role="doc-biblioentry">
+<div id="ref-neff2013" class="csl-entry" role="listitem">
 Neff, G. (2013) <span>‘<span class="nocase">Why Big Data Won’t Cure
 Us</span>’</span>, <em>Big Data</em>, 1(3), pp. 117–123. doi: <a href="https://doi.org/10.1089/big.2013.0029">10.1089/big.2013.0029</a>.
 </div>
-<div id="ref-nielsen2012" class="csl-entry" role="doc-biblioentry">
+<div id="ref-nielsen2012" class="csl-entry" role="listitem">
 Nielsen, J. (2012) <span>‘<span class="nocase">Usability 101:
 Introduction to Usability</span>’</span>. available at: <a href="https://www.nngroup.com/articles/usability-101-introduction-to-usability/">https://www.nngroup.com/articles/usability-101-introduction-to-usability/</a>.
 </div>
-<div id="ref-ofsted2015" class="csl-entry" role="doc-biblioentry">
+<div id="ref-ofsted2015" class="csl-entry" role="listitem">
 OFSTED (2015) <em><span class="nocase">Early help: whose
 responsibility?</span></em>, p. 32. available at: <a href="www.ofsted.gov.uk https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/410378/Early_help_whose_responsibility.pdf">www.ofsted.gov.uk
 https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/410378/Early_help_whose_responsibility.pdf</a>.
 </div>
-<div id="ref-OECD1980" class="csl-entry" role="doc-biblioentry">
+<div id="ref-OECD1980" class="csl-entry" role="listitem">
 Organisation for Economic Co-operation and Development (1980) <em><span class="nocase">OECD Guidelines on the Protection of Privacy and
 Transborder Flows of Personal Data</span></em>. available at: <a href="https://www.oecd.org/digital/ieconomy/oecdguidelinesontheprotectionofprivacyandtransborderflowsofpersonaldata.htm">https://www.oecd.org/digital/ieconomy/oecdguidelinesontheprotectionofprivacyandtransborderflowsofpersonaldata.htm</a>.
 </div>
-<div id="ref-pansardi2012" class="csl-entry" role="doc-biblioentry">
+<div id="ref-pansardi2012" class="csl-entry" role="listitem">
 Pansardi, P. (2012) <span>‘<span class="nocase">Power to and power over:
 Two distinct concepts of power?</span>’</span>, <em>Journal of Political
 Power</em>, 5(1), pp. 73–89. doi: <a href="https://doi.org/10.1080/2158379X.2012.658278">10.1080/2158379X.2012.658278</a>.
 </div>
-<div id="ref-papert1980" class="csl-entry" role="doc-biblioentry">
+<div id="ref-papert1980" class="csl-entry" role="listitem">
 Papert, S. (1980) <span>‘<span class="nocase">Mindstorms: children,
 computers, and powerful ideas</span>’</span>. Basic Books, Inc.
 </div>
-<div id="ref-star2010" class="csl-entry" role="doc-biblioentry">
+<div id="ref-star2010" class="csl-entry" role="listitem">
 Star, S. L. (2010) <span>‘<span class="nocase">This is not a boundary
 object: Reflections on the origin of a concept</span>’</span>,
 <em>Science Technology and Human Values</em>, 35(5), pp. 601–617. doi:
 <a href="https://doi.org/10.1177/0162243910377624">10.1177/0162243910377624</a>.
 </div>
-<div id="ref-strohmayer2021" class="csl-entry" role="doc-biblioentry">
+<div id="ref-strohmayer2021" class="csl-entry" role="listitem">
 Strohmayer, A. <em>et al.</em> (2021) <em><span class="nocase">Trust and
 Abusability Toolkit: Centering Safety in Human-Data
 Interactions</span></em>.
 </div>
-<div id="ref-taylor2015" class="csl-entry" role="doc-biblioentry">
+<div id="ref-taylor2015" class="csl-entry" role="listitem">
 Taylor, A. S. <em>et al.</em> (2015) <span>‘<span class="nocase">Data-in-place: Thinking through the relations between
 data and community</span>’</span>, in <em>Conference on human factors in
 computing systems - proceedings</em>, pp. 2863–2872. doi: <a href="https://doi.org/10.1145/2702123.2702558">10.1145/2702123.2702558</a>.
 </div>
-<div id="ref-toonders2014" class="csl-entry" role="doc-biblioentry">
+<div id="ref-toonders2014" class="csl-entry" role="listitem">
 Toonders, J. (2014) <span>‘<span class="nocase">Data Is the New Oil of
 the Digital Economy</span>’</span>. available at: <a href="https://www.wired.com/insights/2014/07/data-new-oil-digital-economy/">https://www.wired.com/insights/2014/07/data-new-oil-digital-economy/</a>.
 </div>
-<div id="ref-williams2015" class="csl-entry" role="doc-biblioentry">
+<div id="ref-williams2015" class="csl-entry" role="listitem">
 Williams, H. <em>et al.</em> (2015) <span>‘<span class="nocase">Dynamic
 consent: a possible solution to improve patient confidence and trust in
 how electronic patient records are used in medical
 research.</span>’</span>, <em>JMIR medical informatics</em>. JMIR
 Publications Inc., 3(1), p. e3. doi: <a href="https://doi.org/10.2196/medinform.3525">10.2196/medinform.3525</a>.
 </div>
-<div id="ref-woods2022" class="csl-entry" role="doc-biblioentry">
+<div id="ref-woods2022" class="csl-entry" role="listitem">
 Woods, B. (2022) <span>‘BBC wages war on online echo chambers with
 <span>“unbiased”</span> tech’</span>, <em>The Telegraph</em>. available
 at: <a href="https://www.telegraph.co.uk/business/2022/06/09/bbc-wages-war-online-echo-chambers-unbiased-tech/">https://www.telegraph.co.uk/business/2022/06/09/bbc-wages-war-online-echo-chambers-unbiased-tech/</a>
 (accessed: 25 August 2022).
 </div>
-<div id="ref-zuboff2019" class="csl-entry" role="doc-biblioentry">
+<div id="ref-zuboff2019" class="csl-entry" role="listitem">
 Zuboff, S. (2019) <em><span class="nocase">The Age of Surveillance
 Capitalism: The Fight for a Human Future at the New Frontier of
 Power</span></em>. Profile. available at: <a href="https://books.google.co.uk/books?id=W7ZEDgAAQBAJ">https://books.google.co.uk/books?id=W7ZEDgAAQBAJ</a>.
 </div>
-<div id="ref-zuckerman2021" class="csl-entry" role="doc-biblioentry">
+<div id="ref-zuckerman2021" class="csl-entry" role="listitem">
 Zuckerman, E. (2021) <em><span>Mistrust: Why Losing Faith In
 Institutions Provides The Tools To Transform Them</span></em>. New York,
 NY, USA: W. W. Norton &amp; Company, pp. 1–3. doi: <a href="https://doi.org/10.1017/ipo.2021.30">10.1017/ipo.2021.30</a>.
 </div>
 </div>
-<section class="footnotes footnotes-end-of-document" role="doc-endnotes">
+<section id="footnotes" class="footnotes footnotes-end-of-document" role="doc-endnotes">
 <hr />
 <ol>
-<li id="fn1" role="doc-endnote"><p>The words <em>‘usability’</em> and
-<em>‘usable’</em> (spelt without an ‘e’) most commonly refer to a
-judgement of the degree to which a website or user interface is easy to
-use <span class="citation" data-cites="nielsen2012">(<a href="#ref-nielsen2012" role="doc-biblioref">Nielsen, 2012</a>)</span>.
-Throughout this thesis, I deliberately use the alternative word
-spellings of <em>‘useability’</em> and <em>‘useable’</em> <span class="citation" data-cites="dictUseability dictUseable">(<a href="#ref-dictUseability" role="doc-biblioref">Collins English
-Dictionary, no date a</a>, <a href="#ref-dictUseable" role="doc-biblioref">no date b</a>)</span> respectively, to clearly
-distinguish from this ease-of-use concept and to denote that I am
-referring a different meaning: the more literal definition,
-i.e. <em>‘the quality or state of being convenient and practicable for
-use’</em> <span class="citation" data-cites="dictUsability dictUsable">(<a href="#ref-dictUsability" role="doc-biblioref">Merriam-Webster Dictionary, no date a</a>, <a href="#ref-dictUsable" role="doc-biblioref">no date b</a>)</span>. Any
+<li id="fn1"><p>The words <em>‘usability’</em> and <em>‘usable’</em>
+(spelt without an ‘e’) most commonly refer to a judgement of the degree
+to which a website or user interface is easy to use <span class="citation" data-cites="nielsen2012">(<a href="#ref-nielsen2012" role="doc-biblioref">Nielsen, 2012</a>)</span>. Throughout this thesis,
+I deliberately use the alternative word spellings of
+<em>‘useability’</em> and <em>‘useable’</em> <span class="citation" data-cites="dictUseability dictUseable">(<a href="#ref-dictUseability" role="doc-biblioref">Collins English Dictionary, no date a</a>, <a href="#ref-dictUseable" role="doc-biblioref">no date b</a>)</span>
+respectively, to clearly distinguish from this ease-of-use concept and
+to denote that I am referring a different meaning: the more literal
+definition, i.e. <em>‘the quality or state of being convenient and
+practicable for use’</em> <span class="citation" data-cites="dictUsability dictUsable">(<a href="#ref-dictUsability" role="doc-biblioref">Merriam-Webster Dictionary, no date a</a>, <a href="#ref-dictUsable" role="doc-biblioref">no date b</a>)</span>. Any
 usages without an ‘e’ can be taken to refer to the interface ease-of-use
 concept.<a href="#fnref1" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
 </ol>

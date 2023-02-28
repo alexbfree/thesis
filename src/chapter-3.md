@@ -9,6 +9,8 @@ In the previous chapter, I described the two research areas this thesis seeks to
 Forming a Research Paradigm: Ontology & Epistemology{#3.1}
 ----------------------------------------------------
 
+<span class="goodnote">good</span>
+
 To develop a research paradigm, one must reflect on two things [@guba1990]:
 
  - _ontology_: your outlook on the nature of reality, and
@@ -29,7 +31,11 @@ Thus, my epistemological stance is an interpretive one, that also recognises tha
 Research Approach{#3.2}
 -----------------
 
+<span class="editnote">Multiple changes, removing PAR and document the duality of research approach</span>
+
 ### Participatory Action Research & Experience-centred Design
+
+<span class="editnote">Remove all reference to PAR</span>
 
 Moving from general research philosophy to specifics of this PhD, the purpose of the research is to formulate theories that can facilitate change - to map out a research and development agenda that might help the world to move from a data-centric [[2.1](#2.1)] to a human-centric [[2.3](#2.3)] operating paradigm. Learning about people's understandings of their reality informs and enables an inductive research approach where patterns common to multiple people can be identified to form general understandings of what people _want_<sup>[10](#fn10)</sup> in relations with data and with those who hold it. Based on the premise of individual betterment laid out above, these desires serve as justification for the thesis to take a moral stance on personal data: That access to data held about you by others is a fundamental right, and that the to empower individuals to be able to understand and use their data for their own purposes is a fundamental good that will benefit individuals and society at large.
 
@@ -47,6 +53,11 @@ It is important to be clear about what constitutes good research in this context
 
 ### Action Research
 
+<span class="editnote">Remove all reference to PAR</span>
+<span class="editnote">Remove part A/partB split</span>
+<span class="editnote">Document the hybrid research approach</span>
+<span class="editnote">Update the action research diagram - in light of hybrid approach - to show proper spiral back and forth</span>
+
 The mixed methods approach I adopt closely follows the discipline of _participatory action research (PAR)_, which is an approach to research that encompasses both the involvement of participants' perspectives while also retaining a role for the reflection and learning of the researcher themselves. PAR's creator Kurt Lewin observed that 'there is nothing so practical as a good theory' [@lewin1951], highlighting the pragmatic nature of this approach. PAR combines self-experimentation, fact-finding, reasoning and learning, and makes sense of the world through collaborative efforts to transform the world rather than just observing and studying it [@chevalier2008]. Central to this is the idea that research and action must be done with, not on or for, people; participants are not subjects but co-researchers, evolving and addressing questions together [@reason2001]. To embody the three ingredients of PAR [@chevalier2019]—participation, action, and research—my research includes three types of activity:
 
 1. _participatory co-design activities_ - where I discuss and explore experiences, challenges and possible solutions with participants through conversations and design activities
@@ -63,6 +74,8 @@ Action research also carries with it the idea that research is done in cycles: y
 
 Research Objectives{#3.3}
 -------------------
+
+<span class="editnote">Consider better contextualising w.r.t. hybrid dual approach</span>
 
 At the end of chapter 2, I introduced my research question, which is:
 
@@ -92,6 +105,9 @@ This second research objective will be tackled in tandem with the first, so that
 
 Overview of Activities by Research Context{#3.4}
 ------------------------------------------
+
+<span class="editnote">make this part more minimal</span>
+<span class="movenote">move most of this detail into new 'start of section II' part</span>
 
 In this section, I will introduce the two contexts in which the research questions are explored, and both the preliminary activities and Case Studies undertaken in each context.
 
@@ -149,6 +165,8 @@ In the final data exploration interviews, which were conducted online over Zoom 
 Methodologies Employed in Case Studies{#3.5}
 --------------------------------------
 
+<span class="goodnote">good</span>
+
 Having introduced my research approach and explained the research contexts, Case Studies and activities, I will now explain the methods were used across the Studies and why they were chosen. Loosely the methods used can be grouped into five stages, though not every activity involved all stages:
 
 1. Sensitisation of Researcher and Participants
@@ -160,6 +178,8 @@ Having introduced my research approach and explained the research contexts, Case
 I will now explain each of these stages, with examples from the different Studies, as well as providing information about recruitment and ethics at the end of this section.
 
 ### Sensitisation of Researcher and Participants{#3.5.1}
+
+<span class="goodnote">good</span>
 
 ![Figure 3.2: Family Facts - What is Data? ](./src/figs/fig3.2-family-facts.jpg){#figure-3.2}
 
@@ -177,6 +197,8 @@ Sensitisation activities can also serve an additional purpose of bringing dispar
 
 ### Discussion and Exploration with Stimuli{#3.5.2}
 
+<span class="goodnote">good</span>
+
 ![Figure 3.5: Family Civic Data Cards - Things to Think With](./src/figs/fig3.5-data-cards.jpg){#figure-3.5}
 
 ![Figure 3.6: Personal Data Examples - Making Data Relatable](./src/figs/fig3.6-personal-data-examples.png){#figure-3.6}
@@ -190,6 +212,8 @@ I wanted to go beyond 'just talking' to achieve a deeper and more detail-oriente
 The sketching dialogue technique [@hwang2021; [Figure 5.2](#figure-5.2)] used in the digital life context can also been as another stimulus technique; by putting both participant and researcher's focus upon the page, rather than on each other, it can feel less invasive, more collaborative and makes it easier to focus on details. The ideal stimulus for discussion about data is to view the actual data itself. Due to the sensitivity of personal data, this is more easily done 1-on-1 than in a group. Exploring data together with participants to elicit opinions and insights is a well-established technique [@coughlan2013b; @chung2016; @puussaar2017]. This is the technique used within Case Study Two, asking participants about the data they retrieved from GDPR requests, using a spreadsheet-based approach [3.4.2](#3.4.2.2). This allowed the Zoom-based interviews to retain a 'gathered around the table looking at things together' ambiance despite the remoteness necessitated by COVID-19 restrictions.
 
 ### Participatory Co-Design of Possible Solutions{#3.5.3}
+
+<span class="goodnote">good</span>
 
 ![Figure 3.8: Ideation Decks - Combining Random Design Ingredients to Generate New Ideas](./src/figs/fig3.8-ideation-grid.jpg){#figure-3.8}
 
@@ -205,6 +229,8 @@ For the final workshop of Case Study One, where both parents and staff were brou
 
 ### Data Analysis{#3.5.4}
 
+<span class="goodnote">good</span>
+
 ![Figure 3.11: Thematic Analysis of Qualitative Data using Quirkos for Case Study One](./src/figs/fig3.11-thematic-analysis.png){#figure-3.11}
 
 ![Figure 3.12: Spreadsheet-based Quantitative Analysis of Interview Data for Case Study Two](./src/figs/fig3.12-quant-analysis.png){#figure-3.12}
@@ -214,6 +240,8 @@ In order to find common viewpoints and extract insights from the many participat
 While the participant data in Case Study One and Two was largely free-flowing and very loosely-structured conversation, the structure of some activities allowed some data to be captured numerically, notably the sentence rankings and data card placements in Case Study One and the trust/power ratings and GDPR spreadsheets produced in Case Study Two. These datapoints were captured into Excel spreadsheets, and where appropriate analysed using formulae to produce weighted mean averages and standard deviations to help contextualise the findings. An example is shown (as evidence rather than explanation) in [Figure 3.12](#figure-3.12). Due to the qualitative focus of the research, participant numbers were too low to seek statistically significant findings, so all quantitative findings are not intended to be representative of any population at large.
 
 ### Recruitment{#3.5.5}
+
+<span class="goodnote">good</span>
 
 | <a name="table-3.1">Research Activity</a> | Engagement | Stage or Phase | Duration | Number of Participants | Recruitment Method |
 |---------|------------------------|------------|----------------|----------|------------------------|
@@ -251,6 +279,8 @@ In all cases[^4] for both case studies, participants were compensated for their 
 
 ### Ethics{#3.5.6}
 
+<span class="goodnote">good</span>
+
 All research activities referenced in this thesis were planned in advance, with interview schedules, information sheets, debriefing sheets, participant consent forms and ethics forms being completed and submitted to Newcastle University's SAgE faculty ethics board, which approved all the studies before they commenced. Ethics approvals are included in [Appendix B](#appendix-b). Most of the engagements were routine interviews and therefore did not require any special measures for safety or ethical reasons. It was made clear to all participants that they were free to withdraw from my research at any time without giving a reason. The following special measures were included in plans in order to satisfy ethical considerations:
 
 1. _Visiting private homes_: In order to protect myself and other researchers from any physical risks or any accusations of impropriety, all home visits took place with two researchers present, and contact was made with a colleague before and immediately after the interviews to confirm everything was ok.
@@ -263,6 +293,9 @@ All research activities referenced in this thesis were planned in advance, with 
 
 Summation: Towards an Understanding of Better Data Relations
 ------------------------------------------------------------
+
+<span class="editnote">update 3.6 so it doesn't mention part A/B and ties in with previous</span>
+<span class="editnote">rewrite to round up section 1 and set up section 2</span>
 
 ![Figure 3.14: How the Case Studies and Peripheral Activities Contribute to This Thesis](./src/figs/fig3.14-rqs-and-activities.jpg){#figure-3.14}
 

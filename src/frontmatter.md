@@ -1,15 +1,28 @@
 Abstract {#abstract .unnumbered}
 ===========
 
+<span class="editnote">review at end after changes</span>
+
 PCs, smartphones, and cloud computing have transformed the world: In our daily lives, we interact with many businesses and public services who (often to reduce costs) rely on data collection and processing rather than face-to-face user interactions to inform their decisions. This creates an _imbalance of power_ between those who hold personal data and the individuals about whom data is stored, who cannot easily see their data or examine how it is used. This _Digital Civics_ PhD research explores, from an individualist perspective, the lived experience of this imbalanced and data-centric world. Through two qualitative case studies across public and private sectors, it discovers desires for visible, understandable and useable data, and for transparent relations with data holders that enable oversight and involvement. Case Study One focuses on _Early Help_ social care: Through four workshops with supported families and social workers, perspectives on civic data use are understood. _Shared data interaction_ is explored as a means to empower individuals while maintaining an effective care relationship. Case Study Two is a three-month study exploring 10 participants' experience of using _GDPR data access rights_ to view their own data, resulting in insights into individual needs and the challenges of data-centric service relationships, and recommendations for improvement of policies and practices. Expanding upon prior work in _Personal Information Management_, _Human Data Interaction_ and _MyData_ personal data ecosystems, and informed by parallel industrial experience, a new research agenda for improving _**Human Data Relations (HDR)**_ is established. The thesis then explores the _practical pursuit_ of this agenda from an technologist's adversarial design stance. Drawing on first-hand knowledge acquired from the author's expert participation in research projects at BBC R&D and Hestia.ai/Sitra, _the landscape for future research and innovation_ is mapped out in terms of obstacles, designerly insights and activist strategies.
 
 Dedication {.unnumbered}
 ==========
 
+<span class="goodnote">good</span>
+
 _For my children Rosie, Joey, and Zach; my nephew Elliott; and my nieces Amy and Lyla. My wish is that that you and your generation might soon experience a future where technology can truly help people and empower them to thrive, and where personal data drives human flourishing more than corporate profit. I hope that this research can contribute to a better future for you all._
+
+In memoriam {.unnumbered}
+===========
+
+<span class="goodnote">good</span>
+
+_In memory of my auntie, Jenny Arnott (1938-2021) &mdash; a passionate traveller, history enthusiast and kind-hearted lady who always strived to share her passions and bring happiness to others._
 
 Acknowledgements {.unnumbered}
 ================
+
+<span class="editnote">review at end after changes</span>
 
 No-one really knows how hard a PhD is until they are already well beyond the point of no return. It is demanding, challenging and often thankless and lonely work. You spend countless hours striving to find meaning among masses of data or iterating endlessly to concisely express complex, nebulous and elusive ideas. This endeavour is made even harder when you are a mature student with financial and parental responsibilities. At times, especially during the final unfunded writing-up period, the impacts upon my life and those around me have been huge and unreasonable. For this reason, the greatest thanks of all go to my wife Joni Bowyer, who has stood by me throughout, picking up the slack again and again where I could not. She has endured the uncertainties and impacts upon income, time, and divided attention that this unforgiving work has thrust upon our family. She has also provided practical help on countless occasions with everything from poster layout to time management to grammatical advice. I love you forever, Joni. Thank you.
 
@@ -43,7 +56,7 @@ I would also like to thank, in no particular order:
   - Louis Goffe, Debbie Smart, Kat Jackson, Liam Spencer, Ruth McGovern and Kyle Montague for giving their time to help run workshops with participants in the pilot study and in Case Study One;
   - Paul-Olivier Dehaye, Mike Martin, Soheil Human, Jasmine Cox, Peter Wells, Ian Forrester, Rhianne Jones, Tim Broom, Suzanne Clarke, Hannes Ricklefs, Max Leonard, Chris Gameson, Euijin Hwang, Toby Lowe, James Nicholson, Alan Mitchell, Iain Henderson, StJohn Deakins, Dalia Al-Shahrabi, Anna Scott, Sarah Knowles, and Michael Jelly, all of whom I have had the pleasure to work with, ruminate with or learn from;
   - Chris Lintott and everyone in the Oxford University/Zooniverse team for giving me the smoothest possible start in postgraduate academia before I joined Open Lab;
-  - Kellie Morrissey, Aare Puussaar, Andy Dow, Anja McCarthy, Zander Wilson, Raghda Zahran, Michael Jelly, Jay Rainey, David Williams, Ben Wright, Paul Whittles, Jon Bowyer, and all the other lovely people who have encouraged me and supported me along the way on this journey; and
+  - Kellie Morrissey, Aare Puussaar, Andy Dow, Anja McCarthy, Zander Wilson, Raghda Zahran, Michael Jelly, Jay Rainey, David Williams, Paula Williams, Ben Wright, Paul Whittles, Jon Bowyer, and all the other lovely people who have encouraged me and supported me along the way on this journey; and
   - the research participants themselves, who shall remain nameless but without which this work could not exist.
 
 Finally, I would like to thank my parents, Jim and Rosi Bowyer. You have always been there for me, whenever I needed you. Thank you for your unquestioning love and support in an ever-changing world.
@@ -56,6 +69,8 @@ This PhD was funded by the Engineering and Physical Sciences Research Council (E
 
 Lists of Tables, Figures and Inset Boxes {.unnumbered}
 ========================================
+
+<span class="editnote">review at end after changes</span>
 
 Lists of Tables by Chapter {.unnumbered .unlisted}
 --------------------------
