@@ -17,14 +17,14 @@ In memoriam {.unnumbered}
 
 <span class="goodnote">good</span>
 
-_In memory of my auntie, Jenny Arnott (1938-2021) &mdash; a passionate traveller, history enthusiast and kind-hearted lady who always strived to share her passions and bring happiness to others._
+_In memory of my auntie Jenny Arnott (1938-2021) &mdash; a passionate traveller, art & history enthusiast and kind-hearted lady who always strived to share her passions and bring happiness to others._
 
 Acknowledgements {.unnumbered}
 ================
 
 <span class="editnote">review at end after changes</span>
 
-No-one really knows how hard a PhD is until they are already well beyond the point of no return. It is demanding, challenging and often thankless and lonely work. You spend countless hours striving to find meaning among masses of data or iterating endlessly to concisely express complex, nebulous and elusive ideas. This endeavour is made even harder when you are a mature student with financial and parental responsibilities. At times, especially during the final unfunded writing-up period, the impacts upon my life and those around me have been huge and unreasonable. For this reason, the greatest thanks of all go to my wife Joni Bowyer, who has stood by me throughout, picking up the slack again and again where I could not. She has endured the uncertainties and impacts upon income, time, and divided attention that this unforgiving work has thrust upon our family. She has also provided practical help on countless occasions with everything from poster layout to time management to grammatical advice. I love you forever, Joni. Thank you.
+No-one really knows how hard a PhD is until they are already well beyond the point of no return. It is demanding, challenging and often thankless and lonely work. You spend countless hours striving to find meaning among masses of data or iterating endlessly to concisely express complex, nebulous and elusive ideas. This endeavour is made even harder when you are a mature student with financial and parental responsibilities. At times, especially during the final unfunded writing-up period, the impacts upon my life and those around me were huge and unreasonable. For this reason, the greatest thanks of all go to my wife Joni Bowyer, who stood by me throughout, picking up the slack again and again where I could not. She endured the uncertainties and impacts upon income, time, and divided attention that this unforgiving work thrust upon our family. She also provided practical help on countless occasions with everything from poster layout to time management to editing and grammatical advice. I love you forever, Joni. Thank you.
 
 The next person I want to thank is Jack Holt, who dedicated many weeks and months of his life to collaborate with me to analyse of mountains of participant data from Case Study Two and to co-write the paper [@bowyer2022gdpr] with me. I have absolutely no doubt that without his dedication, it would have been impossible to complete and publish the GDPR study in any reasonable timeframe.
 
@@ -39,14 +39,14 @@ I would like to thank, in reverse chronological order, my supervisors and all th
   - Kyle Montague, for his valuable input on study design in the early stages of my PhD, and for advocating to protect my independence and integrity as a researcher during problematic negotiations with a partner organisation;
   - Phil Lord, for assistance and advocacy with those same issues at a crucial time;
   - Madeline Balaam, for inspiration on participatory methods right at the start, and for helping me develop a paper writing style;
-  - Paul, Nicola, Sara, James, Glau, Fion, Alex, and all the other School admin staff, for countless random assists;
-  - Rob Comber, Simon Bowen, Matt Wood and other lecturers who taught me valuable _Digital Civics_ and research skills during the MRes, that helped shape me into the researcher I am.
+  - Rob Comber, Simon Bowen, Matt Wood and other lecturers who taught me valuable _Digital Civics_ and research skills during the MRes, that helped shape me into the researcher I am; and not forgetting
+  - Paul, Nicola, Sara, James, Glau, Fion, Alex, and all the other School admin staff, for countless random assists.
 
 I have been fortunate to take this journey with dozens of other researchers. I would like to especially thank:
 
-  - Tom Maskell, for his help with wrestling with concepts around data access and involvement, and companionship on many bus commutes in the early years;
+  - Tom Maskell, for his help with wrestling with concepts around data access and involvement, and companionship and Digital Civics discussions on many bus commutes in the early years;
   - Sunil Rodger, for valuable moral support, writing camaraderie, and practical advice for the last two years; and
-  - Stuart Wheater, for myriad data discussions and tactical discussions that helped me get through a difficult period and often went beyond project business.
+  - Stuart Wheater, for myriad data discussions and tactical discussions that helped me get through a difficult period earlier in the PhD and which often went beyond project business.
 
 I would also like to thank, in no particular order:
 
@@ -54,9 +54,9 @@ I would also like to thank, in no particular order:
   - (Matt) Marshall, for sharing his powerful script framework for markdown-based thesis writing and document generation [@marshall2020], and supporting me in adapting it, making thesis development so much easier;
   - Tom Nappey, Laura Pinzon Cardona and Rosie Daglish for their assistance with graphic design;
   - Louis Goffe, Debbie Smart, Kat Jackson, Liam Spencer, Ruth McGovern and Kyle Montague for giving their time to help run workshops with participants in the pilot study and in Case Study One;
-  - Paul-Olivier Dehaye, Mike Martin, Soheil Human, Jasmine Cox, Peter Wells, Ian Forrester, Rhianne Jones, Tim Broom, Suzanne Clarke, Hannes Ricklefs, Max Leonard, Chris Gameson, Euijin Hwang, Toby Lowe, James Nicholson, Alan Mitchell, Iain Henderson, StJohn Deakins, Dalia Al-Shahrabi, Anna Scott, Sarah Knowles, and Michael Jelly, all of whom I have had the pleasure to work with, ruminate with or learn from;
+  - Paul-Olivier Dehaye, Mike Martin, Soheil Human, Jasmine Cox, Peter Wells, Ian Forrester, Rhianne Jones, Tim Broom, Suzanne Clarke, Hannes Ricklefs, Max Leonard, Chris Gameson, Euijin Hwang, Louis Goffe, Toby Lowe, James Nicholson, Alan Mitchell, Iain Henderson, StJohn Deakins, Dalia Al-Shahrabi, Anna Scott, Sarah Knowles, and Michael Jelly, all of whom I have had the pleasure to work with, ruminate with or learn from;
   - Chris Lintott and everyone in the Oxford University/Zooniverse team for giving me the smoothest possible start in postgraduate academia before I joined Open Lab;
-  - Kellie Morrissey, Aare Puussaar, Andy Dow, Anja McCarthy, Zander Wilson, Raghda Zahran, Michael Jelly, Jay Rainey, David Williams, Paula Williams, Ben Wright, Paul Whittles, Jon Bowyer, and all the other lovely people who have encouraged me and supported me along the way on this journey; and
+  - Kellie Morrissey, Aare Puussaar, Andy Dow, Anja McCarthy, Zander Wilson, Raghda Zahran, Michael Jelly, Jay Rainey, David Williams, Paula Williams, Ben Wright, Paul Whittles, Jon Bowyer, and all the other lovely people who encouraged me and supported me along the way on this journey; and
   - the research participants themselves, who shall remain nameless but without which this work could not exist.
 
 Finally, I would like to thank my parents, Jim and Rosi Bowyer. You have always been there for me, whenever I needed you. Thank you for your unquestioning love and support in an ever-changing world.

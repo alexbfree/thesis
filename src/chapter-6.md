@@ -1,3 +1,9 @@
+<h1 class="title">Section III: Human Data Relations: A New Research Agenda</h1>
+
+<h2>Introduction to Section III</h2>
+
+<span class="editnote">ADD NEW SUBSECTION INTRODUCING chapter 6 and 7 HERE</span>
+
 Discussion - An Understanding of What People Want in Data Relations{#chapter-6}
 ==================================================================
 

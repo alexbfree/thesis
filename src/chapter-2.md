@@ -4,6 +4,8 @@ Literature Review {#chapter-2}
 > _"We are the sources of surveillance capitalism's crucial surplus: the objects of a technologically advanced and increasingly inescapable raw-material-extraction operation."_
 >—Shoshana Zuboff (Harvard professor, social psychologist and author)
 
+<span class="editnote">add new literature from examiners</span>
+
 Understanding Data and its Role in Today's World{#2.1}
 ------------------------------------------------
 ### What is Data?{#2.1.1}

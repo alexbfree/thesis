@@ -15,6 +15,9 @@ Case Study Two: The Human Experience of GDPR {#chapter-5}
 > by Daniel Keys Moran
 > (computer programmer and science fiction writer)
 
+<span class="editnote">add callbacks to literature</span>
+<span class="editnote">add callbacks to methodology</span>
+
 In this chapter, I will describe the second case study of this PhD, in which I took 11 participants[^7] through an longitudinal in-depth one-on-one process of three interviews with coaching and support in between, with the total engagement per participant lasting approximately 4 hours over a three-month period. The purpose of the research was gain a deeper understanding of people's attitudes to the kinds of personal data held by companies in people's everyday lives and what they want from that data (in pursuit of RQ1) and specifically to examine the human experience of existing in a data-centric world [[2.1](#2.1)]. Each individual has a number of relationships with service providers that involve the use and holding of personal data. In line with RQ2, the goal is to better understand the role of that data in those relationships. In particular, having gained an initial understand of attitudes, hopes and expectations, a further objective was to examine how those expectations might change during the journey of digital life mapping, data request making, receiving and examining of data, and scrutiny of responses, collectively forming a holistic understanding of _the human experience of accessing your data with GDPR_.
 
 [^7]: 11 participants started the study but one dropped out after the first interview due to COVID-19, so only 10 participants conducted GDPR requests. 31 interviews were conducted in all.

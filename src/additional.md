@@ -4,6 +4,8 @@ Additional Reference Information {.unnumbered .unlisted}
 ARI2 Additional Reference Information for Chapter 2 {#ari-chapter-2 .unnumbered}
 ===========
 
+<span class="goodnote">good</span>
+
 ARI2.1 Data Protection Terminology and a Legal Definition of Personal Data {#ari-data-terms .unnumbered}
 --------------------------------------------------------------------
 
@@ -24,6 +26,8 @@ For simplicity, this thesis uses everyday layperson-friendly terms rather than t
 ARI3 Additional Reference Information for Chapter 3 {#ari-chapter-3 .unnumbered}
 ===========
 
+<span class="goodnote">good</span>
+
 ARI3.1 The Private Data Viewing Monitor {#ari-monitor .unnumbered}
 ---------------------------------------
 
@@ -33,6 +37,8 @@ By removing the filter layer on an old monitor and modifying cinema IMAX glasses
 
 ARI4. Additional Reference Information for Chapter 4 {#ari-chapter-4 .unnumbered}
 ===========
+
+<span class="goodnote">good</span>
 
 ARI4.1 Family Civic Data Categories{#ari-fcd-types .unnumbered}
 ----------------------------
@@ -668,8 +674,12 @@ Table: Table ARI5.1 - Best and Worst Data Holders for GDPR, according to Partici
 ARI7 Additional Reference Information for Chapter 7 {#ari-chapter-7 .unnumbered}
 ===========
 
+<span class="movenote">move some sections out</span>
+
 ARI7.1 BBC R&D's Cornmarket Project {#ari-bbc .unnumbered}
 ----------------------------
+
+<span class="movenote">move to start of section IV</span>
 
 I took a three-month sabbatical from my PhD in the summer of 2020. I was remotely embedded within a full-time research internship at **BBC R&D** - the British Broadcasting Corporation (BBC)'s Research and Development (R&D) department [@bbc1997rd], working with specialists, designers, researchers and developers on an exploratory research project codenamed _Cornmarket_. I continued this involvement as a part-time research consultant and critical friend for a further 5 months after the conclusion of the initial three-month placement.
 
@@ -699,6 +709,8 @@ A number of articles relating to the Cornmarket project have been published:
 ARI7.2 Hestia.ai, and Sitra's _digipower_ Project {#ari-digipower .unnumbered}
 -------------------------------------------------
 
+<span class="movenote">move to start of section IV</span>
+
 Following the conclusion of the funded period of my PhD, I took up a near-full-time position as Project Leader and Personal Data Coach at **Hestia.ai** [@dehaye2019]), a startup based in Geneva, Switzerland. Hestia.ai is a company conducting research, developing technologies, and delivering training, in the emergent MyData/PDE space [[2.3.4](#2.3.4)]. In essence, the company's mission is to help individuals and especially collectives to more easily obtain and understand data held about them, and to help them visualise, aggregate and make use of that data. It is an example of a **data access and understanding services** company as described in [9.5.3](#9.5.3).
 
 I was specifically hired to co-lead the _digipower_ project [@härkönen2022project], for Hestia.ai's client, **Sitra** [@sitra1967]. Sitra is a non-profit organisation in Finland, funded by the Finnish Parliament and accountable to the Finnish people. The goal of the digipower project was to guide 15 European politicians, civil servants and journalists, through the process of obtaining and exploring their own data. The participants were high-profile VIPs, including the former Prime Minister of Finland and former European Commission Vice President, Jyrki Katainen. The goal was to empower those individuals to better understand the workings of the data economy, so that they might be able to influence others and effect change. One of Sitra's goals is to establish a fairer data economy [@sitra2018fairdata].  Methodologically, the project drew heavily on my own Case Study Two [[Chapter 5](#chapter-5)], adopting a similar method of guiding individuals through the process of making GDPR requests and scrutinising the returned data; I was employed on the project for this expertise. Where it differs from my own Case Study is that the focus of the research was outward, on the data economy and the practices of service providers, rather than inward, on the lived experience of the participants. Other differences included the building and use of software interfaces to provide participants with data visualisations, the use of TrackerControl software to audit mobile phone apps [[Insight 12](#insight-12)], and the direct analysis of participants' retrieved personal data by the Hestia.ai research team (whereas my Case Study explicitly avoided handling participants' personal data). The project resulted in three reports:
@@ -715,6 +727,8 @@ Where the [BBC internship](#ari-bbc) has helped me to understand the practicalit
 ARI7.3 DERC's Healthy Eating Web Augmentation Project {#ari-derc .unnumbered}
 -----------------------------------------------------
 
+<span class="movenote">move to start of section IV</span>
+
 As a software developer I have been aware for a long time that one of the biggest challenges in building new data interfaces is to gain programmatic access to the necessary data. As part of the trend towards cloud-based services and data-centric business practices, it has become increasingly difficult to access all of the data held about users by service providers. Application Programming Interfaces (APIs) are a technical means for programmers to access a user's data so that third-party applications may be built using that data. Unfortunately, as a result of commercial incentives to lock users in and keep data trapped [@abiteboul2015; @bowyer2018freedata], much of users' data can no longer be accessed via APIs [[8.4](#8.4.2)]. While GDPR data portability requests do open up a new option for the use of one's provider-collected data in third-party applications, this is an awkward and time-consuming route for both users and developers. **Web augmentation** provides a third possible technical avenue for obtaining data from online service providers. It relies on the fact that a user's data is loaded to the user's local machine and displayed within their web browser every time a website is used, and therefore it is possible to extract that data from the browser using a browser extension; this as another **seam** that can be hacked—see [9.4](#9.4) and [Insight 12](#insight-12). Similarly, once loaded into the browser, a provider's webpage can be modified to display additional data or useful human-centric functionality that the provider failed to provide.
 
 ![Figure ARI7.2: Screenshot from a Web-Augmented version of the _Just Eat_ Website,<br/>showing hygiene information and offering additional sorting](./src/figs/figARI7.2-justeat-webaug.jpg){#figure-ari7.2}
@@ -723,6 +737,8 @@ In order to better understand what is and is not possible using this technique, 
 
 ARI7.4 Special Attribution Note for Part Two {#ari-attribution .unnumbered}
 ---------------------------------------------
+
+<span class="movenote">move to start of section IV</span>
 
 This is a note about the attribution of insights within Chapters [7](#chapter-7), [8](#chapter-8) and [9](#chapter-9), as the ideas originate quite differently than from the rest of the thesis.
 
@@ -740,6 +756,8 @@ Due to these collaborations and the ongoing and parallel nature of many of these
 ARI7.5 Eight Lenses on Personal Data{#ari-lenses .unnumbered}
 ------------------------------------
 
+<span class="movenote">move back inside 7.4</span>
+
 This table is referenced and contextualised in section [7.4](#7.4).
 
 | <a name="table-ari7.1">Way of thinking about data</a> | Explanation & Implications |
@@ -756,9 +774,10 @@ This table is referenced and contextualised in section [7.4](#7.4).
 Table: Table ARI7.1 - Eight Lenses on Personal Data.
 
 
-
 ARI9 Additional Reference Information for Chapter 9 {#ari-chapter-9 .unnumbered}
 =====================================================
+
+<span class="goodnote">good</span>
 
 ARI9.1 How I compelled Spotify to improve their GDPR return {#ari-9.1 .unnumbered}
 ------------------------------------------------

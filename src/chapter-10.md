@@ -1,8 +1,16 @@
+<h1 class="title">Section V: Conclusions & Outlook</h1>
+
+<h2>Introduction to Section V</h2>
+
+<span class="editnote">ADD NEW SUBSECTION INTRODUCING chapter 10 inc new parts here</span>
+
 Thesis Conclusion {#chapter-10}
 =================
 
 > _"Our research should transform, not just inform, society."_
 >—Kingsley ofosu-Ampong (researcher & lecturer in digital transformation)
+
+<span class="editnote">update C10 intro to account for the new sections and no longer part A and part B</span>
 
 Section [6.3](#6.3) concluded Part One's academic enquiry with a clear answer to the question [[2.4](#RQ)] of what relationship people want with their personal data in order to be empowered. They want:
 
@@ -18,16 +26,34 @@ Section [9.6](#9.6) concluded Part Two's exploratory design work by summarising 
 
 In this brief concluding chapter, I will bring the two parts of the thesis together, reflecting on my journey as a researcher, activist and innovator through this work, and contextualising the contributions of the thesis in terms of their legacy and future value.
 
-Personal Reflection{#10.1}
+Design Insights and Recommendations{#10.1}
+------------------------------------------
+
+<span class="editnote">ADD NEW SECTION ON DESIGN INSIGHTS</span>
+<span class="movenote">MOVE INSIGHTS FROM C8 and C9 HERE </span>
+
+Pragmatic Reflections on Pursuing Better HDR{#10.2}
+--------------------------------------------
+
+<span class="editnote">ADD NEW SECTION ON PRAGMATIC REFLECTIONS</span>
+
+Limitations and Future Work{#10.3}
+----------------------------------
+
+<span class="editnote">ADD NEW SECTION ON LIMITATIONS AND FUTURE WORK</span>
+
+Personal Reflection{#10.OLD1}
 -------------------
 
-As an experienced software engineer, power user and technology blogger, who had considered the loss of digital agency for many years [[1.1](#1.1)], my journey into this research space was an unusual one; I arrived with already-formed ideas about the nature of the problem. This was not an ideal match for the traditionally participant-led approach of HCI, where ideas and insights normally arise solely from one's participants. However, through the discipline of the _Digital Civics_ programme and the experience of publishing peer-reviewed papers I successfully found ways to explore the research questions objectively. Recognising that HDR issues would be unlikely to surface organically, I was able to use careful sensitisation [[3.5.1](#3.5.1)], balanced and open questioning and neutrally-designed stimuli [[3.5.2](#3.5.2)] in a way that elevated participant experience to be the primary source of data, to produce findings and discursive conclusions that are as much the participants as my own.
+<span class="editnote">UPDATE TO REMOVE PART ONE AND TWO REFS</span>
+
+As an experienced software engineer, power user and technology blogger, who had considered the loss of digital agency for many years [[1.1](#1.1)], my journey into this research space was an unusual one; I arrived with already-formed ideas about the nature of the problem. This was not an ideal match for the traditionally participant-led approach of HCI, where ideas and insights normally arise solely from one's participants. However, through the discipline of the _Digital Civics_ programme, the process of publishing peer-reviewed papers. Recognising that HDR issues would be unlikely to surface organically, I was able to use careful sensitisation [[3.5.1](#3.5.1)], balanced and open questioning and neutrally-designed stimuli [[3.5.2](#3.5.2)] in a way that elevated participant experience to be the primary source of data, to produce findings and discursive conclusions that are as much the participants as my own.
 
 Along the way I discovered vital areas of literature and existing work, most notably the foundational work of Weiser, Abowd, Crabtree and others [[2.3.1](#2.3.1); [2.3.3](#2.3.3)], the sub-discipline of _Human Data Interaction_ [[2.3.2](#2.3.2)] and the emergent innovation around _Personal Data Ecosystems_ and _MyData_ [[2.3.4](#2.3.4)]. Collectively through these discoveries, I solidified my existing understandings and was able to contextualise my evolving learning against the established research landscape.
 
-As my understanding from the Case Studies coalesced into a clear, cross-validated understanding of what people want from data and from data holders [[Chapter 6](#chapter-6)], this gave me the confidence to grow and evolve as a researcher; moving from investigatory or theoretical research towards activist exploration of how to work towards delivering these new capabilities in practice, enabled by the models and ideas I developed. This ultimately gave me the confidence to recognise that, in this body of work, I have identified something newly emergent, that deserved to be named, scoped, and explored—**the field of Human Data Relations**.
+As my understanding from the Case Studies coalesced into a clear, cross-validated understanding of what people want from data and from data holders [[Chapter 6](#chapter-6)], this gave me the confidence to grow and evolve as a researcher; moving from investigatory or theoretical research towards activist exploration of how to work towards delivering these new capabilities in practice, enabled by the models and ideas I developed. This ultimately gave me the confidence to recognise that, in this body of work, I have identified something newly emergent, that deserved to be named, scoped, and explored—**the research agenda for better Human Data Relations**.
 
-I was especially lucky to find peripheral activities, especially with the BBC and Hestia.ai, that fitted so well alongside my research agenda. These activities slotted perfectly into the action research cycle [[3.2.2](#3.2.2); [Figure 3.14](#figure-3.14)] of my thesis, producing a powerful feedback loop where findings from the academic inquiry became immediately applicable in practical settings, while experiences of the real-life barriers to pursuit of the HDR goals helped to challenge and evolve the theoretical models (such as shared data interaction) emerging from the Case Studies.
+I was especially lucky to find peripheral activities, especially with the BBC and Hestia.ai, that fitted so well alongside my research agenda. These activities slotted perfectly into the action research cycle [[3.2.2](#3.2.2); [Figure 3.14](#figure-3.14)] of my thesis, producing a powerful feedback loop where findings from the academic inquiry became immediately applicable in practical settings, while experiences of the real-life barriers to pursuit of the HDR goals helped to challenge and evolve the theoretical models (such as shared data interaction) emerging from the Case Studies. The real-world contexts provided a place where emerging qualitiative findings and design ideas could be tested and iteratively improved through attempts to operationalise them, producing exceptionally grounded and actionable learnings.
 
 This dual research-and-practice approach has allowed me to push this thesis further than a traditional HCI study would allow, and underpins the two-part structure of this thesis, where in Part Two I leave behind the traditional researcher-as-observer stance and step forward into taking an active role as an expert in user-centred design (UCD) [[3.2.1](#3.2.1)] and practical software interface and process design and innovation.
 
@@ -41,10 +67,13 @@ I hope these models, as well as the other contributions [[1.2](#1.2)], can help 
 
 The collaborative opportunities have been significant. Without this PhD, I would never have had the opportunities to discuss and develop models for personal data interaction and improved ecosystem negotiability with experts at the BBC, Hestia.ai and the wider _MyData_ community. Alongside these formal collaborations, I have disseminated ideas through blogs, tweets, workshop papers and lectures, which has helped to refine and clarify ideas but also to stimulate valuable discussions with interested people to gain feedback that helped develop the models and my own learning further.
 
-This opportunity has opened doors that have allowed me to pivot my career towards putting these learnings into action, working on important projects [[7.2](#7.2)] to explore how data interaction reforms can be realised in practice, and how we can become not just innovators but social data activists. I now know how to begin to have an impact, how to work on building that better HDR future I and my participants have imagined. It is the journey of a lifetime, and also one that is in many ways just beginning. I hope that my work and this thesis can contribute to a better, more human-centric digital world, and I can't wait to see where this leads.
+This opportunity has opened doors that have allowed me to pivot my career towards putting these learnings into action, working on important projects [[7.2](#7.2)] to explore how data interaction reforms can be realised in practice, and how we can become not just innovators but social data activists. Thanks to this research, I am now a Senior UX Designer with BBC Newcastle, where I will be able to bring the benefits of this research to the general public through the design of services and interfaces that aim to inform, educate and entertain people in their everyday lives. I now know how to begin to have an impact, how to work on building that better HDR future I and my participants have imagined. It is the journey of a lifetime, and also one that is in many ways just beginning. I hope that my work and this thesis can contribute to a better, more human-centric digital world, and I can't wait to see where this leads.
 
-Legacy of This Thesis to The Future of Human Data Relations{#10.2}
+Legacy of This Thesis to The Future of Human Data Relations{#10.OLD2}
 -----------------------------------------------------------
+
+<span class="movenote">MOVE SOME DETAILS OF CONTRIBUTIONS ETC HERE FROM C1</span>
+<span class="editnote">UPDATE THIS SECTION TO INCLUDE SOME DETAIL AS WELL AS HIGH LEVEL</span>
 
 This thesis offers a detailed understanding of individual needs around data interaction and data-centric service relationships [[Chapter 6](#chapter-6)], backed by participatory action research in both public sector and private sector Case Studies [[Chapter 4](#chapter-4); [Chapter 5](#chapter-5)], providing a clear answer to the two primary research questions RQ1 [[3.3.1](#RQ1)] and RQ2 [[3.3.2](#RQ2)]: People want visible, understandable and useable<sup>[10](#fn10)</sup> data, process transparency, individual oversight capabilities and involvement in decision making.
 

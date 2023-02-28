@@ -1,6 +1,25 @@
+<h1 class="title">Section I: Background & Approach</h1><a name='section-i'/>
+
+<h2>Introduction to Section I</h2><a name='#section-i-intro'/>
+
+<span class="goodnote">good</span>
+
+This thesis is divided into five sections:
+
+* Section I: Background & Approach
+* Section II: Understanding Attitudes and Desires through Participatory Case Studies
+* Section III: Human Data Relations: A New Research Agenda
+* Section IV: Operationalising the Research Agenda through Design & Practice
+* Section V: Conclusions & Outlook
+
+This first section, Section I, provides a thorough background and explanation to the thesis through three chapters:
+
+* [Chapter 1](#chapter-1) describes the background of this research and summarises the contributions and publications arising from the research, before outlining the structure of the rest of the thesis.
+* [Chapter 2](#chapter-2) contains a literature review, laying out the foundational ideas upon which this research is built; drawing from information theory, data access leglislation, personal data interaction system design, and the emergent human-centric paradigm of personal data ecosystems.
+* [Chapter 3](#chapter-3) describes the methodology used in the research, from its philosophical foundations to its overall research objectives, and details the specific participatory techniques and data analysis approaches used.
+
 Introduction{#chapter-1}
 =======================
-<!-- SECTION 1: Background and Approach --->
 
 > _"My data is everywhere, and I am nowhere."_—Imogen Heap (musician and digital rights advocate), speaking at MyData 2019, encapsulating a core problem with modern digital life.
 
@@ -301,6 +320,6 @@ The landscape of HDR is mapped out in two parts. [Chapter 8](#chapter-8) focuses
 
 [Chapter 9](#chapter-9), using a _Theories of Change (ToC)_ framing, introduces opportunities for progress, arranged as four different trajectories of change that could be executed to pursue better HDR. These approaches are illustrated with designs and illustrations to explain possible strategies, and interspersed with a further [5 insights](#inset-boxes-c9) that could seed future actions to tackle the aforementioned obstacles and pursue the change trajectories, improving the HDR landscape.
 
-[Chapter 10](#chapter-10) concludes the thesis, reflecting first on this researcher's journey [[10.1](#10.1)], before summarising the legacy and contributions of this body of work [[10.2](#10.2)], positioning HDR and this thesis as call to arms for activist research and innovation to tackle the power imbalance around personal data in society.
+[Chapter 10](#chapter-10) concludes the thesis, reflecting first on this researcher's journey [[10.OLD1](#10.OLD1)], before summarising the legacy and contributions of this body of work [[10.OLD2](#10.OLD2)], positioning HDR and this thesis as call to arms for activist research and innovation to tackle the power imbalance around personal data in society.
 
 ---

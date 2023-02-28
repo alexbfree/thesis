@@ -106,7 +106,7 @@ This second research objective will be tackled in tandem with the first, so that
 Overview of Activities by Research Context{#3.4}
 ------------------------------------------
 
-<span class="editnote">make this part more minimal</span>
+<span class="editnote">make this part more minimal; mention the industrial research activities as well as case studies</span>
 <span class="movenote">move most of this detail into new 'start of section II' part</span>
 
 In this section, I will introduce the two contexts in which the research questions are explored, and both the preliminary activities and Case Studies undertaken in each context.

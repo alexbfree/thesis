@@ -4,8 +4,15 @@ Defining a New Field: Human Data Relations {#chapter-7}
 > _"What drives and drags the world are not machines, but ideas."_
 >—Victor Hugo (19th century poet)
 
+<span class="editnote">update chapter, make it more differentiated from HDI, etc, setting the objectives</span>
+<span class="editnote">research agenda not a field</span>
+<span class="editnote">remove refs to part two</span>
+
 Introduction to Part Two{#7.1}
 ------------------------
+
+<span class="editnote">collapse/remove this section to elsewhere</span>
+<span class="editnote">replace this with a different intro leading into the definition from last chapter</span>
 
 [Chapter 6](#chapter-6) concluded the academic inquiry part of this thesis. We now know, backed up by the insights from the Case Studies' participants, what people want from direct RQ1 [[3.3.1](#RQ1)] and indirect RQ2 [[3.3.2](#RQ2)] data relations. That is, however, not the end of the story. Bringing to bear my experience as a designer and software developer, I can advance the exploration of this problem space further, turning from theory to practice, from what is needed to what is possible. It has been my good fortune to have been involved throughout the duration of this PhD with peripheral activities that also can be seen, in the context of this thesis' findings, to relate very much to the pursuit of personal empowerment and human-centric data use. For Part Two, therefore, I expand the original research question, going beyond the initial RQ [[2.4](#RQ)] which asks what relationship people want with their personal data, and explore how those desires could be met in practice:
 
@@ -19,6 +26,8 @@ In this chapter, I position the topic of this thesis as a field of study in its 
 
 Peripheral Research & Design Settings{#7.2}
 ------------------------
+
+<span class="movenote">replace this with a different intro leading into the definition from last chapter</span>
 
 As established earlier [[3.6](#3.6)], Part Two explores the wider action research [[3.2.2](#3.2.2)] cycle that has contributed to my evolving learning about HDR, looking beyond direct academic investigation and drawing upon both self-experimentation and my embedded work in in the PDE space [[2.3.4](#2.3.4)] as both developer and researcher. Through field experience, I have understood constraints and opportunities that affect data interaction system and process design. Concurrently,I have fed research learnings back into those projects, creating practical impact. Instead of conducting formal studies, I have undergone a process of acculturation to the world of practical system building and project operation in the PDE. Through design, technical prototyping and pushing boundaries of existing systems, I have developed knowledge and gained expertise which allows me to draw conclusions with confidence about how the discipline of Human Data Relations (which I define below) should proceed in its future R&D to best serve individual and societal interests.
 

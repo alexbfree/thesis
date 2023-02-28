@@ -1,5 +1,15 @@
+<h1 class="title">Section IV: Operationalising the Research Agenda through Design & Practice</h1>
+
+<h2>Introduction to Section IV</h2>
+
+<span class="editnote">ADD NEW SUBSECTION INTRODUCING chapter 8 and 9 HERE</span>
+<span class="movenote">MOVE TEXT FROM ARI7.1 to 7.3 HERE and integrate</span>
+<span class="editnote">include something more thesis-structure based, looking ahead to what we will do in C8 and C9 and Why</span>
+
 Mapping the Human Data Relations Landscape {#chapter-8}
 ==========================================
+
+<span class="movenote">MOVE INSIGHTS TO CHAPTER 10</span>
 
 > _"There are certain things you do not in good conscience do to humans. To data, you can do whatever you like."_
 >—Nikhil Sonnad (data journalist and technology commentator)

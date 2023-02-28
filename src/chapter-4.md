@@ -1,8 +1,18 @@
+<h1 class="title">Section II: Understanding Attitudes and Desires through Participatory Case Studies</h1>{#section-ii}
+
+<h2>Introduction to Section II</h2>{#section-ii-intro}
+
+<span class="editnote">WRITE SECTION II INTRODUCING CASE STUDIES HERE</span>
+<span class="movenote">MOVE TEXT FROM 3.4 HERE </span>
+
 Case Study One: Access to Civic Data in Early Help {#chapter-4}
 ==================================================
 
 > _"If you can see the invisible, then you can see the possible and provide the opportunities for trust, commitment and ways of empowering others to manage their past, present and future."_
 >—Ken Wyatt (Australian politician, teacher and equal rights campaigner)
+
+<span class="editnote">add callbacks to literature</span>
+<span class="editnote">add callbacks to methodology</span>
 
 This chapter describes Case Study One, which involved four 2-hour participatory co-design workshops with local authority support workers, parents and children from supported families involved with _Early Help (EH)_ programmes [[3.4.1](#3.4.1)]. Its objectives were to understand family and staff attitudes to civic data holding (RQ1 [[3.3.1](#RQ1)]) and to explore the role of data within the support relationship (per RQ2 [[3.3.2](#RQ2)]). A model of _shared data interaction_, was explored, where supported families would interact with data together with their support workers.
 

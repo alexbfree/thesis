@@ -4,6 +4,9 @@ Practical Approaches to Improve HDR {#chapter-9}
 > _"The world is working exactly as designed. And it's not working very well. Which means we need to do a better job of designing it."_
 >—Mike Monteiro, author of _Ruined by Design: How Designers Destroyed the World, and What We Can Do to Fix It_
 
+<span class="editnote">UPDATE THIS TO REFER MORE EXPLICITLY BACK TO PLACEMENTS FROM SECTION IV INTRO</span>
+<span class="movenote">MOVE INSIGHTS TO CHAPTER 10</span>
+
 In this chapter, I take on the roles of adversarial designer, social activist and technical strategist, drawing upon:
 
  - the findings of Part One [[Chapter 6](#chapter-6)];

@@ -1,6 +1,8 @@
 Appendices {.unnumbered}
 ===========
 
+<span class="goodnote">good</span>
+
 A The Pilot Study: Published CHI 2018 Paper {#appendix-a .unnumbered}
 -------------------------------------------
 
@@ -17,6 +19,8 @@ The following 8 pages include three different ethical approvals
 
 Index of Key Ideas, Insights and Contributions {#hdr-index .unnumbered}
 ===============================================
+
+<span class="editnote">check all refs once finished</span>
 
 This section serves as an index to easily locate key HDR-related concepts, ideas and contributions that this thesis contributes.
 
@@ -161,6 +165,8 @@ The four approaches are collectively summarised in [9.6](#9.6), and explained an
 
 Glossary of Pre-Existing Abbreviations, Names and Terms {#glossary .unnumbered}
 ========================================================
+
+<span class="editnote">check all refs once finished</span>
 
 This section serves as a quick-reference glossary to explain abbreviations and existing terms used.
 
