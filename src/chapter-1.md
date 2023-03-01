@@ -21,6 +21,9 @@ This first section, Section I, provides a thorough background and explanation to
 Introduction{#chapter-1}
 =======================
 
+<span class="editnote">#actionable takeaway is I need to write somewhere about 'alternatives to consent' within chap 1 (indeed I reference it in TikTok example and SILVER). Notes: Lots of discussion around the role of consent (and issues of it being one time; severance model etc), but recall consent is only one of the legal grounds for data processing. What do you do when that is not the legal grounds for processing? How does this impact HDR? There are many others (fulfilling contract; public duty; legitimate interests). Thus, be careful that whilst consent may encourage a more relational dynamic (despite its current flaws), these other grounds could be used, and indeed could be seen as being designed in some ways to minimise input of subjects and to give a legal justification to processing for controllers, without need to engage with subjects.</span>
+<span class="editnote">make stronger references to Design in intro and elsewhere, and talk about what is feasible / implementable (maybe leading into that being explored in part two)</span>
+
 > _"My data is everywhere, and I am nowhere."_—Imogen Heap (musician and digital rights advocate), speaking at MyData 2019, encapsulating a core problem with modern digital life.
 
 Background and Motivation for this Research{#1.1}
@@ -84,7 +87,8 @@ Taken together, the two parts of this thesis can serve as novel and actionable r
 Nature and Contributions of the Thesis{#1.2}
 --------------------------------------
 
-<span class="editnote">Shrink Contributions / Make More Abstract & save detail for C10</span>
+<span class="editnote">Shrink Contributions / Make More Abstract & save detail for C10. can break down as qualitative understandings of lived experience and attitudes to data across two contexts, evidence of the impact of GDPR personal data access on trust and power, a proto methodology for educating people about data access and power, models and best practice guidelines for data holding orgs in public and private sector. HDR research agenda, extending HDI theory to invite and facilitate confrontation of the practical challenges of ld data and provider power</span>
+
 
 This section lists the 14 major contributions (**Cn**) of this thesis, which can be summarised as:
 
@@ -305,6 +309,8 @@ Part Two is adversarial design work and strategic planning, expanding the origin
 [Chapter 2](#chapter-2) contains a literature review. The first part [[2.1](#2.1)] examines the difference between data and information, outlines the central role data has taken in our society, why people need effective access to their data and how laws have been introduced to try and deliver this. The second [[2.2](#2.2)] serves as history of personal data interaction, from _Personal Information Management_ to the emergence of complex digital lives involving relationships with many data-holding providers. Finally, [2.3](#2.3) charts a path from _HCI_ and _HDI_ foundations through to the embracing of sociotechnical thinking around data and the current bleeding edge [@dictBleedingEdge] of human-centred innovation, leading to the primary academic Research Question (RQ) of this thesis:
 
 > _**"What relationship do people want with their personal data?"**_ [[2.4](#RQ)]
+
+<span class="editnote">remove ref to PAR</span>
 
 [Chapter 3](#chapter-3) describes the methodology used in this research, explaining first the constructivist ontology and pragmatist, individualist epistemology behind the approach [[3.1](#3.1)]. Then, the choice of participatory action research and co-design from a _Digital Civics_ standpoint is explained [[3.2](#3.2)]. The RQ above is split into two—RQ1 and RQ2 [[3.3](#3.3)]—and the contexts for the Case Studies are introduced from a 'what did I do?' perspective [[3.4](#3.4)]. Finally, the specific methods and techniques adopted in the research are explained and illustrated, including workshop activities, sentisation, stimuli and recruitment [[3.5](#3.5)].
 

@@ -7,6 +7,8 @@
 Discussion - An Understanding of What People Want in Data Relations{#chapter-6}
 ==================================================================
 
+<span class="editnote">add forward refs to limitations?</span>
+
 > _"For a participatory system to work, you need: a plausible promise, an effective tool, and an acceptable bargain."_
 >—Clay Shirky (author and journalist focused on the social and economic effects of Internet technologies)
 

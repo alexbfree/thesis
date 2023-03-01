@@ -15,8 +15,11 @@ Case Study Two: The Human Experience of GDPR {#chapter-5}
 > by Daniel Keys Moran
 > (computer programmer and science fiction writer)
 
-<span class="editnote">add callbacks to literature</span>
+<span class="editnote">add callbacks early on, making clear how it relates back to my lit review chapter esp wrt HDR and HCI</span>
 <span class="editnote">add callbacks to methodology</span>
+<span class="editnote">other changes per notes</span>
+<span class="editnote">add forward refs where useful</span>
+<span class="editnote">to consider: moving some methods. Examiner notes: Also consider moving some of the methodological, contextual details and framing from the initial chapters of the thesis (I think this was chapter 2) to each one of the case studies. This is particularly important for methods of data collection and analysis as it is hard to understand what you did and how (for both chapters 4 and 5) – i.e your findings are interesting, but can be questioned without clear description of methods of data collection and analysis.</span>
 
 In this chapter, I will describe the second case study of this PhD, in which I took 11 participants[^7] through an longitudinal in-depth one-on-one process of three interviews with coaching and support in between, with the total engagement per participant lasting approximately 4 hours over a three-month period. The purpose of the research was gain a deeper understanding of people's attitudes to the kinds of personal data held by companies in people's everyday lives and what they want from that data (in pursuit of RQ1) and specifically to examine the human experience of existing in a data-centric world [[2.1](#2.1)]. Each individual has a number of relationships with service providers that involve the use and holding of personal data. In line with RQ2, the goal is to better understand the role of that data in those relationships. In particular, having gained an initial understand of attitudes, hopes and expectations, a further objective was to examine how those expectations might change during the journey of digital life mapping, data request making, receiving and examining of data, and scrutiny of responses, collectively forming a holistic understanding of _the human experience of accessing your data with GDPR_.
 
@@ -96,6 +99,8 @@ Each participant's journey progressed at its own pace [[Figure 5.1](#figure-5.1)
 ![Figure 5.2: An Example Life Sketch from Interview 1, with Data Handling Companies in Red, Data Types in Blue, and Feelings in Green](./src/figs/fig5.2-sketch-interview.png){#figure-5.2}
 
 Interviews were audio and video recorded, then auto-transcribed using Google Recorder/Zoom, producing a 370,000-word corpus. Transcripts were split up and recombined across participants into six topic areas–digital life, company-specific discussions, general discussions, power, trust, and hopes/goals. These transcript topics were then analysed through reductive coding cycles to produce thematic findings [[5.4](#5.4)]. Quantitative data from interview spreadsheets was also summarised and analysed [[5.5](#5.5)]. Sketches, recordings, screenshots and field notes were referenced throughout thematic analysis to aid interpretation of the transcripts. The processes described here are further detailed in [ARI5.1](#ari-gdpr-data-analysis).
+
+<span class="editnote">Takeaway, need to go into a bit more detail in C5 about how we looked at data together (expand it to not just be paper-level summary). Notes: More detail on sensemaking in Chapter 5. In chapter 5, provide a few sentences in your methods to describe how the data that were received by GDPR requests were further explored / made sense from your participants. E.g. as you say in your thesis, your participants received their data in various forms and formats. How was the process of interview to allow them to reflect and understand their data? What were participants asked to do with that data after they received them?</span>
 
 GDPR Request Outcomes{#5.3}
 ---------------------
@@ -447,6 +452,10 @@ Today, individuals remain largely in the dark about the collection, use and shar
 
 Summation of Case Study Two{#5.6}
 ---------------------------
+
+<span class="editnote">add forward refs to limitations?</span>
+<span class="editnote">make stronger references to Design in intro and elsewhere, and talk about what is feasible / implementable (maybe leading into that being explored in part two)</span>
+<span class="editnote">(probably here)make clear that explainability does need to extend to automated decision making (if you can't explain what you are doing, and give me a right to object, you can't treat me according to it). Notes: To what extent should understanding around data and control of that data extend to how that is used in automated decision making systems? It is one thing to access and control data itself, but much less the infrastructures that surround it in making assessments, inferences based on that data etc.</span>
 
 Through a longitudinal study of 10 participants lasting three months, this case study has qualitatively, and to a lesser extent quantitatively, evaluated the human experience of using one's GDPR access rights and of living with data-centric service provider relationships.
 

@@ -275,7 +275,6 @@ This section serves as a quick-reference glossary to explain abbreviations and e
 - **PIM systems, subjective** - PIM systems that focus on the varied individual needs of users
 - **PIM systems, temporal** - PIM systems that represent information using timelines or other visualisations that highlight change over time
 - **PIMS** - Personal Information Management Services** - See Personal Data Lockers
-- **Participatory Action Research** - see Action Research
 - **PDE - Personal Data Economy** - the emergent marketplace of companies innovating and offering services relating to the management, self-exploitation or   - harnessing of one's personal data
 - **Personal Data Ecosystem** - the network of systems, accounts, files and digital information that constitutes an individual's digital life
 - **Personal Data Lockers** - a place to store personal data so that it can be united, unified and interpreted by the data subject

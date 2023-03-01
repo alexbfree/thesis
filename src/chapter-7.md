@@ -4,7 +4,8 @@ Defining a New Field: Human Data Relations {#chapter-7}
 > _"What drives and drags the world are not machines, but ideas."_
 >—Victor Hugo (19th century poet)
 
-<span class="editnote">update chapter, make it more differentiated from HDI, etc, setting the objectives</span>
+<span class="editnote">update chapter, make it more differentiated from HDI, etc, setting the objectives. notes: Making clearer the relationship between HDI and HDR where you see HDI as end goal, and HDR as roadmap for getting there.
+Also stressing the novelty of HDR as being practice orientated, and appreciative of the design implications of law and also industrial context of design (your USP). Key is to highlight what HDR does that HDI doesn’t. HDR can help surface problems (as GDPR studies shows), but also needs to be able to help address these (hence need to consider design recommendations in concluding chapter, or at very least lessons from the design interventions presented in Part B). Another point raised was HDI did not differentiate between information and data, which you do. It defines a direction of travel we are aiming towards – but HDR looks at reality of situation we are in (legally/organisational practice)... nevertheless, good to engage with HDI literature since 2014 paper to see how it has developed. </span>
 <span class="editnote">research agenda not a field</span>
 <span class="editnote">remove refs to part two</span>
 
@@ -13,6 +14,8 @@ Introduction to Part Two{#7.1}
 
 <span class="editnote">collapse/remove this section into section 3 intro</span>
 <span class="editnote">replace this with a different intro leading into the definition from last chapter</span>
+<span class="editnote">setting the scene on HDR: Now shift to operationalising HDR and the how
+detail. A big contribution is formulating the research agenda of HDR (human-data relations). How do HDR concepts of understandable, visible and usable differ from HDI tenets of legibility, negotiability and agency? Why do we need new field of HDR, what is wrong with HDI can't be further adapted (e.g. by adding new tenets alongside agency, negotiability, legibility)? What does HDR do that HDI cannot? make a much more clear statement of what HDR is and how it differs/relates to HDI.</span>
 
 [Chapter 6](#chapter-6) concluded the academic inquiry part of this thesis. We now know, backed up by the insights from the Case Studies' participants, what people want from direct RQ1 [[3.3.1](#RQ1)] and indirect RQ2 [[3.3.2](#RQ2)] data relations. That is, however, not the end of the story. Bringing to bear my experience as a designer and software developer, I can advance the exploration of this problem space further, turning from theory to practice, from what is needed to what is possible. It has been my good fortune to have been involved throughout the duration of this PhD with peripheral activities that also can be seen, in the context of this thesis' findings, to relate very much to the pursuit of personal empowerment and human-centric data use. For Part Two, therefore, I expand the original research question, going beyond the initial RQ [[2.4](#RQ)] which asks what relationship people want with their personal data, and explore how those desires could be met in practice:
 
@@ -150,6 +153,9 @@ As [Figure 7.2](#figure-7.2) shows, the need for data to be understandable, visi
 Better Human Data Relations as a Recursive Public{#7.8}
 -------------------------------------------------
 
+<span class="editnote">REMOVE REF TO PAR, ref general action research hybrid approach instead</span>
+<span class="editnote">Relatedly, with framing of the activist led nature of this work – given nascent nature of this potential community, need to flag engagement had been done with these groups more overtly as a movement (not just as research – as the author makes this division). add something reflexive, about having had contact with/been part of activist movements (esp Hestia I suppose)</span>
+
 Let us revisit the stance from which we approach this change. This PhD is grounded in participatory action research and experience-centred design [[3.2](#3.2)]. Using a _Digital Civics_ [@vlachokyriakos2016] approach to understand people's unmet needs, we can model how the world should change. Such research is political [[3.2.1](#3.2.1)], seeking to correct an imbalance in the world through _adversarial design_ [@disalvo2012]. Where Part One embraced participatory investigation, Part Two steps forward in the role of activist researcher, exploring how individuals and groups can actually change their world to meet the established understanding of what should change.
 
 In this, we can consider ourselves (those who pursue better HDR, or _HDR reformers_ as a shorthand) as a nascent _recursive public_ [@p2pwikiRecursivePublic]. This term originates in the free software movement to describe:
@@ -172,6 +178,8 @@ This idea of reconfiguring society in this way has been conceived as _civic hack
 - 'makers' [@altsitsiadis2021];
 - humane technology [@harris2013]; and
 - explainable AI [@explainableAI].
+
+<span class="editnote">make a better relationship/positioning HDR vs adversarial design. notes: Better situate the relationship between HDR and adversarial design. is it an activist orientation to data relations (adversarial design) – not necessarily? It can flag inadequacies in governance and call for systemic change by getting copy of data – exercise rights but also, it needs to attend to what design can achieve and role of designers. Need to better orientate relationship between HDI and adversarial design. </span>
 
 Summation: HDR—A Landscape Ready to Explore{#7.9}
 ---------------------------------

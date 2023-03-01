@@ -55,8 +55,8 @@ It is important to be clear about what constitutes good research in this context
 
 <span class="editnote">Remove all reference to PAR</span>
 <span class="editnote">Remove part A/partB split</span>
-<span class="editnote">Document the hybrid research approach</span>
-<span class="editnote">Update the action research diagram - in light of hybrid approach - to show proper spiral back and forth</span>
+<span class="editnote">Document the hybrid research approach. Make clear the two parallel aspects of my work - participatory research, and grounded practical experimentation, cycles of action research feeding into each other. not PAR</span>
+<span class="editnote">Update the action research diagram - Promote the dual participatory + industrial practice research - to show proper spiral back and forth. notes: Reworking of Structure of Part B (and indeed consider disbanding Part A/B split) to draw together unique approach of the PhD as a whole by making clearer and owning the methodological approach where there was feedback between Part A/B and tracking the feedback loops. This includes revising diagrams to show this level of interaction (e.g.the downward arrows and timeline ones) and not separating out one (Part A) as academic and the other (Part B) as not – they are linked and need to make more of this. </span>
 
 The mixed methods approach I adopt closely follows the discipline of _participatory action research (PAR)_, which is an approach to research that encompasses both the involvement of participants' perspectives while also retaining a role for the reflection and learning of the researcher themselves. PAR's creator Kurt Lewin observed that 'there is nothing so practical as a good theory' [@lewin1951], highlighting the pragmatic nature of this approach. PAR combines self-experimentation, fact-finding, reasoning and learning, and makes sense of the world through collaborative efforts to transform the world rather than just observing and studying it [@chevalier2008]. Central to this is the idea that research and action must be done with, not on or for, people; participants are not subjects but co-researchers, evolving and addressing questions together [@reason2001]. To embody the three ingredients of PAR [@chevalier2019]—participation, action, and research—my research includes three types of activity:
 
@@ -103,64 +103,7 @@ To tackle RQ2, participatory research approaches are again appropriate, as our q
 
 This second research objective will be tackled in tandem with the first, so that in each research setting we can examine the situation at two levels–to look introspectively at the individual's own relationship in service of RQ1 [[3.3.1](#RQ1)], but also to take a step back and look at the wider social context the individual is operating within, so that we might be better placed to answer RQ2 [[3.3.2](#RQ2)].
 
-Overview of Activities by Research Context{#3.4}
-------------------------------------------
-
-<span class="editnote">make this part more minimal; mention the industrial research activities as well as case studies</span>
-<span class="movenote">move most of this detail into new 'start of section II' part</span>
-
-In this section, I will introduce the two contexts in which the research questions are explored, and both the preliminary activities and Case Studies undertaken in each context.
-
-### Context One: Civic Data Access in the Early Help Context{#3.4.1}
-
-The first research context I explored in this PhD was _Early Help_. This is explained in more detail in [4.1](#4.1), but in brief: Early Help is a particular type of social support offered by UK local authorities as voluntary help to families who are considered to be at risk of falling into poverty, crime, truancy, addiction or other issues which are both problematic for the individuals and costly to the state. Families enrolled in the scheme meet a social worker (called a _support worker_ in this context) regularly who can provide advice and connect the family with appropriate health, lifestyle and social services to their needs.
-As part of this, the support worker has access to a variety of data from civic sources: school records, employment and benefits data, social housing data, criminal records, and more, so that they might be better informed about the family's situation. However, the families do not have any access to this data, and thus despite this being a scheme that is on the face of it intended to empower families to help themselves, it runs the risk of _disempowering_ the families through a data-centric power imbalance [2.1.2](#2.1.2). Therefore, this setting provides a very interesting context in which to examine both RQ1 [[3.3.1](#RQ1)] (finding out how these supported families feel about their data) and RQ2 [[3.3.2](#RQ2)] (examining the impacts of data use within a service relationship) as well as to explore how the families and support workers could imagine their data relations being improved.
-
-Within this context I carried out three research activities between 2017 and 2019:
-
-<a name="3.4.1.1">**Embedded Research Placement in CHC SILVER Project**</a>
-
-From March 2017 to March 2019, I joined Connected Health Cities' _SILVER_ project [@ConnectedHealthCities2017silver] as a part-time research engineer alongside my PhD. This research project was funded by the UK's Department for Health (now the Department of Health and Social Care) and brought together local authorities, health authorities, University researchers and technology partners in the North East of England, in the Early Help context. Its goal was to explore how to unify civic data about a supported family, with their consent, to allow support workers to provide better care to those families. This made it an ideal place to explore my research objectives. It used direct research with families and support workers to inform the system requirements. This also provided an opportunity to deepen understanding of the use of data within Early Help support relationship (RQ2), and both parties' attitudes to this highly personal and real civic data (RQ1). My role was two-fold: as a software engineer, to design and develop user interfaces that would be used to view this unified data (forming the first peripheral research setting [[7.2](#7.2)]), and as a participatory researcher, to assist with the design and execution of focus groups and workshops with staff and supported families that could inform the proof-of-concept data system being built. The embedded placement is not considered a major case study of this thesis; however, it has contributed to the research objectives and the developing understandings of this context so will be referenced in the subsequent chapters, especially Chapters [4](#chapter-4), [8](#chapter-8] and [9](#chapter-9). The final report from the project was not published but a public summary is available [@NorthernHealthScienceAlliance2020].
-
-<a name="3.4.1.2">**Pilot: Understanding Family Civic Data Study**</a>
-
-In the summer of 2017, in the MRes year of this doctoral training programme (alongside my involvement with the SILVER project), I carried out an initial participatory field study in order to deepen my understanding of data use and attitudes within this context and to develop appropriate research methods. This study consisted of home visits to four different families in the North East who had interacted in the past with social care & support services. During the course of these two-hour visits, I carried out participatory co-design activities and interviewed the families (both adults and children) about their civic data, and in particular their views on how risky different types of data were and how that data should be handled. Fieldwork took place prior to the start of this PhD; however, the data analysis and publication of the findings took place within the scope of this PhD, and directly inform the main Case Study, both methodology and as prior work to build upon. The pilot study was published as a first author paper [@bowyer2018family], as described in [1.3.1](#1.3.1), which is also included in full in [Appendix A](#appendix-A).
-
-<a name="3.4.1.3">**Case Study One: Data Interaction in Early Help Study**</a>
-
-In the summer of 2018, informed by the SILVER project and the pilot study, I designed and conducted my first major case study of this thesis: a series of three participatory co-design workshops with people directly involved in _Early Help_ relationships in North East England. The workshops were funded by CHC, and were led by myself. They were designed with a dual purpose: to inform the design of the SILVER system but also to serve RQ1 [[3.3.1](#RQ1)] and RQ2 [[3.3.2](#RQ2)] of this thesis. These workshops sought initially to validate findings from SILVER's earlier research and my pilot study. Once this had been done, the main objective of this phase was to develop a deeper understanding of what supported families (workshop 1) and support workers (workshop 2) perceive as problems with data use in the Early Help context, and to explore perceived solutions to these problems. A second phase workshop (workshop 3) was specifically designed to focus on the use of data _within the support relationship_ [[4.2.4](#4.2.4)], and was a joint workshop involving staff and parents working together. This case study is described in detail as [Chapter 4](#chapter-4), and contributes to the general findings about RQ1 [[3.3.1](#RQ1)] and RQ2 [[3.3.2](#RQ2)] presented in [Chapter 6](#chapter-6).
-
-### Context Two: Accessing Your Personal Data Using GDPR{#3.4.2}
-
-From the start, a core motivation for my interest in this research has been to look at the power imbalance around personal data from the _everyday life_ perspective–to explore our relationship with and through the data that we hold, use or live with as we go about our lives, online and in person. This power imbalance seems to touch everyone, and therefore for my second research context I chose not to focus on a particular community or group but to look at these problems at the level of ordinary day-to-day digital life. I designed research activities where I would talk to people about their everyday experiences of data in their lives RQ1 [[3.3.1](#RQ1)] and their views on the usage of data within their relationships with commercial or civic service providers RQ2 [[3.3.2](#RQ2)] . In 2018, during this PhD, the European Union's GDPR regulations came into force, enabling people to obtain copies of their own data. This enabled me to take the research deeper than a simple conversation. I was able to guide my participants through the GDPR process to obtain their data from providers, and then to use this retrieved data as stimulus for discussion. This would, I hoped, result in a far more grounded and less theoretical perspective.
-
-<a name="3.4.2.1">**Formative Research in Personal Data and Digital Life**</a>
-
-As initial explorations into this context, I carried out three pilot activities between 2016 and 2019:
-
-In late 2016, during the MRes programme, I conducted qualitative research in order to validate my own perspectives on useability<sup>[10](#fn10)</sup> and to explore attitudes to everyday technology use. I interviewed three participants about smartphone use, with particular attention to perceived usefulness or barriers. I sought to understand what motivates people as users of technology, an important consideration when looking at disempowerment. Findings from this pilot [@bowyer2016] contribute to the interpretations expressed through [Chapter 5](#chapter-5) and [Chapter 7](#chapter-7).
-
-In order to dig deeper into data attitudes and trial methodological approaches, I conducted 5 two-hour interviews with individuals about their digital lives, looking at how they mentally segment their life, and the roles and functions of different technologies, and especially of data, across those different parts of their lives. I began to explore participants' perceptions of their relationships with service providers, identifying potential disempowerment or pain points. The interviews were conducted using the Sketching Dialogue [@hwang2021] technique, which uses collaborative sketches as a basis for a semi-structured interview. A light analysis of the recordings and data was carried out. This trial investigation helped to inform design of the main study, but findings were not formally documented or published.
-
-As preparation for Case Study Two, it was vital to become well-versed in the GDPR. Since 2018 I have practiced obtaining my own data from companies and organisations in my life. This has entailed over 70 GDPR requests to a variety of organisations including retailers, device manufacturers, online service providers, local and health authorities, banks and leisure services. Additionally, I have experimented with self-service download dashboards and third-party 'get my data' tools. In some cases, I have engaged providers in communication to try and get better data or ask questions about my data. These activities have provided multiple benefits:
-
-- they have enabled me develop a detailed understanding of what actual stored personal data looks like [[Figure 3.6](#figure-3.6)];
-- they have given me an awareness of the evolving response to GDPR from data-holding organisations and an understanding of the limits of what is and is not possible with GDPR.
-- These investigations also contribute as peripheral research activities to Part Two, and one particular self GDPR experience with Spotify is used to illustrate how an individual can influence a provider using GDPR [[Insight 9](#insight-9)].
-
-<a name="3.4.2.2">**Case Study Two: The Human Experience of GDPR**</a>
-
-The major study for this context was to guide participants through the process of GDPR and retrieving their own personal data, to enable a conversation that included not only attitudes to personal data and the use of data within service relationships, but discussion of how those attitudes were changed by the experience as it happened and how well expectations and hopes were met by the process. 11 participants were engaged 1-on-1 in a 4- to 5-hour process over a series of months which involved five stages:
-
-1. Sensitisation, using a set of wall posters about data holding organisations, types of personal data, GDPR rights and possible uses for your retrieved data
-2. A life mapping exercise, similar to that in [3.4.2](#3.4.2.1), using the _Sketching Dialogue_ [@hwang2021] technique, at the end of which 3-5 target companies were selected for GDPR.
-3. A discussion and guided walkthrough of the target organisations' privacy policies, in particular their stated data collection practices.
-4. Guidance and support in making and seeing to conclusion a GDPR request from each individual to each of their target organisations
-5. A 2-hour interview in which participants were guided through the reviewing their data and were asked about their experiences and reactions to the data and the GDPR process.
-
-Through these stages the objectives were to understand how people view the data that exists about them as they go about their everyday life and what they would ideally want from it (in service of RQ1 [[3.3.1](#RQ1)]), as well as what role data plays in their relationships with companies and other data-holding organisations in their lives, and what they would ideally want from those relationships with respect to data (in service of RQ2 [[3.3.2](#RQ2)]).
-
-In the final data exploration interviews, which were conducted online over Zoom due to COVID-19 restrictions, a spreadsheet-based approach was used, where participants were walked through a series of Yes/No questions about different categories of their data, and then asked to expand verbally on their reasoning. This produced both qualitative and quantitative data for later analysis. This case study is described in detail as [Chapter 5](#chapter-5), and contributes to the general findings about RQ1 [[3.3.1](#RQ1)] and RQ2 [[3.3.2](#RQ2)] presented in [Chapter 6](#chapter-6).
+<span class="editnote">renumber section</span>
 
 Methodologies Employed in Case Studies{#3.5}
 --------------------------------------
@@ -197,7 +140,7 @@ Sensitisation activities can also serve an additional purpose of bringing dispar
 
 ### Discussion and Exploration with Stimuli{#3.5.2}
 
-<span class="goodnote">good</span>
+<span class="editnote">add a few words/refs to big up the data cards a bit more (maybe a contribution in the intro too? ). notes: The value of cards based tools for ideation and situating legal/ethical discussions in context, so was pleased to see the family civic data cards being used as a tool to facilitate reflection and discussion (cf. The Moral IT Deck link). You could have made more of this development too as a novel approach if you wanted to, as a toolkit for engaging empirically around policy/law (as these tools are lacking, despite calls from legal frameworks to support design of more legally informed systems e.g., GPDPR data protection by design and default).</span>
 
 ![Figure 3.5: Family Civic Data Cards - Things to Think With](./src/figs/fig3.5-data-cards.jpg){#figure-3.5}
 
@@ -295,7 +238,7 @@ Summation: Towards an Understanding of Better Data Relations
 ------------------------------------------------------------
 
 <span class="editnote">update 3.6 so it doesn't mention part A/B and ties in with previous</span>
-<span class="editnote">rewrite to round up section 1 and set up section 2</span>
+<span class="editnote">rewrite to round up section I and set up section II. conclude with what will happen in next two sections</span>
 
 ![Figure 3.14: How the Case Studies and Peripheral Activities Contribute to This Thesis](./src/figs/fig3.14-rqs-and-activities.jpg){#figure-3.14}
 

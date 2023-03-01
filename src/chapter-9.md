@@ -5,6 +5,9 @@ Practical Approaches to Improve HDR {#chapter-9}
 >—Mike Monteiro, author of _Ruined by Design: How Designers Destroyed the World, and What We Can Do to Fix It_
 
 <span class="editnote">UPDATE THIS TO REFER MORE EXPLICITLY BACK TO PLACEMENTS FROM SECTION IV INTRO</span>
+<span class="editnote">Make sure it makes sense without the insights, edit as needed</span>
+<span class="editnote">c9 framing: Ch 9 operationalises the HDR agenda. Proposes a series of focal domains but is less coherent than some of the earlier chapters in clearly mapping out how all of the elements of the HDR agenda fit together. Highlights emerging domain of work, and figuring out how to operationalise the principles and objectives will take time (and does provide some nice examples). I need to add some more HDR framing stuff showing how these different parts in Chap 9 fit together overall and relate to the agenda  (refer back to section III)</span>
+<span class="editnote">Notes on operationalising: Reframing that this is not PAR, due to lack of feedback loop from AR interventions. There is iterative process. Actually your approach can be justified as something novel in its own right due to your placements helping you understand how to operationalise HDR. Need to unpack the lessons around operationalising. </span>
 
 In this chapter, I take on the roles of adversarial designer, social activist and technical strategist, drawing upon:
 
@@ -42,6 +45,12 @@ These two splits produce four dimensions of change, and form four quadrants repr
 - _**Collective/External (CE)**_: This bottom-right quadrant represents changes to the structures and procedures within which people operate, including technology, law, societal norms and communications.
 
 Key to ToC thinking is the idea that making changes in one quadrant can stimulate change in others; for example, collective learning about data attitudes and practices, such as the research conducted in this PhD (lower left quadrant), could inform the design of new technologies, interfaces or processes (lower right quadrant), which if built could make new structures available to have an impact on improving individual-provider relationships (upper-right quadrant). The changes to those relationships could then in turn lead to individuals thinking and feeling differently (upper left quadrant), for example feeling more empowered or having greater awareness of data practices. The diagram at the start of each of the following four subsections illustrate that approach's trajectory of change through the ToC quadrants.
+
+### Additional Background: Databox
+
+<span class="editnote">add links and text about databox, and links to the EDPS report</span>
+<span class="editnote">number this section and everything else accordingly</span>
+<span class="editnote">notes: https://workflowy.com/#/193639c56821</span>
 
 Approach 1 to Improving HDR: Discovery-Driven Activism{#9.2}
 ------------------------------------------------------

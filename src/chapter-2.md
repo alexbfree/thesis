@@ -4,7 +4,9 @@ Literature Review {#chapter-2}
 > _"We are the sources of surveillance capitalism's crucial surplus: the objects of a technologically advanced and increasingly inescapable raw-material-extraction operation."_
 >—Shoshana Zuboff (Harvard professor, social psychologist and author)
 
-<span class="editnote">add new literature from examiners</span>
+<span class="editnote">add new literature from examiners. Notes: Need to situate within bodies of critical and social science literature more effectively. Suggestions: Governance of Privacy – Raab and Bennett; Surveillance Society – Lyon; Understanding Privacy – Solove; Right to an Explanation – Edwards and Veale; Data Protection Law – Lynskey; Handbook of DP Law – Kosta; Data Selves - Lupton ; Value Sensitive Design – Friedman et al; See Databox/PIMS/DP Law suggestions from Part 2. (also suggested: HDI literature since 2014 paper to see how it has developed)</span>
+<span class="editnote">add more social science lit, per suggestions</span>
+<span class="editnote">identify and add specific ref talks about relationality of data</span>
 
 Understanding Data and its Role in Today's World{#2.1}
 ------------------------------------------------
@@ -47,6 +49,8 @@ In 2017, the average American Internet user had 150 online user accounts with di
 > _"An asymmetry of power exists today […], created by an imbalance in the amount of information about individuals held by industry and governments, and the lack of knowledge and ability of the same individuals to control the use of that information."_—World Economic Forum [@wef2011; @wef2013; @wef2014context; @wef2014lens].
 
 ### Legislating to Protect Personal Data: The Story So Far{#2.1.3}
+
+<span class='editnote'>review link around DP law and update C2. To improve section around DP law: Erdos is useful on history of DP law - link for additions around early Swedish and German DP Acts.</span>
 
 Since as early as 1973, the need to protect individuals' rights over their data has been recognised [@USDOHEW1973]. The 37-nation organisation OECD in 1980 stated that:
 
@@ -228,6 +232,8 @@ An Alternative to Data-centrism: Human-centricity{#2.3}
 -------------------------------------------------
 
 ### Human-Computer Interaction (HCI) Foundations{#2.3.1}
+
+<span class="editnote">add more HCI refs per suggestions</span>
 
 Up until the 1980s, the only reasons to consider the relationship between a human and the computer they were using were ergonomics, comfort and efficiency. People were shielded from the complexities of the machines they were using—the machine did the work (usually a single task) and the human was just the _operator_. In the 1990s, the 'first wave' of what is now known as _Human-Computer Interaction (HCI)_ recognised humans as _actors_, often operating in groups, who had tasks to perform either using or assisted by technology [@bannon1995]. People were now _users_ of technology. Design thinking shifted from machine-centric to _user-centric design (UCD)_, motivated by the goal of helping the user to perform their tasks better. In the personal computer revolution of the 1990s, people began to work in complex and varied multi-user situations, and observation and understanding of a user's working environment and _context_ provided empathy that enabled better design.
 
