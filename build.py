@@ -37,7 +37,7 @@ def buildThesis(format):
 
     # Finish the bulk of arguments
     args.append("src/bibliography.md") # this always comes last after the chapters
-    args.extend(["-s", "--toc", "--toc-depth=3", "--self-contained", "--number-sections", "--top-level-division=chapter", "--citeproc", "--output={}{}".format(outputPath, filename)])
+    args.extend(["-s", "--toc", "--toc-depth=3", "--embed-resources", "--standalone", "--number-sections", "--top-level-division=chapter", "--citeproc", "--output={}{}".format(outputPath, filename)])
 
     # Add for pdf (avoid latex pdfs)
 
@@ -69,7 +69,7 @@ def buildFile(filename, format, chapterNumber=None):
     outputFile = "{}.{}".format(filename,format)
 
     # Build the initial pandoc command to build the file
-    args = ["pandoc", "src/index.md", "src/{}.md".format(filename), "src/bibliography.md" , "--citeproc", "--output={}{}".format(outputPath,outputFile), "-s", "--toc", "--toc-depth=3", "--self-contained", "--number-sections"]
+    args = ["pandoc", "src/index.md", "src/{}.md".format(filename), "src/bibliography.md" , "--citeproc", "--output={}{}".format(outputPath,outputFile), "-s", "--toc", "--toc-depth=3", "--embed-resources", "--standalone", "--number-sections"]
 
     # Append the pdf args for if they try to build a PDF file
     if format == "pdf":
