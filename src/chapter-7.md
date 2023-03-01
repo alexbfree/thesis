@@ -11,7 +11,7 @@ Defining a New Field: Human Data Relations {#chapter-7}
 Introduction to Part Two{#7.1}
 ------------------------
 
-<span class="editnote">collapse/remove this section to elsewhere</span>
+<span class="editnote">collapse/remove this section into section 3 intro</span>
 <span class="editnote">replace this with a different intro leading into the definition from last chapter</span>
 
 [Chapter 6](#chapter-6) concluded the academic inquiry part of this thesis. We now know, backed up by the insights from the Case Studies' participants, what people want from direct RQ1 [[3.3.1](#RQ1)] and indirect RQ2 [[3.3.2](#RQ2)] data relations. That is, however, not the end of the story. Bringing to bear my experience as a designer and software developer, I can advance the exploration of this problem space further, turning from theory to practice, from what is needed to what is possible. It has been my good fortune to have been involved throughout the duration of this PhD with peripheral activities that also can be seen, in the context of this thesis' findings, to relate very much to the pursuit of personal empowerment and human-centric data use. For Part Two, therefore, I expand the original research question, going beyond the initial RQ [[2.4](#RQ)] which asks what relationship people want with their personal data, and explore how those desires could be met in practice:
@@ -27,16 +27,16 @@ In this chapter, I position the topic of this thesis as a field of study in its 
 Peripheral Research & Design Settings{#7.2}
 ------------------------
 
-<span class="movenote">replace this with a different intro leading into the definition from last chapter</span>
+<span class="movenote">move this into section 3 intro</span>
 
 As established earlier [[3.6](#3.6)], Part Two explores the wider action research [[3.2.2](#3.2.2)] cycle that has contributed to my evolving learning about HDR, looking beyond direct academic investigation and drawing upon both self-experimentation and my embedded work in in the PDE space [[2.3.4](#2.3.4)] as both developer and researcher. Through field experience, I have understood constraints and opportunities that affect data interaction system and process design. Concurrently,I have fed research learnings back into those projects, creating practical impact. Instead of conducting formal studies, I have undergone a process of acculturation to the world of practical system building and project operation in the PDE. Through design, technical prototyping and pushing boundaries of existing systems, I have developed knowledge and gained expertise which allows me to draw conclusions with confidence about how the discipline of Human Data Relations (which I define below) should proceed in its future R&D to best serve individual and societal interests.
 
 Concurrent to this PhD, I took a major role in two industrial research projects (1 & 2), and two academic research projects (3 & 4):
 
-  1. **BBC R&D's Cornmarket Project** [@sharp2021], which explored through user experience design, technical prototyping and participatory research, how individuals might interact with data through a Personal Data Store interface [see [ARI7.1](#ari-bbc)];
-  2. **Sitra/Hestia.ai's _digipower_ Investigation** [@härkönen2022project], a successor to Case Study Two, in which European politicians examined companies' data practices through exercising data rights and conducting technical audits [see [ARI7.2](#ari-digipower)];
+  1. **BBC R&D's Cornmarket Project** [@sharp2021], which explored through user experience design, technical prototyping and participatory research, how individuals might interact with data through a Personal Data Store interface [see [ARI7.1OLD](#ari-bbc-OLD)];
+  2. **Sitra/Hestia.ai's _digipower_ Investigation** [@härkönen2022project], a successor to Case Study Two, in which European politicians examined companies' data practices through exercising data rights and conducting technical audits [see [ARI7.2OLD](#ari-digipower-OLD)];
   3. **Connected Health Cities (CHC)'s SILVER Project** [@ConnectedHealthCities2017silver], where I, along with a backend developer and a team of researchers, developed a prototype health data viewing interface for Early Help support workers [see [3.4.1](#3.4.1.1)]; and
-  4. **Digital Economy Research Centre (DERC)'s Healthy Eating Web Augmentation Project**, which explored the use of web augmentation techniques to modify the user interface of takeaway service _Just Eat_ to include health information, in support of healthy eating [see [ARI7.3](#ari-derc)].
+  4. **Digital Economy Research Centre (DERC)'s Healthy Eating Web Augmentation Project**, which explored the use of web augmentation techniques to modify the user interface of takeaway service _Just Eat_ to include health information, in support of healthy eating [see [ARI7.3OLD](#ari-derc-OLD)].
 
 For additional details about these projects and my involvement in them, see the linked sections. See also [ARI7.4](#ari-attribution) for a note about the attribution and origin of the ideas presented within this chapter.
 
@@ -61,7 +61,22 @@ Having scoped HDR, we see that 'better' HDR can be achieved by working to empowe
 The Role of Personal Data {#7.4}
 -------------------------
 
+<span class="editnote">Renumber Table ARI5.2 (#table-ari7.1) throughout</span>
+
 Today, almost anything can be encoded as data. Many previously analogue objects and activities now have digital equivalents, so the concept of data has become broad and hard to pin down. Underlying HDR is a need to recognise what roles data can play in people's lives—what it _is_ to people. I have so far identified eight distinct lenses to explain how people might relate to data—including as property, as memory and as creative work. These are modelled in [Table ARI5.2](#table-ari5.2).
+
+<a name="table-ari7.1">Way of thinking about data</a> | Explanation & Implications |
+|:--------|:---------------------------------------------------|
+| Data as property|Data can be considered as a possession. This highlights issues of ownership, responsibility, liability and theft.|
+| Data as a source of information about you|Knowing that data contains encoded assertions about you and can be used to derive further conjectures enables thinking about how it might be exploited by others, but also how you can explore and use it yourself for reflection, asking questions, self-improvement and planning. It invites consideration of the right to access, data protection, and issues around accuracy, fairness and misinterpretation / misuse.|
+| Data as part of oneself|A photo or recording of you, or a typed note or search that popped into your head could be deeply personal. This lens on data highlights issues around emotional attachment/impact, privacy, and ethics.|
+| Data as memory|Data can be considered as an augmentation to one's memory, a digital record of your life. This lens facilitates design thinking around search and recall, browsing, summarising, cognitive offloading, significance/relevance, and the personal value of data.|
+| Data as creative work|Some of the data we produce (e.g. writing, videos, images) can be considered as an artistic creation. This lens enables thinking about attribution, derivation, copying, legacy and cultural value to others.|
+| Data as new information about the world|Data created by others can inform us about previously unknown occurrences in our immediate digital life or the wider world. This lens is useful for thinking about discovery, recommendations, bias, censorship, filter bubbles, and who controls the information sources we use, as well as who will see and interpret data that we generate and what effects our data has on others.|
+| Data as currency|Many data-centric services require data to be sacrificed in exchange for access to functionality, and some businesses now explicitly enable you to sell your own data. This lens highlights that data can be thought of as a tradable asset, and invites consideration of issues of data's worth, individual privacy, exploitation and loss of control.|
+| Data as a medium for thinking, communicating and expression|Some people collect and organise data into curated collections, or use it to convey facts and ideas, to persuade or to evoke an emotional impact. This lens is useful to consider data uses such as lists, annotation, curation, editing, remixing, visualisation and producing different views of data for different audiences.|
+
+Table: Table ARI7.1 - Eight Lenses on Personal Data.
 
 People may think of their personal data through any or all of these _lenses_ [@karger2005; [2.2.2](#2.2.2.5)] at any given time. Any data interaction process or interface design should take these into account. Different informational representations might be needed at different times [@lindley2018], bringing different aspects of the data to the forefront. Looking across these lenses, I identify four specific _roles_ that data can serve:
 

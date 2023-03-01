@@ -101,7 +101,7 @@ Lists of Tables by Chapter {.unnumbered .unlisted}
 
 - [ARI4.1](#table-ari4.1) - Example Categories of Family Civic Data
 - [ARI5.1](#table-ari5.1) - Best and Worst Data Holders for GDPR, according to Participants' Judgements
-- [ARI7.1](#table-ari7.1) - Eight Lenses on Personal Data
+- [ARI7.1OLD](#table-ari7.1) - Eight Lenses on Personal Data
 
 Lists of Figures by Chapter {.unnumbered .unlisted}
 ---------------------------
@@ -199,7 +199,7 @@ Lists of Figures by Chapter {.unnumbered .unlisted}
 - [ARI5.1](#figure-ari5.1) - Screenshot from _Quirkos_ During Coding Process
 - [ARI5.2](#figure-ari5.2) - Screenshot from _Quirkos_ at End of Coding Process
 - [ARI5.3](#figure-ari5.3) - Screenshot from _Workflowy_ During Theme Construction
-- [ARI7.1](#figure-ari7.1) - Screenshot from a Web Augmented version of the _Just Eat_ Website
+- [ARI7.1OLD](#figure-ari7.1) - Screenshot from a Web Augmented version of the _Just Eat_ Website
 
 List of Inset Boxes by Chapter{#inset-boxes .unnumbered .unlisted}
 ------------------------------

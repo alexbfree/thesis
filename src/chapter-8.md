@@ -2,14 +2,94 @@
 
 <h2>Introduction to Section IV</h2>
 
-<span class="editnote">ADD NEW SUBSECTION INTRODUCING chapter 8 and 9 HERE</span>
-<span class="movenote">MOVE TEXT FROM ARI7.1 to 7.3 HERE and integrate</span>
+<span class="editnote">write text introducing overall placement work and outline for chapter 8 and 9 here</span>
+<span class="movenote">integrate pasted subsections from ARI7</span>
+<span class="editnote">add a subsection about SILVER development</span>
 <span class="editnote">include something more thesis-structure based, looking ahead to what we will do in C8 and C9 and Why</span>
+
+<h3>ARI7.1.OLD BBC R&D's Cornmarket Project</h3><a name='ari-bbc-OLD'/>
+
+<span class="editnote">edit this for its new context</span>
+<span class="editnote">renumber this as IV.1</span>
+
+I took a three-month sabbatical from my PhD in the summer of 2020. I was remotely embedded within a full-time research internship at **BBC R&D** - the British Broadcasting Corporation (BBC)'s Research and Development (R&D) department [@bbc1997rd], working with specialists, designers, researchers and developers on an exploratory research project codenamed _Cornmarket_. I continued this involvement as a part-time research consultant and critical friend for a further 5 months after the conclusion of the initial three-month placement.
+
+As part of its Royal Charter, one of the BBC's lesser known obligations is to maintain a centre of excellence for research and development in broadcasting and electronic media, and to this end it employs over 200 researchers in its R&D department looking at everything from AV engineering and production tools to new forms of media, virtual reality, digital wellbeing and human data interaction [@bbc1997rd]. The Cornmarket project, launched in 2019, is a BBC-internal human-data interaction research project which explores a possible role for the BBC as it moves beyond broadcast television, using its public service responsibility to guide citizens to a position of empowerment within today's digital landscape - encompassing not just entertainment but health, finance and self-identity. Due to its unique funding from UK-wide TV licensing and its duties to not only entertain but to inform and educate the general public, the BBC is uniquely placed to take a more human-centred approach than commercial innovators in this space as it needs only to deliver value, not profit. The project is exploring the use of Solid [@bernersLee2022inruptSolid] technology to build a working Personal Data Store (PDS) prototype [[2.3.4](#2.3.4)] while also developing, iterating and trialling user interface designs and conducting participatory research interviews and activities all to explore what for a BBC PDS might take and what features its potential users might value.
+
+The proposed BBC Cornmarket product, internally called _My PDS_, would allow people to populate a PDS with personal data from APIs and data downloads from a variety of services including BBC iPlayer, Netflix, All4, Spotify, Instagram, Strava, Apple Health, banks and finance companies, as well as social media companies such as Facebook, LinkedIn and Twitter, and then to use these combined data sources to create personal _profiles_ for Health, Finance, Media (i.e. entertainment) and Core, within which various data insights, visualisations, capabilities would be delivered. One feature the work explores in depth as potentially valuable to users is the ability to include and exclude certain datapoints from the imported viewing history data in order to present a more accurate, curated view of oneself that could then be fed back to other applications such as BBC Sounds to give better content recommendations.
+
+With a cross-disciplinary team of around 20 people including architects, developers, user experience designers, product designers, innovators, participatory researchers and marketers, and funding to outsource public engagement research to agencies, this project represents a significant player in the emerging personal data economy [[2.3.4](#2.3.4)]. As such the Cornmarket project is a fertile ground in which to learn more from practitioners in the PDE space and to test the learnings of this thesis in practice while also finding deeper insights in response to my research questions - in particular RQ3 which is concerned with the building of more human-centric personal data interfaces in practice.
+
+Much of the work I did during this extended internship can be seen in the designs within [9.3](#9.3), as well as the research report I wrote [@bowyer2020bbcreport] and internship writeup [@bowyer2020internreport]. My work with the Cornmarket project can be seen as the concluding part of one of several action research cycles within my PhD [[3.2.2](#3.2.2)].
+
+An additional Figure from my time on Cornmarket that was not featured in the main body of the thesis is shown in Figure 7.1 below. This shows a screenshot from a functional prototype tool I produced during a hack week that allows the user to upload data retreived via GDPR or download portal, and proved the concept of programmatically identifying key entities [9.3.3](#9.3.3) and identifying time-labelled events for display as life information to users.
+
+![Figure ARI7.1: Prototype Entity Extractor and Time-Event Extractor](./src/figs/figARI7.1-prototype-gdpr-interface.png){#figure-ari7.1}
+
+A number of articles relating to the Cornmarket project have been published:
+
+  - Personal data stores: building and trialling trusted data services - BBC R&D [@sharp2021]
+  - Building trusted data services and capabilities (explainer videos) [@sharp2022bbcvideos]
+  - The BBC’s radical new data plan takes aim at Netflix (Wired) [@orphanides2021]
+  - Sir Tim Berners-Lee and the BBC stage a very British coup to rescue our data from Facebook and friends (The Register) [@goodwins2021]
+  - BBC and Sir Tim Berners-Lee app mines Netflix data to find shows viewers like (The Times) [@kanter2021]
+  - Stronger Together: Cross Service Media Recommendations (research paper) [@ibc2021]
+  - BBC wages war on online echo chambers with ‘unbiased’ tech (The Telegraph) [@woods2022]
+  - Richard Sharp (BBC Chairman) discusses Data management & privacy (video) [@parl2022bbc]
+
+<h3>ARI7.2.OLD Hestia.ai, and Sitra's _digipower_ Project</h3><a name='ari-digipower-OLD'/>
+
+<span class="editnote">edit this for its new context</span>
+<span class="editnote">renumber this as IV.2</span>
+
+Following the conclusion of the funded period of my PhD, I took up a near-full-time position as Project Leader and Personal Data Coach at **Hestia.ai** [@dehaye2019]), a startup based in Geneva, Switzerland. Hestia.ai is a company conducting research, developing technologies, and delivering training, in the emergent MyData/PDE space [[2.3.4](#2.3.4)]. In essence, the company's mission is to help individuals and especially collectives to more easily obtain and understand data held about them, and to help them visualise, aggregate and make use of that data. It is an example of a **data access and understanding services** company as described in [9.5.3](#9.5.3).
+
+I was specifically hired to co-lead the _digipower_ project [@härkönen2022project], for Hestia.ai's client, **Sitra** [@sitra1967]. Sitra is a non-profit organisation in Finland, funded by the Finnish Parliament and accountable to the Finnish people. The goal of the digipower project was to guide 15 European politicians, civil servants and journalists, through the process of obtaining and exploring their own data. The participants were high-profile VIPs, including the former Prime Minister of Finland and former European Commission Vice President, Jyrki Katainen. The goal was to empower those individuals to better understand the workings of the data economy, so that they might be able to influence others and effect change. One of Sitra's goals is to establish a fairer data economy [@sitra2018fairdata].  Methodologically, the project drew heavily on my own Case Study Two [[Chapter 5](#chapter-5)], adopting a similar method of guiding individuals through the process of making GDPR requests and scrutinising the returned data; I was employed on the project for this expertise. Where it differs from my own Case Study is that the focus of the research was outward, on the data economy and the practices of service providers, rather than inward, on the lived experience of the participants. Other differences included the building and use of software interfaces to provide participants with data visualisations, the use of TrackerControl software to audit mobile phone apps [[Insight 12](#insight-12)], and the direct analysis of participants' retrieved personal data by the Hestia.ai research team (whereas my Case Study explicitly avoided handling participants' personal data). The project resulted in three reports:
+
+- Sitra's official project report [@härkönen2022report]; and
+- Two technical research reports by Hestia.ai:
+  - A high-level interpretation of models of power and influence in the data economy [@pidoux2022]; and
+  - A detailed auditing of provider practices, evidenced by examples from participants' data [@bowyer2022hestia].
+
+At the time of publication of this thesis (August 2022), I continue to be employed by Hestia.ai, working on the research, design and development of tools to help collectives [[Insight 10](#insight-10)] with data, make data easier to understand [[6.1.2](#6.1.2); [7.7](#7.7)], and exploring methods to help people 'hack the seams' of digital platforms and services [[9.4](#9.4)].
+
+Where the [BBC internship](#ari-bbc-OLD) has helped me to understand the practicalities of connecting people with their personal data in pursuit of Life Information Utilisation [[7.6](#7.6.1)], my work with Hestia.ai has helped me understand the practicalities of how people might acquire greater Personal Data Ecosystem Control [[7.6](#7.6.1)]. In this sense, both peripheral activities have been highly complementary to developing an overview of the pursuit of HDR in practice.
+
+<h3>ARI7.3.OLD DERC's Healthy Eating Web Augmentation Project</h3><a name='ari-derc-OLD'/>
+
+<span class="editnote">edit this for its new context</span>
+<span class="editnote">renumber this as IV.3</span>
+
+As a software developer I have been aware for a long time that one of the biggest challenges in building new data interfaces is to gain programmatic access to the necessary data. As part of the trend towards cloud-based services and data-centric business practices, it has become increasingly difficult to access all of the data held about users by service providers. Application Programming Interfaces (APIs) are a technical means for programmers to access a user's data so that third-party applications may be built using that data. Unfortunately, as a result of commercial incentives to lock users in and keep data trapped [@abiteboul2015; @bowyer2018freedata], much of users' data can no longer be accessed via APIs [[8.4](#8.4.2)]. While GDPR data portability requests do open up a new option for the use of one's provider-collected data in third-party applications, this is an awkward and time-consuming route for both users and developers. **Web augmentation** provides a third possible technical avenue for obtaining data from online service providers. It relies on the fact that a user's data is loaded to the user's local machine and displayed within their web browser every time a website is used, and therefore it is possible to extract that data from the browser using a browser extension; this as another **seam** that can be hacked—see [9.4](#9.4) and [Insight 12](#insight-12). Similarly, once loaded into the browser, a provider's webpage can be modified to display additional data or useful human-centric functionality that the provider failed to provide.
+
+![Figure ARI7.2: Screenshot from a Web-Augmented version of the _Just Eat_ Website,<br/>showing hygiene information and offering additional sorting](./src/figs/figARI7.2-justeat-webaug.jpg){#figure-ari7.2}
+
+In order to better understand what is and is not possible using this technique, I participated part-time from 2018 to 2020 as the sole software engineer in a DERC (Digital Economy Research Centre) project. This project was using the web augmentation technique to explore how researchers could improve the information given to users of Just Eat, a takeaway food ordering platform in the UK. Hygiene Rating information for each outlet was added, as well as a feature to enable user to sort by hygiene rating, as shown in [Figure ARI7.1](#figure-ari7.1). The theoretical basis for this research was published in [@goffe2021; @goffe2022]. While this particular use case does not concern personal data, the technology and techniques being used by the project to exploit the browser seam were considered highly relevant to the exploration of HDR-improving possibilities, and the goals of the research project were also human-centric, and consistent with this thesis's research goals - tackling the hegemony of service providers in order to better serve individual needs.
+
+<h3>Developing a Health Data Interface within the SILVER project</h3><a name='IV.4'/>
+
+<span class="editnote">Write a section about SILVER dev</span>
+
+<h3>ARI7.4 Special Attribution Note for Part Two</h3><a name='IV.5'/>
+
+<span class="editnote">renumber this section and its link</span><a name='ari-attribution'>
+<span class="editnote">decide which parts this is most about, and update accordingly</span><a name='ari-attribution'>
+
+This is a note about the attribution of insights within Chapters [7](#chapter-7), [8](#chapter-8) and [9](#chapter-9), as the ideas originate quite differently than from the rest of the thesis.
+
+This thesis is my own work. All ideas synthesised in Part Two are original. Some of the specific details, theories and ideas presented in Part Two arose or were developed or augmented through my close collaboration, discussion and ideation with other researchers both alongside and prior to the PhD timeframe, including:
+
+  - Jasmine Cox, Suzanne Clarke, Tim Broom, Rhianne Jones, Alex Ballantyne and others at BBC R&D;
+  - Paul-Olivier Dehaye, Jessica Pidoux, Francois Quellec aand others at Hestia.ai;
+  - Stuart Wheater of Arjuna Technologies and Kyle Montague of Open Lab during the SILVER project;
+  - Louis Goffe of Open Lab on the DERC Healthy Eating project;
+  - earlier innovation work with Alistair Croll at Rednod, Montréal, Canada (circa 2011); and
+  - earlier innovation work with Megan Beynon and Dean Upton at IBM Hursley, UK (circa 2006).
+
+Due to these collaborations and the ongoing and parallel nature of many of these projects to my PhD research, it is impossible to precisely delineate the origin of each idea or insight. In practice, ideas from my developing thesis and own thinking informed the projects' trajectories and thinking, and vice-versa. These ideas would not have emerged in this form without my participation, so they are not the sole intellectual property of others, but equally I would not have reached the same conclusions alone, so the ideas are not solely my own either. All diagrams and illustrations were produced by me, except where specified, and the overall synthesis and framing presented in this chapter is my own original work. Where this chapter includes material from the four peripheral projects [[7.2](#7.2)], that material is either already public, or permission has been obtained from the corresponding individuals or project teams.
 
 Mapping the Human Data Relations Landscape {#chapter-8}
 ==========================================
-
-<span class="movenote">MOVE INSIGHTS TO CHAPTER 10</span>
 
 > _"There are certain things you do not in good conscience do to humans. To data, you can do whatever you like."_
 >—Nikhil Sonnad (data journalist and technology commentator)
@@ -27,25 +107,11 @@ Obstacles to the HDR Objective of Data Awareness & Understanding{#8.1}
 
 In pursuit of visible, understandable data [[6.1.1](#6.1.1); [6.1.2](#6.1.2)], the first obstacle encountered is that most personal data is **invisible**, **inaccessible** or **unrelatable**. It is trapped in service providers' databases, or on different devices or hard drives, or by software limitations and proprietary file formats [@abiteboul2015; @bowyer2018freedata]. My research participants spoke of 'not knowing' what data exists and of being 'in the dark'. Case Study Two showed that even where data is accessible, it is not **relatable** (_legible_ [@mortier2014]; [2.3.2](#2.3.2)). The objective here, addressed in [Insight 1](#insight-1), is to ensure that people not only have awareness of their data, but can understand ('make sense' [@gurstein2011; [2.1.4](#2.1.4)]) of what it means.
 
-| **<a name="insight-1">INSIGHT 1</a>: Life Information makes Data Relatable** |
-|:---------------------------------------|
-| In the pilot study and Case Study One, data cards were used to represent civic data [[Figure 3.6](#figure-3.6)]. In Case Study Two [[Figure 3.7](#figure-3.7)] and in Hestia.ai's _digipower_ investigation [[ARI7.2](#ari-digipower)], a categorisation of provider-held data was displayed. In my BBC research report [@bowyer2020bbcreport], the use of **relatable examples** was identified as an important way to help people understand what a piece of data represents. Recalling that to make data meaningful, we must be able to interpret it as information [[2.1.1](#2.1.1)], this can be refined further: |
-
-> **To make data meaningful, it needs to be expressed as information about your life**.
-
-|(continues…)|
-|:--|
-| Spreadsheets and 'big data' sound dry and (to many) dauntingly technical, but once those same datapoints are expressed as 'facts about your life', the hurdle of relatability is overcome [[4.2.1](#4.2.1)]. The effectiveness of applying this principle is evident in successful online services like Netflix, Spotify and Strava, and in social media platforms like Facebook: these interfaces show understandable everyday concepts like Friends, Events, Movies and Playlists, not files, records, folders or database rows. They have successfully _'pushed the technology into the background'_, in line with Weiser's vision [@weiser1991] and Rogers' _calm computing_. While exploring this idea of representing **life concepts** further at BBC R&D, I produced [Figure 8.2](#figure-8.2), which shows a near-exhaustive overview of the many different informational concepts in an individual's life that providers might hold as data:|
-
-![Figure 8.2: Life Concept Modelling](./src/figs/fig8.2-life-concepts.png){#figure-8.2}
-
-|(continues…)|
-|:--|
-| This diagram shows how most common personal data types handled today can be mapped to more relatable _life information_ concepts. These life concepts (exemplified where possible) can make data meaningful to individuals, and can help them find value in their data [[5.4.3](#5.4.3.1)].|
+<span class="editnote">Add ref to Insight 1 here</span>
 
 ### The Personal Data Diaspora {#8.1.2}
 
-Another important obstacle to consider here is what I call the **Personal Data Diaspora**[^16]. As illustrated by Imogen Heap's quote opening [Chapter 1](#chapter-1), an individual's personal data is typically very widely dispersed, and there is no central, holistic view of one's data. For example, if I consider just my movement tracking data, I have over time accumulated activity logs from walking, running, cycling, and driving which are stored by Nike+, MyFitnessPal, Strava, Google Fit, Fitbit, Apple Health and Google Maps, not to mention the records remaining on my different smart watches, smartphones and hard drives. This is the SI problem of _Integration_ [@li2010] [[2.2.3](#2.2.3)]. As well as the challenge of managing one's data ecosystem [[2.2.4](#2.2.4)], this makes it impossible to view physical activity history in one place, to spot patterns over time or make comparisons. To overcome this, we need interfaces that recognise the scattered reality of each individual's personal data, and begin to make that ecosystem visible and understandable [see [8.3](#8.3) and [8.4](#8.4) below].
+Another important obstacle to consider here is what I call the **Personal Data Diaspora**[^16]. As illustrated by Imogen Heap's quote opening [Chapter 1](#chapter-1), an individual's personal data is typically very widely dispersed, and there is no central, holistic view of one's data. For example, if I consider just my movement tracking data, I have over time accumulated activity logs from walking, running, cycling, and driving which are stored by Nike+, MyFitnessPal, Strava, Google Fit, Fitbit, Apple Health and Google Maps, not to mention the records remaining on my different smart watches, smartphones, hard drives and insurer black boxes. This is the SI problem of _Integration_ [@li2010] [[2.2.3](#2.2.3)]. As well as the challenge of managing one's data ecosystem [[2.2.4](#2.2.4)], this makes it impossible to view physical activity history in one place, to spot patterns over time or make comparisons. To overcome this, we need interfaces that recognise the scattered reality of each individual's personal data, and begin to make that ecosystem visible and understandable [see [8.3](#8.3) and [8.4](#8.4) below].
 
 Data awareness and understanding is a problem of representation. Invisible data should be visibly represented. All data should be represented as contextually relatable life information.
 
@@ -64,43 +130,7 @@ People need to be able to ask questions of their data [[Table 5.4](#table-5.4); 
 
 To overcome these obstacles, data must be freed from its current constraints and moved into environments where it can be freely examined and reconstituted without restriction. This leads to Insight 2:
 
-| **<a name="insight-2">INSIGHT 2</a>: Data Needs to be United and Unified** |
-|:-------------------------------------------------|
-| It is clear that better HDR involves recognising this splintered reality [@lemley2021] and moving beyond it. To make data useable for individuals, the diaspora must be united. This means that data from different sources must first be **united**—brought together—and then **unified**, which means making it into a collection of data about the individual and their life, rather than scattered slices of company data that may have secondary value to the individual. This is a multi-faceted sociotechnical problem of access, interpretation and _integration_ [@li2010; [2.2.3](#2.2.3)]]. Negotiability remains important; we can only unite data that we can access, and only data holders can fully explain it [see [8.3](#8.3) and [8.4](#8.4)]. Setting that aspect aside, the pragmatic way forward begins with creating a space where data can be held, combined, controlled and **owned** by the individual - _'a place for your personal data'_ [@jones2011pim,[[2.2.4](#2.2.4)]]. This can form the seed of their new human-centric personal data ecosystem. This follows Bergman's _subjective classification principle_: |
-
-> _'All related items should be classified together regardless of technological format'_—@bergman2003
-
-| (continues…)|
-|:--|
-| We could add: _'regardless of where they are held'_. This vision is embodied in the **Personal Data Stores** (PDS) concept [[2.3.4](#2.3.4)]. A PDS can brings together personal data from multiple sources that has never co-existed before. This enables the provision of new capabilities over one's digital life.  The BBC R&D Cornmarket project [[ARI7.1](#ari-bbc)] examines how to build PDSs. In [Chapter 9.2](#9.2) I explore possible design approaches. At this stage, only the _concept_ is important. Once data is united and unified, PDSs enable the creation of new views of data that were not previously possible, because code can execute across data that was previously dispersed. For example, today each separate TV app, device or streaming service maintains separate records of what you have watched. Once unified in a PDS, it would be possible to present you with a unified view of all the past content you had viewed, across all channels, as this mock-up I made during my BBC internship shows:|
-
-![Figure 8.3: Mock-up of a Unified TV Viewing History Interface](./src/figs/fig8.3-unified-watch-history.png){#figure-8.3}
-
-| **<a name="insight-3">INSIGHT 3</a>: Data Must Be Transformed into a Versatile Material** |
-|:-------------------------------------------------|
-| In Case Study Two [[Table 5.4](#table-5.4); @bowyer2022gdpr, supplemental materials], participants expressed diverse goals for personal data, including reflection, pattern-finding, goal-tracking, and creative use. In the PIM space [[2.2.2](#2.2.2)] relevant innovations include associative exploration, spatial arrangement, and embodied interaction for different contexts) Drawing on all of these, allows me to infer that unified data must be transformed into a **versatile material**. Individuals need to be able to use data—represented as facts or assertions about one's life by performing manipulations such as: |
-
-  - creating,
-  - deleting,
-  - moving,
-  - grouping,
-  - annotating,
-  - copying,
-  - sharing,
-  - modifying,
-  - labelling,
-  - organising, and
-  - separating.
-
-| (continues…)|
-|:--|
-| _Data as material_ will be new to most except data scientists. This is novel not just for end users but for designers too. Eva Deckers, in her work on _data-enabled design_, an approach to design which also calls for data to become a material, notes (and we could expand this to laypeople too): |
-
-> _"Designers are in general not trained and prepared to work with data. They're not equipped with the right tools. Data manipulation is not part of the schools' curriculum and designers are rarely interested in understanding data."_—[@deckers2018].
-
-| (continues…)|
-|:--|
-| Her work with colleagues on the 'connected baby bottle' illustrates how treating data as a design material creates a novel iterative user-centred development of new capabilities [@bogers2016]. In HDR terms, I theorise that what this material should _be_ is _human information_ - life information and ecosystem information [[7.2](#7.2)]. Data useability therefore calls for the creation of systems that enable **human information to be treated as a material**.|
+<span class="editnote">Add ref to Insight 2 and 3 here</span>
 
 As [Insight 3](#insight-3) show, data will only become useable once we change its nature. Since the 1970s, drawing on the then-common metaphor of a filing cabinet, computers have considered _files_ as the basic material that users will interact with. Where we do interact with data as information instead of files, that information is typically presented in limited contexts within certain products or apps [[Insight 1](#insight-1)]. To move up the DIKW pyramid [[2.1](#2.1)], we need smarter computer systems, that move beyond files [@bowyer2011filesdie]. We need systems whose basic material is not files, but pieces of human information.
 
@@ -113,16 +143,7 @@ Obstacles to the HDR Objective of Ecosystem Awareness & Understanding{#8.3}
 
 Crabtree and Mortier highlighted that users need their whole personal data ecosystem to be visible [@crabtree2016]. As established [[2.2.5](#2.2.5); [2.3](#2.3); [6.2](#6.2); [7.2](#7.2)], HDR cannot be made effective without a sea change in the way that individuals are able to interact with the complex ecosystem of personal data they each inhabit. Our PDEs are incredibly complex and largely invisible. For example, it is easy to allow a handful of messaging and social media apps to access your contact list. Before you know it, you have created a complex and unmanageable network of connections that silently sync and propagate your addresses and phone numbers across the Internet. And there are deeper layers which are even less evident to users: networks of data brokers, advertisers and digital cookie companies exchange user identifiers, activity data and personal information about you while you browse or use apps [@pidoux2022]. The ability to build up a meaningful picture of your personal data ecosystem is completely absent [[4.3.4](#4.3.4.1)] or severely limited. People remain 'in the dark', leading to fear [@bowyer2018family], overload [[2.2.4](#2.2.4)] and resignation [[5.4.4](#5.4.4.1)]. Managing one's personal data ecosystem is an **overwhelming, unmanageable task** that even personal data experts are not fully able to get a handle on. We do not feel 'in control' [@teevan2001; [2.2.2](#2.2.2.6)]. The ability to provide a user with ecosystem transparency is hindered by the complexity and multiplicity of data relationships they have been encouraged to set up. People lack tools to provide a meaningful, or indeed any, view of those relationships. In both Case Study contexts, we saw that no one individual or organisation has the ability to see the whole of a user's data ecosystem [[4.3.4](#4.3.4.3); @cornford2013]. There is little commercial motive to try and solve this problem, as each provider focuses on their own apps, websites and services. Making one's ecosystem visible, transparent and understandable is therefore an essential objective for better HDR, as Insight 4 shows.
 
-| **<a name="insight-4">INSIGHT 4</a>: Ecosystem Information is an Antidote to Digital Life Complexity** |{#insight-4}
-| :------------------------------------------------------------------------- |
-| Acquiring ecosystem information and understanding is a key motivator for many people—encompassing 74% of participant goals in Case Study Two [[Table 5.4](#table-5.4)]—and is essential for better HDR. This suggests two distinct goals for system builders: **ecosystem detection** and **ecosystem information display** as ingredients to help overcome the obstacle. As a representative example let us examine a recent app called SubsCrab [[Figure 8.4](#figure-8.4)]: |
-
-![Figure 8.4: SubsCrab: An Example Application for Ecosystem Detection and Visualisation](./src/figs/fig8.4-subscrab.png){#figure-8.4}
-
-| (continues…)|
-|:--|
-| This app connects to the user's e-mail account, and searches it and monitors it for e-mails from service providers such as Netflix, Spotify, Dropbox, or Google with which the user has monthly or annual subscriptions. In doing so, it is detecting part of the user's ecosystem. It is identifying which companies they have a payment relationship with. It parses found e-mails to identify billing dates and payment amounts. It then provides additional representations of that ecosystem information to the user, so that they might get on top of their subscriptions, see what they need to pay (or cancel), and feel more 'in control' [@teevan2001; [2.2.2](#2.2.2.6)] of this aspect of their digital life. From this example, it is easy to imagine other types of ecosystem detectors, which could detecting relationships with free services and websites, identify account numbers and e-mail addresses, password resets, address book syncs, OAuth logins, family identities and more. Alistair Croll and I explored possibilities for _inbox scanning_ in 2009 [@acroll2009], and while there has been some innovation in this space, it has largely been for commercial reasons [@braun2018]. New ecosystem detectors could power new interfaces, contributing to the simplification of the user's digital life. This would give people more visibility and control over their previously unmanageable data ecosystem. |
-| A secondary consideration in achieving the required 'sea change' in approaches HDR, is that current PDS and SI approaches are very life-information-centric. It is implicitly assumed that the only way to unite data is to collect it. The difficulty in such an approach is that you can only collect that which you can extract. To address this, I draw inspiration from a computer programming concept known as _pass by reference_ (as opposed to _pass by value_) [@ananya2020] where data is 'pointed to' rather than moved. Productivity guru David Allen recommends the use of _'placeholders'_ [@allen2015] to keep track of tasks you cannot otherwise bring into your planning. To build a complete map of a user's ecosystem we must be able to keep track of accounts and data that are remote, much like a search engine points to information on different pages around the web. We can create **proxy representations** of service-provider-held or otherwise immobile data (e.g. data which is offline or restricted). These representations become part of the manipulable material in the user interface, and could be augmented with links to visit the remote source. |
+<span class="editnote">add reference to insight 4 here</span>
 
 ### A Lack of Metadata{#8.3.2}
 
@@ -132,15 +153,7 @@ As we start to consider _what the data is about_, new possibilities are unlocked
 
 These facets can be mapped back to the 5 W's that collectively make up the user's _context_ [@abowd2000; [2.2.2](#2.2.2.5)]. Many of these facets are not explicitly recorded today, or would take significant work to capture. Nonetheless, this exploration shows how data can be better contextualised, supporting contextual and associative approaches [[2.2.2](#2.2.2.5)]. This leads to [Insight 5](#insight-5):
 
-| **<a name="insight-5">INSIGHT 5</a>: We Must Know Data's Provenance** |
-|:-------------------------------------------------------------------------|
-| Metadata is what gives information _context_. Context is critical to _sensemaking_ [[2.2.3](#2.2.3)] and enables good experience-centred design [[2.3.2](#2.3.2); [2.3.3](#2.3.3)]. Without context, data loses meaning [[5.4.3](#5.4.3.1)]. Collecting historical data about the individual is important for reflection [[2.2.3](#2.2.3)] and considered valuable [[4.3.3](#4.3.3.3)], but knowing the **history of a piece of data** allows its context to be understood. Data is not neutral, and is inherently biased, since it was created for a specific purpose with a specific agenda in mind [@gitelman2013; @neff2013]. To combat this bias, more context is needed. Significant research in this space has been undertaken by Professors Mike Martin and Rob Wilson at Northumbria University, formerly Newcastle University, who promote the idea of **data with provenance**; in other words: |
-
-**Data must carry with it the details of why it exists, how it came to be, and what has happened to it since its inception.**
-
-| (continues…)|
-|:--|
-| Provenance should be communicated alongside any visualisation of the data, in order for it to be fairly assessed in context. Provenance is essential for data to be trusted, argues Martin, and should be quite granular: a piece of data should be attributed not just to an individual or organisation, but to the relationship between role-holding individuals in a specific context. Greater insights can be gained when considering all actions upon data as motivated communications from one party to another; only by capturing this information in-situ can the data's meaning be fully appreciated [@martinWP]. This framing essentially advances the concept of history tracking [[2.2.3](#2.2.3)] into the sociotechnical, ecosystem-aware problem space. While everyday system designs have not approached this level of granularity, the importance of data provenance has been recognised in the PIM space. Temporal PIM systems [[2.2.2](#2.2.2.4)] from Lifestreams [@freeman1996] to _activity streams_ [@hartdavidson2012] rely upon data provenance in some form. A study by Jensen _et al._ concluded that provenance tracking can be valuable for identifying related documents, a critical part of knowledge work today [@jensen2010]. Lindley _et al._ proposed the idea of _file biographies_, which view the lifetime of a file as something that should remain connected, so it could be traversed in order to understand the context of the file different moments of interaction [@lindley2018]. This comes close to Martin's vision but does not capture the motivation for each interaction. While provenance capture is not a solution in its own right to the understanding of data and of ecosystems, it is clear that data with provenance is very likely to be a valuable part of any design that aims to provide understanding of complex and invisible personal data ecosystems.|
+<span class="editnote">add reference to insight 5 here</span>
 
 Paying attention to ecosystem information, metadata and provenance  facilitates a new space that, at the time of writing in 2022, almost no-one is building for. For people to manage their digital world, **they need a map**. This is the first step on the road to giving individuals oversight of their personal data ecosystem.
 
@@ -185,29 +198,7 @@ Structural power is not the only form of power which modern-day data-centric ser
 - _**socially shaped power**_: influencing a wide audience to settle upon a preferred interpretation (e.g. using dominant market position to dominate debates e.g. about privacy norms)
 - _**interpretive power**_: creating the internal representations of reality within an organisation (e.g. presenting unpopular attitudes to data privacy to staff as normal/acceptable/beneficial for business)
 
-| **<a name="insight-6">INSIGHT 6</a>: Data Holders use Four Levers of Infrastructural Power** |
-| :------------------------------------------------ |
-| Hestia.ai [[ARI7.2](#ari-digipower)] have produced a model to explain the mechanisms by which technology companies gain power and use it to shape today's digital landscape. In this model, _infrastructural power_ comes from three things: |
-
-  - _technical ability_,
-  - _organisational ability_, and
-  - _the acquisition of data about individuals and populations_.
-
-| (continues…)|
-|:--|
-| As organisations (especially platforms) collect more data, and grow in market influence or technical capability, they gain power over individuals and over other organisations. They exert this power using four 'levers'. Simplified and expressed in the terms of this thesis, these are:
-
-  1. **Collect & Interpret Data to Acquire Knowledge**: Data and _signals_ are collected from individuals and interpreted in order to infer their intents and interests. For example, Google collects raw GPS and wi-fi hotspot data from mobile phones, which it then statistically analyses to infer which shops or venues you visited and what forms of transport you used, increasing Google's knowledge about individuals and populations.
-  2. **Present Content and Configure Structures to Influence Individual Behaviour**: Knowledge of individual intents and interests is exploited within user interfaces to influence desired individual actions. For example, Facebook or presents a user with a product relevant to their interests, which they are motivated to click upon, generating ad revenue. Another example would be Twitter manipulating the content of the user's feed to show more tweets from conversation topics where they can show promoted tweets, increasing ad revenue.
-  3. **Configure Structures to Improve Knowledge Acquisition**: A provider uses its dominant position to force other organisations to improve the provider's ability to acquire knowledge. For example, Google provides free analytics tools to web developers, but requires the end users of those client websites to supply visitors' data back to Google, increasing their ability to acquire knowledge about individuals and populations.
-  4. **Configure Structures to Disadvantage Others**: Certain providers (typically of operating systems or popular devices) can configure the structural relationships between other parties. For example, a smartphone manufacturer could limit data exchange between other apps, while still extensively collecting data signals themselves, such as when Google was found to be collecting call history from Android's dialer app.
-
-| (continues…)|
-|:--|
-| The precise mechanisms and techniques employed when exerting infrastructural power, as well as the social and market consequences of these practices, are explored in detail in Hestia.ai's digipower technical reports, of which I was a co-author [@bowyer2022hestia; @pidoux2022]. |
-| The research highlights that providers' power is far greater than many realise. Unlike in the physical realm, providers of popular online platforms can **reconfigure the landscape to change the way that individuals perceive reality**, in line with the powers of interpretative influence, behavioural influence and socially shaped power described above [@bowyer2022hestia]. Providers control the extent to which (if at all) data stored behind the scenes, and internal processes that use that data, are visible, and how data and processes are represented.|
-| The model shows that the accumulation of data (and hence, information) is implicitly and objectively a form of power, consistent with participants' observations in [5.4.4](#5.4.4.1). As long as current service providers are free to collect so much personal information, the information landscape is likely to remain imbalanced and individuals will not be able to acquire ecosystem negotiability. |
-| This insights shows that the most powerful data holders exert huge influence over the digital landscape, in terms of what is _knowable_ and what is _doable_. HDR reformers' abilities to balance the landscape are hindered by the fact that they are operating in a landscape that the incumbent platform and service providers effectively control. |
+<span class="editnote">Add ref to Insight 6 here</span>
 
 ### The Active Diminishing of User Agency {#8.4.2}
 
@@ -248,26 +239,7 @@ Customers are not demanding HDR capabilities in their lives, and, all but the mo
 
 Data is overwhelming, complex, and 'sounds boring'. Engaging with your personal data economy to any degree more than that of passive consumer is hard work. People routinely accept data sacrifice, click through T&Cs and cookie banners and are unwilling (or in some cases lack sufficient technical literacy, comprehension or skill) to do the work of asserting control over their digital lives. There is not a clear demand for holistic digital life management and control. Research in this this and at Cornmarket suggests that even if human-centric information systems and more inclusive service interaction practices emerged, people would not be inclined to use them in great numbers. It could seem like hard work or not worthwhile. Just as some people (who can afford it) hire an accountant to manage their finances, we can imagine that some would prefer not to have to manage their own data. This obstacle affects all HDR improvement approaches. Indeed, this is why many companies in the emergent PDE economy [[2.3.4](#2.3.4)] struggle to find a business model. There are clear benefits, but better HDR does not appear to something a mainstream audience will pay for. This should not deter disruptive innovation nor diminish the potential value for such tools. As automobile pioneer Henry Ford famously said, _"If I had asked people what they wanted, they would have said faster horses."_ Nonetheless, it is a clear overarching obstacle, which [Insight 7](#insight-7) attempts to confront.
 
-| **<a name="insight-7">INSIGHT 7</a>: Human-centred Information Systems must serve Human Values, Relieve Pain and Deliver New Life Capabilities** | {#insight-7}
-| :------------------------------------------------------------ |
-| Through work at BBC R&D exploring how to better connect people with their data, it became clear that there is a way to combat such indifference and apathy of users. It emerges from the realisation that the way people find value in data is to connect it their lives. The more that people see relatable life information and can imagine ways to harness that information in their everyday life, the more motivated they will be. BBC R&D conducted research [@forrester2021] that identified fourteen specific Human Values that people seek to satisfy in their lives, which are shown in in [Figure 8.7](#figure-8.7). These are, at the most abstract, goals that people care about in their daily existence. |
-
-![Figure 8.7: Human Values, as Identified in BBC R&D Research Funded by Nesta](./src/figs/fig8.7-bbc-human-values.png){#figure-8.7}
-
-|(continues…)|
-|:--|
-| Given these and the earlier observation that life information is what makes data relatable, the insight I offer here is that the way to make people care about their data is to **use it to help them in their life**. By starting with a focus on a user's world, one can then focus in on their life, and then the data that represents elements of that life. Then, the individual has a vested interest. Systems and features should be designed from this life-centric perspective. This is known as _value-centred design_ [@reber2005] and it has been argued that this should become the guiding design philosophy in HCI [@cockton2004]. And to offer true individual value, all human-centric system designs must also consider _context_ [[2.3.2](#2.3.2)], _environment_ [@abowd2012] and _experience_ [[3.2.1](#3.2.1)]. In business modelling, there is a tool called the _value proposition canvas_, which identifies three ways of conceptualising value: _gain creators_, _pain relievers_ and _jobs-to-be-done_. Informed by these concepts, we can design better human-centric functionality that relieves an individual's pain points, helps them complete their tasks, or offers them some gain over the status quo. In the HDR space, given the lack of existing tools for digital life management, we have the opportunity to create quite a unique type of gain: **new capabilities over your digital life** that you have never had before. This ability to do new things has been identified as key ingredient of user empowerment [@meschtscherjakov2014; @schneider2018]. As [2.1.4](#2.1.4) and [2.2.2](#2.2.2) showed, a range of novel capabilities are needed for effective PIM. |
-| Here is an example of what this value-centric approach might look like in the HDR space: Myself and BBC R&D colleague Jasmine Cox imagined focusing on address books and contact lists as a strong relatable starting point to generate demand for a human-centric interface. This could provide people with new life capabilities while also relieving pains. Many people have address and contact information scattered far and wide, and face a complexity they cannot easily manage when it comes to the automated syncing and sharing of potentially sensitive contact information between devices, apps and providers. Developing human-centric personal information management capabilities to bring that messy situation under control would offer a clear and tangible benefit to users. In [Figure 8.8](#figure-8.8), we show how there could be a strategic path, beginning with detecting ecosystem and life information from the individual's calendar and e-mail inbox, through to building up to more holistic life-level PDS capabilities. |
-
-![Figure 8.8: A Contact-and-Calendar-centric PDS Approach](./src/figs/fig8.8-calendar-contact-centric-PDS-strategy.png){#figure-8.8}
-
-|(continues…)|
-|:--|
-| A helpful example is that of a vacation from my 2011 article [@bowyer2011filesdie] and shown in [Figure 8.9](#figure-8.9). Today, all the information around such a holiday is scattered into multiple systems - emails, online provider bookings, chat logs, cloud synced photos, web browser bookmarks, smartphone location logs, etc. It is not hard to imagine that a system that was able to bring all related information about that vacation together in one central interface (mock-up in [Figure 8.10](#figure-8.10)) could deliver huge value to users and be very compelling.  Such context-targeted human-centric offerings can have a much greater chance of generating interest and impact than offerings that merely allow you to 'organise your data' or some other abstract phrasing not rooted in everyday life.|
-
-![Figure 8.9: The Scattered Data Relating to a Vacation](./src/figs/fig8.9-vacation.png){#figure-8.9}
-
-![Figure 8.10: Mock-up of a Unified Interface for a Vacation](./src/figs/fig8.10-holiday-interface.jpg){#figure-8.10}
+<span class="editnote">Add ref to Insight 7 here</span>
 
 ### Closed, Insular and Introspective Practices{#8.5.2}
 
@@ -289,14 +261,7 @@ Yet, for effective HDR, **data needs to be separable from services**. The more u
 
 At an abstract level, the technical obstacle is one that has always faced the tech industry, which is that there often is no universally agreed way to represent important concepts–in this case human-centric information concepts such as events, social media posts, website visits, location history information, app activity, etc. And any entity that does create a standard then faces the challenge of trying to persuade others that their standard is the best one to use. In general, standards work best when established by non-commercial industrial standards bodies (for example the World Wide Web Consortium (W3C) or International Organisation for Standardization (ISO)) and then mandated through policy such as European Union law. Such standards much be established with input from industry experts.
 
-| **<a name="insight-8">INSIGHT 8</a>: We Need to Teach Computers To Understand Human Information** |
-|:----------------------------------------------------------------------|
-| In order to move towards standardised ways to store and unify personal data from multiple sources, computer systems must be taught to understand the information within the data, and how it relates to an individual and the world. This moves beyond just capturing data provenance: put simply, **computers need to understand human information**. They need to move beyond files [@bowyer2011filesdie] and databases, and begin to perform operations on human informational concepts, and to associate those concepts according to what they mean - i.e. **_semantically_**. This is a preliminary step that will enable the building of systems and interfaces that are able to deal in human concepts and represent the elements of everyday life.|
-| We need to store **semantic context and semantic associations**, i.e. the meaning of things, not just raw bundles of data. This is advocated by the Web's inventor Tim Berners-Lee in his vision of a _Semantic Web_ [@bernersLee2001] and by other proponents of _networked_ and _semantic_ PIM systems [[2.2.2](#2.2.2)]. There is a need to develop standard ways to digitally model facts and assertions about users' lives, so that those disparate pieces of data can be unified, connected, correlated and compared. Some standards are emerging, such as _data shapes_ [@shapeRepo]. The extraction of meaning from data has a business domain all of its own. Sizable industries have built up around Content Analytics and Enterprise Content Management. But to consider the problem at its simplest level, I offer this insight: Through **the capture of metadata** at the point of data recording, and through **subsequent programmatic analysis** of stored data, as illustrated in [Figure 8.11](#figure-8.11), we can begin to teach computers what the data we store represents.|
-
-![Figure 8.11: Annotating Data with Semantic Context](./src/figs/fig8.11-semantic-annotation.png){#figure-8.11}
-
-|Machine learning technologies and Artificial Intelligence have pushed machine understanding of human words, images and content to impressive levels in recent years and such technologies can certainly be helpful, but in fact at the core what we are talking about here is something much simpler than AI; It is simply about automatically labelling datapoints in as many different ways as possible (using a similar principle to _lifelogging_) so that those datapoints can be associatively retrieved from many different angles, and providing humans with ways to amend incorrect labels and to reclassify data or apply new semantic associations. Such approaches are in their infancy, and have not yet been adopted extensively in commercial settings. Issues of interoperability for PDS systems are being actively explored and developed in the _Solid_ community [@bernersLee2022inruptSolid; @bansal2018] in pursuit of a decentralised web [@verborgh2017]. |
+<span class="editnote">Add ref to Insight 8 here</span>
 
 Even after addressing the obstacles of end-user buy-in and the technical complexities of building human-centric systems, data-driven corporations, motivated as they are by profit and business success (and smaller online organisations too) need to be persuaded of the business value of transparency, interoperability and human-centricity. This is explored further in [9.5](#9.5).
 

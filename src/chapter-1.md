@@ -8,7 +8,7 @@ This thesis is divided into five sections:
 
 * Section I: Background & Approach
 * Section II: Understanding Attitudes and Desires through Participatory Case Studies
-* Section III: Human Data Relations: A New Research Agenda
+* Section III: Defining A New Research Agenda: Human Data Relations
 * Section IV: Operationalising the Research Agenda through Design & Practice
 * Section V: Conclusions & Outlook
 
@@ -209,7 +209,7 @@ Providers of care want to be more data-centric to improve accuracy [[4.1.2](#4.1
   - Acquired Data
   - Metadata
 
-This model has been used during design and ideation sessions at BBC R&D. It has also been used and cited within Sitra/Hestia.ai's _digipower_ investigation [[ARI7.2](#ARI7.2)], both for explaining data holding to participants and as a frame for data analysis [@bowyer2022hestia; @pidoux2022].
+This model has been used during design and ideation sessions at BBC R&D. It has also been used and cited within Sitra/Hestia.ai's _digipower_ investigation [[ARI7.2OLD](#ARI7.2OLD)], both for explaining data holding to participants and as a frame for data analysis [@bowyer2022hestia; @pidoux2022].
 
 **<a name="c11">C11</a>: A rich understanding of the lived experience of accessing data using GDPR rights and of motivations for GDPR data access**
 
@@ -284,7 +284,7 @@ During the same timeframe as this PhD, I have also contributed to a number of pu
 - As a researcher and developer on the SILVER project [[3.4.1](#3.4.1.1)], my work contributed towards an internal report to CHC as well as the [overall impact report](https://web.archive.org/web/20211225192408/https://www.chc-impact-report.co.uk/) [@ConnectedHealthCities2021impact,129-130].
 - Also for SILVER, I published [demonstration videos](https://eprints.ncl.ac.uk/273839) [@bowyer2019silvervideo] of a health data interface prototype developed by myself and Stuart Wheater.
 - I was co-author on research published [at BCS 2021](https://doi.org/10.14236/ewic/HCI2021.16) [@goffe2021] and [in Interacting with Computers](https://doi.org/10.1093/iwc/iwac015) [@goffe2022].
-- As a research intern at BBC R&D [[ARI7.1](#ari-bbc)], I published an internal research report [@bowyer2020bbcreport] into personal data store design, and wrote and presented a 'stimulus presentation' to launch an internal hack week.
+- As a research intern at BBC R&D [[ARI7.1OLD](#ari-bbc-OLD)], I published an internal research report [@bowyer2020bbcreport] into personal data store design, and wrote and presented a 'stimulus presentation' to launch an internal hack week.
 - At Hestia.ai, I was a lead author on [a research report auditing the data economy](https://doi.org/10.5281/zenodo.6554177) [@bowyer2022hestia], and co-author on [a research report on power mechanisms in the data economy](https://doi.org/10.5281/zenodo.6554155) [@pidoux2022].
 
 The structure of this thesis{#1.4}
