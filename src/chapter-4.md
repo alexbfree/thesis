@@ -4,6 +4,7 @@
 
 <span class="editnote">WRITE text positioning each case study from a thesis perspective here.  </span>
 <span class="movenote">RENUMBER SECTION 3.4 now it is here</span>
+<span class="editnote">make stronger references to Design, and talk about what is feasible / implementable</span>
 
 Overview of Activities by Research Context{#3.4}
 
@@ -75,6 +76,8 @@ Case Study One: Access to Civic Data in Early Help {#chapter-4}
 <span class="editnote">other changes per notes</span>
 <span class="editnote">add forward refs where useful</span>
 <span class="editnote">to consider: moving some methods. Examiner notes: Also consider moving some of the methodological, contextual details and framing from the initial chapters of the thesis (I think this was chapter 2) to each one of the case studies. This is particularly important for methods of data collection and analysis as it is hard to understand what you did and how (for both chapters 4 and 5) – i.e your findings are interesting, but can be questioned without clear description of methods of data collection and analysis.</span>
+<span class="editnote">make stronger references to Design, and talk about what is feasible / implementable</span>
+<span class="movenote">move one or two images into case study?</span>
 
 This chapter describes Case Study One, which involved four 2-hour participatory co-design workshops with local authority support workers, parents and children from supported families involved with _Early Help (EH)_ programmes [[3.4.1](#3.4.1)]. Its objectives were to understand family and staff attitudes to civic data holding (RQ1 [[3.3.1](#RQ1)]) and to explore the role of data within the support relationship (per RQ2 [[3.3.2](#RQ2)]). A model of _shared data interaction_, was explored, where supported families would interact with data together with their support workers.
 

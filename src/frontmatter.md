@@ -67,8 +67,8 @@ This PhD was funded by the Engineering and Physical Sciences Research Council (E
 
 -----
 
-Lists of Tables, Figures and Inset Boxes {.unnumbered}
-========================================
+Lists of Tables and Figures{.unnumbered}
+===========================
 
 <span class="editnote">review at end after changes</span>
 
@@ -200,31 +200,5 @@ Lists of Figures by Chapter {.unnumbered .unlisted}
 - [ARI5.2](#figure-ari5.2) - Screenshot from _Quirkos_ at End of Coding Process
 - [ARI5.3](#figure-ari5.3) - Screenshot from _Workflowy_ During Theme Construction
 - [ARI7.1OLD](#figure-ari7.1) - Screenshot from a Web Augmented version of the _Just Eat_ Website
-
-List of Inset Boxes by Chapter{#inset-boxes .unnumbered .unlisted}
-------------------------------
-
-### Inset Boxes in Chapter 7 {#inset-boxes-c7 .unnumbered}
-
-- [Definition](#hdr-definition) - A Definition of Human Data Relations (HDR)
-
-### Inset Boxes in Chapter 8 {#inset-boxes-c8 .unnumbered}
-
-- [Insight 1](#insight-1) - Life Information Makes Data Relatable.
-- [Insight 2](#insight-2) - Data Needs to be United and Unified.
-- [Insight 3](#insight-3) - Data Must be Transformed into a Versatile Material.
-- [Insight 4](#insight-4) - Ecosystem Information is an Antidote to Digital Life Complexity.
-- [Insight 5](#insight-5) - We Must Know Data's Provenance.
-- [Insight 6](#insight-6) - Data Holders use Four Levers of Infrastructural Power.
-- [Insight 7](#insight-7) - Human-centred Information Systems Must Serve Human Values, Relieve Pain and Deliver New Life Capabilities.
-- [Insight 8](#insight-8) - We Need to Teach Computers to Understand Human Information.
-
-### Inset Boxes in Chapter 9 {#inset-boxes-c9 .unnumbered}
-
-- [Insight 9](#insight-9) - Individual GDPR Requests can Compel Companies to Change Data Practices.
-- [Insight 10](#insight-10) - Collectives can Compare and Unify their Data and Use it to Demand Change.
-- [Insight 11](#insight-11) - Automating the Identification of Entities can enhance Machine Understanding and Unburden Life Interface Users.
-- [Insight 12](#insight-12) - The 'Seams' of Digital Services need to be identified, exploited and protected.
-- [Insight 13](#insight-13) - It is Possible (and Necessary) to Demonstrate Business Benefits of Transparency and Human-centricity.
 
 ---
