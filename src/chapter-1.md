@@ -116,13 +116,13 @@ The Case Studies also establish a more granular view of what we mean by personal
 
 Through the design and innovation work in [Section 3](#section-3) and beyond, a deeper understanding of the relationship people have with personal data is developed, and of what role data plays in people's lives. Drawing on information theory background laid out in [2.1.1](#2.1.1), [[Chapter 7](#chapter-7)] differentiates the needs participants expressed from data (the stored artefact) and from information (the set of facts and opinions encoded within that data), offering as a model the distinct concepts of _life information_ (from which people gain insights and extract value) and _ecosystem information_ (from which people improve awareness and control over the use of their data). Combining these differing motives with the Case Study themes from Chapter 6 yields four clear objectives people have in data relations: _data awareness and understanding_, _data useability_<sup>[10](#fn10)</sup>, _data ecosystem awareness and understanding_, and _data ecosystem negotiability_. These practical pursuit of these objectives form the basis of the _Human Data Relations_ research agenda detailed below in [1.2.5](#1.2.5) and pursued through the design and practice activities of [Section IV](#section-iv).
 
-### Methodological Contributions {#1.2.2}
+### Methodologies for Participatory Work around Personal Data{#1.2.2}
 
 cards & design games
 A proto-methodology for educating individuals about held data, data access and the data ecosystem
 A reframing of data literacy for the HDR space
 
-### (best practices and ){#1.2.3}
+### Best Practices and Design Guidelines for Systems and Processes involving Personal Data{#1.2.3}
 
 models and best practice guidelines for data holding orgs in public and private sector.
 including
@@ -133,7 +133,7 @@ Guidance for policymakers, data holders and individuals on how to improve HDR
 
 all of this informs design but specifically:
 
-### design insights and principles for generative action towards improved data relations{#1.2.4}
+### Principles for Generative Action towards Improving Human Data Relations{#1.2.4}
 
 sociotechnical Strategies for
 moving beyond interface design or user experience design, moving into
@@ -152,9 +152,9 @@ moving beyond interface design or user experience design, moving into
 - [Insight 12](#insight-12) - The 'Seams' of Digital Services need to be identified, exploited and protected.
 - [Insight 13](#insight-13) - It is Possible (and Necessary) to Demonstrate Business Benefits of Transparency and Human-centricity.
 
+### A Detailed and Actionable Research Agenda and Strategies for Empowerment and Systemic Change{#1.2.5}
 
-### (detailed and actionable research agenda and strategies for empowerment and systemic change){#1.2.5}
-
+(detailed and actionable research agenda and strategies for empowerment and systemic change)
 The Synthesis and Formulation of the research agenda of Human Data Relations (HDR)
 HDR research agenda, extending HDI theory to invite and facilitate confrontation of the practical challenges of ld data and provider power
 A map of the HDR landscape, identifying obstacles and insights
@@ -217,7 +217,7 @@ During the same timeframe as this PhD, I have also contributed to a number of pu
 - As a research intern at BBC R&D [[ARI7.1OLD](#ari-bbc-OLD)], I published an internal research report [@bowyer2020bbcreport] into personal data store design, and wrote and presented a 'stimulus presentation' to launch an internal hack week.
 - At Hestia.ai, I was a lead author on [a research report auditing the data economy](https://doi.org/10.5281/zenodo.6554177) [@bowyer2022hestia], and co-author on [a research report on power mechanisms in the data economy](https://doi.org/10.5281/zenodo.6554155) [@pidoux2022].
 
-The structure of this thesis{#1.4}
+The Structure of this Thesis{#1.4}
 ----------------------------
 
 <span class="editnote">Update Text to remove part A/B split</span>

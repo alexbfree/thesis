@@ -26,7 +26,7 @@ Section [9.6](#9.6) concluded Part Two's exploratory design work by summarising 
 
 In this brief concluding chapter, I will bring the two parts of the thesis together, reflecting on my journey as a researcher, activist and innovator through this work, and contextualising the contributions of the thesis in terms of their legacy and future value.
 
-Design Insights and Recommendations{#10.1}
+Principles for Generative Action{#10.1}
 ------------------------------------------
 
 <span class="editnote">WRITE INTRO AND ENDING TO THIS SECTION ON DESIGN INSIGHTS. Notes: New conclusion chapter for the entire PhD which consolidates and draws out takeaways from the work to link together the HDR framework, insights from studies 1 and 2 and the interventions developed in Part B. This includes reorganising existing content, as opposed to substantial rewriting e.g. moving content from ‘Insights’/’Contributions’ and seeking to formulate recommendations for design using the HDR framework.</span>
@@ -34,7 +34,7 @@ Design Insights and Recommendations{#10.1}
 <span class="editnote">DE TABLIFY ALL THESE INSIGHTS</span>
 <span class="editnote">Notes on having insights here: Need to pull out lessons from the insights in Ch 9 – which will be presented in Ch 10. This PhD has been very well signposted and documented throughout – however, the conclusion felt very short by comparison to levels of detail in chapter summaries. There are so many fascinating takeaways from this work. Need to move some of that detail into the conclusion, to really help guide the reader on the key takeaways. The intro already did this to an extent but good to reiterate at the end of the journey too.This is reorganisation by pulling from ‘Insights’, ‘Contributions’, other domains of PhD – it is a reordering of existing material you have. </span>
 
-### Design Insight 1: Life Information makes Data Relatable
+### Principle 1: Life Information makes Data Relatable
 
 | **<a name="insight-1">INSIGHT 1</a>: Life Information makes Data Relatable** |
 |:---------------------------------------|
@@ -54,7 +54,7 @@ Design Insights and Recommendations{#10.1}
 |:--|
 | This diagram shows how most common personal data types handled today can be mapped to more relatable _life information_ concepts. These life concepts (exemplified where possible) can make data meaningful to individuals, and can help them find value in their data [[5.4.3](#5.4.3.1)].|
 
-### Design Insight 2: Personal Data Needs to be United and Unified
+### Principle 2: Personal Data Needs to be United and Unified
 
 | **<a name="insight-2">INSIGHT 2</a>: Data Needs to be United and Unified** |
 |:-------------------------------------------------|
@@ -70,7 +70,7 @@ Design Insights and Recommendations{#10.1}
 
 ![Figure 8.3: Mock-up of a Unified TV Viewing History Interface](./src/figs/fig8.3-unified-watch-history.png){#figure-8.3}
 
-### Design Insight 3: Data must be Transformed into a Versatile Material
+### Principle 3: Data must be Transformed into a Versatile Material
 
 | **<a name="insight-3">INSIGHT 3</a>: Data Must Be Transformed into a Versatile Material** |
 |:-------------------------------------------------|
@@ -98,7 +98,7 @@ Design Insights and Recommendations{#10.1}
 |:--|
 | Her work with colleagues on the 'connected baby bottle' illustrates how treating data as a design material creates a novel iterative user-centred development of new capabilities [@bogers2016]. In HDR terms, I theorise that what this material should _be_ is _human information_ - life information and ecosystem information [[7.2](#7.2)]. Data useability therefore calls for the creation of systems that enable **human information to be treated as a material**.|
 
-### Design Insight 4: Ecosystem Information is an Antidote to Digital Life Complexity
+### Principle 4: Ecosystem Information is an Antidote to Digital Life Complexity
 
 <span class="editnote">Add challenge to prior thinking: As senior Microsoft official Craig Mundie has said, ‘today, there is simply so much data being collected, in so many ways, that it is practically impossible to give people a meaningful way to keep track of all the information about them that exists out there, much less to consent to its collection in the first place’ (Mundie 2014) Mundie, C. 2014, March/April. Privacy pragmatism. Foreign Affairs. Retrieved from http://www.
 foreignaffairs.com/articles/140741/craig-mundie/privacy-pragmatism .</span>
@@ -116,7 +116,7 @@ foreignaffairs.com/articles/140741/craig-mundie/privacy-pragmatism .</span>
 | This app connects to the user's e-mail account, and searches it and monitors it for e-mails from service providers such as Netflix, Spotify, Dropbox, or Google with which the user has monthly or annual subscriptions. In doing so, it is detecting part of the user's ecosystem. It is identifying which companies they have a payment relationship with. It parses found e-mails to identify billing dates and payment amounts. It then provides additional representations of that ecosystem information to the user, so that they might get on top of their subscriptions, see what they need to pay (or cancel), and feel more 'in control' [@teevan2001; [2.2.2](#2.2.2.6)] of this aspect of their digital life. From this example, it is easy to imagine other types of ecosystem detectors, which could detecting relationships with free services and websites, identify account numbers and e-mail addresses, password resets, address book syncs, OAuth logins, family identities and more. Alistair Croll and I explored possibilities for _inbox scanning_ in 2009 [@acroll2009], and while there has been some innovation in this space, it has largely been for commercial reasons [@braun2018]. New ecosystem detectors could power new interfaces, contributing to the simplification of the user's digital life. This would give people more visibility and control over their previously unmanageable data ecosystem. |
 | A secondary consideration in achieving the required 'sea change' in approaches HDR, is that current PDS and SI approaches are very life-information-centric. It is implicitly assumed that the only way to unite data is to collect it. The difficulty in such an approach is that you can only collect that which you can extract. To address this, I draw inspiration from a computer programming concept known as _pass by reference_ (as opposed to _pass by value_) [@ananya2020] where data is 'pointed to' rather than moved. Productivity guru David Allen recommends the use of _'placeholders'_ [@allen2015] to keep track of tasks you cannot otherwise bring into your planning. To build a complete map of a user's ecosystem we must be able to keep track of accounts and data that are remote, much like a search engine points to information on different pages around the web. We can create **proxy representations** of service-provider-held or otherwise immobile data (e.g. data which is offline or restricted). These representations become part of the manipulable material in the user interface, and could be augmented with links to visit the remote source. |
 
-### Design Insight 5: We Must Know Data's Provenance
+### Principle 5: We Must Know Data's Provenance
 
 | **<a name="insight-5">INSIGHT 5</a>: We Must Know Data's Provenance** |
 |:-------------------------------------------------------------------------|
@@ -128,7 +128,7 @@ foreignaffairs.com/articles/140741/craig-mundie/privacy-pragmatism .</span>
 |:--|
 | Provenance should be communicated alongside any visualisation of the data, in order for it to be fairly assessed in context. Provenance is essential for data to be trusted, argues Martin, and should be quite granular: a piece of data should be attributed not just to an individual or organisation, but to the relationship between role-holding individuals in a specific context. Greater insights can be gained when considering all actions upon data as motivated communications from one party to another; only by capturing this information in-situ can the data's meaning be fully appreciated [@martinWP]. This framing essentially advances the concept of history tracking [[2.2.3](#2.2.3)] into the sociotechnical, ecosystem-aware problem space. While everyday system designs have not approached this level of granularity, the importance of data provenance has been recognised in the PIM space. Temporal PIM systems [[2.2.2](#2.2.2.4)] from Lifestreams [@freeman1996] to _activity streams_ [@hartdavidson2012] rely upon data provenance in some form. A study by Jensen _et al._ concluded that provenance tracking can be valuable for identifying related documents, a critical part of knowledge work today [@jensen2010]. Lindley _et al._ proposed the idea of _file biographies_, which view the lifetime of a file as something that should remain connected, so it could be traversed in order to understand the context of the file different moments of interaction [@lindley2018]. This comes close to Martin's vision but does not capture the motivation for each interaction. While provenance capture is not a solution in its own right to the understanding of data and of ecosystems, it is clear that data with provenance is very likely to be a valuable part of any design that aims to provide understanding of complex and invisible personal data ecosystems.|
 
-### Design Insight 6: Data Holders use Four Levers of Infrastructural Power
+### Principle 6: Data Holders use Four Levers of Infrastructural Power
 
 
 | **<a name="insight-6">INSIGHT 6</a>: Data Holders use Four Levers of Infrastructural Power** |
@@ -155,7 +155,7 @@ foreignaffairs.com/articles/140741/craig-mundie/privacy-pragmatism .</span>
 | The model shows that the accumulation of data (and hence, information) is implicitly and objectively a form of power, consistent with participants' observations in [5.4.4](#5.4.4.1). As long as current service providers are free to collect so much personal information, the information landscape is likely to remain imbalanced and individuals will not be able to acquire ecosystem negotiability. |
 | This insights shows that the most powerful data holders exert huge influence over the digital landscape, in terms of what is _knowable_ and what is _doable_. HDR reformers' abilities to balance the landscape are hindered by the fact that they are operating in a landscape that the incumbent platform and service providers effectively control. |
 
-### Design Insight 7: Human-centred Information Systems must serve Human Values, Relieve Pain and Deliver New Life Capabilities
+### Principle 7: Human-centred Information Systems must serve Human Values, Relieve Pain and Deliver New Life Capabilities
 
 | **<a name="insight-7">INSIGHT 7</a>: Human-centred Information Systems must serve Human Values, Relieve Pain and Deliver New Life Capabilities** | {#insight-7}
 | :------------------------------------------------------------ |
@@ -186,7 +186,7 @@ foreignaffairs.com/articles/140741/craig-mundie/privacy-pragmatism .</span>
 
 ![Figure 8.10: Mock-up of a Unified Interface for a Vacation](./src/figs/fig8.10-holiday-interface.jpg){#figure-8.10}
 
-### Design Insight 8: We Need to Teach Computers To Understand Human Information
+### Principle 8: We Need to Teach Computers To Understand Human Information
 
 | **<a name="insight-8">INSIGHT 8</a>: We Need to Teach Computers To Understand Human Information** |
 |:----------------------------------------------------------------------|
@@ -199,7 +199,7 @@ foreignaffairs.com/articles/140741/craig-mundie/privacy-pragmatism .</span>
 
 |Machine learning technologies and Artificial Intelligence have pushed machine understanding of human words, images and content to impressive levels in recent years and such technologies can certainly be helpful, but in fact at the core what we are talking about here is something much simpler than AI; It is simply about automatically labelling datapoints in as many different ways as possible (using a similar principle to _lifelogging_) so that those datapoints can be associatively retrieved from many different angles, and providing humans with ways to amend incorrect labels and to reclassify data or apply new semantic associations. Such approaches are in their infancy, and have not yet been adopted extensively in commercial settings. Issues of interoperability for PDS systems are being actively explored and developed in the _Solid_ community [@bernersLee2022inruptSolid; @bansal2018] in pursuit of a decentralised web [@verborgh2017]. |
 
-### Design Insight 9: Individual GDPR requests can compel companies to change data practices.
+### Principle 9: Individual GDPR requests can Compel Companies to Change Data Practices.
 
 <span class="editnote">Position that this is designing at sociotechnical level</span>
 
@@ -210,7 +210,7 @@ foreignaffairs.com/articles/140741/craig-mundie/privacy-pragmatism .</span>
 | A larger scale example of individuals forcing giant corporations to change is seen in the case of Facebook. In the early 2010s, Austrian lawyer Max Schrems began to pressure Facebook to disclose more personal data to their users. He created a tool to enable people to make their own data access requests, which over 40,000 people used. Faced with an overwhelming volume of work and massive liability of future data access requests, Facebook was forced to launch the self-service _Download Your Information (DYI)_ download tool, increasing transparency for all Facebook users worldwide [@solon2012]. Facebook was forced to increase its transparency further when Paul-Olivier Dehaye (now CEO of Hestia.ai) made a GDPR request (later backed by legal action) to force Facebook to disclose more information about which advertisers Facebook had enabled to target him using the _Facebook Custom Audiences_ feature. Apparently in order to avoid being embarrassed in court, Facebook updated _DYI_ so that every user's downloaded information includes a list of advertisers who have added you to a _Custom Audience_ [@dehaye2017]. Dehaye and Schrems both continue to act as HDR reformers and civic hackers following the discovery-driven activism approach, through their organisations _Hestia.ai_ [[ARI7.2OLD](#ari-digipower-OLD)] and privacy rights organisation _noyb.eu_ ('none of your business') [@schrems2017] respectively. |
 
 
-### Design Insight 10: Collectives can compare and unify their data and use their pooled knowledge to demand change.
+### Principle 10: Collectives can Compare and Unify their Data and use their Pooled Knowledge to Demand Change.
 
 <span class="editnote">Position that this is designing at sociotechnical level</span>
 
@@ -221,7 +221,7 @@ foreignaffairs.com/articles/140741/craig-mundie/privacy-pragmatism .</span>
 | Another example is seen in the Worker Info Exchange [@wie2022], a collective that helps gig economy workers such as _Uber_ drivers and _Deliveroo_ riders to make data requests. Using the pooled data, they conduct investigations to understand algorithmic inequalities and identify unfair treatment of worker by employers. They then help those workers to fight for better working conditions, much like a traditional trade union, but powered by collectively-sourced data. This resulted in Uber being taken to court, and some gains being made for drivers [@lomas2021; @dumas2021]. |
 | As the aforementioned case with Max Schrems showed [[Insight 9](#insight-9)], collectives can be particularly powerful when exerting their data access rights _en masse_, and this can improve HDR and force greater transparency. René Mahieu and Jef Ausloos have published an exhaustive list of collective actions taken using GDPR rights, addressing issues such as discrimination by US colleges, corporate surveillance of climate activists, identifying gaps in data disclosures, and manipulation of users on dating apps [@mahieu2020a]. The authors identify that the GDPR provides an _architecture of empowerment_ and have called for better enforcement and for European authorities to provide better support for the ability for collectives to make data access requests together [@mahieu2020b]. Hestia.ai's _digipower_ investigation [[ARI7.2OLD](#ari-digipower-OLD)] concluded that data-discovery driven collectives are a vital step on the road to a more digitally empowered society [@pidoux2022, 70]. It is clear that organised collectives exploiting data access rights represent a powerful vector for impactful discovery-driven activism. |
 
-### Design Insight 11: Automating the Identification of Entities can enhance Machine Understanding and Unburden Life Interface Users.
+### Principle 11: Automated Entity Identification could Enhance Machine Understanding and Unburden Life Interface Users.
 
 | **<a name="insight-11">INSIGHT 11</a>: Automating the Identification of Entities can enhance Machine Understanding and Unburden Life Interface Users.** |
 | :------------------------------------------------------------------ |
@@ -237,7 +237,7 @@ foreignaffairs.com/articles/140741/craig-mundie/privacy-pragmatism .</span>
 | While such an approach would not be perfect, and there would need to be some corrections made by the user, this is far preferable to them having to provide all the classifications and is likely to motivate greater engagement. I have observed in user experience design and consideration of productivity systems that users are more motivated to correct errors, than to fill in a blank page. |
 | Philosophically, we are moving here towards a _learning system_, a system that can be told when it is right and when it is wrong, and get better at classifying things correctly, analogous to the way an executive might train an assistant to anticipate his/her needs better, a sort of _digital life assistant_ [@bowyer2018grandvision]. Bayesian classification techniques could also be used to help with the learning here [@geeks2022]. This approach is also useful for _ecosystem detection_–as outlined in [Insight 4](#insight-4)–as identification of relationships with external entities is a key first step to mapping a user's ecosystem. |
 
-### Design Insight 12: The 'Seams' of Digital Services need to be Identified, Exploited and Protected.
+### Principle 12: The 'Seams' of Digital Services need to be Identified, Exploited and Protected.
 
 <span class="editnote">Position that this is designing at sociotechnical level</span>
 
@@ -258,7 +258,9 @@ foreignaffairs.com/articles/140741/craig-mundie/privacy-pragmatism .</span>
 |   2) To **push or 'hack' the seams to gain transparency and re-assert control**, including gaining access to otherwise inaccessible data and to acquire new functionality. |
 | In this context, the work of whistleblowers such as Frances Haugen [@horwitz2021] and Edward Snowden [@macaskill2013] is particularly validated and important. Whistleblowers can expose internal practices that harm the information landscape's integrity that are not otherwise visible. In order to hold online platforms to account, the public must be **aware** and **able to attribute** any restriction in freedom or information access to the correct source. They need to know that the information or functionality is being modified or restricted. These ideas are explored further in [@bowyer2017]. Seams should be much more in the public consciousness than they are. |
 
-### Design Insight 13: It is Possible (and Necessary) to Demonstrate Business Benefits of Transparency and Human-centricity
+### Principle 13: We could Demonstrate Business Benefits of Transparency and Human-centricity
+
+It is Possible (and Necessary) to
 
 | **<a name="insight-13">INSIGHT 13</a>: It is Possible (and Necessary) to Demonstrate Business Benefits of Transparency and Human-centricity** |
 |  :------------------------------------------------------------------------ |
@@ -329,8 +331,10 @@ The collaborative opportunities have been significant. Without this PhD, I would
 
 This opportunity has opened doors that have allowed me to pivot my career towards putting these learnings into action, working on important projects [[7.2](#7.2)] to explore how data interaction reforms can be realised in practice, and how we can become not just innovators but social data activists. Thanks to this research, I am now a Senior UX Designer with BBC Newcastle, where I will be able to bring the benefits of this research to the general public through the design of services and interfaces that aim to inform, educate and entertain people in their everyday lives. I now know how to begin to have an impact, how to work on building that better HDR future I and my participants have imagined. It is the journey of a lifetime, and also one that is in many ways just beginning. I hope that my work and this thesis can contribute to a better, more human-centric digital world, and I can't wait to see where this leads.
 
-Legacy of This Thesis to The Future of Human Data Relations{#10.OLD2}
------------------------------------------------------------
+Legacy of This Thesis{#10.OLD2}
+-------------------------------
+
+to The Future of Human Data Relations
 
 <span class="movenote">MOVE SOME DETAILS OF CONTRIBUTIONS ETC HERE FROM C1</span>
 <span class="editnote">UPDATE THIS SECTION TO INCLUDE SOME DETAIL AS WELL AS HIGH LEVEL</span>
