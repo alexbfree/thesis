@@ -107,20 +107,32 @@ Through the qualitative Case Studies in Chapters [4](#chapter-4) and [5](#chapte
 
 Furthermore, the sociotechnical focus of the research has produced deep qualitative insights into the _relationships_ people have with data holding organisations and services, revealing attitudes and emotions including distrust, fear, frustration, confusion, helplessness and curiosity. Specific insights are drawn for the two Case Study contexts:
 
-- In social care [[Chapter 4](#chapter-4)], families want to be given a voice, an ability to see and influence how they are understood through data, and to be able to explain and discuss their data with authorities. The Case Study (and its pilot study [[Appendix A](#appendix-a)] validate prior findings that highlight families' difficulties with civic data, while documenting in detail the ways that they imagine improving the use of their civic data within an empowerment and support context.
+- In social care [[Chapter 4](#chapter-4)], families want to be given a voice, and an ability to see and meaningfully interact with their data. They want to be able to influence how they are understood through data, and to be able to explain and discuss their data with authorities. The Case Study (and its pilot study [[Appendix A](#appendix-a)] validate prior findings that highlight families' difficulties with civic data, while documenting in detail the ways that they imagine improving the use of their civic data, improving empowerment and trust within the support context.
 - In the service provider relationships of everyday life [[Chapter 5](#chapter-5)], individuals want to be able to understand what companies are collecting about them. They want to see that data, understand what inferences and decisions result from its use, and exert control over how it can be used, kept and shared. These desires (which also explain motives for using GDPR rights) provide novel insights into the lived experience of the data-centric world and in particular of using the GDPR to seek access and control over one's personal data.
 
 Taken together [[Chapter 6](#chapter-6)], the Case Studies reveal clear common themes for people in service relationships that involve personal data; people want _process transparency_ [[6.2.1](#6.2.1)] when it comes to processes that use their personal data, _individual oversight_ [[6.2.2](#6.2.2)] over how their data is used, and ultimately _involvement in processes and decision making_ [[6.2.3](#6.2.3)].
 
-The Case Studies also establish a more granular view of what we mean by personal data: The pilot study for Case Study One establishes the term _family civic data_ [[ARI4.1](#ari-fcd-types)], which can encompass relationship information, educational records, welfare details, health data, housing data, and civic and legal records. Case Study Two establishes a model of personal data according to its origin; data can be _volunteered_, _observed_, _derived_, _acquired_ or _metadata_ [[Table 5.2](#table-5.2)]. This model has been adopted by others: during design and ideation sessions at BBC R&D, and within Sitra/Hestia.ai's _digipower_ investigation [[ARI7.2OLD](#ARI7.2OLD)] (for explaining data holding to participants and as a frame for data analysis) [@bowyer2022hestia; @pidoux2022].
+The Case Studies also establish a more granular view of what we mean by personal data: The pilot study for Case Study One [[Appendix A](#appendix-a)] establishes the term _family civic data_ [[ARI4.1](#ari-fcd-types)], which can encompass relationship information, educational records, welfare details, health data, housing data, and civic and legal records. Case Study Two establishes a model of personal data according to its origin; data can be _volunteered_, _observed_, _derived_, _acquired_ or _metadata_ [[Table 5.2](#table-5.2)]. This model has been adopted by others: during design and ideation sessions at BBC R&D, and within Sitra/Hestia.ai's _digipower_ investigation [[ARI7.2OLD](#ARI7.2OLD)] (for explaining data holding to participants and as a frame for data analysis) [@bowyer2022hestia; @pidoux2022].
 
 Through the design and innovation work in [Section 3](#section-3) and beyond, a deeper understanding of the relationship people have with personal data is developed, and of what role data plays in people's lives. Drawing on information theory background laid out in [2.1.1](#2.1.1), [[Chapter 7](#chapter-7)] differentiates the needs participants expressed from data (the stored artefact) and from information (the set of facts and opinions encoded within that data), offering as a model the distinct concepts of _life information_ (from which people gain insights and extract value) and _ecosystem information_ (from which people improve awareness and control over the use of their data). Combining these differing motives with the Case Study themes from Chapter 6 yields four clear objectives people have in data relations: _data awareness and understanding_, _data useability_<sup>[10](#fn10)</sup>, _data ecosystem awareness and understanding_, and _data ecosystem negotiability_. These practical pursuit of these objectives form the basis of the _Human Data Relations_ research agenda detailed below in [1.2.5](#1.2.5) and pursued through the design and practice activities of [Section IV](#section-iv).
 
 ### Methodologies for Participatory Work around Personal Data{#1.2.2}
 
-cards & design games
-A proto-methodology for educating individuals about held data, data access and the data ecosystem
-A reframing of data literacy for the HDR space
+A significant component of this PhD (the Case Studies and the preceding formative work and pilot studies) involved selecting, designing and executing methods for engaging with individuals and groups around personal data. At the outset, the challenge of getting laypeople to engage with this potentially dry and boring topic seemed significant. However, building on established methodologies such as card sorting [[3.4.2.OLD](#3.4.2)] and ideation decks [[3.4.3](#3.4.3)], a number of novel approaches were developed, which can be seen as unique contributions of this research:
+
+<strong>Data Cards and Family Design Games</strong>
+
+This approach was pioneered in the pilot study [3.4.1.2OLD](#3.4.1.2OLD)] [[Appendix A](#appendix-a)]. To serve as _boundary objects_ and _things to think with_ [[3.4.2OLD](#3.4.2OLD)], a tangible set of _Family Civic Data Cards_ [shown in [Figure 3.5](#figure-3.5)] were developed to represent the different types of civic data. These were used in a variety of exercises in both the pilot study and in Case Study One. While not formally studied as a methodology, these were very relatable to participants and proved highly effective at getting conversations flowing around data. A similar approach was used during the BBC Cornmarket project, where a set of Data Cards derived from the Family Civic Data cards concept, were designed by the author and BBC colleague Chris Gameson to represent different types of data in the 'everyday digital life data' context [see @bowyer2020internreport for mockup]. These cards were successfully used in a 1,500 participant study by BBC R&D [@sharp2021], showing the value of this contribution. As well as the Family Civic Data Cards, a number of other original activities for considering data such as "Family Facts" [[Figure 3.2](#figure-3.2)] and "Sentence Ranking" [[Figure 3.4](#figure-3.4)] were developed and used in the Case Studies. Some of these were published by the author as _Family Design Games_ [@bowyer2018family].
+
+<strong>Storyboarding Action Cards</strong>
+
+For the third workshop of Case Study Two, there was a need to explore interpersonal interactions between different parties in a service relationship, without getting caught up on details of interface layouts or software and hardware capabilities. A novel approach was developed consisting of the use of _storyboarding action cards_ [Figure 3.10](#figure-3.10) with participants to give them a vocabulary to map out interactions at a sociotechnical, functonal level. These cards are documented in [ARI4.3](#ari-storyboarding) and this approach could be useful to others wishing to undertake participatory co-design work at the relationship or service design level.
+
+<strong>A Methodology for Qualitative Interviews that Explore a User's Personal Data</strong>
+
+For Case Study Two, an approach was designed that would allow a researcher to accompany an individual participant on a journey of exploration of their own personal data files, retrieved from companies using GDPR, and to carry out a guided 'deep dive' into that data, in order to reveal attitudes to revealed data storage and use practices. This approach is detailed in [3.4.2.2OLD](#3.4.2.2OLD), and focused on using privacy policy promises and GDPR access rights as a frame of reference from which to assess data response quality and usefulness. The methodology was successful, enabling the production of detailed insights which are presented in [Chapter 5](#chapter-5). The methodology wasn't designed with a view to it being used elsewhere, but in fact the author was engaged by Hestia.ai to replicate this methodology (with some expansion and tweaks) as co-leader of the #digipower investigation, which aimed to take 15 high profile European politicians, civil servants and journalists through a similar journey of discovery. The #digipower investigation took place in 2021 and was also able to apply the methodology very successfully, resulting in the publication of multiple research reports [[ARI7.2OLD](#ari-digipower-OLD)]].
+
+Prior to the commencement of interviews, a technological accompaniment to the Case Study Two methodology was also developed by the author, the _private data viewing monitor_ [[ARI3.1](#ari-monitor)], but this was not used due to the infeasibility of face-to-face interviewing during the COVID-19 pandemic in 2020.
 
 ### Best Practices and Design Guidelines for Systems and Processes involving Personal Data{#1.2.3}
 
@@ -131,6 +143,9 @@ alternative data access models (GDPR as flow etc)
 business Opportunities - enhanced trust (Evidence for the impact of knowledge about data handling practices on provider trust and perceived individual power) but also
 Guidance for policymakers, data holders and individuals on how to improve HDR
 
+<strong>A Reframing of Data Literacy for the Sociotechnical Context</strong>
+
+
 all of this informs design but specifically:
 
 ### Principles for Generative Action towards Improving Human Data Relations{#1.2.4}
@@ -138,19 +153,19 @@ all of this informs design but specifically:
 sociotechnical Strategies for
 moving beyond interface design or user experience design, moving into
 
-- [Insight 1](#insight-1) - Life Information Makes Data Relatable.
-- [Insight 2](#insight-2) - Data Needs to be United and Unified.
-- [Insight 3](#insight-3) - Data Must be Transformed into a Versatile Material.
-- [Insight 4](#insight-4) - Ecosystem Information is an Antidote to Digital Life Complexity.
-- [Insight 5](#insight-5) - We Must Know Data's Provenance.
-- [Insight 6](#insight-6) - Data Holders use Four Levers of Infrastructural Power.
-- [Insight 7](#insight-7) - Human-centred Information Systems Must Serve Human Values, Relieve Pain and Deliver New Life Capabilities.
-- [Insight 8](#insight-8) - We Need to Teach Computers to Understand Human Information.
- [Insight 9](#insight-9) - Individual GDPR Requests can Compel Companies to Change Data Practices.
-- [Insight 10](#insight-10) - Collectives can Compare and Unify their Data and Use it to Demand Change.
-- [Insight 11](#insight-11) - Automating the Identification of Entities can enhance Machine Understanding and Unburden Life Interface Users.
-- [Insight 12](#insight-12) - The 'Seams' of Digital Services need to be identified, exploited and protected.
-- [Insight 13](#insight-13) - It is Possible (and Necessary) to Demonstrate Business Benefits of Transparency and Human-centricity.
+- [Principle 1](#principle-1) - Life Information Makes Data Relatable.
+- [Principle 2](#principle-2) - Data Needs to be United and Unified.
+- [Principle 3](#principle-3) - Data Must be Transformed into a Versatile Material.
+- [Principle 4](#principle-4) - Ecosystem Information is an Antidote to Digital Life Complexity.
+- [Principle 5](#principle-5) - We Must Know Data's Provenance.
+- [Principle 6](#principle-6) - Data Holders use Four Levers of Infrastructural Power.
+- [Principle 7](#principle-7) - Human-centred Information Systems Must Serve Human Values, Relieve Pain and Deliver New Life Capabilities.
+- [Principle 8](#principle-8) - We Need to Teach Computers to Understand Human Information.
+ [Principle 9](#principle-9) - Individual GDPR Requests can Compel Companies to Change Data Practices.
+- [Principle 10](#principle-10) - Collectives can Compare and Unify their Data and Use it to Demand Change.
+- [Principle 11](#principle-11) - Automating the Identification of Entities can enhance Machine Understanding and Unburden Life Interface Users.
+- [Principle 12](#principle-12) - The 'Seams' of Digital Services need to be identified, exploited and protected.
+- [Principle 13](#principle-13) - It is Possible (and Necessary) to Demonstrate Business Benefits of Transparency and Human-centricity.
 
 ### A Detailed and Actionable Research Agenda and Strategies for Empowerment and Systemic Change{#1.2.5}
 
@@ -211,10 +226,10 @@ During the PhD, I gave a number of additional presentations and published three 
 
 During the same timeframe as this PhD, I have also contributed to a number of publications through peripheral work [[7.2](#7.2)]:
 
-- As a researcher and developer on the SILVER project [[3.4.1](#3.4.1.1)], my work contributed towards an internal report to CHC as well as the [overall impact report](https://web.archive.org/web/20211225192408/https://www.chc-impact-report.co.uk/) [@ConnectedHealthCities2021impact,129-130].
+- As a researcher and developer on the SILVER project [[3.4.1OLD](#3.4.1.1OLD)], my work contributed towards an internal report to CHC as well as the [overall impact report](https://web.archive.org/web/20211225192408/https://www.chc-impact-report.co.uk/) [@ConnectedHealthCities2021impact,129-130].
 - Also for SILVER, I published [demonstration videos](https://eprints.ncl.ac.uk/273839) [@bowyer2019silvervideo] of a health data interface prototype developed by myself and Stuart Wheater.
 - I was co-author on research published [at BCS 2021](https://doi.org/10.14236/ewic/HCI2021.16) [@goffe2021] and [in Interacting with Computers](https://doi.org/10.1093/iwc/iwac015) [@goffe2022].
-- As a research intern at BBC R&D [[ARI7.1OLD](#ari-bbc-OLD)], I published an internal research report [@bowyer2020bbcreport] into personal data store design, and wrote and presented a 'stimulus presentation' to launch an internal hack week.
+- As a research intern at BBC R&D [[ARI7.1OLD](#ari-bbc-OLD)], I published an internal design research report [@bowyer2020bbcreport] into personal data store design, and wrote and presented a 'stimulus presentation' on personal data design innovation for members the project team, to launch an internal hack week.
 - At Hestia.ai, I was a lead author on [a research report auditing the data economy](https://doi.org/10.5281/zenodo.6554177) [@bowyer2022hestia], and co-author on [a research report on power mechanisms in the data economy](https://doi.org/10.5281/zenodo.6554155) [@pidoux2022].
 
 The Structure of this Thesis{#1.4}

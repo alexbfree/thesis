@@ -74,22 +74,22 @@ The obstacles are collectively shown in [Figure 8.1](#figure-8.1) and are explai
 
 Insights in [Chapter 8](#chapter-8):
 
-- [Insight 1](#insight-1) - Life Information Makes Data Relatable.
-- [Insight 2](#insight-2) - Data Needs to be United and Unified.
-- [Insight 3](#insight-3) - Data Must be Transformed into a Versatile Material.
-- [Insight 4](#insight-4) - Ecosystem Information is an Antidote to Digital Life Complexity.
-- [Insight 5](#insight-5) - We Must Know Data's Provenance.
-- [Insight 6](#insight-6) - Data Holders use Four Levers of Infrastructural Power.
-- [Insight 7](#insight-7) - Human-centred Information Systems Must Serve Human Values, Relieve Pain and Deliver New Life Capabilities.
-- [Insight 8](#insight-8) - We Need to Teach Computers to Understand Human Information.
+- [Principle 1](#principle-1) - Life Information Makes Data Relatable.
+- [Principle 2](#principle-2) - Data Needs to be United and Unified.
+- [Principle 3](#principle-3) - Data Must be Transformed into a Versatile Material.
+- [Principle 4](#principle-4) - Ecosystem Information is an Antidote to Digital Life Complexity.
+- [Principle 5](#principle-5) - We Must Know Data's Provenance.
+- [Principle 6](#principle-6) - Data Holders use Four Levers of Infrastructural Power.
+- [Principle 7](#principle-7) - Human-centred Information Systems Must Serve Human Values, Relieve Pain and Deliver New Life Capabilities.
+- [Principle 8](#principle-8) - We Need to Teach Computers to Understand Human Information.
 
 Insights in [Chapter 9](#chapter-9):
 
-- [Insight 9](#insight-9) - Individual GDPR Requests can Compel Companies to Change Data Practices.
-- [Insight 10](#insight-10) - Collectives can Compare and Unify their Data and Use it to Demand Change.
-- [Insight 11](#insight-11) - Automating the Identification of Entities can enhance Machine Understanding and Unburden Life Interface Users.
-- [Insight 12](#insight-12) - The 'Seams' of Digital Services need to be identified, exploited and protected.
-- [Insight 13](#insight-13) - It is Possible (and Necessary) to Demonstrate Business Benefits of Transparency and Human-centricity.
+- [Principle 9](#principle-9) - Individual GDPR Requests can Compel Companies to Change Data Practices.
+- [Principle 10](#principle-10) - Collectives can Compare and Unify their Data and Use it to Demand Change.
+- [Principle 11](#principle-11) - Automating the Identification of Entities can enhance Machine Understanding and Unburden Life Interface Users.
+- [Principle 12](#principle-12) - The 'Seams' of Digital Services need to be identified, exploited and protected.
+- [Principle 13](#principle-13) - It is Possible (and Necessary) to Demonstrate Business Benefits of Transparency and Human-centricity.
 
 ### HDR Approaches {.unnumbered .unlisted}
 
@@ -129,13 +129,13 @@ The four approaches are collectively summarised in [9.6](#9.6), and explained an
 - **Data Relations, Direct** - [6.1](#6.1)
 - **Data Relations, Indirect** - [6.2](#6.2)
 - **Digital Self Curation** - [4.4.3](#4.4.3), [5.5.2](#5.5.2), [6.3](#6.3)
-- **Ecosystem Detection** - [Insight 4](#insight-4)
-- **Ecosystem Information** - [7.7](#7.7), [Insight 4](#insight-4)
-- **Ecosystem Information Display** - [Insight 4](#insight-4)
+- **Ecosystem Detection** - [Principle 4](#principle-4)
+- **Ecosystem Information** - [7.7](#7.7), [Principle 4](#principle-4)
+- **Ecosystem Information Display** - [Principle 4](#principle-4)
 - **Ecosystem Negotiability** - [7.7](#7.7), [8.4](#8.4)
 - **Empowerment (in the context of data wants)** - [6.3](#6.3)
 - **Free Data Interfaces** - @bowyer2018freedata
-- **Hacking the Seams** - [Insight 12](#insight-12)
+- **Hacking the Seams** - [Principle 12](#principle-12)
 - **Human Data Relations (HDR)** - [7.2](#7.2)
 - **HDR Literacy** - [9.5.1](#9.5.1)
 - **Human Information Operating System** - [8.2](#info-os)
@@ -145,21 +145,21 @@ The four approaches are collectively summarised in [9.6](#9.6), and explained an
 - **Landscape of HDR Opportunity** - [Figure 8.1](#figure-8.1), [9](#9), **[Figure 9.23](#figure-9.23)
 - **Life Concepts** - [8.1.1](#8.1.1)
 - **Life Information Utilisation** - [7.6](#7.6.1), [Figure 7.1](#figure-7.1)
-- **Life Information** - [Insight 1](#insight-1)
+- **Life Information** - [Principle 1](#principle-1)
 - **Life Interface Design** - [9.3.1](#9.3.1)
 - **Life Partitioning** - [9.3.2](#9.3.2)
 - **Locus of Decision Making (LDM)** - [4.4.3](#4.4.3)
-- **Meaning in Data** - [Figure 2.1](#figure-2.1), [4.3.2](#4.3.2), [5.4.2](#5.4.2), [6.1.2](#6.1.2), [Insight 1](#insight-1)
+- **Meaning in Data** - [Figure 2.1](#figure-2.1), [4.3.2](#4.3.2), [5.4.2](#5.4.2), [6.1.2](#6.1.2), [Principle 1](#principle-1)
 - **Perceived Individual Power** - [5.3.4](#5.3.4)
 - **Personal Data Diaspora, the** - [8.1.2](#8.1.2)
 - **Personal Data Ecosystem Control** - [7.6](#7.6.2), [Figure 7.1](#figure-7.1)
 - **Personal Data as a Proxy for Involvement** - [5.4.4](#5.4.4.1), @bowyer2018family
 - **Personal Data Stewardship** - [4.3.3](4.3.3.4), [5.6](#5.6)
-- **Proxy Representations of Immobile Data** - [Insight 4](#insight-4)
+- **Proxy Representations of Immobile Data** - [Principle 4](#principle-4)
 - **Shared Data Interaction** - [4.2.4](#4.2.4)
-- **Surface Information Injustices** - [9.5.1](#9.5.1), [Insight 12](#insight-12)
+- **Surface Information Injustices** - [9.5.1](#9.5.1), [Principle 12](#principle-12)
 - **Storyboarding Action Cards** - [ARI4.3](#ari-storyboarding)
-- **Trust - [4.3.4](#4.3.4), [4.4.1](#4.4.1.1), [5.3.4](#5.3.4), [5.4.4](#5.4.4.1), [6.2.1](#want-i1), [Insight 13](#insight-13)
+- **Trust - [4.3.4](#4.3.4), [4.4.1](#4.4.1.1), [5.3.4](#5.3.4), [5.4.4](#5.4.4.1), [6.2.1](#want-i1), [Principle 13](#principle-13)
 - **Types of Personal Data (by origin)** - [Table 5.2](#table-5.2)
 - **Useability**<sup>[10](#fn10)</sup> (as distinct from Usability) - [6.1.3](#6.1.3)]
 

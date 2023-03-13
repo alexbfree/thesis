@@ -127,7 +127,7 @@ Lists of Figures by Chapter {.unnumbered .unlisted}
 - [3.7](#figure-3.7) - Home Interviewing: Card Sorting with a Family in Their Living Room
 - [3.8](#figure-3.8) - Ideation Decks — Combining Random Design Ingredients to Generate New Ideas
 - [3.9](#figure-3.9) - Group Poster Design — A Participant-designed Poster to Advertise Features of Imagined Data Interface Products
-- [3.10](#figure-3.10) - Storyboarding Cards — A Collaboratively-constructed Narrative Created through Discussion from a Palette of Possible Parent and Staff Actions
+- [3.10](#figure-3.10) - Storyboarding Action Cards — A Collaboratively-constructed Narrative Created through Discussion from a Palette of Possible Parent and Staff Actions
 - [3.11](#figure-3.11) - Thematic Analysis of Qualitative Data using _Quirkos_ for Case Study One
 - [3.12](#figure-3.12) - Spreadsheet-based Quantitative Analysis of Interview Data for Case Study Two
 - [3.13](#figure-3.13) - Pilot Study Recruitment Poster

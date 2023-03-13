@@ -43,7 +43,7 @@ ARI4. Additional Reference Information for Chapter 4 {#ari-chapter-4 .unnumbered
 ARI4.1 Family Civic Data Categories{#ari-fcd-types .unnumbered}
 ----------------------------
 
-The table below illustrates the types of _family civic data_ identified in the pilot study [[3.4.1](#3.4.1.2); @bowyer2018family; [Appendix A](#appendix-A)], and referenced in Case Study One [[4.2.1](#4.2.1)].
+The table below illustrates the types of _family civic data_ identified in the pilot study [[3.4.1OLD](#3.4.1.OLD); @bowyer2018family; [Appendix A](#appendix-A)], and referenced in Case Study One [[4.2.1](#4.2.1)].
 
 | <a name="table-ari4.1">Category</a>  | Type of data | Examples/Details |
 |---------|---------|--------------------------------------|
@@ -679,7 +679,7 @@ ARI9 Additional Reference Information for Chapter 9 {#ari-chapter-9 .unnumbered}
 ARI9.1 How I compelled Spotify to improve their GDPR return {#ari-9.1 .unnumbered}
 ------------------------------------------------
 
-In this section, I will provide additional details of my mini-case study where I was able to get Spotify to improve the quality of their GDPR returns, as referenced in [Insight 9](#insight-9) within section [9.2.1](#9.2.1).
+In this section, I will provide additional details of my mini-case study where I was able to get Spotify to improve the quality of their GDPR returns, as referenced in [Principle 9](#principle-9) within section [9.2.1](#9.2.1).
 
 As an avid user for several years of the music streaming service Spotify who has built up a large library of playlists, I have made a number of GDPR requests to get copies of my personal data.
 
