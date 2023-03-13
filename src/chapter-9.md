@@ -46,7 +46,7 @@ These two splits produce four dimensions of change, and form four quadrants repr
 
 Key to ToC thinking is the idea that making changes in one quadrant can stimulate change in others; for example, collective learning about data attitudes and practices, such as the research conducted in this PhD (lower left quadrant), could inform the design of new technologies, interfaces or processes (lower right quadrant), which if built could make new structures available to have an impact on improving individual-provider relationships (upper-right quadrant). The changes to those relationships could then in turn lead to individuals thinking and feeling differently (upper left quadrant), for example feeling more empowered or having greater awareness of data practices. The diagram at the start of each of the following four subsections illustrate that approach's trajectory of change through the ToC quadrants.
 
-### Additional Background: Databox
+## Additional Background: Databox
 
 <span class="editnote">add links and text about databox, and links to the EDPS report</span>
 <span class="editnote">number this section and everything else accordingly</span>

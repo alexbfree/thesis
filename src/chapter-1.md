@@ -6,11 +6,11 @@
 
 This thesis is divided into five sections:
 
-* Section I: Background & Approach
+* Section I: Background and Approach
 * Section II: Understanding Attitudes and Desires through Participatory Case Studies
 * Section III: Defining A New Research Agenda: Human Data Relations
 * Section IV: Operationalising the Research Agenda through Design & Practice
-* Section V: Conclusions & Outlook
+* Section V: Conclusions and Outlook
 
 This first section, Section I, provides a thorough background and explanation to the thesis through three chapters:
 
@@ -99,23 +99,27 @@ Contributions of the Research{#1.2}
 
 <span class="editnote">Shrink Contributions / Make More Abstract & save detail for C10. can break down as</span>
 
-### An Understanding of what People want from Personal Data{#1.2.1}
+The contributions of this thesis are summarised in this section, and described in more detail in [Chapter 10](Chapter 10).
 
 ### An Understanding of what People want from Personal Data{#1.2.1}
 
-qualitative understandings of lived experience and attitudes to data across two contexts
- - Validation and documentation of supported families' attitudes and desires around civic data
- - A rich understanding of the lived experience of accessing data using GDPR rights and of motivations for GDPR data access
-an understanding of What People Want in Direct Data Relations
-an understanding of What People Want in inDirect Data Relations
-A clear delineation of two primary motivators for individuals seeking better HDR
+Through the qualitative Case Studies in Chapters [4](#chapter-4) and [5](#chapter-5) and the discursive analysis in [Chapter 6](#chapter-6), this thesis establishes a clear picture of what people want from their personal data. In general, people need all of their personal data to be _visible_ [[6.1.1](#6.1.1)], _understandable_ [[6.1.2](#6.1.2)], and _useable_<sup>[10](#fn10)</sup> [[6.1.3](#6.1.3)].
 
+Furthermore, the sociotechnical focus of the research has produced deep qualitative insights into the _relationships_ people have with data holding organisations and services, revealing attitudes and emotions including distrust, fear, frustration, confusion, helplessness and curiosity. Specific insights are drawn for the two Case Study contexts:
 
-### (methodological contributions){#1.2.2}
+- In social care [[Chapter 4](#chapter-4)], families want to be given a voice, an ability to see and influence how they are understood through data, and to be able to explain and discuss their data with authorities. The Case Study (and its pilot study [[Appendix A](#appendix-a)] validate prior findings that highlight families' difficulties with civic data, while documenting in detail the ways that they imagine improving the use of their civic data within an empowerment and support context.
+- In the service provider relationships of everyday life [[Chapter 5](#chapter-5)], individuals want to be able to understand what companies are collecting about them. They want to see that data, understand what inferences and decisions result from its use, and exert control over how it can be used, kept and shared. These desires (which also explain motives for using GDPR rights) provide novel insights into the lived experience of the data-centric world and in particular of using the GDPR to seek access and control over one's personal data.
+
+Taken together [[Chapter 6](#chapter-6)], the Case Studies reveal clear common themes for people in service relationships that involve personal data; people want _process transparency_ [[6.2.1](#6.2.1)] when it comes to processes that use their personal data, _individual oversight_ [[6.2.2](#6.2.2)] over how their data is used, and ultimately _involvement in processes and decision making_ [[6.2.3](#6.2.3)].
+
+The Case Studies also establish a more granular view of what we mean by personal data: The pilot study for Case Study One establishes the term _family civic data_ [[ARI4.1](#ari-fcd-types)], which can encompass relationship information, educational records, welfare details, health data, housing data, and civic and legal records. Case Study Two establishes a model of personal data according to its origin; data can be _volunteered_, _observed_, _derived_, _acquired_ or _metadata_ [[Table 5.2](#table-5.2)]. This model has been adopted by others: during design and ideation sessions at BBC R&D, and within Sitra/Hestia.ai's _digipower_ investigation [[ARI7.2OLD](#ARI7.2OLD)] (for explaining data holding to participants and as a frame for data analysis) [@bowyer2022hestia; @pidoux2022].
+
+Through the design and innovation work in [Section 3](#section-3) and beyond, a deeper understanding of the relationship people have with personal data is developed, and of what role data plays in people's lives. Drawing on information theory background laid out in [2.1.1](#2.1.1), [[Chapter 7](#chapter-7)] differentiates the needs participants expressed from data (the stored artefact) and from information (the set of facts and opinions encoded within that data), offering as a model the distinct concepts of _life information_ (from which people gain insights and extract value) and _ecosystem information_ (from which people improve awareness and control over the use of their data). Combining these differing motives with the Case Study themes from Chapter 6 yields four clear objectives people have in data relations: _data awareness and understanding_, _data useability_<sup>[10](#fn10)</sup>, _data ecosystem awareness and understanding_, and _data ecosystem negotiability_. These practical pursuit of these objectives form the basis of the _Human Data Relations_ research agenda detailed below in [1.2.5](#1.2.5) and pursued through the design and practice activities of [Section IV](#section-iv).
+
+### Methodological Contributions {#1.2.2}
 
 cards & design games
 A proto-methodology for educating individuals about held data, data access and the data ecosystem
-A model to understand the five different origins of held personal data (and equivalent for civic)
 A reframing of data literacy for the HDR space
 
 ### (best practices and ){#1.2.3}
@@ -149,7 +153,7 @@ moving beyond interface design or user experience design, moving into
 - [Insight 13](#insight-13) - It is Possible (and Necessary) to Demonstrate Business Benefits of Transparency and Human-centricity.
 
 
-## (detailed and actionable research agenda and strategies for empowerment and systemic change){#1.2.5}
+### (detailed and actionable research agenda and strategies for empowerment and systemic change){#1.2.5}
 
 The Synthesis and Formulation of the research agenda of Human Data Relations (HDR)
 HDR research agenda, extending HDI theory to invite and facilitate confrontation of the practical challenges of ld data and provider power

@@ -182,9 +182,16 @@ def buildCoversheet(outputPath):
     #biblio["title"] = soup.find("h1", id="bibliography").contents[]
     #items.append(biblio)
 
+    # hardcoding items into sections
+    section1_items=[items[0],items[1],items[2]];
+    section2_items=[items[3],items[4]];
+    section3_items=[items[5],items[6]];
+    section4_items=[items[7],items[8]];
+    section5_items=[items[9]];
+
     # Write the file
     output = open(outputPath + "index.html", "w")
-    output.write(template.render(thesis_title=thesis_title, thesis_author=thesis_author,last_updated=last_updated, thesis_source=thesis_source, items=items, build_formats=build_formats, download_button_format=download_button_format))
+    output.write(template.render(thesis_title=thesis_title, thesis_author=thesis_author,last_updated=last_updated, thesis_source=thesis_source, items=items, section1_items=section1_items, section2_items=section2_items, section3_items=section3_items, section4_items=section4_items, section5_items=section5_items, build_formats=build_formats, download_button_format=download_button_format))
     output.close()
 
     print("\tCoversheet built under ./out/website/index.html")

@@ -87,6 +87,12 @@
 
               </tr>
 
+              <tr class="section">
+                <td colspan="4">
+                  Preface
+                </td>
+              </tr>
+
               <tr>
                 <td>
                   <a href="./html/frontmatter.html">Abstract, Dedication & Acknowledgements</a>
@@ -99,7 +105,13 @@
                 {% endfor %}
               </tr>
 
-              {% for item in items %}
+              <tr class="section">
+                <td colspan="4">
+                  Section I: Background and Approach
+                </td>
+              </tr>
+
+              {% for item in section1_items %}
               <tr>
                 <td>
                   <a href="./html/{{item.file}}.html">{{item.title}}</a>
@@ -113,6 +125,96 @@
 
               </tr>
               {% endfor %}
+
+              <tr class="section">
+                <td colspan="4">
+                  Section II: Understanding Attitudes and Desires through Participatory Case Studies
+                </td>
+              </tr>
+
+              {% for item in section2_items %}
+              <tr>
+                <td>
+                  <a href="./html/{{item.file}}.html">{{item.title}}</a>
+                </td>
+
+                {% for format in build_formats  %}
+                <td>
+                  <a href="./{{format}}/{{item.file}}.{{format}}">{{item.file}}.{{format}}</a>
+                </td>
+                {% endfor %}
+
+              </tr>
+              {% endfor %}
+
+              <tr class="section">
+                <td colspan="4">
+                  Section III: Defining a New Research Agenda - Human Data Relations
+                </td>
+              </tr>
+
+              {% for item in section3_items %}
+              <tr>
+                <td>
+                  <a href="./html/{{item.file}}.html">{{item.title}}</a>
+                </td>
+
+                {% for format in build_formats  %}
+                <td>
+                  <a href="./{{format}}/{{item.file}}.{{format}}">{{item.file}}.{{format}}</a>
+                </td>
+                {% endfor %}
+
+              </tr>
+              {% endfor %}
+
+              <tr class="section">
+                <td colspan="4">
+                  Section IV: Operationalising the Research Agenda through Design & Practice
+                </td>
+              </tr>
+
+              {% for item in section4_items %}
+              <tr>
+                <td>
+                  <a href="./html/{{item.file}}.html">{{item.title}}</a>
+                </td>
+
+                {% for format in build_formats  %}
+                <td>
+                  <a href="./{{format}}/{{item.file}}.{{format}}">{{item.file}}.{{format}}</a>
+                </td>
+                {% endfor %}
+
+              </tr>
+              {% endfor %}
+
+              <tr class="section">
+                <td colspan="4">
+                  Section V: Conclusions and Outlook
+                </td>
+              </tr>
+
+              {% for item in section5_items %}
+              <tr>
+                <td>
+                  <a href="./html/{{item.file}}.html">{{item.title}}</a>
+                </td>
+
+                {% for format in build_formats  %}
+                <td>
+                  <a href="./{{format}}/{{item.file}}.{{format}}">{{item.file}}.{{format}}</a>
+                </td>
+                {% endfor %}
+
+              </tr>
+              {% endfor %}
+
+              <tr class="section">
+                <td colspan="4">
+                  Coda
+                </td>
+              </tr>
 
               <tr>
                 <td>
@@ -138,6 +240,19 @@
                 {% endfor %}
               </tr>
 
+              <!-- (hidden because file doesn't render properly)
+              <tr>
+                <td>
+                  <a href="./html/bibliography.html">Bibliography</a>
+                </td>
+
+                {% for format in build_formats %}
+                <td>
+                  <a href="./{{format}}/bibliography.{{format}}">bibliography.{{format}}</a>
+                </td>
+                {% endfor %}
+              </tr>
+              -->
             </tbody>
           </table>
 

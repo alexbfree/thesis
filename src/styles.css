@@ -200,6 +200,11 @@ figcaption, p.caption {
 
 }
 
+tr.section td {
+  font-weight:bold;
+  text-align: center;
+}
+
 /* Pure doesn't contain a container, so nab the bootstrap rules */
 .container {
   padding-right: 15px;
