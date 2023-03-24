@@ -182,9 +182,7 @@ All of the guidelines and recommendations detailed in 1.2.3 can guide designers 
 
 ### Principles for Generative Action towards Improving Human Data Relations{#1.2.4}
 
-
-sociotechnical Strategies for
-moving beyond interface design or user experience design, moving into
+Illustrated in Chapters [8](#chapter-8) and [9](#chapter-9) by examples and insights drawn from both the author's work with BBC R&D, Hestia.ai and other embedded projects as well as from other organisations and activists, the conclusion of this thesis provides thirteen concrete principles for better Human Data Relations. These principles, detailed in [10.1](#10.1), go further than interface design guidelines as they address the sociotechnical reality of how personal data is used today. They could be used to generate designs, interfaces, research projects, activist movements, grassroots campaigns, prototypes, user studies and more and serve as the ultimate actionable outputs from this research. The principles are:
 
 - [Principle 1](#principle-1) - Life Information Makes Data Relatable.
 - [Principle 2](#principle-2) - Data Needs to be United and Unified.
@@ -197,7 +195,7 @@ moving beyond interface design or user experience design, moving into
  [Principle 9](#principle-9) - Individual GDPR Requests can Compel Companies to Change Data Practices.
 - [Principle 10](#principle-10) - Collectives can Compare and Unify their Data and Use it to Demand Change.
 - [Principle 11](#principle-11) - Automating the Identification of Entities can enhance Machine Understanding and Unburden Life Interface Users.
-- [Principle 12](#principle-12) - The 'Seams' of Digital Services need to be identified, exploited and protected.
+- [Principle 12](#principle-12) - The 'Seams' of Digital Services need to be Identified, Exploited and Protected.
 - [Principle 13](#principle-13) - It is Possible (and Necessary) to Demonstrate Business Benefits of Transparency and Human-centricity.
 
 ### A Detailed and Actionable Research Agenda and Strategies for Empowerment and Systemic Change{#1.2.5}
