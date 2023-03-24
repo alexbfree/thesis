@@ -1,4 +1,4 @@
-Defining a New Field: Human Data Relations {#chapter-7}
+Defining a New Research Agenda: Human Data Relations {#chapter-7}
 =======================================================
 
 > _"What drives and drags the world are not machines, but ideas."_

@@ -155,9 +155,9 @@ def buildCoversheet(outputPath):
         elif chap==5:
             item["title"]="5 Case Study Two: The Human Experience of GDPR"
         elif chap==6:
-            item["title"]="6 Discussion: An Understanding of Human Data Relations"
+            item["title"]="6 Discussion: An Understanding of What People Want in Data Relations"
         elif chap==7:
-            item["title"]="7 Defining a New Field: Human Data Relations"
+            item["title"]="7 Defining a New Research Agenda: Human Data Relations"
         elif chap==8:
             item["title"]="8 Mapping the Human Data Relations Landscape"
         elif chap==9:

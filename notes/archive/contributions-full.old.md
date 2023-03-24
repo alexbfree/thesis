@@ -63,19 +63,19 @@ The goal of this thesis is to set the stage for future research and innovation i
 
 To begin to address these obstacles, thirteen [Insights](#inset-boxes) are explained that could seed future research and innovation towards tackling these obstacles:
 
-  - [1](#insight-1). Life information makes data relatable.
-  - [2](#insight-2). Data needs to be united and unified.
-  - [3](#insight-3). Data must be transformed into a versatile material.
-  - [4](#insight-4). Ecosystem information is an antidote to digital life complexity.
-  - [5](#insight-5). We must know data's provenance.
-  - [6](#insight-6). Data holders exploit four levers of power to manipulate the digital landscape.
-  - [7](#insight-7). We need new human-centred information systems that serve human values, relieve pain and deliver new life capabilities.
-  - [8](#insight-8). We need to teach computers to understand human information.
-  - [9](#insight-9). Individual GDPR requests can compel companies to change data practices.
-  - [10](#insight-10). Collectives can compare and unify their data and use it to demand change.
-  - [11](#insight-11). Automating the identification of entities can enhance machine understanding and unburden life interface users.
-  - [12](#insight-12). The 'seams' of Digital Services need to be identified, exploited and protected.
-  - [13](#insight-13). It is possible (and necessary) to demonstrate business benefits of transparency and human-centricity.
+  - [1](#principle-1). Life information makes data relatable.
+  - [2](#principle-2). Data needs to be united and unified.
+  - [3](#principle-3). Data must be transformed into a versatile material.
+  - [4](#principle-4). Ecosystem information is an antidote to digital life complexity.
+  - [5](#principle-5). We must know data's provenance.
+  - [6](#principle-6). Data holders exploit four levers of power to manipulate the digital landscape.
+  - [7](#principle-7). We need new human-centred information systems that serve human values, relieve pain and deliver new life capabilities.
+  - [8](#principle-8). We need to teach computers to understand human information.
+  - [9](#principle-9). Individual GDPR requests can compel companies to change data practices.
+  - [10](#principle-10). Collectives can compare and unify their data and use it to demand change.
+  - [11](#principle-11). Automating the identification of entities can enhance machine understanding and unburden life interface users.
+  - [12](#principle-12). The 'seams' of Digital Services need to be identified, exploited and protected.
+  - [13](#principle-13). It is possible (and necessary) to demonstrate business benefits of transparency and human-centricity.
 
 **<a name="c6">C6</a>: Four identified trajectories for advancing Human Data Relations**
 
