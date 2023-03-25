@@ -64,7 +64,7 @@ By 2014, it was beyond doubt to me that the software industry had lost its way, 
 
 <span class="goodnote">good</span>
 
-The aim of this thesis is to establish how people relate to data, how they understand and use it, and what they want from it and its holders in order to thrive and to meet their own goals; and from there, to begin to explore how those needs might be met in practice.
+The aim of this thesis is to establish how people relate to personal data, how they understand and use it, and what they want from it and its holders in order to thrive and to meet their own goals; and from there, to begin to explore how those needs might be met in practice.
 
 The thesis is informed by a constructivist ontology and a pragmatist, individualist epistemology [[3.1](#3.1)], and employs a multi-disciplinary _Digital Civics_ [@vlachokyriakos2016] approach, primarily by conducting an academic inquiry to answer two key research questions (RQ):
 
@@ -100,7 +100,7 @@ Taken together, the two parallel research tracks of this thesis serve as novel a
 Contributions of the Research{#1.2}
 -----------------------------
 
-<span class="editnote">Shrink Contributions / Make More Abstract & save detail for C10. can break down as</span>
+<span class="goodnote">Good</span>
 
 The contributions of this thesis are summarised in this section, and described in more detail throughout the thesis, in the referenced chapters and subsections.
 
@@ -117,7 +117,7 @@ Examined together [[Chapter 6](#chapter-6)], the Case Studies reveal clear commo
 
 The Case Studies also establish a more granular view of what we mean by personal data. The pilot study for Case Study One [[Appendix A](#appendix-a)] establishes the term _family civic data_ [[ARI4.1](#ari-fcd-types)], which can encompass relationship information, educational records, welfare details, health data, housing data, and civic and legal records. Case Study Two establishes a model of personal data according to its origin; data can be _volunteered_, _observed_, _derived_, _acquired_ or _metadata_ [[Table 5.2](#table-5.2)]. This model has been adopted by others: during design and ideation sessions at BBC R&D, and within Sitra/Hestia.ai's _digipower_ investigation [[ARI7.2OLD](#ARI7.2OLD)] (for explaining data holding to participants and as a frame for data analysis) [@bowyer2022hestia; @pidoux2022].
 
-Through the design and innovation work in [Section 3](#section-3) and beyond, a deeper understanding of the relationship people have with personal data is developed, and of what role data plays in people's lives. Drawing on information theory background laid out in [2.1.1](#2.1.1), [[Chapter 7](#chapter-7)] differentiates the needs participants expressed from data (the stored artefact) and from information (the set of facts and opinions encoded within that data), offering as a model the distinct concepts of _life information_ (from which people gain insights and extract value) and _ecosystem information_ (from which people improve awareness and control over the use of their data). Combining these differing motives with the Case Study themes from Chapter 6 yields four clear objectives people have in data relations: _data awareness and understanding_, _data useability_<sup>[10](#fn10)</sup>, _data ecosystem awareness and understanding_, and _data ecosystem negotiability_. The practical pursuit of these objectives form the basis of the _Human Data Relations_ research agenda detailed below in [1.2.5](#1.2.5) and pursued through the design and practice activities of [Section IV](#section-iv).
+Through the design and innovation work in [Section III](#section-iii) and beyond, a deeper understanding of the relationship people have with personal data is developed, and of what role data plays in people's lives. This forms part of the research agenda summarised in [1.2.5](#1.2.5) below.
 
 ### Methodologies for Participatory Work around Personal Data{#1.2.2}
 
@@ -143,7 +143,7 @@ The findings from the Case Studies allowed clear recommendations to be produced 
 
 <strong>Shared Data Interaction in the Context of Care</strong>
 
-Through Case Study One [[Chapter 4](#chapter-4)], a new human-centric approach and set of practices for support workers working with with families in the Early Help context was developed: To treat family civic data as a resource to be looked at, discussed and updated together on a shared screen or tablet, within the context of a support interaction. This _Shared Data Interaction_ approach was considered beneficial by both staff and families, as it would offer families increased negotiability and evidence-based feedback while also provided staff with a more accurate view of families' lives and greater confidence of their consent. The approach was applied in detail to several scenarios as part of the Case Study, and also has the benefit of shifting the _Locus of Decision Making (LDM)_ closer to the supported family.
+Through Case Study One [[Chapter 4](#chapter-4)], a new human-centric approach and set of practices for support workers working with with families in the Early Help context was developed: To treat family civic data as a resource to be looked at, discussed and updated together on a shared screen or tablet, within the context of a support interaction. This _Shared Data Interaction_ approach was considered beneficial by both staff and families, as it would offer families increased negotiability and evidence-based feedback while also provided staff with a more accurate view of families' lives and greater confidence of their consent. The approach was applied in detail to several scenarios as part of the Case Study, and also has the benefit of shifting the _Locus of Decision Making (LDM)_ [[4.4.3](#4.4.3)] closer to the supported family.
 
 In pursuit of Shared Data Interaction, 12 desirable best practices (which could be of value to any service organisation focused on individual development) are laid out through the sub-themes of Case Study One [[4.3](#4.3)]:
 
@@ -165,14 +165,14 @@ In pursuit of Shared Data Interaction, 12 desirable best practices (which could 
 Through Case Study Two [[Chapter 5](#chapter-5)] (which explores relationships with service providers in everyday life - especially those where GDPR rights apply), recommendations for thinking differently about the use of data (and especially access to it) in such relationships were produced:
 
 - Policymakers are recommended to regulate and provide guidance to improve GDPR response quality, to improve enforcement and protection of data rights, and to redesign future policies to consider ongoing access to and understanding of data rather than one-time file delivery.
-- Data holders are presented with business opportunities of improving data transparency in order to improve customer loyalty. Treating data as a co-owned resource could increase engagement, and an untapped demand for personal data ecosystems is identified.
+- Data holders are presented with evidence that improving data transparency can improve customer loyalty. Treating data as a co-owned resource could increase engagement, and an untapped demand for personal data ecosystems is identified.
 - Individuals are advised of the importance of their personal data, given it contains meaningful and potentially valuable information about their lives. Individuals are recommended to exert their data rights to improve their awareness and make more informed choices.
 
 An additional contribution presented is the evidence of the positive and negative impacts of GDPR: Knowledge and experience of poor data handling practices are shown to harm provider trust and perceived individual power, but both trust and individual power can be improved through transparency and inclusive data processes.
 
 <strong>A Reframing of Data Literacy for the Sociotechnical Context</strong>
 
-Building on existing established thinking about data literacy as a set of skills one can acquire to increase one's effectiveness in an increasingly technological world [@gurstein2011; @knight2016; @precisely2022], this thesis offers an expanded definition of data literacy for the context of data-driven service relationships [summarised in [9.5.1](#9.5.1) and explained throughout Chapter 9], including understanding and appreciation of:
+Building on existing established thinking about _data literacy_ as a set of skills one can acquire to increase one's effectiveness in an increasingly technological world [@gurstein2011; @knight2016; @precisely2022], this thesis offers an expanded definition of data literacy for the context of data-driven service relationships [summarised in [9.5.1](#9.5.1) and explained throughout Chapter 9], including understanding and appreciation of:
 
 - the intrinsic value of personal data
 - the implications of how one's personal data is used and shared by organisations
@@ -185,7 +185,7 @@ All of the guidelines and recommendations detailed in 1.2.3 can guide designers 
 
 ### Principles for Generative Action towards Better Data Relations{#1.2.4}
 
-In Chapters [8](#chapter-8) and [9](#chapter-9), examples and insights drawn from the author's work with BBC R&D, Hestia.ai and other projects; and from external organisations and activists are shared. The conclusion of this thesis formalises these learnings and insights into thirteen concrete principles for improving our relationships with and through data. These principles, detailed in [10.1](#10.1), go further than interface design guidelines as they address the sociotechnical reality of how personal data is used today. They could be used to generate designs, interfaces, research projects, activist movements, grassroots campaigns, prototypes, user studies and more and serve as the ultimate actionable outputs from this research. The principles are:
+In Chapters [8](#chapter-8) and [9](#chapter-9), examples and insights drawn from the author's work with BBC R&D and Hestia.ai, as well as the work of HDI specialists and activists, are shared. The conclusion of this thesis formalises these learnings and insights into thirteen concrete principles for improving our relationships with and through data. These principles, detailed in [10.1](#10.1), go further than interface design guidelines as they address the sociotechnical reality of how personal data is used today. They could be used to generate designs, interfaces, research projects, activist movements, grassroots campaigns, prototypes, user studies and more and serve as the ultimate actionable outputs from this research. The principles are:
 
 - [Principle 1](#principle-1) - Life Information Makes Data Relatable.
 - [Principle 2](#principle-2) - Data Needs to be United and Unified.
@@ -203,14 +203,22 @@ In Chapters [8](#chapter-8) and [9](#chapter-9), examples and insights drawn fro
 
 ### A Detailed and Actionable Research Agenda and Strategies for Empowerment and Systemic Change{#1.2.5}
 
+In order to bring together the learnings of this research and the above contributions into the most actionable form possible, this thesis (specifically [Section III](#section-iii)) outlines a new research agenda, called **_Human Data Relations (HDR)_** [[Chapter 7](#chapter-7)]. HDR extends the existing theories of Human-Data Interaction (HDI) [@mortier2014], in order to invite and facilitate confrontation of its practical challenges (as well as the other desires identified through the Case Studies). This involves examination of the sociotechnical realities of held data and provider power in today's data-centric world. HDR can be considered as a framework to operationalise HDI, and its practitioners as a _recursive public_ [[7.8](#7.8)].  
 
+Drawing on information theory background laid out in [2.1.1](#2.1.1), [Chapter 7](#chapter-7) differentiates the needs participants expressed from data (the stored artefact) and from information (the set of facts and opinions encoded within that data), offering as a model the distinct concepts of _life information_ (from which people gain insights and extract value) and _ecosystem information_ (from which people improve awareness and control over the use of their data). Combining these differing motives with the Case Study themes from [Chapter 6](#chapter-6) yields four clear objectives that the HDR research agenda aims to deliver for people:
 
-(detailed and actionable research agenda and strategies for empowerment and systemic change)
-The Synthesis and Formulation of the research agenda of Human Data Relations (HDR)
-HDR research agenda, extending HDI theory to invite and facilitate confrontation of the practical challenges of ld data and provider power
-A map of the HDR landscape, identifying obstacles and insights
-Four identified trajectories for advancing Human Data Relations
+- _data awareness and understanding_,
+- _data useability_<sup>[10](#fn10)</sup>,
+- _data ecosystem awareness and understanding_, and
+- _data ecosystem negotiability_.
 
+The practical pursuit of these objectives form the basis of [Section IV](#section-iv) of the thesis, with [Chapter 8](#chapter-8) mapping out the HDR landscape, identifying obstacles and insights that might help overcome them. [Chapter 9](#chapter-9)
+provides details of four identified trajectories for those who wish to improve Human Data Relations by pursuing systemic changes that can empower individuals with and through their personal data:
+
+- _Discovery-Driven Activism_ [[9.2](#9.2)],
+- _Building the Human-centric Future_ [[9.3](#9.3)],
+- _Defending User Autonomy and Hacking the Information Landscape_ [[9.4](#9.4)], and
+- _Teaching, Championing and Selling the HDR Vision_ [[9.5](#9.5)].
 
 Publications Arising From and Connected to This Research{#1.3}
 --------------------------------------------------------
@@ -272,8 +280,8 @@ The Structure of this Thesis{#1.4}
 ----------------------------
 
 <span class="editnote">Update Text to remove part A/B split</span>
-
 <span class="editnote">Update Structure Diagram Figure 1.2</span>
+<span class="editnote">Shrink or remove some of this as a lot has been covered already in 1.2 now</span>
 
 The overall structure of this thesis is illustrated in [Figure 1.2](#figure-1.2). Clearly evident are its two distinct parts, as described in 1.1.2 above.
 

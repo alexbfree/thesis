@@ -98,7 +98,7 @@ The four approaches are collectively summarised in [9.6](#9.6), and explained an
 - [Approach 1](#9.2) - Discovery-Driven Activism - [9.2](#9.2), [Figure 9.2](#figure-9.2)
 - [Approach 2](#9.3) - Building the Human-centric Future - [9.3](#9.3), [Figure 9.3](#figure-9.3)
 - [Approach 3](#9.4) - Defending User Autonomy and Hacking the Information Landscape - [9.4](#9.4), [Figure 9.19](#figure-9.19)
-- [Approach 4](#9.5) - Teaching, Championing and Selling the HDR Vision - [9.5](#9.5), [Figure 9.21](#figure-9.21)  -
+- [Approach 4](#9.5) - Teaching, Championing and Selling the HDR Vision - [9.5](#9.5), [Figure 9.21](#figure-9.21)
 
 ### Thesis Contributions {.unnumbered .unlisted}
 
