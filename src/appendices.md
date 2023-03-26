@@ -136,7 +136,7 @@ The four approaches are collectively summarised in [9.6](#9.6), and explained an
 - **Empowerment (in the context of data wants)** - [6.3](#6.3)
 - **Free Data Interfaces** - @bowyer2018freedata
 - **Hacking the Seams** - [Principle 12](#principle-12)
-- **Human Data Relations (HDR)** - [7.2](#7.2)
+- **Human Data Relations (HDR)** - [7.2OLD](#7.2OLD)
 - **HDR Literacy** - [9.5.1](#9.5.1)
 - **Human Information Operating System** - [8.2](#info-os)
 - **Human Information** - see Life Information and Ecosystem Information

@@ -223,7 +223,7 @@ provides details of four identified trajectories for those who wish to improve H
 Publications Arising From and Connected to This Research{#1.3}
 --------------------------------------------------------
 
-<span class="editnote">Update presentations post-PhD</span>
+<span class="editnote">Make placeholder bitly links for unpublished talks. Add Bibliography refs for URLs of digime, samespace, tu delft</span>
 
 ### Pilot Study{#1.3.1}
 
@@ -255,24 +255,27 @@ The work exploring the human experience of GDPR data access carried out in Case 
 
 I carried out all field research myself. Data analysis and paper writing were jointly executed by myself and Jack Holt.
 
-<a name="1.3.2.3">**Workshop Papers & Presentations**</a>
+<a name="1.3.2.3">**Workshop Papers, Presentations & Interviews**</a>
 
-During the PhD, I gave a number of additional presentations and published three workshop papers. These outputs included material from, or directly contributed to, this thesis and its arguments.
+During the PhD, I gave a number of presentations and interviews and published three workshop papers. These outputs included material from, or directly contributed to, this thesis and its arguments.
 
   - _[Designing for Human Autonomy: The next challenge that civic HCI must address](https://eprints.ncl.ac.uk/273832)_ [@bowyer2017] - a short talk I presented to my peers at Open Lab in January 2017 laying out the landscape of reduced agency and possible avenues for improving humans' relationships to their data that my PhD would explore;
   - _[Free Data Interfaces: Taking Human-Data Interaction to the Next Level](https://eprints.ncl.ac.uk/273825)_ [@bowyer2018freedata] - a CHI 2018 workshop paper formalising my pre-PhD design thinking and outlining a vision for unconstrained and useful data interaction interfaces;
   - _[A Grand Vision for Post-Capitalist HCI: Digital Life Assistants](https://eprints.ncl.ac.uk/273826)_ [@bowyer2018grandvision] - a CHI 2018 workshop paper where I imagined a form of digital computer assistant that is far more helpful and human-data-centric than the digital voice assistants of today;
+  - _[Personal Data Innovation: Sharing Power to Build Trust](https://blog.digi.me/2019/11/14/mydata-blog-personal-data-innovation-sharing-power-to-build-trust/)_ - A guest interview on PDS company digi.me's blog in November 2019;
   - _[Personal Data Use: A Human-centric Perspective](https://eprints.ncl.ac.uk/273834)_ [@bowyer2020lecture] - a lecture about my research that I was invited to give to undergraduate students at both Northumbria University and Newcastle University in early 2020, just prior to the pandemic;
   - _[My Thesis in 3 Minutes: Understanding and Designing Human Data Relations](https://www.youtube.com/watch?v=YFHXc_TfM5c)_ [@bowyer20213MT] - my entry into Newcastle University's 3-minute thesis competition in April 2021, for which I was co-winner of the people's choice prize;
-  - _[Human-Data Interaction has two purposes: Personal Data Control and Life Information Exploration](https://eprints.ncl.ac.uk/274297)_ [@bowyer2021twopurposes] - a workshop paper I presented at CHI 2021, introducing my model of the two motivating factors for interacting with personal data.
+  - _[Human-Data Interaction has two purposes: Personal Data Control and Life Information Exploration](https://eprints.ncl.ac.uk/274297)_ [@bowyer2021twopurposes] - a workshop paper I presented at CHI 2021, introducing my model of the two motivating factors for interacting with personal data;
+  - _[Conversation with Alex Bowyer: Understanding and Improving Human Data Relations](https://podcasts.apple.com/gb/podcast/conversation-with-alex-bowyer-understanding-and/id1581554015?i=1000595165881)_ - a podcast interview in January 2023 with the Data-centric Design Lab at Delft University of Technology about the Case Study Two GDPR paper and my PhD research in general; and
+  - _[The Power of Personal Data: How Companies Exploit Your Data to Shape Your World]()_ and _[The Power of Personal Data: Taking Back Control of our Data and Challenging Powerful Corporations]()_ - a two-part series of layperson-friendly talk about my research I gave at my local co-working space in September 2022 and January 2023.
 
-<a name="1.3.2.4">**Publications from Peripheral Work**</a>
+<a name="1.3.2.4">**Secondary Publications**</a>
 
-During the same timeframe as this PhD, I have also contributed to a number of publications through peripheral work [[7.2](#7.2)]:
+During the same timeframe as this PhD and as resulting from the practical design and innovation work undertaken through the external projects [[Section IV](#section-iv)], I contributed to a number of publications [[7.2OLD](#7.2OLD)]:
 
 - As a researcher and developer on the SILVER project [[3.4.1OLD](#3.4.1.1OLD)], my work contributed towards an internal report to CHC as well as the [overall impact report](https://web.archive.org/web/20211225192408/https://www.chc-impact-report.co.uk/) [@ConnectedHealthCities2021impact,129-130].
 - Also for SILVER, I published [demonstration videos](https://eprints.ncl.ac.uk/273839) [@bowyer2019silvervideo] of a health data interface prototype developed by myself and Stuart Wheater.
-- I was co-author on research published [at BCS 2021](https://doi.org/10.14236/ewic/HCI2021.16) [@goffe2021] and [in Interacting with Computers](https://doi.org/10.1093/iwc/iwac015) [@goffe2022].
+- I was co-author on research relating to healthy eating interface design. This was published [at BCS 2021](https://doi.org/10.14236/ewic/HCI2021.16) [@goffe2021] and [in the Interacting with Computers journal](https://doi.org/10.1093/iwc/iwac015) [@goffe2022].
 - As a research intern at BBC R&D [[ARI7.1OLD](#ari-bbc-OLD)], I published an internal design research report [@bowyer2020bbcreport] into personal data store design, and wrote and presented a 'stimulus presentation' on personal data design innovation for members the project team, to launch an internal hack week.
 - At Hestia.ai, I was a lead author on [a research report auditing the data economy](https://doi.org/10.5281/zenodo.6554177) [@bowyer2022hestia], and co-author on [a research report on power mechanisms in the data economy](https://doi.org/10.5281/zenodo.6554155) [@pidoux2022].
 
@@ -281,7 +284,6 @@ The Structure of this Thesis{#1.4}
 
 <span class="editnote">Update Text to remove part A/B split</span>
 <span class="editnote">Update Structure Diagram Figure 1.2</span>
-<span class="editnote">Shrink or remove some of this as a lot has been covered already in 1.2 now</span>
 
 The overall structure of this thesis is illustrated in [Figure 1.2](#figure-1.2). Clearly evident are its two distinct parts, as described in 1.1.2 above.
 
@@ -291,26 +293,34 @@ Part Two is adversarial design work and strategic planning, expanding the origin
 
 ![Figure 1.2: The Structure of This Thesis](./src/figs/fig1.2-thesis-structure.jpg){#figure-1.2}
 
-[Chapter 2](#chapter-2) contains a literature review. The first part [[2.1](#2.1)] examines the difference between data and information, outlines the central role data has taken in our society, why people need effective access to their data and how laws have been introduced to try and deliver this. The second [[2.2](#2.2)] serves as history of personal data interaction, from _Personal Information Management_ to the emergence of complex digital lives involving relationships with many data-holding providers. Finally, [2.3](#2.3) charts a path from _HCI_ and _HDI_ foundations through to the embracing of sociotechnical thinking around data and the current bleeding edge [@dictBleedingEdge] of human-centred innovation, leading to the primary academic Research Question (RQ) of this thesis:
+**Remainder of Section I: Introduction, Background and Approach**
+
+[Chapter 2](#chapter-2) contains a literature review. The first part [[2.1](#2.1)] examines the difference between data and information, outlines the central role data has taken in our society, why people need effective access to their data and how laws have been introduced to try and deliver this. The second [[2.2](#2.2)] serves as history of personal data interaction, from _Personal Information Management_ to the emergence of complex digital lives involving relationships with many data-holding providers. Finally, [2.3](#2.3) charts a path from _HCI_ and _HDI_ foundations through to the embracing of sociotechnical thinking around data and the current bleeding edge [@dictBleedingEdge] of human-centred innovation, leading to the primary Research Question (RQ) of this thesis:
 
 > _**"What relationship do people want with their personal data?"**_ [[2.4](#RQ)]
 
-<span class="editnote">remove ref to PAR</span>
+[Chapter 3](#chapter-3) describes the methodology used in this research, explaining first the constructivist ontology and pragmatist, individualist epistemology behind the approach [[3.1](#3.1)]. Then, the choice of the dual-track participatory co-design research and embedded design and innovation work in line with a _Digital Civics_ agenda is explained [[3.2](#3.2)]. The RQ is split into two—RQ1 and RQ2 [[3.3](#3.3)]. Finally, the specific methods and techniques adopted in the research are explained and illustrated, including workshop activities, sentisation, stimuli and recruitment [[3.5](#3.5)].
 
-[Chapter 3](#chapter-3) describes the methodology used in this research, explaining first the constructivist ontology and pragmatist, individualist epistemology behind the approach [[3.1](#3.1)]. Then, the choice of participatory action research and co-design from a _Digital Civics_ standpoint is explained [[3.2](#3.2)]. The RQ above is split into two—RQ1 and RQ2 [[3.3](#3.3)]—and the contexts for the Case Studies are introduced from a 'what did I do?' perspective [[3.4](#3.4)]. Finally, the specific methods and techniques adopted in the research are explained and illustrated, including workshop activities, sentisation, stimuli and recruitment [[3.5](#3.5)].
+**Section II: Understanding Attitudes and Desires through Participatory Case Studies**
 
-[Chapter 4](#chapter-4) reports on Case Study One. This begins [[4.1](#4.1)] with a detailed introduction to the UK's Early Help social care context, including its history of data-centrism which inherently contradicts the empowerment goals of Early Help. This makes it an ideal setting to explore the RQs. In [4.2](#4.2), prior findings on family and staff perspectives are introduced, motivating the _Shared Data Interaction_ vision and workshop design. The key findings are presented [[4.3](#4.3)] then discussed [[4.4](#4.4)] in terms of involving people with their data, effective data access, and shifting the Locus of Decision Making.
+After an introduction which explains the research contexts for the participatory work and the choices of Case Studies, Section II begins with [Chapter 4](#chapter-4) which reports on Case Study One. [[4.1](#4.1)] is a detailed introduction to the UK's Early Help social care context, including its history of data-centrism which inherently contradicts the empowerment goals of Early Help. This makes it an ideal setting to explore the RQs. In [4.2](#4.2), prior findings on family and staff perspectives are introduced, motivating the _Shared Data Interaction_ vision and workshop design. The key findings are presented [[4.3](#4.3)] then discussed [[4.4](#4.4)] in terms of involving people with their data, effective data access, and shifting the Locus of Decision Making.
 
-[Chapter 5](#chapter-5) reports on Case Study Two. [5.1](#5.1) contextualises data access in light of the GDPR and explains the human-centric approach to this study [[5.2](#5.2)]. Findings are presented in [[5.3](#5.3)] reporting on quantitative outcomes based on analysis of participants' GDPR requests, interview responses and participant-assigned scores. These are followed by presentation of key themes from qualitative analysis of interviews and observations [[5.4](#5.4)]. The discussion [[5.5](#5.5)] builds upon these findings to form GDPR-improving guidelines for policymakers, data holders and individuals, in line with a human-centric philosophy.
+[Chapter 5](#chapter-5) reports on Case Study Two. [5.1](#5.1) contextualises data access in light of the GDPR and explains the human-centric approach to this study [[5.2](#5.2)]. Findings are presented in [[5.3](#5.3)] which shares quantitative outcomes based on analysis of participants' GDPR requests, interview responses and participant-assigned scores. Key themes from qualitative analysis of interviews and observations follow in [[5.4](#5.4)]. The discussion [[5.5](#5.5)] builds upon these findings to form GDPR-improving design guidelines for policymakers, data holders and individuals, in line with a human-centric philosophy.
 
-[Chapter 6](#chapter-6) synthesises the two Case Studies, and answers RQ1 [in [6.1](#6.1)] and RQ2 [in [6.2](#6.2)], bringing the central academic research of the thesis to a close with clear statements about what people want from data—visibility, understanding and useability—and from data holders—transparency, oversight and involvement. [6.3](#6.3) concludes the chapter and Part One, by outlining this thesis's purpose to address the power imbalance over personal data, positions these six 'wants' as desirable _empowerment_ relative to that perspective, motivating their practical pursuit.
+**Section III: Defining A New Research Agenda: Human Data Relations**
 
-[Chapter 7](#chapter-7) begins Part Two, shifting to a practical focus to explore how human-centric empowerment might be achieved. The thesis' findings are synthesised, drawing on experience from external work, to formally define a field of future research called _Human Data Relations (HDR)_, whose practitioners act as a _recursive public_ [[7.8](#7.8)], pursuing four objectives [[7.7](#7.7)] for increased awareness, understanding and negotiability.
+After an introduction, Section III begins with a discussion chapter, [Chapter 6](#chapter-6). This synthesises the two Case Studies, and answers RQ1 [in [6.1](#6.1)] and RQ2 [in [6.2](#6.2)] with clear statements about what people want from data—visibility, understanding and useability—and from data holders—transparency, oversight and involvement. [6.3](#6.3) concludes the chapter in line with this thesis's purpose to address the power imbalance over personal data; it positions these six 'wants' as desirable _empowerment_ relative to that perspective, motivating their practical pursuit.
 
-The landscape of HDR is mapped out in two parts. [Chapter 8](#chapter-8) focuses on identifying obstacles to pursuit of the HDR objectives. Interspersed through the chapter as inset boxes are [8 insights](#inset-boxes-c8) that can inform adversarial design approaches.
+[Chapter 7](#chapter-7) builds upon that motivation, shifting the narrative of the remainder of thesis towards a practical focus on how human-centric empowerment might be achieved. The thesis' findings are synthesised, drawing on experience from external work and relevant information theory, to formally define a new research agenda called _Human Data Relations (HDR)_, whose practitioners act as a _recursive public_ [[7.8](#7.8)], pursuing four objectives [[7.7](#7.7)] for increased awareness, understanding and negotiability.
 
-[Chapter 9](#chapter-9), using a _Theories of Change (ToC)_ framing, introduces opportunities for progress, arranged as four different trajectories of change that could be executed to pursue better HDR. These approaches are illustrated with designs and illustrations to explain possible strategies, and interspersed with a further [5 insights](#inset-boxes-c9) that could seed future actions to tackle the aforementioned obstacles and pursue the change trajectories, improving the HDR landscape.
+**Section IV: Operationalising the Research Agenda through Design & Practice**
 
-[Chapter 10](#chapter-10) concludes the thesis, reflecting first on this researcher's journey [[10.OLD1](#10.OLD1)], before summarising the legacy and contributions of this body of work [[10.OLD2](#10.OLD2)], positioning HDR and this thesis as call to arms for activist research and innovation to tackle the power imbalance around personal data in society.
+Section IV begins with an introduction to the placements and projects undertaken by the author through which the parallel track of design and innovation work to operationalise the HDR research agenda was progressed; these contexts provided the grounded learning for the insights presented in this section. Then, [Chapter 8](#chapter-8) maps out the landscape for the HDR research space, focusing on identifying obstacles to the pursuit of the HDR objectives.
+
+[Chapter 9](#chapter-9), using a _Theories of Change (ToC)_ framing, introduces opportunities for progress, arranged as four different trajectories of change that could be executed to pursue better HDR. These approaches are illustrated with designs and illustrations from the practical work in order to explain possible strategies.
+
+**Section V: Conclusions and Outlook**
+
+Section V concludes the thesis through [Chapter 10](#chapter-10). First, in [10.1](#10.1), a collection of thirteen design principles for generative action are asserted and illustrated. These principles emerged through the HDR operationalisation work documented in Section IV. [10.2](#10.2) provides a pragmatic discussion of the practicalities of pursuing HDR, identifying some additional pitfalls, assumptions and implications. [10.3](#10.3) takes a critical eye to look back at this body of research, identifying limitations as well as opportunities for future work. To conclude the narrative of this this, [10.OLD1](#10.OLD1) first reflects on this researcher's journey, before [10.OLD2](#10.OLD2) summarises the legacy and contributions of this body of work, positioning HDR and this thesis as call to arms for activist research and design innovation to tackle the power imbalance around personal data in society.
 
 ---

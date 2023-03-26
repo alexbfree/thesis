@@ -12,7 +12,7 @@ Practical Approaches to Improve HDR {#chapter-9}
 In this chapter, I take on the roles of adversarial designer, social activist and technical strategist, drawing upon:
 
  - the findings of Part One [[Chapter 6](#chapter-6)];
- - my practical experiences from peripheral projects [[7.2](#7.2)];
+ - my practical experiences from peripheral projects [[7.2OLD](#7.2OLD)];
  - the theoretical framing and research agenda of HDR laid out in [Chapter 7](#chapter-7); and
  - the established understanding of key obstacles and proposed strategies to tackle them from [Chapter 8](#chapter-8).
 
@@ -357,7 +357,7 @@ Summation of Chapter 9, and of Part One{#9.6}
 
 ![Figure 9.23: Summary of Generalised Change Strategies for Pursuing Better HDR, Using the ToC Model](./src/figs/fig9.23-summary-change-trajectories.jpg){#figure-9.23}
 
-This chapter examined the expanded research question [[7.1](#exRQ)] of how better Human Data Relations might be achieved in practice. Through detailed practical examples drawn from the peripheral research settings [[7.2](#7.2)] and elsewhere, and building upon the 13 [[Insights](#inset-boxes)] introduced throughout Chapters [8](#chapter-8) and [9](#chapter-9), I have illustrated and described four distinct trajectories for improving HDR. These provide practical strategies for HDR reform that could bring about better HDR.
+This chapter examined the expanded research question [[7.1](#exRQ)] of how better Human Data Relations might be achieved in practice. Through detailed practical examples drawn from the peripheral research settings [[7.2OLD](#7.2OLD)] and elsewhere, and building upon the 13 [[Insights](#inset-boxes)] introduced throughout Chapters [8](#chapter-8) and [9](#chapter-9), I have illustrated and described four distinct trajectories for improving HDR. These provide practical strategies for HDR reform that could bring about better HDR.
 
   1. **Discovery-Driven Activism** [[9.2](#9.2); [Figure 9.2](#figure-9.2)]
   2. **Building the Human-Centric Future**  [[9.3](#9.3); [Figure 9.3](#figure-9.3)]

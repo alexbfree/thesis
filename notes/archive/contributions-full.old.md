@@ -42,7 +42,7 @@ From this baseline, the participatory academic enquiry into the lived realities 
 
 **<a name="c4">C4</a>: A clear delineation of two primary motivators for individuals seeking better HDR**
 
-Section [7.6](#7.6), informed by both the Case Studies and the peripheral activities [[7.2](#7.2)], clarifies the two driving motivations for pursuing better HDR:
+Section [7.6](#7.6), informed by both the Case Studies and the peripheral activities [[7.2OLD](#7.2OLD)], clarifies the two driving motivations for pursuing better HDR:
 
   - Life Information Utilisation [[7.6.1](#7.6.1)], and
   - Personal Data Ecosystem Control [[7.6.2](#7.6.2)].

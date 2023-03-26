@@ -149,7 +149,7 @@ Lists of Figures by Chapter {.unnumbered .unlisted}
 ### Figures in Chapter 7 {.unnumbered}
 
 - [7.1](#figure-7.1) - The Two Motivations for HDR: Controlling Your Personal Data Ecosystem and Utilising Your Information About Your Life
-- [7.2](#figure-7.2) - Mapping the Six Wants into Objectives for the HDR Opportunity Landscape
+- [7.2OLD](#figure-7.2) - Mapping the Six Wants into Objectives for the HDR Opportunity Landscape
 
 ### Figures in Chapter 8 {.unnumbered}
 

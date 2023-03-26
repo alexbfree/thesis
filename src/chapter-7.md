@@ -21,30 +21,16 @@ detail. A big contribution is formulating the research agenda of HDR (human-data
 
 > <a name="exRQ"></a>**"Having understood what relationship people want with their personal data, how might these better data relations be achieved?"**
 
-Methodologically, Part Two is distinct from the main academic enquiry. The Case Studies prioritised a participatory and investigatory approach, but there is a need for specialist design innovation that cannot always arise from working with everyday users. The approach now, therefore, is more UCD than PD [[3.2.1](#3.2.1)]. Part One's findings become material for myself as an adversarial designer, informing ideas for technical and societal changes that can bring about better data relations. [7.2](#7.2) describes the peripheral R&D activities I undertook, which form the basis of learning for Part Two.
+Methodologically, Part Two is distinct from the main academic enquiry. The Case Studies prioritised a participatory and investigatory approach, but there is a need for specialist design innovation that cannot always arise from working with everyday users. The approach now, therefore, is more UCD than PD [[3.2.1](#3.2.1)]. Part One's findings become material for myself as an adversarial designer, informing ideas for technical and societal changes that can bring about better data relations. [7.2OLD](#7.2OLD) describes the peripheral R&D activities I undertook, which form the basis of learning for Part Two.
 
 The wide-reaching objective of achieving better data relations in practice has many facets: technical, design, commercial, legal, moral, social and political. These will not all be covered. Collectively, Chapter 7, 8 and 9 present an understanding of the multi-faceted realities of today's PDE landscape _sufficient to inform the design_ of PDE processes and systems in pursuit of better relationships with data. This understanding is synthesised from my real-world practical designs and insights, as well as from the work of other innovators and activists, and is contextualised relative to existing literature and the thesis's earlier contributions. As such, it will be necessary to introduce some new literature and external references throughout Part Two,. This is because it is only through reflection upon the findings of Part One from this new perspective that the particular practical and activist avenues that Part Two will need to explore become evident.
 
 In this chapter, I position the topic of this thesis as a field of study in its own right, _Human Data Relations (HDR)_, formally defined in [7.3](#7.3). Additional insights into how people relate to data are identified [[7.4](#7.4)], as well an important dichotomy of people's needs for better relations with their data [[7.6](#7.6)]. The six wants [[Chapter 6](#chapter-6)] are repurposed as four core objectives for a landscape of better HDR [[7.7](#7.7)]. I conceptualise those who pursue these objectives as _HDR reformers_ and reflect on the researcher-turned-activist stance that drives this chapter, recognising a nascent _recursive public_ [[7.8](#7.8)].
 
-Peripheral Research & Design Settings{#7.2}
-------------------------
-
-<span class="movenote">move this into section 3 intro</span>
-
-As established earlier [[3.6](#3.6)], Part Two explores the wider action research [[3.2.2](#3.2.2)] cycle that has contributed to my evolving learning about HDR, looking beyond direct academic investigation and drawing upon both self-experimentation and my embedded work in in the PDE space [[2.3.4](#2.3.4)] as both developer and researcher. Through field experience, I have understood constraints and opportunities that affect data interaction system and process design. Concurrently,I have fed research learnings back into those projects, creating practical impact. Instead of conducting formal studies, I have undergone a process of acculturation to the world of practical system building and project operation in the PDE. Through design, technical prototyping and pushing boundaries of existing systems, I have developed knowledge and gained expertise which allows me to draw conclusions with confidence about how the discipline of Human Data Relations (which I define below) should proceed in its future R&D to best serve individual and societal interests.
-
-Concurrent to this PhD, I took a major role in two industrial research projects (1 & 2), and two academic research projects (3 & 4):
-
-  1. **BBC R&D's Cornmarket Project** [@sharp2021], which explored through user experience design, technical prototyping and participatory research, how individuals might interact with data through a Personal Data Store interface [see [ARI7.1OLD](#ari-bbc-OLD)];
-  2. **Sitra/Hestia.ai's _digipower_ Investigation** [@härkönen2022project], a successor to Case Study Two, in which European politicians examined companies' data practices through exercising data rights and conducting technical audits [see [ARI7.2OLD](#ari-digipower-OLD)];
-  3. **Connected Health Cities (CHC)'s SILVER Project** [@ConnectedHealthCities2017silver], where I, along with a backend developer and a team of researchers, developed a prototype health data viewing interface for Early Help support workers [see [3.4.1OLD](#3.4.1.1OLD)]; and
-  4. **Digital Economy Research Centre (DERC)'s Healthy Eating Web Augmentation Project**, which explored the use of web augmentation techniques to modify the user interface of takeaway service _Just Eat_ to include health information, in support of healthy eating [see [ARI7.3OLD](#ari-derc-OLD)].
-
-For additional details about these projects and my involvement in them, see the linked sections. See also [ARI7.4](#ari-attribution) for a note about the attribution and origin of the ideas presented within this chapter.
-
 'Human Data Relations': A Definition{#7.3}
 ------------------------------------
+
+<span class="editnote">renumber this and subsequent</span>
 
 Chapter 6 established six 'wants' that people have in their relationships with data: _visible_, _understandable_ and _useable data_; _process transparency_, _individual oversight_ and _decision-making involvement_.
 
