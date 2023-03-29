@@ -2,8 +2,6 @@
 
 <h2>Introduction to Section I</h2><a name='#section-i-intro'/>
 
-<span class="goodnote">good</span>
-
 This thesis is divided into five sections:
 
 * Section I: Introduction, Background and Approach
@@ -26,8 +24,6 @@ Introduction{#chapter-1}
 Background and Motivation for this Research{#1.1}
 -------------------------------------------
 
-<span class="goodnote">good</span>
-
 We live in an increasingly data-centric world, where our direct and indirect interactions with computer systems depend upon the collection, storage and use of personal data about individuals. Motivated to reduce costly human interaction and scale to serve more customers, organisations capture and represent individuals as data and rely increasingly on the interpretation of those datapoints to make decisions—decisions that affect our everyday lives in myriad ways, from determining eligibility to access particular services, benefits or products or targeting advertisements or recommendations to influencing our decisions and behaviour. Data about people has become extremely valuable. It is 'the new oil' [@toonders2014] driving a model of _surveillance capitalism_ [@zuboff2019] that collects data and exploits it for profit.
 
 This multi-party use of data has resulted in a splintering [@lemley2021] of our _digital selves_ across hundreds of different organisations' computer systems, creating 'a chaos of multiplicity' [@bødker2015] where data becomes trapped [@abiteboul2015] and hard to manage. Current data practices cause harm to individuals through anxiety, distraction and a sense of being overwhelmed [@fu2020; @timely2020]. Data use can harm society too, due to the ease with which people's attention and beliefs are manipulated, risking radicalisation and a loss of democratic freedom [@thompson2011; @chan2019]. It is generally accepted that:
@@ -38,9 +34,7 @@ To address this power imbalance, people need a more effective relationship with 
 
 This thesis focuses on that power imbalance and seeks to design improvements to information interaction interfaces, processes and service relationships that can improve individual agency, legibility and negotiability. This PhD tackles this design challenge through a hybrid approach that uncovers individual needs through participatory co-design workshops and qualitative interviews, alongside  grounded innovation and development work carried out by the author while embedded in industrial and academic project settings, focusing on operationalising and refining the emerging design objectives through user-centred system design, conceptual modelling, and prototyping.
 
-<span class="editnote">ADD DIAGRAM REFERENCE</span>
-
-The two parallel aspects of this research are described separately in sections II and IV, but took place in an concurrent and interleaved fashion, resulting in a perpetual action research feedback cycle where insights from participants and resultant theoretical models continued to inform practical system and process designs in the external projects, while real-world learnings about societal challenges and practical obstacles could be fed back into the participatory research in order to refine the emerging models.
+The two parallel tracks of this research, depicted in are described separately in sections II and IV [[Figure 1.2](#figure-1.2)], but took place in an concurrent and interleaved fashion, resulting in a perpetual action research feedback cycle [[Figure 3.14](#figure-3.14)] where insights from participants and resultant theoretical models continued to inform practical system and process designs in the external projects, while real-world learnings about societal challenges and practical obstacles could be fed back into the participatory research in order to refine the emerging models.
 
 [Section II](#section-ii) presents two Case Studies working with individuals and groups to explore their actual and desired relationships with data. These Studies make a novel contribution to knowledge, producing a deep understanding of how people relate to data, what capabilities people want, and how they would like service providers to handle their data.
 
@@ -52,8 +46,6 @@ In [Section V](#section-v), specific designs and practices are presented, and pr
 
 ### Personal Motivation and Context{#1.1.1}
 
-<span class="goodnote">good</span>
-
 This PhD and this thesis represent the culmination of my lifelong passion to help people get more value from our computers. My experience and expectations of computers was shaped by the 1980s home computing revolution, which taught me and a generation of young people that the computer was a machine to program, a tool to be exploited, mastered and bent to your will. Then, in my formative years approaching the turn of the millennium, I lived through the birth of the public Internet and marvelled at the ability for computers to connect people across the world, empower individuals as creators, innovators and broadcasters, level the playing field and transform the way people interact. In my software engineering career, I gradually transitioned from back-end to front-end development and ultimately to User Experience (UX), driven to take a more active role in building software features that directly benefit users and improve their lives. Keenly tracking and embracing the Web 2.0 revolution while observing the digitisation and disruption of so many industries, I became fascinated with the ways in which humans were shaping computer systems which in turn were shaping our habits and our society, phenomena I explored through the Human 2.0 blog which I co-founded [@bowyer2009human].
 
 But then, having seen Internet-era computing give us new capabilities, and knowing the potential of computers to become tools for positive change in society, I bore witness to a changing world, and the balkanisation and commercialisation of the once-free Internet. As companies adapted to the Information Age and shifted to data-driven, cloud-centric business models, our ability to harness computers for our own ends began to slip away. While immersed in the start-up community in Montréal, Canada, I became frustrated at this loss of potential. Driven to explore the reasons for, and implications of, this loss of agency and the possibilities for more human-centric computing, I published several essays and presentations [@bowyer2009bitnorth; @bowyer2010bitnorth; @bowyer2011filesdie; @bowyer2012bitnorth; @bowyer2012timespace; @bowyer2013bitnorth] which collectively form the seed from which this thesis grew.
@@ -61,8 +53,6 @@ But then, having seen Internet-era computing give us new capabilities, and knowi
 By 2014, it was beyond doubt to me that the software industry had lost its way, prioritising business goals over user agency, reducing features and creating technology designed with in-built limits to our capabilities and interfaces optimised to corral users to behave in certain ways. Web 2.0's revolutionary potential of a 'people's internet' had been squashed and withered away in the shadow of new data giants Google, Facebook, Apple and Amazon, who reshaped and usurped Internet, Web and smartphone technologies for profit, at great cost to human wellbeing. Against a backdrop of a social media revolution which was literally breaking society and democracy to drive profit [@tufekci2017; @hall2018], I took the leap to escape corporate IT. I sought to research, design and build a better digital future where computers could be made useful again. This led me to the _Digital Civics_ CDT programme [@digitalCivicsCDT2018], where I was finally able to work full-time on what I consider the most important problem of our age—**Understanding and Improving Human Data Relations**.
 
 ### Research Objectives and Purpose{#1.1.2}
-
-<span class="goodnote">good</span>
 
 The aim of this thesis is to establish how people relate to personal data, how they understand and use it, and what they want from it and its holders in order to thrive and to meet their own goals; and from there, to begin to explore how those needs might be met in practice.
 
@@ -100,8 +90,6 @@ Taken together, the two parallel research tracks of this thesis serve as novel a
 Contributions of the Research{#1.2}
 -----------------------------
 
-<span class="goodnote">Good</span>
-
 The contributions of this thesis are summarised in this section, and described in more detail throughout the thesis, in the referenced chapters and subsections.
 
 ### An Understanding of what People want from Personal Data{#1.2.1}
@@ -129,13 +117,13 @@ This approach was pioneered in the pilot study [[3.4.1.2OLD](#3.4.1.2OLD)] [[App
 
 <strong>Storyboarding Action Cards</strong>
 
-For the third workshop of Case Study Two, there was a need to explore interpersonal interactions between different parties in a service relationship, without getting caught up on details of interface layouts or software and hardware capabilities. A novel approach was developed consisting of the use of _storyboarding action cards_ [Figure 3.10](#figure-3.10) with participants to give them a vocabulary to map out interactions at a sociotechnical, functonal level. These cards are documented in [ARI4.3](#ari-storyboarding) and this approach could be useful to others wishing to undertake participatory co-design work at the relationship or service design level.
+For the third workshop of Case Study Two, there was a need to explore interpersonal interactions between different parties in a service relationship, without getting caught up on details of interface layouts or software and hardware capabilities. A novel approach was developed consisting of the use of _storyboarding action cards_ [[Figure 3.10](#figure-3.10)] with participants to give them a vocabulary to map out interactions at a sociotechnical, functonal level. These cards are documented in [ARI4.3](#ari-storyboarding) and this approach could be useful to others wishing to undertake participatory co-design work at the relationship or service design level.
 
 <strong>A Methodology for Qualitative Interviews that Explore a User's Personal Data</strong>
 
-For Case Study Two, an approach was designed that would allow a researcher to accompany an individual participant on a journey of exploration of their own personal data files, retrieved from companies using GDPR, and to carry out a guided 'deep dive' into that data, in order to reveal attitudes to revealed data storage and use practices. This approach is detailed in [3.4.2.2OLD](#3.4.2.2OLD), and focused on using privacy policy promises and GDPR access rights as a frame of reference from which to assess data response quality and usefulness. The methodology was successful, enabling the production of detailed insights which are presented in [Chapter 5](#chapter-5). The methodology was not designed with a view to it being used elsewhere, but in fact the author was engaged by Hestia.ai to replicate this methodology (with some expansion and tweaks) as co-leader of the digipower investigation, which aimed to take 15 high profile European politicians, civil servants and journalists through a similar journey of discovery. The digipower investigation took place in 2021 and was also able to apply the methodology very successfully, resulting in the publication of multiple research reports [[ARI7.2OLD](#ari-digipower-OLD)]].
+For Case Study Two, an approach was designed that would allow a researcher to accompany an individual participant on a journey of exploration of their own personal data files, retrieved from companies using GDPR, and to carry out a guided 'deep dive' into that data, in order to reveal attitudes to revealed data storage and use practices. This approach is detailed in [3.4.2.2OLD](#3.4.2.2OLD), and focused on using privacy policy promises and GDPR access rights as a frame of reference from which to assess data response quality and usefulness. The methodology was successful, enabling the production of detailed insights which are presented in [Chapter 5](#chapter-5). The methodology was not designed with a view to it being used elsewhere, but in fact the author was engaged by Hestia.ai to replicate this methodology (with some expansion and tweaks) as co-leader of the digipower investigation, which aimed to take 15 high profile European politicians, civil servants and journalists through a similar journey of discovery. The digipower investigation took place in 2021 and was also able to apply the methodology very successfully, resulting in the publication of multiple research reports [[ARI7.2OLD](#ari-digipower-OLD)].
 
-A technological accompaniment to the Case Study Two methodology was originally developed by the author for use in the interviews, the _private data viewing monitor_ [[ARI3.1](#ari-monitor)], but this was not used for the study due to the infeasibility of face-to-face interviewing during the COVID-19 pandemic in 2020.
+A technological accompaniment to the Case Study Two methodology was originally developed by the author for use in the interviews, the _private data viewing monitor_ [[ARI3.1](#ari-monitor)], but this was not used for the Study due to the infeasibility of face-to-face interviewing during the COVID-19 pandemic in 2020.
 
 ### Best Practices and Design Guidelines for Systems and Processes involving Personal Data{#1.2.3}
 
@@ -160,7 +148,7 @@ In pursuit of Shared Data Interaction, 12 desirable best practices (which could 
 - prioritising the acquisition and demonstration of greater understanding; and
 - pro-actively challenging data-centric norms.
 
-<strong>Grounded Recommendations for Policymakers, Service Providers and Individuals</strong>
+<strong>Recommendations for Policymakers, Service Providers and Individuals on Data Use</strong>
 
 Through Case Study Two [[Chapter 5](#chapter-5)] (which explores relationships with service providers in everyday life - especially those where GDPR rights apply), recommendations for thinking differently about the use of data (and especially access to it) in such relationships were produced:
 
@@ -181,11 +169,11 @@ Building on existing established thinking about _data literacy_ as a set of skil
 - the need for a free and fair information landscape
 - the ability to identify when one's individual agency is being diminished
 
-All of the guidelines and recommendations detailed in 1.2.3 can guide designers and inform individual and organisational choices, but this thesis also contributes specific principles which can be used to generate system, process and interface designs for better data relations. These principles are summarised in the next subsection.
+All of the guidelines and recommendations that have been summarised in 1.2.3 can guide designers and inform individual and organisational choices, but this thesis also contributes specific principles which can be used to generate system, process and interface designs for better data relations. These principles are summarised in the next subsection.
 
 ### Principles for Generative Action towards Better Data Relations{#1.2.4}
 
-In Chapters [8](#chapter-8) and [9](#chapter-9), examples and insights drawn from the author's work with BBC R&D and Hestia.ai, as well as the work of HDI specialists and activists, are shared. The conclusion of this thesis formalises these learnings and insights into thirteen concrete principles for improving our relationships with and through data. These principles, detailed in [10.1](#10.1), go further than interface design guidelines as they address the sociotechnical reality of how personal data is used today. They could be used to generate designs, interfaces, research projects, activist movements, grassroots campaigns, prototypes, user studies and more and serve as the ultimate actionable outputs from this research. The principles are:
+In Chapters [8](#chapter-8) and [9](#chapter-9), examples and insights drawn from the author's work with BBC R&D and Hestia.ai, as well as from the work of HDI specialists and activists, are shared. The conclusion of this thesis formalises these learnings and insights into thirteen concrete principles for improving our relationships with and through data. These principles, detailed in [10.1](#10.1), go further than interface design guidelines as they address the sociotechnical reality of how personal data is used today. They could be used to generate designs, interfaces, research projects, activist movements, grassroots campaigns, prototypes, user studies and more and serve as the ultimate actionable outputs from this PhD. The principles are:
 
 - [Principle 1](#principle-1) - Life Information Makes Data Relatable.
 - [Principle 2](#principle-2) - Data Needs to be United and Unified.
@@ -201,9 +189,9 @@ In Chapters [8](#chapter-8) and [9](#chapter-9), examples and insights drawn fro
 - [Principle 12](#principle-12) - The 'Seams' of Digital Services need to be Identified, Exploited and Protected.
 - [Principle 13](#principle-13) - It is Possible (and Necessary) to Demonstrate Business Benefits of Transparency and Human-centricity.
 
-### A Detailed and Actionable Research Agenda and Strategies for Empowerment and Systemic Change{#1.2.5}
+### A Detailed and Actionable Research Agenda and Strategy for Empowerment and Systemic Change{#1.2.5}
 
-In order to bring together the learnings of this research and the above contributions into the most actionable form possible, this thesis (specifically [Section III](#section-iii)) outlines a new research agenda, called **_Human Data Relations (HDR)_** [[Chapter 7](#chapter-7)]. HDR extends the existing theories of Human-Data Interaction (HDI) [@mortier2014], in order to invite and facilitate confrontation of its practical challenges (as well as the other desires identified through the Case Studies). This involves examination of the sociotechnical realities of held data and provider power in today's data-centric world. HDR can be considered as a framework to operationalise HDI, and its practitioners as a _recursive public_ [[7.8](#7.8)].  
+In order to bring together the learnings of this research and the above contributions into the most actionable form possible, this thesis (specifically [Section III](#section-iii)) outlines a new research agenda, called **_Human Data Relations (HDR)_** [[Chapter 7](#chapter-7)]. HDR extends the existing theories of Human-Data Interaction (HDI) [@mortier2014], in order to invite and facilitate confrontation of its practical challenges (as well the challenges of the other desires identified through the Case Studies). This involves discursive and grounded examination of the sociotechnical realities of held data and provider power in today's data-centric world. HDR can be considered as a framework to operationalise HDI, and its practitioners as a _recursive public_ [[7.8](#7.8)].  
 
 Drawing on information theory background laid out in [2.1.1](#2.1.1), [Chapter 7](#chapter-7) differentiates the needs participants expressed from data (the stored artefact) and from information (the set of facts and opinions encoded within that data), offering as a model the distinct concepts of _life information_ (from which people gain insights and extract value) and _ecosystem information_ (from which people improve awareness and control over the use of their data). Combining these differing motives with the Case Study themes from [Chapter 6](#chapter-6) yields four clear objectives that the HDR research agenda aims to deliver for people:
 
@@ -222,8 +210,6 @@ provides details of four identified trajectories for those who wish to improve H
 
 Publications Arising From and Connected to This Research{#1.3}
 --------------------------------------------------------
-
-<span class="editnote">Make placeholder bitly links for unpublished talks. Add Bibliography refs for URLs of digime, samespace, tu delft</span>
 
 ### Pilot Study{#1.3.1}
 
@@ -255,7 +241,7 @@ The work exploring the human experience of GDPR data access carried out in Case 
 
 I carried out all field research myself. Data analysis and paper writing were jointly executed by myself and Jack Holt.
 
-<a name="1.3.2.3">**Workshop Papers, Presentations & Interviews**</a>
+### Workshop Papers, Presentations & Interviews{#1.3.3}
 
 During the PhD, I gave a number of presentations and interviews and published three workshop papers. These outputs included material from, or directly contributed to, this thesis and its arguments.
 
@@ -266,32 +252,35 @@ During the PhD, I gave a number of presentations and interviews and published th
   - _[Personal Data Use: A Human-centric Perspective](https://eprints.ncl.ac.uk/273834)_ [@bowyer2020lecture] - a lecture about my research that I was invited to give to undergraduate students at both Northumbria University and Newcastle University in early 2020, just prior to the pandemic;
   - _[My Thesis in 3 Minutes: Understanding and Designing Human Data Relations](https://www.youtube.com/watch?v=YFHXc_TfM5c)_ [@bowyer20213MT] - my entry into Newcastle University's 3-minute thesis competition in April 2021, for which I was co-winner of the people's choice prize;
   - _[Human-Data Interaction has two purposes: Personal Data Control and Life Information Exploration](https://eprints.ncl.ac.uk/274297)_ [@bowyer2021twopurposes] - a workshop paper I presented at CHI 2021, introducing my model of the two motivating factors for interacting with personal data;
-  - _[Conversation with Alex Bowyer: Understanding and Improving Human Data Relations](https://podcasts.apple.com/gb/podcast/conversation-with-alex-bowyer-understanding-and/id1581554015?i=1000595165881)_ - a podcast interview in January 2023 with the Data-centric Design Lab at Delft University of Technology about the Case Study Two GDPR paper and my PhD research in general; and
-  - _[The Power of Personal Data: How Companies Exploit Your Data to Shape Your World]()_ and _[The Power of Personal Data: Taking Back Control of our Data and Challenging Powerful Corporations]()_ - a two-part series of layperson-friendly talk about my research I gave at my local co-working space in September 2022 and January 2023.
+  - _[Conversation with Alex Bowyer: Understanding and Improving Human Data Relations](https://podcasts.apple.com/gb/podcast/conversation-with-alex-bowyer-understanding-and/id1581554015?i=1000595165881)_ [@bowyer2023tudelft] - a podcast interview in January 2023 with the Data-centric Design Lab at Delft University of Technology about the Case Study Two GDPR paper and my PhD research in general; and
+  - _[The Power of Personal Data: How Companies Exploit Your Data to Shape Your World](https://bit.ly/power-personal-data-part-1)_ [@bowyer2022samespace] and _[The Power of Personal Data: Taking Back Control of our Data and Challenging Powerful Corporations](https://bit.ly/power-personal-data-part-2)_ -[@bowyer2023samespace] a two-part series of layperson-friendly talks about my research I gave at my local co-working space in September 2022 and January 2023.
 
-<a name="1.3.2.4">**Secondary Publications**</a>
+### Secondary Publications{#1.3.4}
 
 During the same timeframe as this PhD and as resulting from the practical design and innovation work undertaken through the external projects [[Section IV](#section-iv)], I contributed to a number of publications [[7.2OLD](#7.2OLD)]:
 
 - As a researcher and developer on the SILVER project [[3.4.1OLD](#3.4.1.1OLD)], my work contributed towards an internal report to CHC as well as the [overall impact report](https://web.archive.org/web/20211225192408/https://www.chc-impact-report.co.uk/) [@ConnectedHealthCities2021impact,129-130].
 - Also for SILVER, I published [demonstration videos](https://eprints.ncl.ac.uk/273839) [@bowyer2019silvervideo] of a health data interface prototype developed by myself and Stuart Wheater.
-- I was co-author on research relating to healthy eating interface design. This was published [at BCS 2021](https://doi.org/10.14236/ewic/HCI2021.16) [@goffe2021] and [in the Interacting with Computers journal](https://doi.org/10.1093/iwc/iwac015) [@goffe2022].
+- I was co-author on research relating to improving fast food platform interfaces using adversarial design to encourage healthy eating. This was published [at BCS 2021](https://doi.org/10.14236/ewic/HCI2021.16) [@goffe2021] and [in the Interacting with Computers journal](https://doi.org/10.1093/iwc/iwac015) [@goffe2022].
 - As a research intern at BBC R&D [[ARI7.1OLD](#ari-bbc-OLD)], I published an internal design research report [@bowyer2020bbcreport] into personal data store design, and wrote and presented a 'stimulus presentation' on personal data design innovation for members the project team, to launch an internal hack week.
 - At Hestia.ai, I was a lead author on [a research report auditing the data economy](https://doi.org/10.5281/zenodo.6554177) [@bowyer2022hestia], and co-author on [a research report on power mechanisms in the data economy](https://doi.org/10.5281/zenodo.6554155) [@pidoux2022].
 
 The Structure of this Thesis{#1.4}
 ----------------------------
 
-<span class="editnote">Update Text to remove part A/B split</span>
-<span class="editnote">Update Structure Diagram Figure 1.2</span>
+The overall structure of this thesis is illustrated in [Figure 1.2](#figure-1.2). Activities from the two tracks of participatory research and grounded project work are shown at the bottom and top respectively, along with arrows showing how those activities relate to the different parts of the thesis and how some of the chapters relate to each other. The five thesis sections described at the start of Section I above are indicated in distinct columns.
 
-The overall structure of this thesis is illustrated in [Figure 1.2](#figure-1.2). Clearly evident are its two distinct parts, as described in 1.1.2 above.
+Section I continues from this Introduction chapter with a literature review [[Chapter 2](#chapter-2)] and a methodology chapter [[Chapter 3](#chapter-3)], which includes the two research questions RQ1 and RQ2.
 
-Part One, the participatory investigation, begins with a literature review [[Chapter 2](#chapter-2)] and a methodology chapter [[Chapter 3](#chapter-3)]. RQ1 and RQ2 are examined in both Case Studies, separately documented in [Chapter 4](#chapter-4) and [Chapter 5](#chapter-5). In [Chapter 6](#chapter-6) the findings and insights from the Case Studies are synthesised to explain, in answer to RQ1 and RQ2, what people want from data and from data holders, concluding the academic investigation.
+Section II describes the research contexts chosen and details the two Case Studies in [Chapter 4](#chapter-4) and [Chapter 5](#chapter-5) which constitute the participatory research track of the thesis.
 
-Part Two is adversarial design work and strategic planning, expanding the original research question to examine how the desires uncovered might be achieved in practice. The practical pursuit of better data relations is formalised as a new field with clear objectives, _Human Data Relations_, in [Chapter 7](#chapter-7). This _HDR_ space is then mapped out, drawing on industrial experience, starting with the detailing of known obstacles in [Chapter 8](#chapter-8). Four specific strategic approaches to change, including detailed designs, are laid out in [Chapter 9](#chapter-9) as recommendations for future work, before the thesis is concluded in [Chapter 10](#chapter-10), bringing the two parts together.
+In Section III, [Chapter 6](#chapter-6) synthesises findings and insights from both Case Studies to explain, in answer to RQ1 and RQ2, what people want from data and from data holders. [Chapter 7](#chapter-7) formalises these the pursuit of such better relationships with data into a defined research agenda, _Human Data Relations (HDR)_, with four specific strategic approaches to change.
 
-![Figure 1.2: The Structure of This Thesis](./src/figs/fig1.2-thesis-structure.jpg){#figure-1.2}
+Section IV describes the grounded industrial/project design work undertaken to operationalise this research agenda, synthesising a map of some of the key obstacles to HDR progress in [Chapter 8](#chapter-8) before laying out detailed designs and approaches in [Chapter 9](#chapter-9).
+
+The thesis concludes in Section V, where [Chapter 10](#chapter-10) further distils the insights from Section IV into thirteen principles for generative action, before reflecting upon the research in terms of its limitations and pragmatic challenges, and on the PhD in terms of its legacy and the author's personal experience.
+
+![Figure 1.2: The Structure of This Thesis](./src/figs/fig1.2-thesis-structure.png){#figure-1.2}
 
 **Remainder of Section I: Introduction, Background and Approach**
 
