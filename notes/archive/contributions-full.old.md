@@ -17,7 +17,7 @@ Section [6.1](#6.1) answers RQ1 by explaining that people have three specific de
 
 - visible [[6.1.1](#6.1.1)],
 - understandable [[6.1.2](#6.1.2)], and
-- useable<sup>[10](#fn10)</sup> [[6.1.3](#6.1.3)].
+- useable<sup>[11](#fn11)</sup> [[6.1.3](#6.1.3)].
 
 **<a name="c2">C2</a>: An Understanding of What People Want in Indirect Data Relations**
 

@@ -115,13 +115,13 @@ In pursuit of visible, understandable data [[6.1.1](#6.1.1); [6.1.2](#6.1.2)], t
 
 ### The Personal Data Diaspora {#8.1.2}
 
-Another important obstacle to consider here is what I call the **Personal Data Diaspora**[^16]. As illustrated by Imogen Heap's quote opening [Chapter 1](#chapter-1), an individual's personal data is typically very widely dispersed, and there is no central, holistic view of one's data. For example, if I consider just my movement tracking data, I have over time accumulated activity logs from walking, running, cycling, and driving which are stored by Nike+, MyFitnessPal, Strava, Google Fit, Fitbit, Apple Health and Google Maps, not to mention the records remaining on my different smart watches, smartphones, hard drives and insurer black boxes. This is the SI problem of _Integration_ [@li2010] [[2.2.3](#2.2.3)]. As well as the challenge of managing one's data ecosystem [[2.2.4](#2.2.4)], this makes it impossible to view physical activity history in one place, to spot patterns over time or make comparisons. To overcome this, we need interfaces that recognise the scattered reality of each individual's personal data, and begin to make that ecosystem visible and understandable [see [8.3](#8.3) and [8.4](#8.4) below].
+Another important obstacle to consider here is what I call the **Personal Data Diaspora**[^17]. As illustrated by Imogen Heap's quote opening [Chapter 1](#chapter-1), an individual's personal data is typically very widely dispersed, and there is no central, holistic view of one's data. For example, if I consider just my movement tracking data, I have over time accumulated activity logs from walking, running, cycling, and driving which are stored by Nike+, MyFitnessPal, Strava, Google Fit, Fitbit, Apple Health and Google Maps, not to mention the records remaining on my different smart watches, smartphones, hard drives and insurer black boxes. This is the SI problem of _Integration_ [@li2010] [[2.2.3](#2.2.3)]. As well as the challenge of managing one's data ecosystem [[2.2.4](#2.2.4)], this makes it impossible to view physical activity history in one place, to spot patterns over time or make comparisons. To overcome this, we need interfaces that recognise the scattered reality of each individual's personal data, and begin to make that ecosystem visible and understandable [see [8.3](#8.3) and [8.4](#8.4) below].
 
 Data awareness and understanding is a problem of representation. Invisible data should be visibly represented. All data should be represented as contextually relatable life information.
 
-[^16]: The word _'diaspora'_ is typically used with reference to populations, but is an apt term, derived from the Greek 'diaspeirein' meaning 'scattered about' or 'dispersed'.
+[^17]: The word _'diaspora'_ is typically used with reference to populations, but is an apt term, derived from the Greek 'diaspeirein' meaning 'scattered about' or 'dispersed'.
 
-Obstacles to the HDR Objective of Data Useability<sup>[10](#fn10)</sup>{#8.2}
+Obstacles to the HDR Objective of Data Useability<sup>[11](#fn11)</sup>{#8.2}
 -------------------------------------------------
 
 ### Immobile, Inaccessible or Unmalleable Data {#8.2.1}

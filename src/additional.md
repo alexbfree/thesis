@@ -66,14 +66,14 @@ The table below illustrates the types of _family civic data_ identified in the p
 |       | Medical conditions|Diagnoses, diseases, allergies, blood type.|
 |       | Mental health|PTSD, breakdowns, depression, sectioning. |
 |       | Addictions| Substance abuse, gambling, rehab, crime. |
-| Leisure[^20]|Library Usage|Books/CDs borrowed, computer access.|
+| Leisure[^21]|Library Usage|Books/CDs borrowed, computer access.|
 |       |Sports & Health|Gym usage, class attendance.|
 |       |Shopping Habits|Loyalty cards, store & online purchases.|
 |       |Transport Data|Buses used, ANPR tracking, walking patterns.|
 
 Table: Table ARI4.1 - Example Categories of Family Civic Data.
 
-[^20]: Some leisure categories (namely Shopping and Transport) were included that are not strictly civic data, as these would be useful for exploring issues around ethics. These also provided a reference point for participants to better consider the 'big data' benefits of data linking.
+[^21]: Some leisure categories (namely Shopping and Transport) were included that are not strictly civic data, as these would be useful for exploring issues around ethics. These also provided a reference point for participants to better consider the 'big data' benefits of data linking.
 
 ARI4.2 Sentence Ranking - List of Sentences and Analysis Approach{#ari-sentences .unnumbered}
 ----------------------------------------------------------
@@ -163,7 +163,7 @@ After the participants were acquainted with the cards and had practiced the stor
 
 The scenarios used for this activity by the two groups were (a) a new scenario where a couple is looking at their historical medical records (which contain various matters of concern such as missed appointments and historical mental health issues) and (b) a 'labels and judgement' scenario that had been used in the phase 1 workshops. Additional scenarios were prepared but not used. The layouts of the completed storyboards were photographed for reference, and to provide context during analysis of the discussion transcripts.
 
-For a completed storyboard layout example, see [Figure 3.10](#figure-3.10).
+For a completed storyboard layout example, see [Figure 3.11](#figure-3.11).
 
 ARI4.4 Notation for Quotations in Chapter 4{#ari-quote-notation .unnumbered}
 ------------------------------------

@@ -71,19 +71,19 @@ People may think of their personal data through any or all of these _lenses_ [@k
 
 1. Data has a role as an **artefact of value** to your life;
 2. Data has a role in **informing** you about yourself, the world, and the prior or recent actions of others that may affect you;
-3. Data has a role as **a useable<sup>[10](#fn10)</sup> material with which to effect change** in your life;
+3. Data has a role as **a useable<sup>[11](#fn11)</sup> material with which to effect change** in your life;
 4. Data has a role as **a means to monitor changes** in data holders' behaviours, in digital influences upon you, or within your life.
 
 Human Data Interaction or Human Information Interaction?{#7.5}
 --------------------------------------------------------
 
-To unpack HDR further, we must differentiate between humans relating to data, and humans relating to information. HDI concerns the way people interact with data. Mortier _et al._ [@mortier2013; @mortier2014] defined the field of HDI without making the important distinction between data (the digital artefact stored on computer) and information (the facts or assertions available from that data). This is an important distinction. _Human Information Interaction (HII)_ originated in library sciences to consider how humans relate to information without regard to the technologies involved [@marchionini2008]. Jones _et al._ called for a new sub-field of HII in an HCI context[^11], highlighting the need to focus on information interaction:
+To unpack HDR further, we must differentiate between humans relating to data, and humans relating to information. HDI concerns the way people interact with data. Mortier _et al._ [@mortier2013; @mortier2014] defined the field of HDI without making the important distinction between data (the digital artefact stored on computer) and information (the facts or assertions available from that data). This is an important distinction. _Human Information Interaction (HII)_ originated in library sciences to consider how humans relate to information without regard to the technologies involved [@marchionini2008]. Jones _et al._ called for a new sub-field of HII in an HCI context[^12], highlighting the need to focus on information interaction:
 
 > _"_[HCI can] _unduly focus attention on the computer when, for most people, the computer is a means to an end—the effective use of information."_—@jones2006
 
 DIKW theory [[2.1.1](#2.1.1)] highlights that interpretation of data to obtain information is a discrete activity. This was borne out in the findings of Case Study Two, where it became clear that participants have distinct wants from data, and from information [[5.4.3](#5.4.3.2)]. Access to data _and_ information is critical to both understanding and useability [[6.1.2](#6.1.2); [6.1.3](#6.1.3)].
 
-[^11]: The HCI panelists involved (excepting Fidel) were seemingly unaware of the existing HII field in library sciences, as they positioned the publication as a call for a 'new field'.
+[^12]: The HCI panelists involved (excepting Fidel) were seemingly unaware of the existing HII field in library sciences, as they positioned the publication as a call for a 'new field'.
 
 Drawing on DIKW theory, allows the identification of three distinct artefacts people can have relations with:
 
@@ -100,19 +100,19 @@ Considering these two types of information in the context of the six wants [[Cha
 
 (ii) to acquire _information about yourself_, so that you might gain insights into your own behaviour, and gain personal benefits from those insights or make changes in your life. I call this **Life Information Utilisation (LIU)**.
 
-[Figure 7.1](#figure-7.1) shows processes individuals might go through in pursuit of these motives. PDEC is a process of holding organisations to account and managing _what happens_ to personal data, often regardless of what it means. LIU is more concerned with _what the data means_ and its inherent personal value, regardless of where it is stored and how it is used[^12]. This novel motivational model was first proposed in [@bowyer2021twopurposes].
+[Figure 7.1](#figure-7.1) shows processes individuals might go through in pursuit of these motives. PDEC is a process of holding organisations to account and managing _what happens_ to personal data, often regardless of what it means. LIU is more concerned with _what the data means_ and its inherent personal value, regardless of where it is stored and how it is used[^13]. This novel motivational model was first proposed in [@bowyer2021twopurposes].
 
-![Figure 7.1: The Two Motivations for HDR: Controlling Your Personal Data Ecosystem and Utilising Your Information About Your Life<br/>(with 'idealised'[^13] processes illustrated)](./src/figs/fig7.1-the-two-motivations-for-hdr.jpg){#figure-7.1}
+![Figure 7.1: The Two Motivations for HDR: Controlling Your Personal Data Ecosystem and Utilising Your Information About Your Life<br/>(with 'idealised'[^14] processes illustrated)](./src/figs/fig7.1-the-two-motivations-for-hdr.jpg){#figure-7.1}
 
-[^12]: There is some overlap. Organisations hold data to enable interpretation (usually algorithmic) to inform decision making. In this way, organisations are doing LIU for _their_ benefit. This grey area is situated as part of PDEC, because from the individual's perspective, how organisations understand you through information informs decisions that affect your life. As such, it is more likely to enable you to exert control over use of your data than to pursue personal LIU goals.
+[^13]: There is some overlap. Organisations hold data to enable interpretation (usually algorithmic) to inform decision making. In this way, organisations are doing LIU for _their_ benefit. This grey area is situated as part of PDEC, because from the individual's perspective, how organisations understand you through information informs decisions that affect your life. As such, it is more likely to enable you to exert control over use of your data than to pursue personal LIU goals.
 
-[^13]: The illustrated processes incorporate existing data access processes such as GDPR, where the only access is through provision of a copy of one's data. This is _not_ ideal, as it creates divergent versions and will quickly become out-of-sync, however for the sake of simplicity that inefficiency is ignored [see [5.5.1](#5.5.1) for improvements to copy-based access].
+[^14]: The illustrated processes incorporate existing data access processes such as GDPR, where the only access is through provision of a copy of one's data. This is _not_ ideal, as it creates divergent versions and will quickly become out-of-sync, however for the sake of simplicity that inefficiency is ignored [see [5.5.1](#5.5.1) for improvements to copy-based access].
 
 ### Life Information Utilisation (LIU){#7.6.1}
 
 _Life Information Utilisation_ is a superset of _Self Informatics (SI)_ [[2.2.3](#2.2.3)], including all purposes relating to self-monitoring and self-improvement through personal data, but also other uses including creative expression, evidence gathering, nostalgia, keeping, and sharing. Many such desires were expressed in Case Study Two [[Table 5.4](#table-5.4)], and also hinted at in the Early Help context [[4.4.1](#4.4.1)]. While the existence of digitally-encoded information clearly unlocks new possibilities, LIU has existed in some form throughout human civilisation, as seen through analogue processes such as storytelling, journaling and scrapbooking.
 
-The most relevant of the six wants to LIU are _data understandability_ [[6.1.2](#6.1.2)] and _data useability<sup>[10](#fn10)</sup>_ [[6.1.3](#6.1.3)], which relate closely to the HDI concepts of _legibility_ and _agency_ respectively.
+The most relevant of the six wants to LIU are _data understandability_ [[6.1.2](#6.1.2)] and _data useability<sup>[11](#fn11)</sup>_ [[6.1.3](#6.1.3)], which relate closely to the HDI concepts of _legibility_ and _agency_ respectively.
 
 ### Personal Data Ecosystem Control (PDEC){#7.6.2}
 
@@ -128,11 +128,11 @@ Four Objectives for Human Data Relations{#7.7}
 To offer future value to future researchers, activists and innovators, this chapter contributes a map of the HDR opportunity landscape. This map is expressed in abstract here, and explored in more depth in Chapters [8](#chapter-8) and [9](#chapter-9). First, the six wants [[Chapter 6](#chapter-6)] are transformed into four simple _landscape objectives_ which shape the ultimate goals for effective HDR in this landscape of opportunity:
 
   1. Data Awareness & Understanding;
-  2. Data Useability<sup>[10](#fn10)</sup>;
-  3. Data Ecosystem Awareness & Understanding[^14] and
+  2. Data Useability<sup>[11](#fn11)</sup>;
+  3. Data Ecosystem Awareness & Understanding[^15] and
   4. Data Ecosystem Negotiability<sup>[14](#fn14)</sup>.
 
-[^14]: To avoid overly cumbersome wording, subsequent sections will drop the 'Data' prefix from 'Data Ecosystem Awareness & Understanding' and 'Data Ecosystem Negotiability'.
+[^15]: To avoid overly cumbersome wording, subsequent sections will drop the 'Data' prefix from 'Data Ecosystem Awareness & Understanding' and 'Data Ecosystem Negotiability'.
 
 As [Figure 7.2](#figure-7.2) shows, the need for data to be understandable, visible and useable applies to all types of data, whether that data is interpretable as _life information_ (information within the data, that says something about the individual) or _ecosystem information_ (information _about_ the data, where it is held and how it is used). These two types of information will collectively be referred to as **human information**. These terms are used in subsequent sections.
 
@@ -176,8 +176,8 @@ The commonality to so many groups [[7.8](#7.8)] suggests HDR reform is an emerge
 
 This chapter has established a clear scope, motivation and research question for the new field of Human Data Relations. This sets the stage for the next two chapters, where I will take the reader on a journey of exploration through the HDR landscape to consider that question in more detail, taking note of the pitfalls and opportunities that exist.
 
-What follows in Chapters [8](#chapter-8) and [9](#chapter-9) is deliberately broad and open-ended[^15]. It does not provide a complete answer to this question or the expanded research question [[7.1](#exRQ)], nor could it. I do not pretend to be complete or definitive in my interpretation of the outlook for HDR. Alternative interpretations and schools of thought than HDR exist. What follows is not a roadmap, but rather a snapshot of ongoing work, identified challenges and known opportunities, that can be understood through Part Two of this thesis and subsequently exploited by HDR reformers and practitioners.
+What follows in Chapters [8](#chapter-8) and [9](#chapter-9) is deliberately broad and open-ended[^16]. It does not provide a complete answer to this question or the expanded research question [[7.1](#exRQ)], nor could it. I do not pretend to be complete or definitive in my interpretation of the outlook for HDR. Alternative interpretations and schools of thought than HDR exist. What follows is not a roadmap, but rather a snapshot of ongoing work, identified challenges and known opportunities, that can be understood through Part Two of this thesis and subsequently exploited by HDR reformers and practitioners.
 
-[^15]: Some of the challenges and opportunities described in the next two chapters are covered in greater detail than others. This corresponds only to my proximity and depth of engagement with those ideas, rather than their relative merit, complexity or impact potential. Given the broad aim to chart a new field, I consider it is more useful to introduce a range of applicable ideas even if some are only lightly detailed than to document just a few.
+[^16]: Some of the challenges and opportunities described in the next two chapters are covered in greater detail than others. This corresponds only to my proximity and depth of engagement with those ideas, rather than their relative merit, complexity or impact potential. Given the broad aim to chart a new field, I consider it is more useful to introduce a range of applicable ideas even if some are only lightly detailed than to document just a few.
 
 ---

@@ -30,7 +30,7 @@ Direct Data Relations:
 
   1. Data Visibility - [6.1.1](#6.1.1)
   2. Data Understanding - [6.1.2](#6.1.2)
-  3. Data Useability<sup>[10](#fn10)</sup> - [6.1.3](#6.1.3)
+  3. Data Useability<sup>[11](#fn11)</sup> - [6.1.3](#6.1.3)
 
 Indirect Data Relations:
 
@@ -43,7 +43,7 @@ Indirect Data Relations:
 The objectives are introduced in [7.7](#7.7). They are explored in [Chapter 8](#chapter-8)]:
 
 - Objective 1 - Data Awareness & Understanding - [8.1](#8.1)
-- Objective 2 - Data Useability<sup>[10](#fn10)</sup> - [8.2](#8.2)
+- Objective 2 - Data Useability<sup>[11](#fn11)</sup> - [8.2](#8.2)
 - Objective 3 - Data Ecosystem Awareness & Understanding - [8.3](#8.3)
 - Objective 4 - Data Ecosystem Negotiability - [8.4](#8.4)
 - Objective 5 - Effective, Commercially Viable and Desirable HDR Systems - [8.5](#8.5)
@@ -121,10 +121,10 @@ The four approaches are collectively summarised in [9.6](#9.6), and explained an
 
 - **Auditing Data Holders** - [9.2.2](#9.2.2)
 - **Categories of Family Civic Data** - [ARI4.1](#ari-fcd-types)
-- **Categories of Personal Data** - [Figure 3.6](#figure-3.6)
+- **Categories of Personal Data** - [Figure 3.7](#figure-3.7)
 - **Data Access & Understanding Services** - [9.2.4](#9.2.4), [9.4](#9.4)
 - **Data Literacy in an HDR Context** - see HDR Literacy
-- **Data Cards** - [Figure 3.5](#figure-3.5), [3.5.2](#3.5.2), [4.2.1](#4.2.1), [4.4.2](#4.4.2), @bowyer2018family
+- **Data Cards** - [Figure 3.6](#figure-3.6), [3.5.2](#3.5.2), [4.2.1](#4.2.1), [4.4.2](#4.4.2), @bowyer2018family
 - **Data Wants** - [Chapter 6](#chapter-6)
 - **Data Relations, Direct** - [6.1](#6.1)
 - **Data Relations, Indirect** - [6.2](#6.2)
@@ -161,7 +161,7 @@ The four approaches are collectively summarised in [9.6](#9.6), and explained an
 - **Storyboarding Action Cards** - [ARI4.3](#ari-storyboarding)
 - **Trust - [4.3.4](#4.3.4), [4.4.1](#4.4.1.1), [5.3.4](#5.3.4), [5.4.4](#5.4.4.1), [6.2.1](#want-i1), [Principle 13](#principle-13)
 - **Types of Personal Data (by origin)** - [Table 5.2](#table-5.2)
-- **Useability**<sup>[10](#fn10)</sup> (as distinct from Usability) - [6.1.3](#6.1.3)]
+- **Useability**<sup>[11](#fn11)</sup> (as distinct from Usability) - [6.1.3](#6.1.3)]
 
 Glossary of Pre-Existing Abbreviations, Names and Terms {#glossary .unnumbered}
 ========================================================

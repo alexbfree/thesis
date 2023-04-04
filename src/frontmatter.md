@@ -118,20 +118,21 @@ Lists of Figures by Chapter {.unnumbered .unlisted}
 
 ### Figures in Chapter 3 {.unnumbered}
 
-- [3.1](#figure-3.1) - My Action Research Approach
-- [3.2](#figure-3.2) - Family Facts — What is Data?
-- [3.3](#figure-3.3) - Walls of Data — Sensitising Participants to the World of Commercially-held Data and GDPR
-- [3.4](#figure-3.4) - Sentence Ranking — Bringing Support Workers and Families to a Shared Problem Space
-- [3.5](#figure-3.5) - Family Civic Data Cards — Things to Think With
-- [3.6](#figure-3.6) - Personal Data Examples — Making Data Relatable
-- [3.7](#figure-3.7) - Home Interviewing: Card Sorting with a Family in Their Living Room
-- [3.8](#figure-3.8) - Ideation Decks — Combining Random Design Ingredients to Generate New Ideas
-- [3.9](#figure-3.9) - Group Poster Design — A Participant-designed Poster to Advertise Features of Imagined Data Interface Products
-- [3.10](#figure-3.10) - Storyboarding Action Cards — A Collaboratively-constructed Narrative Created through Discussion from a Palette of Possible Parent and Staff Actions
-- [3.11](#figure-3.11) - Thematic Analysis of Qualitative Data using _Quirkos_ for Case Study One
-- [3.12](#figure-3.12) - Spreadsheet-based Quantitative Analysis of Interview Data for Case Study Two
-- [3.13](#figure-3.13) - Pilot Study Recruitment Poster
-- [3.14](#figure-3.14) - How the Case Studies and Peripheral Activities Contribute to This Thesis
+- [3.1](#figure-3.1) - The Action Research Cycle, as Applied in this PhD
+- [3.2](#figure-3.2) - The Two-Track Research Approach of this PhD, and its Feedback Cycles
+- [3.3](#figure-3.3) - Family Facts — What is Data?
+- [3.4](#figure-3.4) - Walls of Data — Sensitising Participants to the World of Commercially-held Data and GDPR
+- [3.5](#figure-3.5) - Sentence Ranking — Bringing Support Workers and Families to a Shared Problem Space
+- [3.6](#figure-3.6) - Family Civic Data Cards — Things to Think With
+- [3.7](#figure-3.7) - Personal Data Examples — Making Data Relatable
+- [3.8](#figure-3.8) - Home Interviewing: Card Sorting with a Family in Their Living Room
+- [3.9](#figure-3.9) - Ideation Decks — Combining Random Design Ingredients to Generate New Ideas
+- [3.10](#figure-3.10) - Group Poster Design — A Participant-designed Poster to Advertise Features of Imagined Data Interface Products
+- [3.11](#figure-3.11) - Storyboarding Action Cards — A Collaboratively-constructed Narrative Created through Discussion from a Palette of Possible Parent and Staff Actions
+- [3.12](#figure-3.12) - Thematic Analysis of Qualitative Data using _Quirkos_ for Case Study One
+- [3.13](#figure-3.13) - Spreadsheet-based Quantitative Analysis of Interview Data for Case Study Two
+- [3.14](#figure-3.14) - Pilot Study Recruitment Poster
+- [3.15](#figure-3.15) - How the Case Studies and Peripheral Activities Contribute to This Thesis
 
 ### Figures in Chapter 4 {.unnumbered}
 

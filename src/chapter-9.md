@@ -23,9 +23,9 @@ Additional Background: Theories of Change (ToC){#9.1}
 
 To provide a structure for cataloguing the insights conveyed by this section, I use a _Theory of Change (ToC)_ framing. ToC is a set of methodologies is commonly used by philanthropists, educators and those trying to improve the lives of disadvantaged populations [@brest2010]. The theories can be used in different ways including planning, participatory design and field evaluation of the effectiveness of new initiatives. There are many different implementations, but common to most of them is a focus on explicitly mapping out desired outcomes [@taplin2012] with a clear focus on who is acting and whether the change being brought about is a change in action, or a change in thinking [@vanEs2015]. In this chapter, ToC theory will be used in a very limited way, not as a methodology but simply to provide a visual and structural frame for proposed changes. Using ToC to perform evaluation of the effectiveness of proposed change approaches in action in society would be well beyond the scope of this thesis. Nonetheless, the frame is a useful way to map out the different approaches to changing the world in pursuit of better HDR.
 
-![Figure 9.1: Theory of Change [ToC]\: The Four Dimensions of Change[^17]](./src/figs/fig9.1-dimensions-of-change.png){#figure-9.1}
+![Figure 9.1: Theory of Change [ToC]\: The Four Dimensions of Change[^18]](./src/figs/fig9.1-dimensions-of-change.png){#figure-9.1}
 
-[^17]: Diagram used here unchanged from _Hivos ToC Guidelines_ [@vanEs2015, 90] under a CC-BY-NC-SA 3.0 license, whose authors state that this diagram was adapted from earlier work by Wilber (1996), Keystone (2008) and Retolaza (2010, 2012).
+[^18]: Diagram used here unchanged from _Hivos ToC Guidelines_ [@vanEs2015, 90] under a CC-BY-NC-SA 3.0 license, whose authors state that this diagram was adapted from earlier work by Wilber (1996), Keystone (2008) and Retolaza (2010, 2012).
 
 [Figure 9.1](#figure-9.1) illustrates the aspects of ToC thinking that are important when using this frame. Specifically, desired changes can be broken down into:
 
@@ -143,9 +143,9 @@ Previous HCI design work [[2.3.1](#2.3.1)] has focused on, in the first wave, th
 
 During a life interface design hack week at BBC R&D, colleague Jasmine Cox and I explored this problem. We considered that a key element of the interface design would need to be the versatility to **partition one's life in different ways** according to your own worldview, and then to be able to assign different collections of life information to the different partitions. As a visual illustration of one possible mental model for life partitioning, consider [Figure 9.9](#figure-9.9), where, based on an idea I had had years earlier, I modified a Cluedo™ board to represent the 'rooms of your digital life':
 
-![Figure 9.9: Life Partitioning Analogy using a Cluedo™ board[^18].](./src/figs/fig9.9-rooms-of-life.jpg){#figure-9.9}
+![Figure 9.9: Life Partitioning Analogy using a Cluedo™ board[^19].](./src/figs/fig9.9-rooms-of-life.jpg){#figure-9.9}
 
-[^18]: Cluedo board design is a copyright of Hasbro, Inc., fair use applies.
+[^19]: Cluedo board design is a copyright of Hasbro, Inc., fair use applies.
 
 We also imagined other mental models, such as partitioning your life according to parts of the body (heart for relationships, body for fitness, brain for current projects, etc.) or a landscape with forest, lake and buildings representing different aspects of your life.
 
@@ -224,9 +224,9 @@ This final element of Approach 2, unlike the previous subsections, has a broader
 
 Such thinking could be expanded further to accommodate the idea that data is not static. Once we make the mindset shift from data as a static bundle of facts to **data as an ever-changing flow or _stream_** [[2.2.5](#2.2.5); [4.3.3](#4.3.3.3); [6.2.2](#6.2.2)], it becomes much easier to think about how processes and interfaces might be updated to give users a direct role in the evolution and shaping of that data. This also makes it easier to maintain knowledge of data's provenance [[Principle 5](#principle-5)]. Such _**inclusive data flows**_ and processes could yield benefits for users in terms of increased ecosystem negotiability [Objective 4 [[8.4](#8.4)]], but also for businesses, as Approach 4 [[9.5](#9.5)] explores.
 
-The future-centric designs and insights[^19] I have presented as part of Approach 2 show that while developing interfaces and processes for a better HDR future is a challenging design problem (due to the variety in individuals' mental models and the breadth of data across an individual's digital life), it is certainly possible to tackle these challenges. It is likely that the reasons that few have ventured into this space are largely due to the lack of an obvious business model or incentive rather than any question of the merits of these approaches. It is possible to **empower individuals with new capabilities** over the life and ecosystem information encoded within their data, and even to design **new data interaction approaches** that give users an ongoing role in the curation of that data, and HDR reformers can help make a world of better HDR a reality by **building, or investing, in the building of life-centric technologies and processes**.
+The future-centric designs and insights[^20] I have presented as part of Approach 2 show that while developing interfaces and processes for a better HDR future is a challenging design problem (due to the variety in individuals' mental models and the breadth of data across an individual's digital life), it is certainly possible to tackle these challenges. It is likely that the reasons that few have ventured into this space are largely due to the lack of an obvious business model or incentive rather than any question of the merits of these approaches. It is possible to **empower individuals with new capabilities** over the life and ecosystem information encoded within their data, and even to design **new data interaction approaches** that give users an ongoing role in the curation of that data, and HDR reformers can help make a world of better HDR a reality by **building, or investing, in the building of life-centric technologies and processes**.
 
-[^19]: The research and design work and insights from my time with BBC R&D's Cornmarket project are documented in more detail in the external publications detailed in [1.3.4](#1.3.4).
+[^20]: The research and design work and insights from my time with BBC R&D's Cornmarket project are documented in more detail in the external publications detailed in [1.3.4](#1.3.4).
 
 Approach 3 to Improving HDR: Defending User Autonomy and Hacking the Information Landscape{#9.4}
 ------------------------------------------------------
