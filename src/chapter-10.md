@@ -1,6 +1,6 @@
-<h1 class="title">Section V: Conclusions & Outlook</h1>
+<h1 class="title">Section V: Conclusions & Outlook</h1><a name='#section-v'/>
 
-<h2>Introduction to Section V</h2>
+<h2>Introduction to Section V</h2><a name='#section-v-intro'/>
 
 <span class="editnote">ADD NEW SUBSECTION INTRODUCING chapter 10 inc new parts here</span>
 
@@ -296,7 +296,7 @@ Limitations and Future Work{#10.3}
 
 <span class="editnote">ADD NEW SECTION ON LIMITATIONS AND FUTURE WORK. Notes: Need for a Future Work Section which reflects awareness of topics that are pertinent for the PhD but have not been explored and will not be in depth e.g. awareness of value sensitive design for notion of publics; awareness of limitations of individualist nature of DP law/PIMs and recognising need to consider role of HDR in addressing collective/group interests; recognition of relationality of data vs individual framings in law. </span>
 
-<span class="editnote">add bit about potential of cards -  You could have made more of this development too as a novel approach if you wanted to, as a toolkit for engaging empirically around policy/law (as these tools are lacking, despite calls from legal frameworks to support design of more legally informed systems 
+<span class="editnote">add bit about potential of cards -  You could have made more of this development too as a novel approach if you wanted to, as a toolkit for engaging empirically around policy/law (as these tools are lacking, despite calls from legal frameworks to support design of more legally informed systems
  e.g., GPDPR data protection by design and default).</span>
 
 <span class="editnote">community engagement/reflection.  (but can say, work like this is happening e.g by others with Hestia) (in fact this could be a really good next step for future researchers - workshops to validate and build on my findings ACROSS participatory and industrial. Also consider individualist stance of author vs what is lost by not appealing to grassroots communities and closing loop. Constanza Chock ref.</span>

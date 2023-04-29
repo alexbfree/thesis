@@ -1,6 +1,6 @@
-<h1 class="title">Section III: Defining A New Research Agenda: Human Data Relations</h1>
+<h1 class="title">Section III: Defining A New Research Agenda: Human Data Relations</h1><a name='#section-iii'/>
 
-<h2>Introduction to Section III</h2>
+<h2>Introduction to Section III</h2><a name='#section-iii-intro'/>
 
 <span class="editnote">ADD NEW SUBSECTION INTRODUCING chapter 6 and 7 HERE</span>
 
