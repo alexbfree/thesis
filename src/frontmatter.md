@@ -132,7 +132,6 @@ Lists of Figures by Chapter {.unnumbered .unlisted}
 - [3.12](#figure-3.12) - Thematic Analysis of Qualitative Data using _Quirkos_ for Case Study One
 - [3.13](#figure-3.13) - Spreadsheet-based Quantitative Analysis of Interview Data for Case Study Two
 - [3.14](#figure-3.14) - Pilot Study Recruitment Poster
-- [3.15](#figure-3.15) - How the Case Studies and Peripheral Activities Contribute to This Thesis
 
 ### Figures in Chapter 4 {.unnumbered}
 

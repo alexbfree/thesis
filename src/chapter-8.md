@@ -7,6 +7,25 @@
 <span class="editnote">add a subsection about SILVER development</span>
 <span class="editnote">include something more thesis-structure based, looking ahead to what we will do in C8 and C9 and Why</span>
 
+
+Peripheral Research & Design Settings{#7.2OLD}
+------------------------
+
+<span class="movenote">integrate this into section 4 intro</span>
+
+As established earlier [[3.6](#3.6)], Part Two explores the wider action research [[3.2.2](#3.2.2)] cycle that has contributed to my evolving learning about HDR, looking beyond direct academic investigation and drawing upon both self-experimentation and my embedded work in in the PDE space [[2.3.4](#2.3.4)] as both developer and researcher. Through field experience, I have understood constraints and opportunities that affect data interaction system and process design. Concurrently,I have fed research learnings back into those projects, creating practical impact. Instead of conducting formal studies, I have undergone a process of acculturation to the world of practical system building and project operation in the PDE. Through design, technical prototyping and pushing boundaries of existing systems, I have developed knowledge and gained expertise which allows me to draw conclusions with confidence about how the discipline of Human Data Relations (which I define below) should proceed in its future R&D to best serve individual and societal interests.
+
+Concurrent to this PhD, I took a major role in two industrial research projects (1 & 2), and two academic research projects (3 & 4):
+
+  1. **BBC R&D's Cornmarket Project** [@sharp2021], which explored through user experience design, technical prototyping and participatory research, how individuals might interact with data through a Personal Data Store interface [see [ARI7.1OLD](#ari-bbc-OLD)];
+  2. **Sitra/Hestia.ai's _digipower_ Investigation** [@härkönen2022project], a successor to Case Study Two, in which European politicians examined companies' data practices through exercising data rights and conducting technical audits [see [ARI7.2OLD](#ari-digipower-OLD)];
+  3. **Connected Health Cities (CHC)'s SILVER Project** [@ConnectedHealthCities2017silver], where I, along with a backend developer and a team of researchers, developed a prototype health data viewing interface for Early Help support workers [see [3.4.1OLD](#3.4.1.1OLD)]; and
+  4. **Digital Economy Research Centre (DERC)'s Healthy Eating Web Augmentation Project**, which explored the use of web augmentation techniques to modify the user interface of takeaway service _Just Eat_ to include health information, in support of healthy eating [see [ARI7.3OLD](#ari-derc-OLD)].
+
+For additional details about these projects and my involvement in them, see the linked sections. See also [ARI7.4](#ari-attribution) for a note about the attribution and origin of the ideas presented within this chapter.
+
+
+
 <h3>ARI7.1.OLD BBC R&D's Cornmarket Project</h3><a name='ari-bbc-OLD'/>
 
 <span class="editnote">edit this for its new context</span>

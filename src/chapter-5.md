@@ -86,6 +86,8 @@ This case study aims to explore the research gap of [5.1.2](#5.1.2) above, from 
 Study Design and Configuration{#5.2}
 ------------------------------
 
+<span class="editnote">Add additional material (originally planned for Section 2 intro) about prep work and pilot studies into this section. Update title accordingly.</span>
+
 31 qualitative interviews were conducted, with a convenience sample of 11 individuals from a population of researchers and students at (or connected with) Newcastle University, aged 20-40 years; identifying as 5 females and 6 males. Participants were not data experts (only 1 had previously made a GDPR request), but were computer-literate, educated to degree level, and used to reflecting critically on their own behaviours and opinions. Participants were compensated for their time with Amazon vouchers worth £20.
 
 ![Figure 5.1: A Journey Map of Each Participant's Study Progression](./src/figs/fig5.1-gdpr-interview-flow.png){#figure-5.1}
