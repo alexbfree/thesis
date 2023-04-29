@@ -124,7 +124,7 @@ The four approaches are collectively summarised in [9.6](#9.6), and explained an
 - **Categories of Personal Data** - [Figure 3.7](#figure-3.7)
 - **Data Access & Understanding Services** - [9.2.4](#9.2.4), [9.4](#9.4)
 - **Data Literacy in an HDR Context** - see HDR Literacy
-- **Data Cards** - [Figure 3.6](#figure-3.6), [3.5.2](#3.5.2), [4.2.1](#4.2.1), [4.4.2](#4.4.2), @bowyer2018family
+- **Data Cards** - [Figure 3.6](#figure-3.6), [3.4.2](#3.4.2), [4.2.1](#4.2.1), [4.4.2](#4.4.2), @bowyer2018family
 - **Data Wants** - [Chapter 6](#chapter-6)
 - **Data Relations, Direct** - [6.1](#6.1)
 - **Data Relations, Indirect** - [6.2](#6.2)

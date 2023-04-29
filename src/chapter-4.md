@@ -6,7 +6,7 @@
 <span class="movenote">RENUMBER SECTION 3.4 now it is here</span>
 <span class="editnote">make stronger references to Design, and talk about what is feasible / implementable</span>
 
-Overview of Activities by Research Context{#3.4}
+Overview of Activities by Research Context{#3.4OLD}
 
 <span class="editnote">make this part more minimal; in fact this section shouldn't be an overview of activities just a high level introduction to the context and what was done. mention the industrial research activities as well as case studies. should be very brief here and most context detail pushed down in chapters 4 and 5.</span>
 <span class="editnote">move the preliminary studies etc down into chapters 4 and 5.</span>
@@ -14,7 +14,7 @@ Overview of Activities by Research Context{#3.4}
 <span class='editnote'>contextualising: What was the link between these case studies? Why were they chosen? It was discussed that these surface different elements e.g. public sector vs private sector processes etc. Note the idea that there was a desire to look at processes from both sides. hence SILVER good setting. mention university study that was cancelled due to COVID, etc.</span>
 In this section, I will introduce the two contexts in which the research questions are explored, and both the preliminary activities and Case Studies undertaken in each context.
 
-### Context One: Civic Data Access in the Early Help Context{#3.4.1}
+### Context One: Civic Data Access in the Early Help Context{#3.4.1OLD}
 
 The first research context I explored in this PhD was _Early Help_. This is explained in more detail in [4.1](#4.1), but in brief: Early Help is a particular type of social support offered by UK local authorities as voluntary help to families who are considered to be at risk of falling into poverty, crime, truancy, addiction or other issues which are both problematic for the individuals and costly to the state. Families enrolled in the scheme meet a social worker (called a _support worker_ in this context) regularly who can provide advice and connect the family with appropriate health, lifestyle and social services to their needs.
 As part of this, the support worker has access to a variety of data from civic sources: school records, employment and benefits data, social housing data, criminal records, and more, so that they might be better informed about the family's situation. However, the families do not have any access to this data, and thus despite this being a scheme that is on the face of it intended to empower families to help themselves, it runs the risk of _disempowering_ the families through a data-centric power imbalance [2.1.2](#2.1.2). Therefore, this setting provides a very interesting context in which to examine both RQ1 [[3.3.1](#RQ1)] (finding out how these supported families feel about their data) and RQ2 [[3.3.2](#RQ2)] (examining the impacts of data use within a service relationship) as well as to explore how the families and support workers could imagine their data relations being improved.
@@ -33,7 +33,7 @@ In the summer of 2017, in the MRes year of this doctoral training programme (alo
 
 In the summer of 2018, informed by the SILVER project and the pilot study, I designed and conducted my first major case study of this thesis: a series of three participatory co-design workshops with people directly involved in _Early Help_ relationships in North East England. The workshops were funded by CHC, and were led by myself. They were designed with a dual purpose: to inform the design of the SILVER system but also to serve RQ1 [[3.3.1](#RQ1)] and RQ2 [[3.3.2](#RQ2)] of this thesis. These workshops sought initially to validate findings from SILVER's earlier research and my pilot study. Once this had been done, the main objective of this phase was to develop a deeper understanding of what supported families (workshop 1) and support workers (workshop 2) perceive as problems with data use in the Early Help context, and to explore perceived solutions to these problems. A second phase workshop (workshop 3) was specifically designed to focus on the use of data _within the support relationship_ [[4.2.4](#4.2.4)], and was a joint workshop involving staff and parents working together. This case study is described in detail as [Chapter 4](#chapter-4), and contributes to the general findings about RQ1 [[3.3.1](#RQ1)] and RQ2 [[3.3.2](#RQ2)] presented in [Chapter 6](#chapter-6).
 
-### Context Two: Accessing Your Personal Data Using GDPR{#3.4.2}
+### Context Two: Accessing Your Personal Data Using GDPR{#3.4.2OLD}
 
 From the start, a core motivation for my interest in this research has been to look at the power imbalance around personal data from the _everyday life_ perspective–to explore our relationship with and through the data that we hold, use or live with as we go about our lives, online and in person. This power imbalance seems to touch everyone, and therefore for my second research context I chose not to focus on a particular community or group but to look at these problems at the level of ordinary day-to-day digital life. I designed research activities where I would talk to people about their everyday experiences of data in their lives RQ1 [[3.3.1](#RQ1)] and their views on the usage of data within their relationships with commercial or civic service providers RQ2 [[3.3.2](#RQ2)] . In 2018, during this PhD, the European Union's GDPR regulations came into force, enabling people to obtain copies of their own data. This enabled me to take the research deeper than a simple conversation. I was able to guide my participants through the GDPR process to obtain their data from providers, and then to use this retrieved data as stimulus for discussion. This would, I hoped, result in a far more grounded and less theoretical perspective.
 
@@ -146,7 +146,7 @@ The design and approach of the study is described in more detail in the next sec
 Preliminary Explorations of Family Civic Data: Families' and Support Workers' Perspectives{#4.2}
 -----------------------------------------------------------------------------
 
-The first step in study design was to achieve sensitisation [[3.5.1](#3.5.1)] as a researcher, specifically three ways:
+The first step in study design was to achieve sensitisation [[3.4.1](#3.4.1)] as a researcher, specifically three ways:
 
   - to understand what data is stored about families [[4.2.1](#4.2.1)];
   - to understand the family perspective [[4.2.2](#4.2.2)]; and
@@ -158,7 +158,7 @@ In order to communicate effectively with participants, an understanding of what 
 
 Early recruitment attempts revealed that data is seen as an abstract concept in people's daily lives—a dry, technical topic that many families felt unqualified to talk about. The concepts needed to be made relatable. Drawing on the work of Brandt and Messeter [@brandt2004] in creating _design games_ (which observes that game pieces can be used to create common ground and as _things to think with_ [@brandt2004; @papert1980], a set of _data cards_ [[Figure 3.7](#figure-3.7)] were created. These cards made family civic data categories visual and tangible. Serving as _boundary objects_ [@bowker2016; @star2010] the cards aimed to bring researcher and participants' worlds closer together, and to make data relatable to life experience. The design approach for the data cards is documented in [[Appendix A](#appendix-a); @bowyer2018family].
 
-The cards were used as research stimuli [[3.5.2](#3.5.2)] within the pilot study, which involved participatory design activities and design games in family homes. Once families understood data as _stored information about their lives_ they were able to very effectively engage and talk about it. The use of the games and the cards was very successful, keeping a light and playful environment and making the topic relatable. The cards enabled families to talk freely about their own lives and views without feeling personally interrogated, as they were dissociated from the participants' lives.
+The cards were used as research stimuli [[3.4.2](#3.4.2)] within the pilot study, which involved participatory design activities and design games in family homes. Once families understood data as _stored information about their lives_ they were able to very effectively engage and talk about it. The use of the games and the cards was very successful, keeping a light and playful environment and making the topic relatable. The cards enabled families to talk freely about their own lives and views without feeling personally interrogated, as they were dissociated from the participants' lives.
 
 ### What is the Family Perspective on Their Civic Data and its Use?{#4.2.2}
 
@@ -192,7 +192,7 @@ During summer 2018, four 2-hour co-design workshops were carried out, with two p
 
 In Phase 2 the two groups would collaborate to design imagined data practices and interactions for the shared data interaction model. The objective was to understand how _in practice_ staff and families could imagine themselves using data together.
 
-Across both phases, various participatory methods were used [[3.5.2](#3.5.2); [3.5.3](#3.5.3)]. Workshops were audio recorded and transcribed. Transcripts were analysed thematically, and in some cases quantitatively [[3.5.5](#3.5.5)]. Thematic findings are documented in [4.3](#4.3).
+Across both phases, various participatory methods were used [[3.4.2](#3.4.2); [3.4.3](#3.4.3)]. Workshops were audio recorded and transcribed. Transcripts were analysed thematically, and in some cases quantitatively [[3.4.5](#3.4.5)]. Thematic findings are documented in [4.3](#4.3).
 
 ### Sensitising Participants and Discovering Shared Values{#4.2.6}
 
@@ -527,9 +527,9 @@ It is the human-to-human interaction that can make data access meaningful. Data 
 Explorations of human interactions around data within the support relationship suggest that shared data interaction could lead to more effective discussions.
 The use of printouts, tablets or 2-in-1 devices to show data rather than verbally report it, can provide a focal point, optimising the discussion. The data representations would function as a _boundary object_ [@bowker2016; @star1989; @star2010], just as the data cards did [@bowyer2018family].
 The families understand the data because it is _about_ them, and the support workers are familiar with the systems it came from. This could encourage
-families to 'open up'. Many participants talked about how looking at data could serve as a conversation starter—echoing this study's use of stimuli [[3.5.2](#3.5.2)]. The ongoing use of such data representations as a metric to observe change from from meeting to meeting could bring a feeling of reward and accomplishment to the family and contribute to their future success.
+families to 'open up'. Many participants talked about how looking at data could serve as a conversation starter—echoing this study's use of stimuli [[3.4.2](#3.4.2)]. The ongoing use of such data representations as a metric to observe change from from meeting to meeting could bring a feeling of reward and accomplishment to the family and contribute to their future success.
 
-Shared data interaction would also enable support workers to be less adversarial. They could position themselves as equals (_'Let's make sure this data is right.'_) and avoid appearing to side with the data (_'Our records say that you have…'_). As we see in this study, data representations serve as _'things to think with'_ [@bowyer2018family; [3.5.2](#3.5.2)]. Shared data interaction—played out in abstract through the use of storyboarding cards in Workshop C—helped participants to navigate scenarios and quickly imagine possible actions together.
+Shared data interaction would also enable support workers to be less adversarial. They could position themselves as equals (_'Let's make sure this data is right.'_) and avoid appearing to side with the data (_'Our records say that you have…'_). As we see in this study, data representations serve as _'things to think with'_ [@bowyer2018family; [3.4.2](#3.4.2)]. Shared data interaction—played out in abstract through the use of storyboarding cards in Workshop C—helped participants to navigate scenarios and quickly imagine possible actions together.
 
 <a name="4.4.2.3">**Agency & Negotiability**</a>
 

@@ -67,7 +67,7 @@ Section II reports on the two Case Studies, which invited participants to 'look 
 
 Comparing the two case studies reveals commonalities in individual attitudes and understandings, validating each other's findings and allowing the expression of clear insights about people's relationships to personal data that can answer the two RQs. This synthesis and analysis of interview data enabled the generation of a descriptive model to address the research gap, concluding the core academic research of this PhD [[Chapter 6](#chapter-6)].
 
-This research is situated in the HCI discipline, which means that design (both participatory co-design and expert-informed user-centred design [[3.5](#3.5)]) forms a key part of the approach to exploring the problem space. Examination of individual attitudes and desires around data in a 'whole life' sense is an under-researched area. Where HCI traditionally focuses on the mechanisms by which humans interact with data, the Case Studies, like the thesis as a whole, adopt a more sociotechnical focus on understanding lived experience.
+This research is situated in the HCI discipline, which means that design (both participatory co-design and expert-informed user-centred design [[3.2](#3.2)]) forms a key part of the approach to exploring the problem space. Examination of individual attitudes and desires around data in a 'whole life' sense is an under-researched area. Where HCI traditionally focuses on the mechanisms by which humans interact with data, the Case Studies, like the thesis as a whole, adopt a more sociotechnical focus on understanding lived experience.
 
 In order to produce workable designs and theories that could be applied in the real world, the remainder of the thesis takes an even broader perspective, recognising that for participants' desired changes in data relations to be realised requires an examination and a recognition of current technical, legal and commercial realities and the multi-party complexities of modern digital life.
 
@@ -264,15 +264,7 @@ The Structure of this Thesis{#1.4}
 
 The overall structure of this thesis is illustrated in [Figure 1.2](#figure-1.2). Activities from the two tracks of participatory co-design research and grounded project design work are shown at the bottom and top respectively, along with arrows showing how those activities relate to the different parts of the thesis and how some of the chapters relate to each other. The five thesis sections described at the start of Section I above are indicated in distinct columns.
 
-Section I continues from this Introduction chapter with a literature review [[Chapter 2](#chapter-2)] and a methodology chapter [[Chapter 3](#chapter-3)], which includes the two Research Questions RQ1 and RQ2.
-
-Section II describes the research contexts chosen and details the two Case Studies in [Chapter 4](#chapter-4) and [Chapter 5](#chapter-5) which constitute the participatory research track of the thesis.
-
-In Section III, [Chapter 6](#chapter-6) synthesises findings and insights from both Case Studies to explain, in answer to RQ1 and RQ2, what people want from data and from data holders. [Chapter 7](#chapter-7) formalises these the pursuit of such better relationships with data into a defined research agenda, _Human Data Relations (HDR)_, with four specific strategic approaches to change.
-
-Section IV describes the grounded industrial/project design work undertaken to operationalise this research agenda, synthesising a map of some of the key obstacles to HDR progress in [Chapter 8](#chapter-8) before laying out detailed designs and approaches in [Chapter 9](#chapter-9).
-
-The thesis concludes in Section V, where [Chapter 10](#chapter-10) further distils the insights from Section IV into thirteen principles for generative action, before reflecting upon the research in terms of its limitations and pragmatic challenges, and on the PhD in terms of its legacy and the author's personal experience.
+Section I continues from this Introduction chapter with a literature review and a methodology chapter, which also introduces the two Research Questions RQ1 and RQ2. Section II describes the research contexts chosen and details the two Case Studies which constitute the participatory research track of the thesis. In Section III, findings and insights from both Case Studies are synthesised to explain, in answer to RQ1 and RQ2, what people want from data and from data holders. The pursuit of such better relationships is then formalised into a new research agenda, _Human Data Relations (HDR)_, with four specific strategic approaches to change. Section IV describes the grounded industrial/project design work undertaken to operationalise this research agenda, mapping some of the key obstacles to HDR progress before laying out detailed designs and approaches. The thesis concludes in Section V, where findings and insights are distilled into thirteen principles for generative action, before a reflection upon the research in terms of its limitations and pragmatic challenges, and on the PhD in terms of its legacy and the author's personal experience. Further detail on the content of each section is provided below.
 
 ![Figure 1.2: The Structure of This Thesis](./src/figs/fig1.2-thesis-structure.png){#figure-1.2}
 
@@ -282,7 +274,7 @@ The thesis concludes in Section V, where [Chapter 10](#chapter-10) further disti
 
 > _**"What relationship do people want with their personal data?"**_ [[2.4](#RQ)]
 
-[Chapter 3](#chapter-3) describes the methodology used in this research, explaining first the constructivist ontology and pragmatist, individualist epistemology behind the approach [[3.1](#3.1)]. Then, the choice of the dual-track participatory co-design research and embedded design and innovation work in line with a _Digital Civics_ agenda is explained [[3.2](#3.2)]. The RQ is split into two—RQ1 and RQ2 [[3.3](#3.3)]. Finally, the specific methods and techniques adopted in the research are explained and illustrated, including workshop activities, sentisation, stimuli and recruitment [[3.5](#3.5)].
+[Chapter 3](#chapter-3) describes the methodology used in this research, explaining first the constructivist ontology and pragmatist, individualist epistemology behind the approach [[3.1](#3.1)]. Then, the choice of the dual-track participatory co-design research and embedded design and innovation work in line with a _Digital Civics_ agenda is explained [[3.2](#3.2)]. The RQ is split into two—RQ1 and RQ2 [[3.3](#3.3)]. Finally, the specific methods and techniques adopted in the research are explained and illustrated, including workshop activities, sensitisation, stimuli and recruitment [[3.4](#3.4)].
 
 **Section II: Understanding Attitudes and Desires through Participatory Case Studies**
 
