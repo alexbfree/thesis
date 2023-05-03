@@ -124,11 +124,11 @@ The four approaches are collectively summarised in [9.6](#9.6), and explained an
 - **Categories of Personal Data** - [Figure 3.7](#figure-3.7)
 - **Data Access & Understanding Services** - [9.2.4](#9.2.4), [9.4](#9.4)
 - **Data Literacy in an HDR Context** - see HDR Literacy
-- **Data Cards** - [Figure 3.6](#figure-3.6), [3.4.2](#3.4.2), [4.2.1](#4.2.1), [4.4.2](#4.4.2), @bowyer2018family
+- **Data Cards** - [Figure 3.6](#figure-3.6), [3.4.2](#3.4.2), [4.3.1](#4.3.1), [4.5.2](#4.5.2), @bowyer2018family
 - **Data Wants** - [Chapter 6](#chapter-6)
 - **Data Relations, Direct** - [6.1](#6.1)
 - **Data Relations, Indirect** - [6.2](#6.2)
-- **Digital Self Curation** - [4.4.3](#4.4.3), [5.5.2](#5.5.2), [6.3](#6.3)
+- **Digital Self Curation** - [4.5.3](#4.5.3), [5.5.2](#5.5.2), [6.3](#6.3)
 - **Ecosystem Detection** - [Principle 4](#principle-4)
 - **Ecosystem Information** - [7.7](#7.7), [Principle 4](#principle-4)
 - **Ecosystem Information Display** - [Principle 4](#principle-4)
@@ -148,18 +148,18 @@ The four approaches are collectively summarised in [9.6](#9.6), and explained an
 - **Life Information** - [Principle 1](#principle-1)
 - **Life Interface Design** - [9.3.1](#9.3.1)
 - **Life Partitioning** - [9.3.2](#9.3.2)
-- **Locus of Decision Making (LDM)** - [4.4.3](#4.4.3)
-- **Meaning in Data** - [Figure 2.1](#figure-2.1), [4.3.2](#4.3.2), [5.4.2](#5.4.2), [6.1.2](#6.1.2), [Principle 1](#principle-1)
+- **Locus of Decision Making (LDM)** - [4.5.3](#4.5.3)
+- **Meaning in Data** - [Figure 2.1](#figure-2.1), [4.4.2](#4.4.2), [5.4.2](#5.4.2), [6.1.2](#6.1.2), [Principle 1](#principle-1)
 - **Perceived Individual Power** - [5.3.4](#5.3.4)
 - **Personal Data Diaspora, the** - [8.1.2](#8.1.2)
 - **Personal Data Ecosystem Control** - [7.6](#7.6.2), [Figure 7.1](#figure-7.1)
 - **Personal Data as a Proxy for Involvement** - [5.4.4](#5.4.4.1), @bowyer2018family
-- **Personal Data Stewardship** - [4.3.3](4.3.3.4), [5.6](#5.6)
+- **Personal Data Stewardship** - [4.4.3](4.3.3.4), [5.6](#5.6)
 - **Proxy Representations of Immobile Data** - [Principle 4](#principle-4)
-- **Shared Data Interaction** - [4.2.4](#4.2.4)
+- **Shared Data Interaction** - [4.3.4](#4.3.4)
 - **Surface Information Injustices** - [9.5.1](#9.5.1), [Principle 12](#principle-12)
 - **Storyboarding Action Cards** - [ARI4.3](#ari-storyboarding)
-- **Trust - [4.3.4](#4.3.4), [4.4.1](#4.4.1.1), [5.3.4](#5.3.4), [5.4.4](#5.4.4.1), [6.2.1](#want-i1), [Principle 13](#principle-13)
+- **Trust - [4.4.4](#4.4.4), [4.5.1](#4.5.1.1), [5.3.4](#5.3.4), [5.4.4](#5.4.4.1), [6.2.1](#want-i1), [Principle 13](#principle-13)
 - **Types of Personal Data (by origin)** - [Table 5.2](#table-5.2)
 - **Useability**<sup>[11](#fn11)</sup> (as distinct from Usability) - [6.1.3](#6.1.3)]
 

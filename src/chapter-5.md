@@ -351,7 +351,7 @@ Whether or not data is used nefariously against individuals, thinking about the 
 
 The view of data holders having more power in the service relationship (mirroring reports described in [2.1.2](#2.1.2)) was reflected in participants' evaluations of power balance: in 69% of relationships participants felt that the data holder had more power than them (rising to 74% after GDPR), whereas in only 17% of cases (unchanged by GDPR) did participants feel they themselves had more power.
 
-Several participants equated power over a person's data with power over the individual. When asked to define power in the context of data, P8's unprompted comments aligned with my Case Study One findings describing power over data as a proxy for individual participation or inclusion in decision making [@bowyer2018family; [4.2.2](#4.2.2); [4.4.1](#4.4.1)]:
+Several participants equated power over a person's data with power over the individual. When asked to define power in the context of data, P8's unprompted comments aligned with my Case Study One findings describing power over data as a proxy for individual participation or inclusion in decision making [@bowyer2018family; [4.3.2](#4.3.2); [4.5.1](#4.5.1)]:
 
 > _'For me to have power over my data, I think is a fair and normal thing. But for a company to have power over [my] data means that it's basically a proxy to have power over me.'_
 

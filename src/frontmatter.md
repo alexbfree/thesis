@@ -83,9 +83,9 @@ Lists of Tables by Chapter {.unnumbered .unlisted}
 ### Tables in Chapter 4 {.unnumbered}
 
 - [4.1](#table-4.1) - Case Study One Group Design Workshops
-- [4.2](#table-4.2) - Theme 1 - Meaningful Data Interaction for Families: Subthemes & Participant Quotes
-- [4.3](#table-4.3) - Theme 2 - Giving a Voice to the Family: Subthemes & Participant Quotes
-- [4.4](#table-4.4) - Theme 3 - Earning Families' Trust Through Transparency: Subthemes & Participant Quotes
+- [4.3](#table-4.2) - Theme 1 - Meaningful Data Interaction for Families: Subthemes & Participant Quotes
+- [4.4](#table-4.3) - Theme 2 - Giving a Voice to the Family: Subthemes & Participant Quotes
+- [4.5](#table-4.4) - Theme 3 - Earning Families' Trust Through Transparency: Subthemes & Participant Quotes
 
 ### Tables in Chapter 5 {.unnumbered}
 
@@ -136,7 +136,7 @@ Lists of Figures by Chapter {.unnumbered .unlisted}
 ### Figures in Chapter 4 {.unnumbered}
 
 - [4.1](#figure-4.1) - Participants' Shared Values Deduced from Sentence Rankings Data
-- [4.2](#figure-4.2) - Current Model of Data Interaction, and Proposed Model of Shared Data Interaction
+- [4.3](#figure-4.2) - Current Model of Data Interaction, and Proposed Model of Shared Data Interaction
 
 ### Figures in Chapter 5 {.unnumbered}
 

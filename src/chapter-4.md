@@ -6,13 +6,13 @@ Section II will describe the participatory co-design work undertaken to explore 
 
 ### The Two Research Contexts: _Early Help_ and GDPR{#section-ii-research-contexts .unnumbered}
 
-As described in [3.2.2](#3.2.2), a two-track research approach was chosen to both explore people's viewpoints and explore reconfiguration of data relations in light of sociotechnical realities. For the participatory track, I was keen to examine the 'everyday digital life' where I had first observed problems of agency and lost human potential [[1.1](#1.1)]. However, at the start of this PhD in 2016, the GDPR was not yet a reality, so this objective was set aside at first. When an opportunity arose to take an embedded role as a researcher and developer within Connected Health Cities' SILVER project [@ConnectedHealthCities2017silver], this presented an ideal context for Case Study One: namely the relationship that families have with their civic data while receiving _Early Help_ social support from their local authority.
+As described in [3.2.2](#3.2.2), a two-track research approach was chosen to both explore people's viewpoints and explore reconfiguration of data relations in light of sociotechnical realities. For the participatory track, I was keen to examine the 'everyday digital life' where I had first observed problems of agency and lost human potential [[1.1](#1.1)]. However, at the start of this PhD in 2016, it was hard to see how to frame a study around this. When an opportunity arose to take an embedded role as a researcher and developer within Connected Health Cities' SILVER project [@ConnectedHealthCities2017silver], this presented an ideal context for something more focused on a particular demographic and type of data: namely the relationship that families have with their civic data while receiving _Early Help_ social support from their local authority.
 
-The Early Help context is explained in more detail in [Chapter 4](#chapter-4), but in brief: Early Help is a particular type of social support offered by UK local authorities as voluntary help to families who are considered to be at risk of falling into poverty, crime, truancy, addiction or other issues which are both problematic for the individuals and costly to the state. Families enrolled in the scheme meet a social worker (called a _support worker_ in this context) regularly who can provide advice and connect the family with appropriate health, lifestyle and social services to their needs. As part of this, the support worker has access to a variety of data from civic sources: school records, employment and benefits data, social housing data, criminal records, and more, so that they might be better informed about the family's situation. However, the families do not have any access to this data, and thus despite this being a scheme that is on the face of it intended to empower families to help themselves, it runs the risk of _disempowering_ the families through a data-centric power imbalance, exactly the phenomenon identified in the background research [[2.1.2](#2.1.2)]. Therefore, this context would be ideal for the exploration of both RQ1 [[3.3.1](#RQ1)] (finding out how these supported families feel about their data) and RQ2 [[3.3.2](#RQ2)] (examining the impacts of data use within a service relationship) as well as to explore how the families could imagine their data relations being improved. An important aspect of this context was that the SILVER project and local authority contacts gave me as a researcher access to support workers and other local authority contacts, allowing both sides of the Early Help data relationship to be explored, a goal I had already identified in [3.3.2](#3.3.2).
+The Early Help context became the setting for Case Study One, and is explained in more detail in [Chapter 4](#chapter-4), but in brief: Early Help is a particular type of social support offered by UK local authorities as voluntary help to families who are considered to be at risk of falling into poverty, crime, truancy, addiction or other issues which are both problematic for the individuals and costly to the state. Families enrolled in the scheme meet a social worker (called a _support worker_ in this context) regularly who can provide advice and connect the family with appropriate health, lifestyle and social services to their needs. As part of this, the support worker has access to a variety of data from civic sources: school records, employment and benefits data, social housing data, criminal records, and more, so that they might be better informed about the family's situation. However, the families do not have any access to this data, and thus despite this being a scheme that is on the face of it intended to empower families to help themselves, it runs the risk of _disempowering_ the families through a data-centric power imbalance, exactly the phenomenon identified in the background research [[2.1.2](#2.1.2)]. Therefore, this context would be ideal for the exploration of both RQ1 [[3.3.1](#RQ1)] (finding out how these supported families feel about their data) and RQ2 [[3.3.2](#RQ2)] (examining the impacts of data use within a service relationship) as well as to explore how the families could imagine their data relations being improved. An important aspect of this context was that the SILVER project and local authority contacts gave me as a researcher access to support workers and other local authority contacts, allowing both sides of the Early Help data relationship to be explored, a goal I had already identified in [3.3.2](#3.3.2).
 
-The coming into effect into EU law of the _GDPR (General Data Protection Regulation)_ in May 2018 presented a pragmatic research vector for both participatory research and self-experimentation into the aforementioned 'everyday digital life' problem space explored in [Chapter 2](#chapter-2) - researcher and participants would have a means to examine what data was held by service providers - this time not limited to the civic data context but potential for any service that an individual might use in their everyday life. This seemed an ideal and complementary context to the Early Help context - this time focused a little closer to individual's own lives and personal goals, and this time focused on the average citizen or layperson rather than a specific demographic, and so access to digital life data using GDPR became the context for Case Study Two, which is introduced in more detail in [Chapter 5](#chapter-5). Initially I designed a study in this space which would allow exploration of both sides of the GDPR relationship, by working with my University's Data Protection Office and having students or staff (including myself) request their own data while also conducting interviews with those staff who would handle those requests. This study was approved by the University's Ethics Board but had to be cancelled as a result of changing working practices and increased staff workload at the start of the COVID-19 pandemic. Unfortunately therefore this context was not able to be explored from both sides of the GDPR relationship; nonetheless it was still considered a very useful research context, and Case Study Two was designed - which would take 10 participants on a journey of exploration of their own personal data and service provider relationships. Post-SILVER project, new opportunities arose for myself to take on an embedded role first in BBC R&D's personal data locker project, and later in Hestia.ai's _digipower_ project, two external projects which were also embedded in the same research context, enabling something closer to a multi-perspective exploration of this research context than Case Study Two would have allowed by itself. These project activities are detailed in [Section IV](#section-iv).
+The coming into effect into EU law of the _GDPR (General Data Protection Regulation)_ in May 2018 presented a pragmatic research vector for both participatory research and self-experimentation into the wider aforementioned 'everyday digital life' problem space explored in [Chapter 2](#chapter-2). GDPR rights would give researcher and participants would a means to examine what data was held by service providers, which would provide a suitable basis for investigation and discussion. This data would not be limited to the civic data context but potentially could include any service that an individual might use in their everyday life. This seemed an ideal and complementary context to the Early Help context—focused a little closer to individuals' own lives and personal goals, and this time focused on the average citizen or layperson rather than a specific demographic. Thus, access to digital life data using GDPR became the context for Case Study Two, which is introduced in more detail in [Chapter 5](#chapter-5). Initially, I designed a study in this space which would allow exploration of both sides of the GDPR relationship, by working with my University's Data Protection Office and having students or staff (including myself) request their own data while also conducting interviews with those staff who would handle those requests. This study was approved by the University's Ethics Board but had to be cancelled as a result of changing working practices and increased staff workload at the start of the COVID-19 pandemic. Unfortunately therefore this context was not able to be explored from both sides of the GDPR relationship; nonetheless it was still considered a very useful research context, and Case Study Two was designed—which, after carrying out GDPR requests of my own as sensitisation, would take 10 participants on a journey of exploration of their own personal data and service provider relationships. Post-SILVER project, new opportunities arose for myself to take on an embedded role first in BBC R&D's personal data locker project, and later in Hestia.ai's _digipower_ project. These two external projects were also embedded in the same research context, enabling something closer to a multi-perspective exploration of this research context than Case Study Two would have allowed by itself. These project activities are detailed in [Section IV](#section-iv).
 
-In both Early Help and GDPR research contexts, a variety of preliminary activities and preparatory activities were carried out to ensure full sensitisation and to validate existing understandings and research study designs prior to the start of the primary Case Study workshops and interviews. These are described in [4.2](#4.2), [5.2](#5.2) and [3.4.5](#3.4.5).
+In both Early Help and GDPR research contexts, a variety of preliminary activities and preparatory activities were carried out to ensure full sensitisation and to validate existing understandings and research study designs prior to the start of the primary Case Study workshops and interviews. These are described in [4.3](#4.3), [5.2](#5.2) and [3.4.5](#3.4.5).
 
 This section will now continue with Chapter 4, which describes the Early Help context and Case Study One, before concluding with Chapter 5, which describes the GDPR context and Case Study Two.
 
@@ -23,16 +23,14 @@ Case Study One: Access to Civic Data in Early Help {#chapter-4}
 >—Ken Wyatt (Australian politician, teacher and equal rights campaigner)
 
 <span class="editnote">add callbacks to early on, making clear how it relates back to my lit review chapter esp wrt HDR and HCI</span>
-<span class="editnote">add callbacks to methodology. Notes: Methodology – need to integrate signposts to methodology within case studies. Also useful to add reflections on process of feedback between industrial experiences, development of HDR framework as that is why you approached problems the way you did. </span>
+<span class="editnote">add reflections on process of feedback between industrial experiences, development of HDR framework as that is why you approached problems the way you did. </span>
 <span class="editnote">other changes per notes</span>
 <span class="editnote">add forward refs where useful</span>
-<span class="editnote">to consider: moving some methods. Examiner notes: Also consider moving some of the methodological, contextual details and framing from the initial chapters of the thesis (I think this was chapter 2) to each one of the case studies. This is particularly important for methods of data collection and analysis as it is hard to understand what you did and how (for both chapters 4 and 5) – i.e your findings are interesting, but can be questioned without clear description of methods of data collection and analysis.</span>
 <span class="editnote">make stronger references to Design, and talk about what is feasible / implementable</span>
-<span class="movenote">move one or two images into case study?</span>
 
 This chapter describes Case Study One, which involved four 2-hour participatory co-design workshops with local authority support workers, parents and children from supported families involved with _Early Help (EH)_ programmes [[3.4.1OLD](#3.4.1)]. Its objectives were to understand family and staff attitudes to civic data holding (RQ1 [[3.3.1](#RQ1)]) and to explore the role of data within the support relationship (per RQ2 [[3.3.2](#RQ2)]). A model of _shared data interaction_, was explored, where supported families would interact with data together with their support workers.
 
-Section [4.1](#4.1) explains the EH context in England. [4.2](#4.2) brings together prior findings from the pilot study [[3.4.1OLD](#3.4.1.2)] and SILVER [[3.4.1OLD](#3.4.1.1OLD)], and explains how these understandings were used in sensitisation to establish a common ground for participants. [4.3](#4.3) reports qualitative thematic findings: that families want to be given a voice [[4.3.1](#4.3.1)], that trust can be earned through data and process transparency [[4.3.2](#4.3.2)], and that families need _meaningful_ data interaction [[4.3.3](#4.3.3)]. [[4.4](#4.4)] discusses these findings in the context of prior literature, focusing on the value of data involvement [[4.4.1](#4.4.1)], the need for human interaction [[4.4.2](#4.4.2)], and the pros and cons of the shifting of the _Locus of Decision Making (LDM)_ towards the family [[4.4.3](#4.4.3)].
+Section [4.1](#4.1) explains the EH context in England. [4.3](#4.3) brings together prior findings from the pilot study [[3.4.1OLD](#3.4.1.2)] and SILVER [[3.4.1OLD](#3.4.1.1OLD)], and explains how these understandings were used in sensitisation to establish a common ground for participants. [4.4](#4.4) reports qualitative thematic findings: that families want to be given a voice [[4.4.1](#4.4.1)], that trust can be earned through data and process transparency [[4.4.2](#4.4.2)], and that families need _meaningful_ data interaction [[4.4.3](#4.4.3)]. [[4.5](#4.5)] discusses these findings in the context of prior literature, focusing on the value of data involvement [[4.5.1](#4.5.1)], the need for human interaction [[4.5.2](#4.5.2)], and the pros and cons of the shifting of the _Locus of Decision Making (LDM)_ towards the family [[4.5.3](#4.5.3)].
 
 Context: Data Use in Early Help{#4.1}
 -------------------------------
@@ -70,25 +68,90 @@ Consent may be violated if data, collected for a specific purpose, passes to ano
 
 Data is not neutral [@gitelman2013; @neff2013]. Collecting data for a specific purpose (rather than objectively) undermines local professionals' ability to deliver care [@cornford2013; @lowe2015]. The collection and use of data may, instead of helping a family, reinforce the existing asymmetry of power that exists between them and data-holding organisations [@cornford2013].
 
-This presents an ideal context to explore RQ2 [[3.3.2](#RQ2)], specifically the impact of data use upon service relationships. Following preliminary sensitisation research [[4.2](#4.2)], a study was designed to work with both families and support staff involved in EH. This study examined individual perspectives per RQ1 [[3.3.1](#RQ1)] but also looked at the power imbalance and the effectiveness of the support relationship as a whole, in terms of its goal to empower families to build better lives for themselves and get them to a point where they no longer need support. As part of RQ2 [[3.3.2](#RQ2)], the study also explored possible alternative models for the use of data within EH relationships. The study comprised two phases:
+This presents an ideal context to explore RQ2 [[3.3.2](#RQ2)], specifically the impact of data use upon service relationships. Following preliminary sensitisation research [[4.3](#4.3)], a study was designed to work with both families and support staff involved in EH. This study examined individual perspectives per RQ1 [[3.3.1](#RQ1)] but also looked at the power imbalance and the effectiveness of the support relationship as a whole, in terms of its goal to empower families to build better lives for themselves and get them to a point where they no longer need support. As part of RQ2 [[3.3.2](#RQ2)], the study also explored possible alternative models for the use of data within EH relationships. The design and approach of the study is described in more detail in the next section.
 
-  - First in phase 1, to work with families and support workers as two distinct groups, to identify their different needs [[Table 3.1](#table-3.1); [4.2.5](#4.2.5)],
+Activities and Methodology{#4.2}
+--------------------------
+
+Within this context I carried out three research activities between 2017 and 2019:
+
+### Embedded Research and Development Placement in CHC SILVER Project{#4.2.1}
+
+From March 2017 to March 2019, I joined Connected Health Cities' _SILVER_ project [@ConnectedHealthCities2017silver] as a part-time research engineer alongside my PhD. This research project was funded by the UK's Department for Health (now the Department of Health and Social Care) and brought together local authorities, health authorities, University researchers and technology partners in the North East of England, in the Early Help context. Its goal was to explore how to unify civic data about a supported family, with their consent, to allow support workers to provide better care to those families. This made it an ideal place to explore my research objectives. It used direct research with families and support workers to inform the system requirements. This also provided an opportunity to deepen understanding of the use of data within Early Help support relationship (RQ2), and both parties' attitudes to this highly personal and real civic data (RQ1). My role was two-fold: as a software engineer, to design and develop user interfaces that would be used to view this unified data, and as a participatory researcher, to assist with the design and execution of focus groups and workshops with staff and supported families that could inform the proof-of-concept data system being built. It is that work as a researcher that forms part of the Case Study in this chapter. The embedded development work is not considered part of this Case Study, but rather as the first embedded research setting [[7.2OLD](#7.2OLD)] and will be referenced in the subsequent chapters, especially Chapters [4](#chapter-4), [8](#chapter-8) and [9](#chapter-9). The final report from the SILVER project was not published but a public summary is available [@NorthernHealthScienceAlliance2020].
+
+### Pilot: Understanding Family Civic Data Study{#4.2.2}
+
+In the summer of 2017, in the MRes year of this doctoral training programme (alongside my involvement with the SILVER project), I carried out an initial participatory field study in order to deepen my understanding of data use and attitudes within this context and to develop appropriate research methods. This study consisted of home visits to four different families in the North East who had interacted in the past with social care & support services [[Table 3.1](#table-3.1)]. During the course of these two-hour visits, I carried out participatory co-design activities and interviewed the families (both adults and children) about their civic data, and in particular their views on how risky different types of data were and how that data should be handled. Fieldwork took place prior to the start of this PhD; however, the data analysis and publication of the findings took place within the scope of this PhD, and directly inform the main Case Study, both through its methodology and as prior work to build upon. This pilot study is given special status in this thesis (as described in [1.3.1](#1.3.1)) and was published as a first author paper [@bowyer2018family], included in full in [Appendix A](#appendix-A).
+
+Within the four pilot study home visits [see photograph in [Figure 3.8](#figure-3.8)] the following activities were carried out:
+
+- 'Family Facts' Sensitisation [[3.4.1](#3.4.1)]
+- Data Card Sorting [[3.4.2](#3.4.2)]
+- Discussion stimulated by Example Data, News Articles and Interface Mockups
+
+### Case Study One Workshops: Data Interaction in Early Help{#4.2.3}
+
+In the summer of 2018, informed by the SILVER project and the pilot study, I designed and conducted my first major case study of this thesis: a series of four participatory co-design workshops with people directly involved in _Early Help_ relationships in North East England. The workshops were funded by CHC, and were led by myself. They were designed with a dual purpose: to inform the design of the SILVER system but also to serve RQ1 [[3.3.1](#RQ1)] and RQ2 [[3.3.2](#RQ2)] of this thesis. These workshops sought initially to validate findings from SILVER's earlier research and my pilot study.
+
+The study comprised two phases:
+
+  - First in phase 1, to work with families and support workers as two distinct groups, to identify their different needs [[Table 3.1](#table-3.1); [4.3.5](#4.3.5)],
   - then, in phase 2, to work with both groups together in an attempt to address their unified needs through novel approaches to data interaction.
 
-The design and approach of the study is described in more detail in the next section.
+The objective for Phase 1 was to develop a deeper understanding of what supported families (workshop A) and support workers (workshops B1 and B2) perceive as problems with data use in the Early Help context, and to explore perceived solutions to these problems. Phase 1 served to revalidate earlier findings of early work, working with each group separately. A further objective was to understand existing data practices and whether they work, or need improving, and to identify known issues.
 
-Preliminary Explorations of Family Civic Data: Families' and Support Workers' Perspectives{#4.2}
+A second phase workshop (workshop C) was designed to specifically focus on the use of data _within the support relationship_ [[4.3.4](#4.3.4)]. This was a joint workshop involving staff and parents working together to explore the _Shared Data Interaction_ concept that emerged in Phase 1 [[4.3.4](#4.3.4)]. In Phase 2, the two groups would collaborate to design imagined data practices and interactions. The objective was to understand how _in practice_ staff and families could imagine themselves using data together.
+
+Across both phases, various participatory methods were used, as detailed below. Workshops were audio recorded and transcribed. Transcripts were analysed thematically, and in some cases quantitatively [[3.4.5](#3.4.5)]. Thematic findings are documented in [4.4](#4.4). This Case Study's findings are documented in this chapter, but also contribute to the general findings about RQ1 [[3.3.1](#RQ1)] and RQ2 [[3.3.2](#RQ2)] presented in [Chapter 6](#chapter-6). The workshops are summarised in Table 4.2:
+
+| <a name="table-4.1">Workshop</a> | Engagement | Phase | Number of Participants |
+|:---------:|------------------|:--:|----------------|
+| Workshop A | Design Workshop for Families | 1 | 8 adults and 9 children from 5 supported families |
+| Workshop B<br/>(2 instances) | Design Workshop for Staff | 1 | 36 support workers & related staff (in total) |
+| Workshop C | Combined Staff and Parents' Design Workshop | 2 | 3 support workers and 4 parents from supported families |
+
+Table: Table 4.1 - Case Study One Group Design Workshops.
+
+Within the workshops, the following activities were carried out:
+
+**Phase 1: Co-Designing Civic Data Access for Early Help**
+
+Workshop A (Co-designing with Families):
+
+- Data Card Sorting [[3.4.2](#3.4.2)]
+- Sentence Ranking [[3.4.1](#3.4.1), [4.3.5](#4.3.5)]
+- Ideation Decks [[3.4.3](#3.4.3)]
+- Poster Design [[3.4.3](#3.4.3)]
+- Scenario Discussions
+
+Workshops B1 and B2 (Co-designing with Staff):
+
+- Sentence Ranking [[3.4.1](#3.4.1), [4.3.5](#4.3.5)]
+- Ideation Decks [[3.4.3](#3.4.3)]
+- Poster Design [[3.4.3](#3.4.3)]
+- Scenario Discussions [[3.4.2](#3.4.2)]
+- Discussion of Interface Mockup [[3.4.2](#3.4.2)]
+
+**Phase 2: Exploring Shared Data Interaction**
+
+Workshop C (Combined Parent/Staff Workshop):
+
+- Sentence Ranking [[3.4.1](#3.4.1), [4.3.5](#4.3.5)]
+- Storyboarding Training [[ARI4.3](#ari-4.3)]
+- Scenario-based Storyboarding [[3.4.3](#3.4.3)]
+
+The next section goes into more detail into how the preliminary work with the pilot study and SILVER established a baseline for families' and support workers' attitudes to civic data use and access. Section [4.3.5](#4.3.5) details the commonalities and discrepancies in attitudes between the different participant groups, including details of how these baseline attitudes were validated and captured using the Sentence Ranking method.
+
+Preliminary Explorations of Family Civic Data: Families' and Support Workers' Perspectives{#4.3}
 -----------------------------------------------------------------------------
-
-<span class="editnote">Add additional material (originally planned for Section 2 intro) about prep work and pilot study into this section. Update title accordingly.</span>
 
 The first step in study design was to achieve sensitisation [[3.4.1](#3.4.1)] as a researcher, specifically three ways:
 
-  - to understand what data is stored about families [[4.2.1](#4.2.1)];
-  - to understand the family perspective [[4.2.2](#4.2.2)]; and
-  - to understand the support worker perspective [[4.2.3](#4.3.3)]
+  - to understand what data is stored about families [[4.3.1](#4.3.1)];
+  - to understand the family perspective [[4.3.2](#4.3.2)]; and
+  - to understand the support worker perspective [[4.3.3](#4.4.3)]
 
-### What is Family Civic Data?{#4.2.1}
+### What is Family Civic Data?{#4.3.1}
 
 In order to communicate effectively with participants, an understanding of what data is held in an EH context was needed. Through the pilot study [[3.4.1OLD](#3.4.1.2); [Appendix A](#appendix-a)] and grey literature review within CHC's SILVER project [[3.4.1OLD](#3.4.1.1OLD)], a taxonomy of _Family Civic Data_ was established [@bowyer2018family], as shown in [Table ARI4.1](#table-ari4.1).
 
@@ -96,41 +159,25 @@ Early recruitment attempts revealed that data is seen as an abstract concept in 
 
 The cards were used as research stimuli [[3.4.2](#3.4.2)] within the pilot study, which involved participatory design activities and design games in family homes. Once families understood data as _stored information about their lives_ they were able to very effectively engage and talk about it. The use of the games and the cards was very successful, keeping a light and playful environment and making the topic relatable. The cards enabled families to talk freely about their own lives and views without feeling personally interrogated, as they were dissociated from the participants' lives.
 
-### What is the Family Perspective on Their Civic Data and its Use?{#4.2.2}
+### What is the Family Perspective on Their Civic Data and its Use?{#4.3.2}
 
 Families participating in the pilot study and in SILVER's early research cared very much about what happened to their civic data, contrary to peers' expectations. They perceived a variety of risks due to data mishandling including identity fraud, criminal targeting and psychological harm. Families felt that data could easily misrepresent them through errors, prolonged storage of data beyond its need, or the recording of unfair judgements and opinions. Families wanted to view the data stored about them. They wanted a set of basic rights—to be informed, involved and accurately represented, with the ability to see, explain and correct their data to ensure it is fair and accurate. They wanted to know that their data will be handled sensitively and only by those that need to know. They believe that having such capabilities would help them to be able to work together with representatives of the state in a more positive relationship.
 
 The SILVER project [[3.4.1OLD](#3.4.1.1OLD)] conducted qualitative interviews with EH-supported families, and unpublished findings from these interviews reinforced the need for a more consultative role for families in data handling. Participating families identified that while there was a willingness to consent to information being shared in order to improve their care, they had very little understanding of how it was used and could not be deemed to have given informed consent to the way their data is currently used.
 
-### What is the Staff Perspective on Family Civic Data and its Use?{#4.2.3}
+### What is the Staff Perspective on Family Civic Data and its Use?{#4.3.3}
 
 SILVER worked closely with local authority staff, providing an understanding of support worker and staff perspectives. SILVER conducted a series of 'Amy's Page' [@wilson2020] focus groups/workshops with support workers and other local authority representatives, where staff mapped out information needs. They desired greater access to health information, particularly mental health indicators. The participants revealed a desire to gather as much data as possible about the families they were working with. It was viewed as a useful raw material that enabled them to do their job better.
 
 Collectively, findings from the pilot study and from SILVER showed a conflict between the desires from families and support workers. Families wanted more involvement and less reduction to data. Support workers wanted to amass more and better data. In part due to its funding and what I would consider _solutionist_ [@morozov2013] framing, the SILVER project gave priority to the support worker perspective as key requirements. It continued to pursue the building of a richer data interface for support workers. At this point, my research objectives and those of the SILVER project diverged. I was not ready to 'take sides' nor to pursue a purely data-centric solution. I wanted to explore whether it might be possible to satisfy the needs of both parties and to maintain focus on human-centricity and the need for a balanced relationship.
 
-### Shared Data Interaction: An Equitable and Mutually Beneficial Data Use Model{#4.2.4}
+### Shared Data Interaction: An Equitable and Mutually Beneficial Data Use Model{#4.3.4}
 
 In attempting to reconcile the conflicting desires of families and support workers, **Shared Data Interaction** was conceived. What if, instead of workers gatekeeping data access and using it by themselves, data could be looked at, examined, and updated together, during the face-to-face encounters between families and their support workers? This could potentially bring the benefits of HDI (increased agency, negotiability and legibility) [@mortier2014] to families (and also to workers), while also serving as a boundary object that might improve the relationship itself [@bowker2016]. I theorised that this would allow families to access unseen data while also enabling support workers to 'fill the gaps' in the data by simply asking questions.
 
 This concept emerged in part from phase 1 participants in the research engagement, and became a main focus for the second phase. In this regard, the workshops would not only explore current practice, but also motivate participants to imagine new practices that could serve their needs better. This would allow a preliminary assessment of shared data interaction—whether it might address both groups' needs and whether it would be perceived to benefit the support relationship. Even if the model was not well-regarded, such an exploration would still help to put participants in a speculative, co-design mindset that could elicit deeper insights about how civic data _should_ be used.
 
-### The Workshops{#4.2.5}
-
-| <a name="table-4.2">Workshop</a> | Engagement | Phase | Number of Participants | Activities |
-|:---------:|------------------|:--:|----------------|-----------------|
-| Workshop A | Design Workshop for Families | 1 | 8 adults and 9 children from 5 supported families | - Data Card Sorting<br/>- Sentence Ranking<br/>- Ideation Decks <br/>- Poster Design<br/>- Scenario Discussion |
-| Workshop B<br/>(2 instances) | Design Workshop for Staff | 1 | 36 support workers & related staff (in total) | - Data Card Sorting<br/>- Sentence Ranking<br/>- Ideation Decks<br/>- Poster Design<br/>- Scenario Discussion<br/>- Interface Discussion |
-| Workshop C | Combined Staff and Parents' Design Workshop | 2 | 3 support workers and 4 parents from supported families | - Sentence Ranking<br/>- Storyboarding Practice<br/>- Scenario-based Storyboarding |
-
-Table: Table 4.1 - Case Study One Group Design Workshops.
-
-During summer 2018, four 2-hour co-design workshops were carried out, with two phases as detailed in [Table 4.1](#table-4.1). Phase 1 served to revalidate earlier findings of early work and elicit participant perspectives on data within the support relationship, working with each group separately. A further objective was to understand existing data practices and whether they work, or need improving, and to identify known issues.
-
-In Phase 2 the two groups would collaborate to design imagined data practices and interactions for the shared data interaction model. The objective was to understand how _in practice_ staff and families could imagine themselves using data together.
-
-Across both phases, various participatory methods were used [[3.4.2](#3.4.2); [3.4.3](#3.4.3)]. Workshops were audio recorded and transcribed. Transcripts were analysed thematically, and in some cases quantitatively [[3.4.5](#3.4.5)]. Thematic findings are documented in [4.3](#4.3).
-
-### Sensitising Participants and Discovering Shared Values{#4.2.6}
+### Sensitising Participants and Discovering Shared Values{#4.3.5}
 
 In all workshops, it was important to ensure participants arrived at a common understanding of their 'design brief'. To achieve this, and to validate if these participants' perspectives matched those observed previously, an activity called _Sentence Ranking_ was conducted. Participants considered a number of opinionated statements and ranked them according to:
 
@@ -160,24 +207,24 @@ As the figure shows, there was universal consensus that:
 
 Participants felt it important to address that current consent practices were inadequate. There was also strong consensus that families did not want to be responsible for looking after their own data, though this was felt to be an unimportant matter.
 
-Participants showed considerable contention over whether or not support workers should be able to access historical family records [[4.3.3](#4.3.3.1)], about how families would feel about the collection of data about them and about having responsibility to managing access to it. There was moderate consensus over most other sentences.
+Participants showed considerable contention over whether or not support workers should be able to access historical family records [[4.4.3](#4.4.3.1)], about how families would feel about the collection of data about them and about having responsibility to managing access to it. There was moderate consensus over most other sentences.
 
 ![Figure 4.1 - Participants' Shared Values Deduced from Sentence Rankings Data](./src/figs/fig4.1-sentence-ranking-results.png)
 
 After this exercise, participants were considered sensitised and went on to carry out the other co-design activities [[Table 4.1](#table-4.1)]. Transcripts of these activities were analysed to produce thematic findings, which are detailed in the next section.
 
-Thematic Findings{#4.3}
+Thematic Findings{#4.4}
 -----------------
 
-The 120,000-word corpus from audio recordings of workshops A, B and C was divided by activity, group, and family/staff focus into 85 different source texts. Each text was thematically coded. The coded texts were analysed through four cycles of analysis [@huberman2002]. During this reductive process, participant creations, activity outputs and ranking data were referenced for context. Results of the thematic analysis are presented below. In [4.3.1](#4.3.1) the three main themes and subthemes are introduced. Each theme is detailed in [4.3.2](#4.3.2) to [4.3.4](#4.3.4), including participant quotes. Notation for quotes is explained in [ARI4.4](#ari-quote-notation).
+The 120,000-word corpus from audio recordings of workshops A, B and C was divided by activity, group, and family/staff focus into 85 different source texts. Each text was thematically coded. The coded texts were analysed through four cycles of analysis [@huberman2002]. During this reductive process, participant creations, activity outputs and ranking data were referenced for context. Results of the thematic analysis are presented below. In [4.4.1](#4.4.1) the three main themes and subthemes are introduced. Each theme is detailed in [4.4.2](#4.4.2) to [4.4.4](#4.4.4), including participant quotes. Notation for quotes is explained in [ARI4.4](#ari-quote-notation).
 
-### Themes & Subthemes{#4.3.1}
+### Themes & Subthemes{#4.4.1}
 
 Since workshop discussions were framed as explorations of data use within the EH relationship, thematic findings are expressed as desirable best practices. These best practices are divided into three themes:
 
-  1. Meaningful Data Interaction [[4.3.2](#4.3.2)],
-  2. Giving a Voice to the Family [[4.3.3](#4.3.3)], and
-  3. Earning Trust through Transparency [[4.3.4](#4.3.4)].
+  1. Meaningful Data Interaction [[4.4.2](#4.4.2)],
+  2. Giving a Voice to the Family [[4.4.3](#4.4.3)], and
+  3. Earning Trust through Transparency [[4.4.4](#4.4.4)].
 
 Explicit and implicit statements from participants, contextual clues, and accumulated knowledge allowed a judgement to be made as to whether each discussed best practices was:
 
@@ -185,7 +232,7 @@ Explicit and implicit statements from participants, contextual clues, and accumu
 - happening occasionally/partially ('emergent') , or
 - not yet occurring at all ('imagined')[^7].
 
-Tables [4.3](#table-4.3), [4.4](#table-4.4) and [4.5](#table-4.5) show subthemes, illustrated with participant quotes, as well as the current, emergent or imagined status of each subtheme. Structuring the themes makes the findings actionable for social care organisations.
+Tables [4.4](#table-4.3), [4.5](#table-4.4) and [4.5](#table-4.5) show subthemes, illustrated with participant quotes, as well as the current, emergent or imagined status of each subtheme. Structuring the themes makes the findings actionable for social care organisations.
 
 [^7]: As judged at the time of the workshops—Summer 2018.
 
@@ -216,7 +263,7 @@ Table: Table 4.3 - **Theme 2 - Giving a Voice to the Family**. Subthemes & Parti
 
 Table: Table 4.4 - **Theme 3 - Earning Families' Trust Through Transparency**. Subthemes & Participant Quotes.
 
-### Theme 1: Meaningful Data Interaction for Families{#4.3.2}
+### Theme 1: Meaningful Data Interaction for Families{#4.4.2}
 
 Through discussions with families and support workers a deep understanding of what sort of families' ideal data interactions was obtained. Setting aside interface considerations, which were not the main focus of the inquiry, and focusing on the wider sociotechnical context around the data and its access, it seems that in order to maximise understanding for all parties, data interaction needs to be _meaningful_—the first theme of these findings. Encompassed within this concept are:
 
@@ -274,7 +321,7 @@ As well as having ongoing access to data, families need human support to underst
 
 Key to meaningful involvement is the ability to start a conversation. Groups imagined families being able to send a message [SQ51] or record audio to raise an issue for discussion, letting their disagreement be known and empowering them to be part of a dialogue about what is recorded [SQ60].
 
-### Theme 2: Giving a Voice to the Family{#4.3.3}
+### Theme 2: Giving a Voice to the Family{#4.4.3}
 
 The second theme  systems and processes currently rely excessively upon the 'facts' within the data record, and they need to be updated to give the family an empowered role within their civic information ecosystem. The purposes of an EH intervention are to obtain more information for a better understanding of the family's situation and to make evidence-based plans and decisions to improve the situation. Seeking objective truth is clearly central. Impressions of that truth can be formed either by reading the data or by talking to the family. There are benefits and dangers of relying solely on either source. Families should become agents in the data ecosystem, and this involvement should lead to both greater empowerment and better evidence-based decisions.
 
@@ -292,11 +339,11 @@ The compromise that participants identified over the use of data is that workers
 
 > _'[There's] this perception of something sticking with you even after you've potentially reformed. […] That's something that happened a long time ago and that judgement is still there but [you'd be wondering] "Okay, is it [still true]?"'_—[Worker, SQ61]
 
-Many participants concluded that only _'relevant'_ information should be available, to those who _'need to know'_, but the wide range of opinions expressed suggest that this is a highly subjective judgement that would be difficult to determine. A cut-off period before which workers should have no right to look was suggested [Parent, CQ15], but the sentence _'Officials should be able to see historical records about families'_ [S17] was contentious. Some workers feared any restriction in access might mean they miss important background on an individual's past, such as sexual abuse or mental health issues [Worker, SQ76]. The solution to this dilemma is unclear, but transparency about what is in the data would seem to be a critical ingredient [[4.3.4](#4.3.4)].
+Many participants concluded that only _'relevant'_ information should be available, to those who _'need to know'_, but the wide range of opinions expressed suggest that this is a highly subjective judgement that would be difficult to determine. A cut-off period before which workers should have no right to look was suggested [Parent, CQ15], but the sentence _'Officials should be able to see historical records about families'_ [S17] was contentious. Some workers feared any restriction in access might mean they miss important background on an individual's past, such as sexual abuse or mental health issues [Worker, SQ76]. The solution to this dilemma is unclear, but transparency about what is in the data would seem to be a critical ingredient [[4.4.4](#4.4.4)].
 
 <a name="4.3.3.2">**Checking Data Together**</a>
 
-The idea of families and support workers reviewing data _together_ arose from many participants in workshops A and B, and this motivated an exploration of the concept of shared data interaction in more depth through the storyboarding exercise in workshop C [[4.2.4](#4.2.4)]. Families perceived value in having not just data representations as above, but also a data interface present within their care meeting, so they that they could see actual data and have it explained to them. One practice embodying the concept of transparency that is emerging in some care services is the use of '2-in-1' devices (laptop/tablet hybrids) within the care engagement. Workers can then visibly record data in front of families and then ask them to _'approve'_ the accuracy on screen [FQ12, SQ67]. Participants believed this would help to build trust between the support workers and families; if a family begins to feel powerless, they may disengage [SQ35], but even minor involvement, such as this emergent practice of signing off approval of data records [FQ12] or an imagined process of checking & correcting data records together (see next section) could make families feel more empowered which could make the support relationship more productive.
+The idea of families and support workers reviewing data _together_ arose from many participants in workshops A and B, and this motivated an exploration of the concept of shared data interaction in more depth through the storyboarding exercise in workshop C [[4.3.4](#4.3.4)]. Families perceived value in having not just data representations as above, but also a data interface present within their care meeting, so they that they could see actual data and have it explained to them. One practice embodying the concept of transparency that is emerging in some care services is the use of '2-in-1' devices (laptop/tablet hybrids) within the care engagement. Workers can then visibly record data in front of families and then ask them to _'approve'_ the accuracy on screen [FQ12, SQ67]. Participants believed this would help to build trust between the support workers and families; if a family begins to feel powerless, they may disengage [SQ35], but even minor involvement, such as this emergent practice of signing off approval of data records [FQ12] or an imagined process of checking & correcting data records together (see next section) could make families feel more empowered which could make the support relationship more productive.
 
 Family participants imagined going beyond just seeing and getting verbal explanations of their data to being able to review their data and be asked for their approval of accuracy [FQ3]. Maintaining accurate data is important because that data is used to decide care plans and support strategies. Families are thought to be better placed than anyone else to identify inaccuracies or gaps in their civic data. Participants believe family corrections would increase data accuracy. This does not mean free editing of records (as, for example, fears and/or self-interest could lead to families misrepresenting themselves in data [@bowyer2018family]). Instead, taking a role in reviewing, annotating, explaining, or requesting changes, through direct data-centred collaboration between involving workers and family members is desirable:
 
@@ -340,7 +387,7 @@ Once such capabilities are established, this could enable much more careful and 
 
 Theme 2 shows see that giving families a role in the creation and stewardship of their data selves may unlock new capabilities and a sense of empowerment for families.
 
-### Theme 3: Earning Trust through Transparency{#4.3.4}
+### Theme 3: Earning Trust through Transparency{#4.4.4}
 
 The third theme looks at these imagined new data access capabilities and empowered role for data subjects in the wider sociotechnical context of how they could affect the support relationship. The topic of trust arose directly or indirectly in almost all participant conversations, and the findings show that transparent and open data handling and decision-making processes are key to support workers to earn the trust of supported families. Currently, families are mostly unaware of what data is held about them and what discussions about them are being had and have no choice but to trust both the support workers, and all the parties and technologies involved in the surrounding care ecosystem, which is very hard to do when they have little to no visibility of it. Without visibility, any error or surprise can be very damaging to this fragile trust and can harm the relationship, and conversely, increase transparency and explanation can avoid surprises and increase trust, improving the relationship.
 
@@ -373,7 +420,7 @@ In current practice, data handling *is* generally respectful - data mishandling 
 
 <a name="4.3.4.2">**Always Seek and Demonstrate Greater Understanding**</a>
 
-In order to earn, build and maintain trust, support workers must always be seeking to form a more complete and up-to-date picture of the family, in line with the finding in [4.3.3](#4.3.3.1) that individuals are more than what is stored in their records. This requires human interaction to uncover. Demonstrating a deep understanding of the family, and that a family's lived reality has greater priority than what a database says can be a critical to trust-building:
+In order to earn, build and maintain trust, support workers must always be seeking to form a more complete and up-to-date picture of the family, in line with the finding in [4.4.3](#4.4.3.1) that individuals are more than what is stored in their records. This requires human interaction to uncover. Demonstrating a deep understanding of the family, and that a family's lived reality has greater priority than what a database says can be a critical to trust-building:
 
 > _'You don't want to reduce them to this number in a database. You want to understand their actual experiences and support them in getting better.'_–[Worker, SQ74]
 
@@ -388,12 +435,12 @@ Participants also indicated that families' desire for transparency (as mentioned
 
 Exploring this need for reassuring dialogue in more depth, it is clear that to avoid damaging negative spirals of emotion, deliberate openness is needed from support workers (and the entire care system) [SQ18] as to what information is held, and how it will be used and shared, in order to alleviate fears of data being used _'against'_ families that can arise without that transparency—giving them instead confidence that their interests are being protected, thus putting them at ease [SQ20]. Data handling processes appear to be only explained once in very loose terms during initial engagement, for the purposes of collecting informed consent, and are rarely revisited. Workers could easily imagine explaining data practices in greater detail than they currently do [SQ41] and clearly there is a need for proactive action by workers to counter the inherent knowledge imbalance of data being collected into systems that they are gatekeepers for.
 
-Workers however lack control over the quality, coverage and timeliness of the family data and see this as a systemic issue they could not adequately address. From my experience with EH teams through the SILVER project [[3.4.1OLD](#3.4.1.1OLD)] it became clear that while support workers can see more data than most, they have far from the complete picture; in fact, there is no one organisation or individual with visibility of the entire family-information ecosystem, suggesting that greater openness with data would benefit not just the family, but other civic actors involved in the family's lives and in their care. Some participants suggested that openness about data handling needs to accompany data access, so for example if browsing information together [[4.3.2](#4.3.2.2); [4.3.3](#4.3.3.2)], it would be important to explain where the information has come from and why the support worker has it, rather than just reporting its content:
+Workers however lack control over the quality, coverage and timeliness of the family data and see this as a systemic issue they could not adequately address. From my experience with EH teams through the SILVER project [[3.4.1OLD](#3.4.1.1OLD)] it became clear that while support workers can see more data than most, they have far from the complete picture; in fact, there is no one organisation or individual with visibility of the entire family-information ecosystem, suggesting that greater openness with data would benefit not just the family, but other civic actors involved in the family's lives and in their care. Some participants suggested that openness about data handling needs to accompany data access, so for example if browsing information together [[4.4.2](#4.4.2.2); [4.4.3](#4.4.3.2)], it would be important to explain where the information has come from and why the support worker has it, rather than just reporting its content:
 
 > Parent: _'[If the worker knew sensitive medical information] the family would be really annoyed, they would just want you [the worker] to go.'_
 > Worker: _'I'm the same, me. I'd be like_ "I don't know how you got all this?". _That would be my first reaction but then if we [were to] discuss it and browse the information with the family [that would work better].'_—[CQ6]
 
-As mentioned in [4.3.3](#4.3.3.3), there is a need to replace the current practice of treating consent as a one-off formality at the start of the support process with something better. This has previously been conceptualised as a need for _dynamic consent_ (@bowyer2018family; @kaye2015; @williams2015]. A common heuristic expressed by families here and in the earlier study is that data should only be seen by those that _'need to know'_, but this is very hard to achieve: first, because without transparency of data handling, a family cannot verify whether this is happening, so has to rely only on feelings and supposition to inform their trust. Second, the need for fair judgement over who should access families data is objectively important given that some support workers expressed a belief that their right to access families' data should overrule families' consent:
+As mentioned in [4.4.3](#4.4.3.3), there is a need to replace the current practice of treating consent as a one-off formality at the start of the support process with something better. This has previously been conceptualised as a need for _dynamic consent_ (@bowyer2018family; @kaye2015; @williams2015]. A common heuristic expressed by families here and in the earlier study is that data should only be seen by those that _'need to know'_, but this is very hard to achieve: first, because without transparency of data handling, a family cannot verify whether this is happening, so has to rely only on feelings and supposition to inform their trust. Second, the need for fair judgement over who should access families data is objectively important given that some support workers expressed a belief that their right to access families' data should overrule families' consent:
 
 > Worker A: _'I think to enable us to work with families, we need to have as much information to give them the best possible service. So, I think we should be able to [access their information] regardless of what families say.'_
 > Researcher: _'Regardless of what they say?'_
@@ -405,16 +452,16 @@ This suggests that to ensure the 'need to know' is determined fairly and account
 
 These findings suggest that not just transparency but a progressive attitude to data practice, actively challenging current data centric norms, would enhance trust around data handling access and decision making as requirements and lead to a healthier support relationship. This could even include thinking about new ways of using data, for example at a collective community level [SQ78], to promote an open data-sharing culture.
 
-Discussion{#4.4}
+Discussion{#4.5}
 ----------
 
 The findings have provided a deeper understanding of families' experience of data RQ1 [[3.3.1](#RQ1)] and the role of data within EH relationships RQ2 [[3.3.2](#RQ2)]. This section discusses three implications:
 
-- the value of involving people with their data [[4.4.1](#4.4.1)],
-- the need for human interaction to make data access effective [[4.4.2](#4.4.2)], and
-- the implications of a shared data interaction approach in terms of shifting the LDM closer to the supported family [[4.4.3](#4.4.3)].
+- the value of involving people with their data [[4.5.1](#4.5.1)],
+- the need for human interaction to make data access effective [[4.5.2](#4.5.2)], and
+- the implications of a shared data interaction approach in terms of shifting the LDM closer to the supported family [[4.5.3](#4.5.3)].
 
-### The Value of Involving People with Their Data{#4.4.1}
+### The Value of Involving People with Their Data{#4.5.1}
 
 Data about supported individuals is integral to current care practice, improving decision making by providing a more complete picture of a family's life [[4.1.2](#4.1.2)]. This prevalent mindset reduces families' autonomy. Just as in the commercial sector [[2.1.2](#2.1.2)], families' civic data is considered a resource to be utilised. The implicit assumption is that data is a complete and objective source of truth [[4.1.2](#4.1.2)], yet participants agree it can never be [S14, S18'].
 
@@ -434,7 +481,7 @@ A health innovation project in South Africa echoes these findings on the importa
 
 <a name="4.4.1.2">**Consent**</a>
 
-Viewing data as a shared resource to be curated together could provide an effective alternative to EH's currently ineffective consent model [[4.2.2](#4.2.2)]. Currently consent collected as part of the EHA serves as a a _point of severance_ [@luger2013] that hands authorities _carte blanche_ powers to collect and use families' data. Ongoing access and direct use of data by families would offer practical _dynamic consent_ [@kaye2015; @williams2015].
+Viewing data as a shared resource to be curated together could provide an effective alternative to EH's currently ineffective consent model [[4.3.2](#4.3.2)]. Currently consent collected as part of the EHA serves as a a _point of severance_ [@luger2013] that hands authorities _carte blanche_ powers to collect and use families' data. Ongoing access and direct use of data by families would offer practical _dynamic consent_ [@kaye2015; @williams2015].
 If families were regularly 'talked through' their data, consent would become more reliable and less bureaucratic. Consent could shift from being seen as a formal permission to be certified and tracked, relying instead on the natural human instinct to speak up when you are shown something that seems amiss.
 Families will be happier with the use of their data if they can see it, notice issues and speak up when they feel something is amiss.
 
@@ -446,15 +493,15 @@ Giving the user a role in understanding and influencing the life of their own da
 
 <a name="4.4.1.3">**Families as Agents of Self-Care**</a>
 
-Shared data interaction could make supported families stakeholders in their own case. The care worker need take less of a position of authority, instead becoming an ally to the family member(s), now empowered as an agent in their own self-care. Individuals would be more able to act and improve their situation than previously [[4.3.3](#4.3.3)], approaching the HDI concept of _agency_ [@mortier2014]. Such a shift could serve as an antidote to data-centrism in the system and society at large [[2.1.2](#2.1.2)]. With control over and input into their _'data self'_—the representation of them that is seen by the state—families would have greater trust that their interests are being served. Through data, they could take part in informed decisions to could improve their own lives.
+Shared data interaction could make supported families stakeholders in their own case. The care worker need take less of a position of authority, instead becoming an ally to the family member(s), now empowered as an agent in their own self-care. Individuals would be more able to act and improve their situation than previously [[4.4.3](#4.4.3)], approaching the HDI concept of _agency_ [@mortier2014]. Such a shift could serve as an antidote to data-centrism in the system and society at large [[2.1.2](#2.1.2)]. With control over and input into their _'data self'_—the representation of them that is seen by the state—families would have greater trust that their interests are being served. Through data, they could take part in informed decisions to could improve their own lives.
 
-### Effective Data Access Requires Human Interaction{#4.4.2}
+### Effective Data Access Requires Human Interaction{#4.5.2}
 
 <a name="4.4.2.1">**The Need for Support**</a>
 
 The findings shows that current data inequalities will not be solved simply by opening up databases to families and giving them access. They must be able to meaningfully comprehend the data and effect change based on what they learn. This involves the translation of raw data into meaningful information [[2.1.1](#2.1.1)]—through summaries, visualisations and explanations.
 
-It is not clear who would have the access, skills and mandate to create such information representations. Participants' designs and desires echo prior claims that information available to must be _legible_ [[2.3.2](#2.3.2); @mortier2014] and that access must be _effective_ [[2.1.4](#2.1.4); @gurstein2011]. This includes providing suitable opportunities for access—for example via personal data interfaces not just within meetings—as well as addressing technology, literacy, mental or physical handicaps. Participant ideas around audio interfaces illustrate the extra steps that would be needed to provide effective access for all. To support varied needs, information access would need to be supported by a human relationship—one where someone can both explain the data as well as answer questions about it [[4.3.2](#4.3.2.4)].
+It is not clear who would have the access, skills and mandate to create such information representations. Participants' designs and desires echo prior claims that information available to must be _legible_ [[2.3.2](#2.3.2); @mortier2014] and that access must be _effective_ [[2.1.4](#2.1.4); @gurstein2011]. This includes providing suitable opportunities for access—for example via personal data interfaces not just within meetings—as well as addressing technology, literacy, mental or physical handicaps. Participant ideas around audio interfaces illustrate the extra steps that would be needed to provide effective access for all. To support varied needs, information access would need to be supported by a human relationship—one where someone can both explain the data as well as answer questions about it [[4.4.2](#4.4.2.4)].
 
 It is the human-to-human interaction that can make data access meaningful. Data use necessitates an ongoing conversation. Systems need a human face or point of contact that individuals may put their trust in and to whom they can address questions. Access only to raw data would be inadequate and limiting [@cornford2013].
 
@@ -474,7 +521,7 @@ The availability of capabilities over data, including the ability to raise a que
 
 Efforts to deliver effective HDI capabilities in future should therefore focus upon the role of the human in the information system, as a data interface is limited by its operational context as to its ability to truly offer meaningful actions to users.
 
-As our participants all strongly agreed, supported families _'should be treated like people, not database records.'_ [S4; [4.3.3](#4.3.3.1)]. Excessive focus upon the record can inadvertently become problematic in EH practice focusing upon child welfare:
+As our participants all strongly agreed, supported families _'should be treated like people, not database records.'_ [S4; [4.4.3](#4.4.3.1)]. Excessive focus upon the record can inadvertently become problematic in EH practice focusing upon child welfare:
 
 > _'Children_ [can be seen as] _the objects of a variety of concerns which need to be acted upon rather than agents of their own lives'_—[@ec2014].
 
@@ -482,7 +529,7 @@ Analysis of the Child Index, an early warning child welfare system in the Nether
 
 > _"Taking into account that_ [care] _professionals' first love is the best interest of and care for a child,_ [policymakers should] _provide room for the 'love' between future technologies and their social actors to flourish."_—@lecluijze2015
 
-### Shifting the Locus of Decision Making Through Shared Data Interaction{#4.4.3}
+### Shifting the Locus of Decision Making Through Shared Data Interaction{#4.5.3}
 
 In pursuit of RQ2 [[3.3.2](#RQ2)], the workshops explored the role of data within the EH support relationship. Workshop C brought parents and workers together to explore the mechanics of shared data interaction at an interpersonal, sociotechnical level [[2.2.5](#2.2.5); [2.3.3](#2.3.3)] to explore the mutual benefits that might be offered by _shared data interaction_. The participants worked together to construct possible narratives expressed through human-human and human-data interactions. In doing so, they modelled how shared data interaction could rebalancing power over data. I conceptualise this as **shifting the Locus of Decision Making (LDM)**. LDM is a concept distinct from _locus of control_ [@spector1982] which normally refers to personal willpower, and _locus of power_, which refers to the concentration of power within an organisational hierarchy. The LDM is the the place where decisions are made. It may or may not coincide with existing authority structures. Accumulated understandings of EH practice, and more generally of data-centric service provision, suggest that decisions are typically made, germinated or championed close to where data is accessed. In an effect that has been expected since as early as 1970 [@klatzky1970] the increasing use of data in service provision [[2.1.2](#2.1.2)] has concentrated the LDM with data holders, who collect service users' data to serve their own purposes.
 
@@ -498,11 +545,11 @@ In a more equitable model (bottom), support worker and family member are positio
 
 The removal of the gatekeeper role redistributes the power to interpret, select and judge data. Families would no longer be prevented from participating in data-based decision making. I theorise that shifting the data access from the domain of the support worker to the shared domain of the support meeting would move the LDM closer to the heart of the support relationship, creating a more balanced relationship and increasing families' agency and power.
 
-Support for shifting the LDM through shared data interaction is seen in the findings: Both families and staff said they would value a shared data interaction approach. Multiple participants independently imagined benefits of reviewing data and consent together [[4.3.2](#4.3.2.2); [4.3.3](#4.3.3.2); [4.3.3](#4.3.3.3)]. Participants perceive shared data interaction as an improvement, but it has not been tested in practice, so the remainder of this subsection will consider the benefits and implications of such a shift.
+Support for shifting the LDM through shared data interaction is seen in the findings: Both families and staff said they would value a shared data interaction approach. Multiple participants independently imagined benefits of reviewing data and consent together [[4.4.2](#4.4.2.2); [4.4.3](#4.4.3.2); [4.4.3](#4.4.3.3)]. Participants perceive shared data interaction as an improvement, but it has not been tested in practice, so the remainder of this subsection will consider the benefits and implications of such a shift.
 
 <a name="4.4.3.2">**Individual/Family Benefits**</a>
 
-Shared data interaction could empower families by giving them a role to play as agents in the life of their data, and a new ability to create and curate their own _data self_ so that it is as fair, accurate and representative as possible [@bowyer2018family; [4.4.1](#4.4.1.3)]. They would be further empowered by having access to view metrics by which their progress is judged, as they could
+Shared data interaction could empower families by giving them a role to play as agents in the life of their data, and a new ability to create and curate their own _data self_ so that it is as fair, accurate and representative as possible [@bowyer2018family; [4.5.1](#4.5.1.3)]. They would be further empowered by having access to view metrics by which their progress is judged, as they could
 take steps to influence any poorer metrics, and then use the improved metrics as confidence-building evidence of growth—a positive feedback cycle that is hardly possible at present.
 
 Shifting the LDM could enable families to take more responsibility, through an increased ability to reflect and make plans—an important element of harnessing one's personal data for self-improvement [[2.2.3](#2.2.3); @abiteboul2015], and through better accountability [SQ75]. Exposure to data is required for accountability [@crabtree2016]. The perceived benefit of individuals directly using data-based interfaces for health and wellbeing are already accepted; 93% of doctors believe apps can improve health outcomes [@kostkova2015].
@@ -533,7 +580,7 @@ There is a need to reverse this trend, not only in practice but in political amb
 
 My proposal for shifting the LDM is theoretical; it does not provide an implementable solution that could be rolled out at scale. Instead, it can serve as a mental model to stimulate discussions about potential change. Its value is in shining a light on the positive and negative impacts upon relationship effectiveness of current data practice in EH. These findings offer imagined practices that could be more efficient, and serve as a challenge to the status quo that should encourage EH providers to question their priorities when it comes to the use of people's civic data. The primary goal of EH is to empower families to help themselves as effectively as possible, and EH's focus on data arguably works against this.
 
-Summation of Case Study One{#4.5}
+Summation of Case Study One{#4.6}
 ---------------------------
 
 <span class="editnote">make stronger references to Design in intro and elsewhere, and talk about what is feasible / implementable (maybe leading into that being explored in part two)</span>
@@ -560,7 +607,7 @@ Capabilities – or their absence – matter more than the on-screen technicalit
 
 The sociotechnical perspective allows deeper consideration of the purpose of EH interactions, refocusing attention on the core goals to empower individuals to better themselves. The human perspective on family civic data should be given the highest priority, so that professionals' flexibility is not limited, but also because data cannot adequately represent the complexities of human life [@bowyer2018family]. People are more than just data, and you have to talk to them to make sense of their lives and to avoid excluding them. Usage of data should always be supported with dialogue and engagement. It is this need to focus on the human aspect that explains why trust underpinned nearly every single problem imagined by participants. Without an open system that encourages dialogue and discussion, it is very hard not to close doors, create suspicion and harm trust.
 
-[Figure 4.1](#figure-4.1) informs RQ1 [[3.3.1](#RQ1)], showing perspectives upon family civic data and practices. The thematic analysis [[4.3](#4.3)] of workshop transcripts identified positive and negative impacts on the support relationship of current civic data practices within EH, identifying best practices, seen in the subthemes and expressed as 38 specific practices for EH services [@bowyer2019]. Many of these are currently imagined or only just emerging. Participants believe these practices would improve families' engagement and the support they receive. These proposed practices (which inform RQ2 [[3.3.2](#RQ2)]), as well as the shared data interaction approach, challenge the status quo. They can inform policy, process and system design for all kinds of attempts to reform care services or digital citizenship offerings. Such changes carry significant challenges in cost, training, manpower and emergency planning, as with any systemic practice change in an organisation, but such an approach may get closer to the heart of the real issue of empowering _'left behind'_ (disempowered) families, perhaps moreso than a purely state-centred approach. Human-centred data use may offer a route to a more enabling welfare state. This work serves as a reminder that as we move into the data-driven age it is important that data should stay close to the people it is about, rather than to those that use the data to provide services.
+[Figure 4.1](#figure-4.1) informs RQ1 [[3.3.1](#RQ1)], showing perspectives upon family civic data and practices. The thematic analysis [[4.4](#4.4)] of workshop transcripts identified positive and negative impacts on the support relationship of current civic data practices within EH, identifying best practices, seen in the subthemes and expressed as 38 specific practices for EH services [@bowyer2019]. Many of these are currently imagined or only just emerging. Participants believe these practices would improve families' engagement and the support they receive. These proposed practices (which inform RQ2 [[3.3.2](#RQ2)]), as well as the shared data interaction approach, challenge the status quo. They can inform policy, process and system design for all kinds of attempts to reform care services or digital citizenship offerings. Such changes carry significant challenges in cost, training, manpower and emergency planning, as with any systemic practice change in an organisation, but such an approach may get closer to the heart of the real issue of empowering _'left behind'_ (disempowered) families, perhaps moreso than a purely state-centred approach. Human-centred data use may offer a route to a more enabling welfare state. This work serves as a reminder that as we move into the data-driven age it is important that data should stay close to the people it is about, rather than to those that use the data to provide services.
 
 The general principles expressed here could be equally applied to other domains including education, healthcare, democracy and commerce, and this emphasis upon individual capabilities over interface design is a mindset that could be applied to many human-computer interaction and design endeavours.
 

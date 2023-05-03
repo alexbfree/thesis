@@ -43,7 +43,7 @@ ARI4. Additional Reference Information for Chapter 4 {#ari-chapter-4 .unnumbered
 ARI4.1 Family Civic Data Categories{#ari-fcd-types .unnumbered}
 ----------------------------
 
-The table below illustrates the types of _family civic data_ identified in the pilot study [[3.4.1OLD](#3.4.1.OLD); @bowyer2018family; [Appendix A](#appendix-A)], and referenced in Case Study One [[4.2.1](#4.2.1)].
+The table below illustrates the types of _family civic data_ identified in the pilot study [[3.4.1OLD](#3.4.1.OLD); @bowyer2018family; [Appendix A](#appendix-A)], and referenced in Case Study One [[4.3.1](#4.3.1)].
 
 | <a name="table-ari4.1">Category</a>  | Type of data | Examples/Details |
 |---------|---------|--------------------------------------|
@@ -78,7 +78,7 @@ Table: Table ARI4.1 - Example Categories of Family Civic Data.
 ARI4.2 Sentence Ranking - List of Sentences and Analysis Approach{#ari-sentences .unnumbered}
 ----------------------------------------------------------
 
-In this section, additional details are provided on the _Sentence Ranking_ exercise referenced in [4.2.6](#4.2.6).
+In this section, additional details are provided on the _Sentence Ranking_ exercise referenced in [4.3.5](#4.3.5).
 
 The sentences offered to participants across the 4 workshops were as follows:
 
@@ -132,7 +132,7 @@ The resulting visualisation is shown in [Figure 4.1](#figure-4.1).
 ARI4.3 Storyboarding Action Cards {#ari-storyboarding .unnumbered}
 --------------------------
 
-Drawing from the world of film production, storyboarding is a well-established technique in participatory design [@spinuzzi2005; @moraveji2007]. Usually it involves the participants drawing out a series of sketches in the form of a comic strip 'telling the story' of an interaction, encounter or activity. However, it had already been determined, both in terms of the research approach of this thesis [[3.2.2](#3.2.2)], and in terms of responding to participants [[4.2.6](#4.2.6)] that it would be more important to understand the interpersonal interactions between family and support worker and the actual actions performed upon or with data, rather than the mechanisms by which the data interaction would occur. Focusing on the visual aspects of information visualisation could be distracting. Therefore, I developed a novel technique for use in the phase 2 workshop: **Storyboarding Action Cards**. Each storyboard card denotes a possible action that can be carried out by a family member (yellow border), support worker (blue border) or an action performed together (green border). Each card includes a simple action summary such as 'Give Information' and an iconographic representation of the action, along with a short description of which actor is doing what. It includes blank lines which the participant can 'fill in' to describe the specifics of this occurrence of the action.
+Drawing from the world of film production, storyboarding is a well-established technique in participatory design [@spinuzzi2005; @moraveji2007]. Usually it involves the participants drawing out a series of sketches in the form of a comic strip 'telling the story' of an interaction, encounter or activity. However, it had already been determined, both in terms of the research approach of this thesis [[3.2.2](#3.2.2)], and in terms of responding to participants [[4.3.5](#4.3.5)] that it would be more important to understand the interpersonal interactions between family and support worker and the actual actions performed upon or with data, rather than the mechanisms by which the data interaction would occur. Focusing on the visual aspects of information visualisation could be distracting. Therefore, I developed a novel technique for use in the phase 2 workshop: **Storyboarding Action Cards**. Each storyboard card denotes a possible action that can be carried out by a family member (yellow border), support worker (blue border) or an action performed together (green border). Each card includes a simple action summary such as 'Give Information' and an iconographic representation of the action, along with a short description of which actor is doing what. It includes blank lines which the participant can 'fill in' to describe the specifics of this occurrence of the action.
 
 ![Figure ARI4.1: Extract of Sample Scenario Storyboarding Exercise walkthrough](./src/figs/figARI4.1-storyboarding-cards.png){#figure-ari4.1}
 
@@ -168,7 +168,7 @@ For a completed storyboard layout example, see [Figure 3.11](#figure-3.11).
 ARI4.4 Notation for Quotations in Chapter 4{#ari-quote-notation .unnumbered}
 ------------------------------------
 
-Quotations included in section [4.3](#4.3) are references using the following notation:
+Quotations included in section [4.4](#4.4) are references using the following notation:
 
   - FQnn = Family Quote - a quote from the families-only workshop (A)
   - SQnn = Staff Quote - a quote from a staff-only workshop (B)
@@ -177,12 +177,12 @@ Quotations included in section [4.3](#4.3) are references using the following no
 
 The number after FQ/CQ/SQ provides a unique identifier for each quote. Individual speakers are identified only by their role. Within each quote, or in brackets afterwards, the speakers are identified as _Worker_, _Parent_, _Child_, or _Researcher_.
 
-Most quotes and conversation extracts are directly embedded into section [4.3](#4.3). All other quotes referenced in the text (excluded for reasons of space and flow) are included in [ARI4.5](#ari-quotes-extra-c4).
+Most quotes and conversation extracts are directly embedded into section [4.4](#4.4). All other quotes referenced in the text (excluded for reasons of space and flow) are included in [ARI4.5](#ari-quotes-extra-c4).
 
 ARI4.5 Additional Participant Quotations{#ari-quotes-extra-c4 .unnumbered}
 ----------------------------------------
 
-The majority of quotations and conversation extracts in Case Study Two are embedded inline throughout section [4.3](#4.3). The following quotes were referenced in the text but excluded for reasons of space and flow. The following list also includes some quotes or extracts which were abridged in the Chapter body but are included in full here.
+The majority of quotations and conversation extracts in Case Study Two are embedded inline throughout section [4.4](#4.4). The following quotes were referenced in the text but excluded for reasons of space and flow. The following list also includes some quotes or extracts which were abridged in the Chapter body but are included in full here.
 
 ### Quotes from Families-Only Workshop [A] {.unlisted .unnumbered}
 
