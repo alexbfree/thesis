@@ -43,7 +43,7 @@ HDR builds upon HDI but takes a broader sociotechnical stance. HDR encompasses a
 | The field of HDR encompasses all the ways in which humans and human organisations relate to, and with, data, specifically: |
 |   1. _Human-Data Relations_: users' direct interaction with data to understand and use it, similar to HDI, in service of the direct data wants [[6.1](#6.1)] of visible, understandable and useable data. |
 |   2. _Human "Data Relations"_: individuals' relationships with organisations that hold data about them, in service of the indirect data wants [[6.2](#6.2)] of transparency, individual oversight and involvement. |
-|   3. _Human/Data Relations_: how organisations manage their customers with respect to personal data. Similar to _public relations_ or _customer relations_, organisations choose how present their data practices (so as to build trust), and whether they will involve users with data, and provide support to understand data to their users. Organisations can empower individuals and build more effective customer relationships through HDR [[4.5.1](#4.5.1); [5.5.2](#5.5.2); [6.1.2](#6.1.2)]. |
+|   3. _Human/Data Relations_: how organisations manage their customers with respect to personal data. Similar to _public relations_ or _customer relations_, organisations choose how present their data practices (so as to build trust), and whether they will involve users with data, and provide support to understand data to their users. Organisations can empower individuals and build more effective customer relationships through HDR [[4.5.1](#4.5.1); [5.6.2](#5.6.2); [6.1.2](#6.1.2)]. |
 
 Having scoped HDR, we see that 'better' HDR can be achieved by working to empower individuals [[6.3](#6.3)] through pursuit of the identified six wants for data relations. However, as this section will explain, HDR is motivated in two distinct ways, to which those wants apply differently. As background understanding, the next section will examine more closely what role data plays in people's lives.
 
@@ -81,7 +81,7 @@ To unpack HDR further, we must differentiate between humans relating to data, an
 
 > _"_[HCI can] _unduly focus attention on the computer when, for most people, the computer is a means to an end—the effective use of information."_—@jones2006
 
-DIKW theory [[2.1.1](#2.1.1)] highlights that interpretation of data to obtain information is a discrete activity. This was borne out in the findings of Case Study Two, where it became clear that participants have distinct wants from data, and from information [[5.4.3](#5.4.3.2)]. Access to data _and_ information is critical to both understanding and useability [[6.1.2](#6.1.2); [6.1.3](#6.1.3)].
+DIKW theory [[2.1.1](#2.1.1)] highlights that interpretation of data to obtain information is a discrete activity. This was borne out in the findings of Case Study Two, where it became clear that participants have distinct wants from data, and from information [[5.5.3](#5.5.4.2)]. Access to data _and_ information is critical to both understanding and useability [[6.1.2](#6.1.2); [6.1.3](#6.1.3)].
 
 [^12]: The HCI panelists involved (excepting Fidel) were seemingly unaware of the existing HII field in library sciences, as they positioned the publication as a call for a 'new field'.
 
@@ -89,7 +89,7 @@ Drawing on DIKW theory, allows the identification of three distinct artefacts pe
 
   1. **data** - the stored digital artefacts held by organisations for algorithmic processing and human reference, copies of some of which can be obtained using data rights;
   2. **information about individuals** (a.k.a. _life information_) - facts and assertions about the individual and their life, obtained through human or algorithmic interpretation of stored data or analytical inference; and
-  3. **information about data** (a.k.a. _metadata_ [[Table 5.2](#table-5.2); [5.3.1](#5.3.1)] or _ecosystem information_) - stored facts about data, such as storage location, access history, means of collection, contextual meaning, or sharing records.
+  3. **information about data** (a.k.a. _metadata_ [[Table 5.2](#table-5.2); [5.4.1](#5.4.1)] or _ecosystem information_) - stored facts about data, such as storage location, access history, means of collection, contextual meaning, or sharing records.
 
 The Two Distinct Motivations for Better Data Relations{#7.6}
 ------------------------------------------------------
@@ -106,7 +106,7 @@ Considering these two types of information in the context of the six wants [[Cha
 
 [^13]: There is some overlap. Organisations hold data to enable interpretation (usually algorithmic) to inform decision making. In this way, organisations are doing LIU for _their_ benefit. This grey area is situated as part of PDEC, because from the individual's perspective, how organisations understand you through information informs decisions that affect your life. As such, it is more likely to enable you to exert control over use of your data than to pursue personal LIU goals.
 
-[^14]: The illustrated processes incorporate existing data access processes such as GDPR, where the only access is through provision of a copy of one's data. This is _not_ ideal, as it creates divergent versions and will quickly become out-of-sync, however for the sake of simplicity that inefficiency is ignored [see [5.5.1](#5.5.1) for improvements to copy-based access].
+[^14]: The illustrated processes incorporate existing data access processes such as GDPR, where the only access is through provision of a copy of one's data. This is _not_ ideal, as it creates divergent versions and will quickly become out-of-sync, however for the sake of simplicity that inefficiency is ignored [see [5.6.1](#5.6.1) for improvements to copy-based access].
 
 ### Life Information Utilisation (LIU){#7.6.1}
 

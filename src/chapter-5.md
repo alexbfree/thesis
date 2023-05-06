@@ -27,14 +27,14 @@ In this chapter, I will describe the second case study of this PhD, in which I t
 
 [^8]: 11 participants started the study but one dropped out after the first interview due to COVID-19, so only 10 participants conducted GDPR requests. 31 interviews were conducted in all.
 
-In section [5.1](#5.1), I will expand on chapter 2 to explain the context of using GDPR in research as a means to retrieve personal data. In [5.2](#5.2), I will explain the stages of the interview process (including details of how participants were sensitised) as well as the preparatory and intermediate steps I undertook as researcher. In section [5.3](#5.3), I will explain the model of personal data types developed for this study, and will present quantitative and summary data from the interviews, explaining how participants' GDPR access requests progressed, highlighting participants' shared hopes and goals, and examining in particular how their perceptions of power and trust were affected by the experience.
-In section [5.4](#5.4), I will describe the three themes uncovered through thematic analysis:
+In section [5.1](#5.1), I will expand on chapter 2 to explain the context of using GDPR in research as a means to retrieve personal data. After explaining the overall strategy and preparations made to research the GDPR context in [5.2](#5.2), I will in [5.3](#5.3) explain the stages of the interview process (including details of how participants were sensitised). In section [5.4](#5.4), I will explain the model of personal data types developed for this study, and will present quantitative and summary data from the interviews, explaining how participants' GDPR access requests progressed, highlighting participants' shared hopes and goals, and examining in particular how their perceptions of power and trust were affected by the experience.
+In section [5.5](#5.5), I will describe the three themes uncovered through thematic analysis:
 
-- that organisations provided participants with insufficient transparency to meet participants' hopes and their legal obligations [[5.4.1](#5.4.1)],
-- that people struggle to find meaning and value in their data when they do manage to access it [[5.4.2](#5.4.2)], and
-- that providers' data practices (in particular their GDPR request handling) can be harmful to their users' trust, but that greater openness can have an opposite, positive impact [[5.4.3](#5.4.3)].
+- that organisations provided participants with insufficient transparency to meet participants' hopes and their legal obligations [[5.5.2](#5.5.2)],
+- that people struggle to find meaning and value in their data when they do manage to access it [[5.5.3](#5.5.3)], and
+- that providers' data practices (in particular their GDPR request handling) can be harmful to their users' trust, but that greater openness can have an opposite, positive impact [[5.5.4](#5.5.4)].
 
-I will discuss the implications of these findings with reference to prior literature, from the perspective of policymakers [[5.5.1](#5.5.1)], data-holding companies [[5.5.2](#5.5.2)], and individuals [[5.5.3](#5.5.3)]. Finally, in [5.6](#5.6), I will summarise these insights in terms of how they can advance our understanding of the research questions and their wider significance.
+I will discuss the implications of these findings with reference to prior literature, from the perspective of policymakers [[5.6.1](#5.6.1)], data-holding companies [[5.6.2](#5.6.2)], and individuals [[5.6.3](#5.6.3)]. Finally, in [5.7](#5.7), I will summarise these insights in terms of how they can advance our understanding of the research questions and their wider significance.
 
 Context: Accessing Your Personal Data Using Your GDPR Rights{#5.1}
 ------------------------------------------------------------
@@ -83,10 +83,24 @@ A roadmap for best practice in this space can be found in the emergence of the P
 
 This case study aims to explore the research gap of [5.1.2](#5.1.2) above, from this perspective of greater human-centric need in a multi-party data use context. It scrutinises the experience of using one's GDPR rights in order to discover how well the process meets individuals' needs and expectations. In the process we can uncover problems and identify possible solutions that could address them.
 
-Study Design and Configuration{#5.2}
-------------------------------
 
-<span class="editnote">Add additional material (originally planned for Section 2 intro) about prep work and pilot studies into this section. Update title accordingly.</span>
+Overview of Activities for this Context{#5.2}
+--------------------------------------------
+
+As mentioned in the [introduction to Section II](#section-ii-research-contexts), a core motivation for this thesis was to conduct research into the power imbalance around personal data from the _everyday life_ perspective–to explore our relationship with and through the data that we hold, use or live with as we go about our lives, online and in person. This power imbalance seems to touch everyone, and therefore for my second research context I chose not to focus on a particular community or group but to look at these problems at the level of ordinary day-to-day digital life. In 2018, during this PhD, the European Union's GDPR regulations came into force, enabling people to obtain copies of their own data. This provided a means by which to examine any individual's data-driven service provider relationships (including my own), as data access requests could be executed which would return copies of held data that could be examined (in my own case) or used as stimulus for discussion (in participants' cases); the core everyday digital life context could now be researched in a grounded way.
+
+To serve research in this context, I carried out formative research activities [[5.2.1](#5.2.1)] between 2016 and 2019, leading to a major participatory study [[5.2.2](#5.2.2)] which ran from December 2019 to June 2020. After the participatory study concluded, I continued to make my own GDPR requests throughout the period of this PhD running up to submission in late 2022, both as researcher sensitisation for the thesis, and also in the context of my embedded project work with BBC R&D and with Hestia.ai [see [Section IV Introduction](#section-iv-embedded-project-settings)], which also contributed to insights presented in Section IV and V.
+
+
+
+XXXXX ADD DETAILS HERE
+
+
+
+The next section goes into more detail into how the participatory GDPR case study was structured and the methods used.
+
+Case Study Design and Methodology{#5.3}
+--------------------------------
 
 31 qualitative interviews were conducted, with a convenience sample of 11 individuals from a population of researchers and students at (or connected with) Newcastle University, aged 20-40 years; identifying as 5 females and 6 males. Participants were not data experts (only 1 had previously made a GDPR request), but were computer-literate, educated to degree level, and used to reflecting critically on their own behaviours and opinions. Participants were compensated for their time with Amazon vouchers worth £20.
 
@@ -102,14 +116,14 @@ Each participant's journey progressed at its own pace [[Figure 5.1](#figure-5.1)
 
 ![Figure 5.2: An Example Life Sketch from Interview 1, with Data Handling Companies in Red, Data Types in Blue, and Feelings in Green](./src/figs/fig5.2-sketch-interview.png){#figure-5.2}
 
-Interviews were audio and video recorded, then auto-transcribed using Google Recorder/Zoom, producing a 370,000-word corpus. Transcripts were split up and recombined across participants into six topic areas–digital life, company-specific discussions, general discussions, power, trust, and hopes/goals. These transcript topics were then analysed through reductive coding cycles to produce thematic findings [[5.4](#5.4)]. Quantitative data from interview spreadsheets was also summarised and analysed [[5.5](#5.5)]. Sketches, recordings, screenshots and field notes were referenced throughout thematic analysis to aid interpretation of the transcripts. The processes described here are further detailed in [ARI5.1](#ari-gdpr-data-analysis).
+Interviews were audio and video recorded, then auto-transcribed using Google Recorder/Zoom, producing a 370,000-word corpus. Transcripts were split up and recombined across participants into six topic areas–digital life, company-specific discussions, general discussions, power, trust, and hopes/goals. These transcript topics were then analysed through reductive coding cycles to produce thematic findings [[5.5](#5.5)]. Quantitative data from interview spreadsheets was also summarised and analysed [[5.4](#5.4)]. Sketches, recordings, screenshots and field notes were referenced throughout thematic analysis to aid interpretation of the transcripts. The processes described here are further detailed in [ARI5.1](#ari-gdpr-data-analysis).
 
 <span class="editnote">Takeaway, need to go into a bit more detail in C5 about how we looked at data together (expand it to not just be paper-level summary). Notes: More detail on sensemaking in Chapter 5. In chapter 5, provide a few sentences in your methods to describe how the data that were received by GDPR requests were further explored / made sense from your participants. E.g. as you say in your thesis, your participants received their data in various forms and formats. How was the process of interview to allow them to reflect and understand their data? What were participants asked to do with that data after they received them?</span>
 
-GDPR Request Outcomes{#5.3}
+GDPR Request Outcomes{#5.4}
 ---------------------
 
-### Interview 1: GDPR Target Selection{#5.3.1}
+### Interview 1: GDPR Target Selection{#5.4.1}
 
 Initially eight participants chose 5 target companies and three chose 4 to request data from. One participant (P9) withdrew from the study due to COVID-19 after Interview 1. Five participants withdrew a chosen company upon further consideration. Reasons for withdrawing chosen targets included having one's personal data mixed with other household members (Netflix), the account being in someone else's name (Morrisons), not wishing to impact active customer support matters (LNER), and inability to contact the provider by email (ifun.tv, see below). One participant selected Newcastle University, which was vetoed by the research team to avoid conflicts of interest. Hence, 41 out of a possible 52 GDPR subject access requests were made (to 28 distinct data holders) as shown in Table 5.1:
 
@@ -125,7 +139,7 @@ To ensure fairness and consistency, the aim was that all GDPR requests be sent b
 
 Table: Table 5.2 - Types of Personal Data Potentially Accessible from Data Holders via GDPR Rights
 
-### Interview 2: Privacy Policy Review and Goal Setting{#5.3.2}
+### Interview 2: Privacy Policy Review and Goal Setting{#5.4.2}
 
 Participants reviewed and discussed privacy policies for their chosen target companies and were asked to define hopes and expectations for each GDPR request (see [Table 5.4](#table-5.4)). 74% of goals expresses related to participants wanting to have greater insight and control into their personal data ecosystems; most commonly a desire to see the breadth and depth of data collection by companies, to understand what was being inferred and how personal data was used, and to use such information to better assess trustworthiness of those companies. Such goals were often motivated by curiosity or suspicion, or a desire to shed light on specific incidents or answer specific questions. In some cases participants wanted not just to learn and acquire knowledge but to take control of or delete held data. In contrast, 26% of goals related to gaining personal benefit from one's obtained data: motivators included the desire to reflect on past data to gain self-insight, as well as goals relating creativity, fun, and nostalgia.
 
@@ -133,9 +147,9 @@ Participants reviewed and discussed privacy policies for their chosen target com
 
 At the conclusion of interview 2, participants were provided with the emails and instructions to start their GDPR requests, which progressed as illustrated in [Figure 5.3](#figure-5.3). Eight requests resulted in no data being obtained, due to either data holder non-responsiveness, inability to access the right account or satisfy ID requirements, or confirmation being received that there was no data to supply. 32 requests (80%) resulted in at least some data being returned; 10 of these directed the participant to use a publicly-available download dashboard such as Google Takeout, and the rest resulted in data being made individually available. Of these, one was mailed as printouts, another was mailed on CD-R, and the rest were delivered by e-mail (sometimes involving a secured online website to download). While 22 companies supplied bespoke data packages, 4 did not return it within the 30 days the legislation specifies. Please note that requests took place within the context of a global pandemic so response rates may not be typical. Following discussion, participants judged that all 32 requests receiving data had failed to return all requested data (across all five of the categories in [Table 5.2](#table-5.2)).
 
-### Interview 3: Reviewing the GDPR Response{#5.3.3}
+### Interview 3: Reviewing the GDPR Response{#5.4.3}
 
-Once each participant's GPDR requests had concluded (as described above), they were invited to discuss the GDPR responses in detail. Participants were asked to describe (and optionally show) the data they had received, then to evaluate the data holder's response for each data type, according to multiple metrics designed to assess the perceived quality of the GDPR request handling and the subjective value of any returned data. All questions were posed from the perspective of (a) the data that providers said they collect and process in their privacy policies, and (b) the rights that the GDPR specifies, to ensure discovery of missing data or unfulfilled rights would be considered objectively. Participant responses were considered quantitatively (see Table 5.3 below) and qualitatively (see [5.4](#5.4)).
+Once each participant's GPDR requests had concluded (as described above), they were invited to discuss the GDPR responses in detail. Participants were asked to describe (and optionally show) the data they had received, then to evaluate the data holder's response for each data type, according to multiple metrics designed to assess the perceived quality of the GDPR request handling and the subjective value of any returned data. All questions were posed from the perspective of (a) the data that providers said they collect and process in their privacy policies, and (b) the rights that the GDPR specifies, to ensure discovery of missing data or unfulfilled rights would be considered objectively. Participant responses were considered quantitatively (see Table 5.3 below) and qualitatively [[5.5](#5.5)].
 
 <a name="table-5.3"></a>
 
@@ -157,7 +171,7 @@ Participants felt their goals were not fully met in 78% of cases, and 54% were n
 
 Table: Table 5.4 - Participants' Hopes, Imagined Data Uses and Goals for GDPR, as well as Resultant Outcomes
 
-### Perceived Power and Trust{#5.3.4}
+### Perceived Power and Trust{#5.4.4}
 
 Scoring questions were used to examine how participants' feelings towards the data holders changed throughout the process: Participants were asked:
 
@@ -176,20 +190,20 @@ Considering the process as a whole, participants' attitudes were impacted partic
 
 ![Figure 5.6: Participants' Perceived Trust in Provider at Different Stages of the GDPR/Study Process](./src/figs/fig5.6-trust-by-stage.png){#figure-5.6}
 
-Thematic Findings{#5.4}
+Thematic Findings{#5.5}
 -----------------
 
-As described in 5.2, the topic-focused transcripts were carefully examined to identify themes and findings, a process involving over 200 person-hours of iterative data analysis [@huberman2002] of the interview transcripts [see ARI5.1](#ari5.1)]. In this section the findings from that analysis are presented and summarises, with the three main themes being introduced in [5.4.1](#5.4.1), then each theme is further detailed in the the following subsections, including participant quotes.
+As described in 5.3, the topic-focused transcripts were carefully examined to identify themes and findings, a process involving over 200 person-hours of iterative data analysis [@huberman2002] of the interview transcripts [see ARI5.1](#ari5.1)]. In this section the findings from that analysis are presented and summarises, with the three main themes being introduced in [5.5.1](#5.5.1), then each theme is further detailed in the the following subsections, including participant quotes.
 
-### Themes & Subthemes{#5.4.1}
+### Themes & Subthemes{#5.5.1}
 
 The findings are presented through three main topics:
 
-  - Insufficient Transparency [[5.4.2](#5.4.2)],
-  - Confusing and Unuseable Data [[5.4.3](#5.4.3)], and
-  - Fragile Relationships [[5.4.4](#5.4.4)].
+  - Insufficient Transparency [[5.5.2](#5.5.2)],
+  - Confusing and Unuseable Data [[5.5.3](#5.5.3)], and
+  - Fragile Relationships [[5.5.4](#5.5.4)].
 
-Theme 1 (see [5.4.2](#5.4.2) and summary in [Table 5.5](#table5.6) below) describes the **Insufficient Transparency** that participants experienced in privacy policies and through the GDPR process; Organisations appear evasive over data when responding to GDPR, leaving people "in the dark” even after making GDPR requests.
+Theme 1 (see [5.5.2](#5.5.2) and summary in [Table 5.5](#table-5.5) below) describes the **Insufficient Transparency** that participants experienced in privacy policies and through the GDPR process; Organisations appear evasive over data when responding to GDPR, leaving people "in the dark” even after making GDPR requests.
 
 | <a name="table-5.5"></a>Subtheme | Description | Quote |
 |:--------|:-------------------------|:------------------------|
@@ -199,7 +213,7 @@ Theme 1 (see [5.4.2](#5.4.2) and summary in [Table 5.5](#table5.6) below) descri
 
 Table: Table 5.5 - **Theme 1 - Insufficient Transparency**. Subthemes & Participant Quotes.
 
-Theme 2 (see [5.4.3](#5.4.3) and summary in [Table 5.6](#table5.7) below) explains how participants received **Confusing & Unuseable Data** from data holders; When presented with their data, people struggle to understand it and relate it to their lives and are not able to make use of it.
+Theme 2 (see [5.5.3](#5.5.3) and summary in [Table 5.6](#table5.7) below) explains how participants received **Confusing & Unuseable Data** from data holders; When presented with their data, people struggle to understand it and relate it to their lives and are not able to make use of it.
 
 | <a name="table-5.6"></a>Subtheme | Description | Quote |
 |:--------|:-------------------------|:------------------------|
@@ -209,7 +223,7 @@ Theme 2 (see [5.4.3](#5.4.3) and summary in [Table 5.6](#table5.7) below) explai
 
 Table: Table 5.6 - **Theme 2 - Confusing & Unuseable Data**. Subthemes & Participant Quotes.
 
-Finally Theme 3 (see [5.4.4](#5.4.4) and summary in [Table 5.7](#table5.8) below) examines the **Fragile Relationships** that individuals have with data holders; Companies' data practices, and in particular their privacy policies and GDPR response handling, can be impactful to customer relationships, carrying a risk of damaging trust but also the potential to improve relations.
+Finally Theme 3 (see [5.5.4](#5.5.4) and summary in [Table 5.7](#table5.8) below) examines the **Fragile Relationships** that individuals have with data holders; Companies' data practices, and in particular their privacy policies and GDPR response handling, can be impactful to customer relationships, carrying a risk of damaging trust but also the potential to improve relations.
 
 | <a name="table-5.7"></a>Subtheme | Description | Quote |
 |:--------|:-------------------------|:------------------------|
@@ -219,9 +233,9 @@ Finally Theme 3 (see [5.4.4](#5.4.4) and summary in [Table 5.7](#table5.8) below
 
 Table: Table 5.7 - **Theme 3 - Fragile Relationships**. Subthemes & Participant Quotes.
 
-### Theme 1: Many Companies are Evasive and People are "Still in the Dark”{#5.4.2}
+### Theme 1: Many Companies are Evasive and People are "Still in the Dark”{#5.5.2}
 
-<a name="5.4.2.1">**A Desire for Awareness and Understanding**</a>
+<a name="5.5.2.1">**A Desire for Awareness and Understanding**</a>
 
 As [Table 5.4](#table-5.4) shows, in the vast majority (62%) of cases, participants wanted to see, know and understand what data was held about them and how it was used. For example, P11 wanted to know what data was collected by train company LNER when he bought tickets, so that he might judge whether it was appropriate:
 
@@ -234,9 +248,9 @@ Beyond the data that participants had directly volunteered [[Table 5.2](#table-5
 Participants were equally unaware of what holders might infer from the data they had collected. P4 wondered if Philips could use data from his smart home lighting to deduce his sleep and TV-watching routines. P7 had received targeted advertisements relating to pregnancy that she felt weird about because she did not understand why she had been targeted in this way.
 P5 raised concern about how data inferences could affect decision making, surmising that the data holder had greater power than him because _'they're making decisions about things and you don't know how they're making those decisions'_. Sharing of personal data is also insufficiently visible to participants; two participants (P3,P4) targeted GDPR requests to credit-check websites (Credit Karma, CheckMyFile) - P4 wanted to get _'a picture of what other companies can currently expose'_.
 
-<a name="5.4.2.2">**Non-Compliance without Consequence**</a>
+<a name="5.5.2.2">**Non-Compliance without Consequence**</a>
 
-As detailed in [5.3.2](#5.3.2), few requests resulted in a timely provision of requested data (44% or 68% depending whether referral to a download portal is excluded or included in the count). Many data holders responded late or not at all; such actions are objectively a breach of legislation. However, participants were broadly unsatisfied even when they did receive a GDPR response. In 100% of cases where data was obtained, it was considered incomplete, and this was usually seen as further failure to comply. Participants had reviewed their GDPR rights in Interview 1 (though, as expected [@rughinis2021], most were already aware), and so several participants saw this apparent non-compliance relative to their understanding of their rights as a poor quality of response, for example:
+As detailed in [5.4.2](#5.4.2), few requests resulted in a timely provision of requested data (44% or 68% depending whether referral to a download portal is excluded or included in the count). Many data holders responded late or not at all; such actions are objectively a breach of legislation. However, participants were broadly unsatisfied even when they did receive a GDPR response. In 100% of cases where data was obtained, it was considered incomplete, and this was usually seen as further failure to comply. Participants had reviewed their GDPR rights in Interview 1 (though, as expected [@rughinis2021], most were already aware), and so several participants saw this apparent non-compliance relative to their understanding of their rights as a poor quality of response, for example:
 
 > _'I feel more concerned now, […] what they've given me seemed reasonable. But then comparing against what we asked them for, what I'm legally [entitled to], it's a fraction.'_—P5
 
@@ -248,9 +262,9 @@ Many participants, reflecting on a feeling of having less power than they had in
 
 > _'It seems like there's a lot of derived data about things like purchases and stuff [that I would expect] that just isn't there. So they're free to not give me the data. That, to me, suggests [that despite GDPR] they retain an awful lot of power.'_–P11
 
-<a name="5.4.2.3">**Inadequate Data Responses**</a>
+<a name="5.5.2.3">**Inadequate Data Responses**</a>
 
-While in some 22% of cases participants did meet their goals through GDPR (see [Table 5.4](#table-5.4)), when it came to the desire for greater awareness and understanding [[5.4.2](#5.4.2.1)], this want was largely unmet. Only volunteered data such as basic personal information or user-generated content was usually returned complete; this was often viewed as mundane and uninteresting, and the focus on these data types in returns was viewed as evasiveness. Facebook, P6 observed, _'give you that kind of descriptive boring data which is mainly all publicly available anyway'_ and had omitted _'the stuff that I would consider valuable to them'_.
+While in some 22% of cases participants did meet their goals through GDPR (see [Table 5.4](#table-5.4)), when it came to the desire for greater awareness and understanding [[5.5.2](#5.5.2.1)], this want was largely unmet. Only volunteered data such as basic personal information or user-generated content was usually returned complete; this was often viewed as mundane and uninteresting, and the focus on these data types in returns was viewed as evasiveness. Facebook, P6 observed, _'give you that kind of descriptive boring data which is mainly all publicly available anyway'_ and had omitted _'the stuff that I would consider valuable to them'_.
 
 In general, the data responses did not provide the answers participants sought. Many reported _'still'_ not knowing what they wanted to find out. P4 said he remained _'in the dark'_ (P4). P7 stated that _'even though I did the process correctly, I still didn't get that much back'_. Concerns held by participants from the outset remained unaddressed, as in P11's case:
 
@@ -267,9 +281,9 @@ _'Some companies make it dead easy to get, but then the data is not massively us
 
 > _'It's kind of disappointing, because I would have hoped that this process would have levelled the user power versus the organisation power in a way that holds them accountable and [it doesn't] seem to be doing that.'_
 
-### Theme 2: People Struggle to Understand, Use and Control Their Data{#5.4.3}
+### Theme 2: People Struggle to Understand, Use and Control Their Data{#5.5.3}
 
-<a name="5.4.3.1">**The Search for Personal Value in Data**</a>
+<a name="5.5.4.1">**The Search for Personal Value in Data**</a>
 
 Prior to receiving data, participants had anticipated discovering insights about their own lives by browsing and reflecting on their personal data, consistent with personal informatics literature [@li2010]. However, there was a comprehension gap between the useful information they imagined and the actual data returned; data was typically delivered as a bundle of technical files, which were hard to understand and often delivered without explanation. Some felt (in line with _effective access_ [[2.1.4](#2.1.4)]) that they lacked the necessary skills or tools to make the data understandable or useable _'for a non-techie person'_ (P11). When the researcher guided P7 to _jsonlint.com_, an online formatter, she found her JSON-formatted data more understandable. P2 made the point that data holders must be using tools themselves to make sense of people's data: _'**They're** not just looking at a JSON file, so I would like to have the same visualisation [as them]_.'
 
@@ -291,7 +305,7 @@ P6 saw the data accumulated by service providers as potentially forming part of 
 
 He described some of his data as _'a kind of personal history that has been quantified and sort of datafied'_.
 
-<a name="5.4.3.2">**Unuseable Data Formats**</a>
+<a name="5.5.4.2">**Unuseable Data Formats**</a>
 
 This personal value that captured data has the potential to offer shows that it is all the more important that participants be able to understand and make use of their data. Our participants found that the format in which data was returned often meant that it was not only difficult to understand, but difficult to use as well. Using data meant different things to different participants, with imagined uses including budgeting, record-keeping/archiving, or using the data for creative or fun purposes. Some participants (e.g. P5) saw value in potentially combining data from multiple sources, though this did not turn out to be practical. Participants did not know what data to expect, and generally imagined returned data being more useful than it turned out to be:
 
@@ -309,9 +323,9 @@ P11 highlighted a problem with his Tesco shopping data that was not just a matte
 
 >_'As a technical person, having a CSV of data is quite useful, potentially, but actually what can I do with that if it's Tesco's internal systems data?'_
 
-On the face of it [this finding](#5.4.3.2) seems to contradict [the previous one](#5.4.3.1)—i.e. demands for both more technical and less technical data might seem contradictory. However, what we can infer is that participants collectively need _both_ useable technical data _and_ easy-to-read information summaries - and that those summaries should cover both the relatable life information encoded within the data _and_ the information _about_ the data, what it means and how to use it. This idea is explored further in [@bowyer2021twopurposes].
+On the face of it [this finding](#5.5.4.2) seems to contradict [the previous one](#5.5.4.1)—i.e. demands for both more technical and less technical data might seem contradictory. However, what we can infer is that participants collectively need _both_ useable technical data _and_ easy-to-read information summaries - and that those summaries should cover both the relatable life information encoded within the data _and_ the information _about_ the data, what it means and how to use it. This idea is explored further in [@bowyer2021twopurposes].
 
-<a name="5.4.3.3">**The Liability of Data You Can't Delete or Control**</a>
+<a name="5.5.4.3">**The Liability of Data You Can't Delete or Control**</a>
 
 Having recognised that potential value of data relating to their lives, before or during this research, several participants were concerned about personal data being held. P10 for example said with reference to dating site Bumble: _'Since I found my partner [and therefore no longer need a dating site] I deleted my account and I've been wondering, "Are they still keeping my data at the back?"'_ and with reference to both Instagram and Bumble, expressed a desire to have her data deleted and expected GDPR to play a role in the enforcement or verification of that deletion, something she could not otherwise be sure of. P8 considered the holding of sensitive data to be a liability that she was only willing to tolerate while she was actively using a service, and this was part of her motivation for targeting Natural Cycles:
 
@@ -333,9 +347,9 @@ _'I guess that's one of my criticisms of GDPR in general - that although I can u
 
 In fact, that legal right does exist through GDPR, but as we can see it was not delivered in practice. What participants want is to feel aware and in control of their data; this must begin with better data legibility and explanations of data use, accompanied by clear pathways to enable data correction or deletion.
 
-### Theme 3: Poor GDPR Handling Can Damage the Forced & Fragile Trust Relationship{#5.4.4}
+### Theme 3: Poor GDPR Handling Can Damage the Forced & Fragile Trust Relationship{#5.5.4}
 
-<a name="5.4.4.1">**Data Holders Enforce an Uneasy Trust**</a>
+<a name="5.5.4.1">**Data Holders Enforce an Uneasy Trust**</a>
 
 The lack of visibility and control over personal data discussed in the previous section, combined with a sense of being in the dark [[5.1](#5.1)] about data practices, caused participants discomfort before, during and after the GPDR process. This stemmed from a sense of finding themselves facing uncertain risks they feel powerless to change. Many participants, discussing their relationships with providers, expressed a range of emotions ranging from curiosity to anxiety and distrust:
 
@@ -367,7 +381,7 @@ Such lack of choice or coercion led to feelings among participants of resignatio
 
 Ultimately, participants felt that their data was _'revealing'_ (P2, P3, P11) a lot of information about them, and so their only real option to maintain their privacy was to prevent data collection in the first place by not using that service at all (P1, P2, P3, P7, P10, P11), and living with the subsequent lack of service capability.
 
-<a name="5.4.4.2">**Perceptions of Data Holders**</a>
+<a name="5.5.4.2">**Perceptions of Data Holders**</a>
 
 The discussion of attitudes towards data holders through this study allows some insights to be drawn as to how data holding service organisations are perceived, particularly with regard to data handling:
 
@@ -383,13 +397,13 @@ As well as these more impression-based influences, it also became clear that par
 
 > _'When I like the company already, I'm more willing to give them my data.'_—P2
 
-<a name="5.4.4.3">**Changed Perspectives Through Scrutiny and Transparency**</a>
+<a name="5.5.4.3">**Changed Perspectives Through Scrutiny and Transparency**</a>
 
 Longitudinal examination of participant's feelings of perceived individual trust and power across their GDPR experience allows the impact of the experience to be analysed. As illustrated in [Figure 5.5](#figure-5) and [5.6](#figure-5.6), trust in data holders tended to diminish through the data request process. Some of this distrust arose from examination of privacy policies, for example in P5's case who commented that Spotify _'shouldn't need to know that much about me, they should just give me music'._ In most cases the most noticeable decline in trust occurred between Interview 2 and 3 (when the participant experienced the GDPR process) or within Interview 3 (where the returned data was examined), showing that both the quality and coverage of the data return, as well as the execution of the data request process, often have a detrimental effect on trust. Individuals' perceived power, however, did not undergo a corresponding change:
 
 > _'They've not given me everything back that I thought they'd be collecting, which makes me trust them less. So power-wise, I don't think [anything]'s changed, but trust, I think it has.'_—P1
 
-The absence or sparsity of derived and acquired data and of metadata around sharing and handling [[5.3](#5.3)] noticeably damaged trust. P1 directly attributed his reduced trust scores to what he saw as non-compliance [[5.4.2](#5.4.2.2)] through failure to return all data categories. P5 lowered her evaluation of trust in Spotify further still upon completion of Interview 3 _'because they didn't say anything about what they're doing with my data or where it's going'_. P8's trust score Natural Cycles was similarly reduced _'because I think it's hard to get any sensitive data, and it's not really made clear what they're using it for'_.
+The absence or sparsity of derived and acquired data and of metadata around sharing and handling [[5.4](#5.4)] noticeably damaged trust. P1 directly attributed his reduced trust scores to what he saw as non-compliance [[5.5.2](#5.5.2.2)] through failure to return all data categories. P5 lowered her evaluation of trust in Spotify further still upon completion of Interview 3 _'because they didn't say anything about what they're doing with my data or where it's going'_. P8's trust score Natural Cycles was similarly reduced _'because I think it's hard to get any sensitive data, and it's not really made clear what they're using it for'_.
 
 It is also clear that poor GDPR handling in itself can damage trust, independently of the data returned. P2 reduced his trust score for AirBNB _'because of the way they've handled [the data request], and the way they've made it hard for me to read the data'_.  Similarly, P7 downgraded her score for LinkedIn _'because I feel like they have my data and [they've] not bothered to find my data, and that makes me feel like I shouldn't trust them quite as much'_.
 
@@ -409,12 +423,12 @@ In a small number of cases, this was witness in practice, with a good GDPR respo
 
 In these comments, we can see an indication that, although the data requests often did not live up to the hopes of the participants, positively engaging with the process was influential and did affect participants' outlook. In particular, close attention was paid to the willingness of companies to be transparent and forthcoming, with GDPR representing an opportunity to test organisations on their data practices and assess their integrity and competence as holders of their data.
 
-Discussion{#5.5}
+Discussion{#5.6}
 ----------
 
-This study examined the GDPR's effectiveness in improving individuals' access and control over their personal data. The participants' experiences support the existence of a power imbalance over data [[2.1](#2.1)] and suggest GDPR largely fails to empower individuals: both objectively (to the extent possible by this limited sample), in that most companies do not comply fully (either by returning insufficient and inadequate data, or by failing to return data on time or at all), and subjectively, in that returned data was often difficult to understand, impractical for use, and raised new questions and concerns. The findings also indicate that swift, transparent, and easy-to-use GDPR procedures can positively impact an individual's perception of an organisation. In light of these findings, this discussion offers insights on how the personal data landscape might be redesigned through policy [[5.5.1](#5.5.1)] and business practice [[5.5.2](#5.5.2)], and how individual action can have important impact too [[5.5.3](#5.5.3)]—all in pursuit of the human-centric empowerment goals described in [5.1](#5.1), [2.2](#2.2) and [2.3](#2.3)).
+This study examined the GDPR's effectiveness in improving individuals' access and control over their personal data. The participants' experiences support the existence of a power imbalance over data [[2.1](#2.1)] and suggest GDPR largely fails to empower individuals: both objectively (to the extent possible by this limited sample), in that most companies do not comply fully (either by returning insufficient and inadequate data, or by failing to return data on time or at all), and subjectively, in that returned data was often difficult to understand, impractical for use, and raised new questions and concerns. The findings also indicate that swift, transparent, and easy-to-use GDPR procedures can positively impact an individual's perception of an organisation. In light of these findings, this discussion offers insights on how the personal data landscape might be redesigned through policy [[5.6.1](#5.6.1)] and business practice [[5.6.2](#5.6.2)], and how individual action can have important impact too [[5.6.3](#5.6.3)]—all in pursuit of the human-centric empowerment goals described in [5.1](#5.1), [2.2](#2.2) and [2.3](#2.3)).
 
-### Implications for Policymakers {#5.5.1}
+### Implications for Policymakers {#5.6.1}
 
 **Compliance, Quality and Ongoing Access**
 
@@ -422,11 +436,11 @@ Despite significant and obvious GDPR-motivated investment by service providers i
 
 **1) Better Compliance Through Enforcement of Complaints.** At present, enforcement of the GDPR is uneven; each country has its own DPA (for example in the UK, this is the Information Commissioner's Office or ICO) and complaints are rarely pursued for individual cases. Instead, cases are processed by specific DPAs in a form similar to a class action lawsuit. This means that individuals have little impact when they do raise a complaint, and many GDPR complaints "become lost or resulted in lengthy delay" [@burgess2021], or may even be erroneously dropped [@lomas2020]. Until individuals have a clear and effective means to issue complaints [@baker2018] that result in enforcement action (or a clear threat of it), it is likely that individuals will continue to have little recourse other than to repeat the request and hope similarly dissatisfied individuals will act on their behalf. Data holders must be held to account when they do not deliver the full set of data that they report possessing, or when they fail to do so within the legally obligated time frame.
 
-**2) Policies to Enforce Better Quality Responses.** Many participants received data in frustrating formats, including screenshots, printouts or files that were too technical or littered with acronyms. Data was provided in formats too technical to understand, or not technical enough to be useable [[5.4.3](#5.4.3.1)], showing a demand for both human-readable information summaries and machine-readable data files, where most providers typically provide only one or the other. Policymakers could provide suggested data formats or even propose new standards; this would help data portability, improve effectiveness [@gurstein2011] and legibility [@mortier2014], can reduce costs through common tooling and catalyse the building of tools to interpret and understand data. Such standards are emerging [@morgan2020] as they are a technological necessity for data unification, but lack adoption. We note that the European Data Protection Board has published new guidelines [@edpb2022guidelines] that could help somewhat to improve GDPR responses, though these do not offer new standards, and will not be as effective as legally-mandated policy changes.
+**2) Policies to Enforce Better Quality Responses.** Many participants received data in frustrating formats, including screenshots, printouts or files that were too technical or littered with acronyms. Data was provided in formats too technical to understand, or not technical enough to be useable [[5.5.3](#5.5.4.1)], showing a demand for both human-readable information summaries and machine-readable data files, where most providers typically provide only one or the other. Policymakers could provide suggested data formats or even propose new standards; this would help data portability, improve effectiveness [@gurstein2011] and legibility [@mortier2014], can reduce costs through common tooling and catalyse the building of tools to interpret and understand data. Such standards are emerging [@morgan2020] as they are a technological necessity for data unification, but lack adoption. We note that the European Data Protection Board has published new guidelines [@edpb2022guidelines] that could help somewhat to improve GDPR responses, though these do not offer new standards, and will not be as effective as legally-mandated policy changes.
 
 **3) Policies to Enforce Data Access as Ongoing Support, not One-Time Delivery.** A radical redesign of policy is needed to give people the practical outcomes they desire and, according to the GDPR itself, deserve. Data access needs to be seen as more than the one-off delivery of data files. People need understanding of their data and of its handling. Not only that, they need a timely, up-to-date and ongoing view of the changing picture of how they are seen in data, and the occasional 'snapshots' with a 30-day delay that GDPR delivers can never deliver this. Giving people an ongoing awareness and understanding of their data is the measure by which compliance should be assessed. The explanations GDPR mandates are not forthcoming; of the 119 hopes expressed by participants (see [Table 5.4](#table-5.4)), 70 (59%) related to acquiring greater understanding of data practices. 38 (54%) of these were unmet, and a further 15 (21%) were only partially met. By mandating data holders to support individuals with not just the delivery of data, but assistance to understand (and potentially make use of) that data, policies could become more impactful, not least because such understanding is critical to inform judgements around consent, loyalty and compliance.
 
-### Implications for Data Holders{#5.5.2}
+### Implications for Data Holders{#5.6.2}
 
 **Earn Trust by Opening Up Data and Enabling Users**
 
@@ -440,13 +454,13 @@ In 52% of cases, following the process of examining privacy policies and engagin
 
 **3)	New customer demands indicate untapped business opportunities.** As the 500-member-strong _MyData Global_ organization [@mydata2018; [2.3.4](#2.3.4)] shows, there is growing demand for personal data empowerment. People's personal data is splintered and trapped [@abiteboul2015; @bowyer2018freedata], and they cannot correlate data from different sources in order to reflect upon it, gain insights, and set goals [@li2010]. Due to commercial motivations, service providers generally deliver capabilities within a closed silo, not at the level of one's wider environment [@abowd2012]. To be better empowered the individual could be the point of integration, the centre of their own Personal Data Ecosystem (PDE) [@mydata2017declaration]. Life-level capabilities [@bowyer2021twopurposes] and the opportunities that well-designed and well-regulated GDPR-type regulations promise in this regard have not yet been exploited. Thorough, complete and timely data access in standard formats, as mentioned above, will be critical to enabling this vision. As discussed further in [9.3](#9.3), growing companies such as CitizenMe [@citizenme2021], digi.me [@digime2021], Mydex [@mydex2010], ethi [@ethi2021], HestiaLabs [@hestialabs2021], udaptor [@udaptor2021] and exist.io [@existio2021] as well as larger organisations like BBC R&D [@bbcrd2017] and Microsoft [@microsoft2021bali] are already starting to innovate in this space.
 
-### Implications for Individuals{#5.5.3}
+### Implications for Individuals{#5.6.3}
 
 **Becoming Aware of the Value and Power of Data, and Demanding More**
 
 While participants experienced disappointment and frustration in their GDPR journeys, all participants gained new understandings; if not always of their data itself, at least of their target companies' approach to data access requests. This new knowledge was sufficient to re-affirm or challenge existing attitudes or inform judgements—P1, for example, left Facebook soon after the study. Even an attempt to access data can be educational, and even a cursory look at a provider's 'What data do we collect' privacy policy section can provide pause for thought.
 
-Today, individuals remain largely in the dark about the collection, use and sharing of their data through a combination of perceived complexity and effort combined with a lack of clear benefits. [Table 5.4](#table-5.4), alongside the increased control and insight promised by the PDE movement and platforms linked in [5.5.1](#5.5.1) and [5.5.2](#5.5.2) above, provide a glimpse of what the future may hold: a world where individuals take more control of their data and gain actionable self-insights. Three key messages for individuals can be inferred:
+Today, individuals remain largely in the dark about the collection, use and sharing of their data through a combination of perceived complexity and effort combined with a lack of clear benefits. [Table 5.4](#table-5.4), alongside the increased control and insight promised by the PDE movement and platforms linked in [5.6.1](#5.6.1) and [5.6.2](#5.6.2) above, provide a glimpse of what the future may hold: a world where individuals take more control of their data and gain actionable self-insights. Three key messages for individuals can be inferred:
 
 **1) Your data is used to represent you and define your user experience.** We hand over our data in exchange for access to services, but providers then use it (usually in aggregate) e.g. to inform product design or decide what content we see. This 'innocent' handover of data is in fact giving providers the means by which we are treated and – at times – controlled. Recognizing the crucial role of data (and our limited influence over it) is the first step to pursuing greater agency and control.
 
@@ -454,7 +468,7 @@ Today, individuals remain largely in the dark about the collection, use and shar
 
 **3) Self-education and awareness enable accountability and informed choices.** The findings highlight a lack of knowledge. Transparency is critical to judging 'to what extent the bargain is fair' [@larsson2018]. It is not always delivered, but GDPR makes it your right; a right that cannot be fully refused. Through challenging poor GDPR responses and demanding better information, individuals can have impact. Providers are ultimately motivated by public demand—one of the reasons download dashboards exist. Through the public pressure of negative attention, companies can be motivated to improve data access [@dehaye2018]. With patience, GDPR rights can be exploited to force small changes.
 
-Summation of Case Study Two{#5.6}
+Summation of Case Study Two{#5.7}
 ---------------------------
 
 <span class="editnote">add forward refs to limitations?</span>
@@ -463,13 +477,13 @@ Summation of Case Study Two{#5.6}
 
 Through a longitudinal study of 10 participants lasting three months, this case study has qualitatively, and to a lesser extent quantitatively, evaluated the human experience of using one's GDPR access rights and of living with data-centric service provider relationships.
 
-The findings, while not statistically representative, suggest that people currently lack awareness of held data and its uses by service providers. By guiding participants on a journey of discovery and careful scrutiny, encouraging them to draw their own conclusions about service providers on the basis of companies' own promises, individuals' legal rights, and participants' own hopes (see [Table 5.4](#table-5.4)), this research has shown that such a journey can be educational and enlightening with regard to increasing awareness, but also can seriously damage brand loyalty and trust in providers if comprehensive and well-explained data is not returned in a supportive and open manner [[5.4.4](#5.4.4)].
+The findings, while not statistically representative, suggest that people currently lack awareness of held data and its uses by service providers. By guiding participants on a journey of discovery and careful scrutiny, encouraging them to draw their own conclusions about service providers on the basis of companies' own promises, individuals' legal rights, and participants' own hopes (see [Table 5.4](#table-5.4)), this research has shown that such a journey can be educational and enlightening with regard to increasing awareness, but also can seriously damage brand loyalty and trust in providers if comprehensive and well-explained data is not returned in a supportive and open manner [[5.5.4](#5.5.4)].
 
-The experience of GDPR seems to be an unsatisfactory one for individuals; participants were generally still _'in the dark'_. Serious problems with compliance have been highlighted [[5.4.2](#5.4.2.2)]: Participants received data that was incomplete, impractical for use, and they failed to acquire desired explanations. By its own aim to enhance individuals' rights and control, the GDPR does not succeed. Participants continued to feel a lack of agency and choice, were largely unable to pursue goals such as data checking, correction or deletion, and their perceived sense of power within the provider relationship was largely unchanged by the experience. Nor does the GDPR allow individuals to adequately pursue their own goals related to accountability, self-reflection or creative data exploration [[5.4.3](#5.4.3.3)]. Individuals cannot be given power over their data through designing better Human-Data Interaction interfaces alone, but only through redesigned policies and business strategies that consider the sociotechnical context [@baxter2011; @bowyer2021twopurposes].
+The experience of GDPR seems to be an unsatisfactory one for individuals; participants were generally still _'in the dark'_. Serious problems with compliance have been highlighted [[5.5.2](#5.5.2.2)]: Participants received data that was incomplete, impractical for use, and they failed to acquire desired explanations. By its own aim to enhance individuals' rights and control, the GDPR does not succeed. Participants continued to feel a lack of agency and choice, were largely unable to pursue goals such as data checking, correction or deletion, and their perceived sense of power within the provider relationship was largely unchanged by the experience. Nor does the GDPR allow individuals to adequately pursue their own goals related to accountability, self-reflection or creative data exploration [[5.5.3](#5.5.4.3)]. Individuals cannot be given power over their data through designing better Human-Data Interaction interfaces alone, but only through redesigned policies and business strategies that consider the sociotechnical context [@baxter2011; @bowyer2021twopurposes].
 
-In order to bring the human-centric 'personal data ecosystem' concept closer to reality, action must be taken to improve both compliance and quality of GDPR responses. Considering these findings, there is cause for radical policy reform, to move away from 'data access as package delivery' and to provide individuals a more effective and ongoing two-way window into their data [[5.5.1](#5.5.1)], providing ongoing awareness, accountability, and negotiability. Data needs to be expressed to individuals in ways they can understand, as little to no practical impact is currently being achieved by delivery of a one-time snapshot of some technical files; in fact, we have shown such responses can be harmful to customers' perceptions of the data holder in many cases.
+In order to bring the human-centric 'personal data ecosystem' concept closer to reality, action must be taken to improve both compliance and quality of GDPR responses. Considering these findings, there is cause for radical policy reform, to move away from 'data access as package delivery' and to provide individuals a more effective and ongoing two-way window into their data [[5.6.1](#5.6.1)], providing ongoing awareness, accountability, and negotiability. Data needs to be expressed to individuals in ways they can understand, as little to no practical impact is currently being achieved by delivery of a one-time snapshot of some technical files; in fact, we have shown such responses can be harmful to customers' perceptions of the data holder in many cases.
 
-For providers, the risk of reputational damage uncovered by this study should motivate them to engage meaningfully with data access requests; but such risk can be averted by redesigning both interfaces and processes to approach data access experiences as an opportunity to educate, and to build trust and loyalty, perhaps even through establishing progressive co-operative data stewardship relationships that truly _involve_ the service user [[5.5.2](#5.5.2)]. While the GDPR experience is often disappointing and frustrating, it can provide insights that help individuals to challenge their assumptions, re-evaluate choices, and in some rare cases, feel empowered to act upon their data. Wider assertion of GDPR rights could demonstrate a desire for data holders to be transparent; without such visible demand, little may change [[5.5.3](#5.5.3)].
+For providers, the risk of reputational damage uncovered by this study should motivate them to engage meaningfully with data access requests; but such risk can be averted by redesigning both interfaces and processes to approach data access experiences as an opportunity to educate, and to build trust and loyalty, perhaps even through establishing progressive co-operative data stewardship relationships that truly _involve_ the service user [[5.6.2](#5.6.2)]. While the GDPR experience is often disappointing and frustrating, it can provide insights that help individuals to challenge their assumptions, re-evaluate choices, and in some rare cases, feel empowered to act upon their data. Wider assertion of GDPR rights could demonstrate a desire for data holders to be transparent; without such visible demand, little may change [[5.6.3](#5.6.3)].
 
 Considering RQ1 [[3.3.1](#RQ1)] (the pursuit of a deeper understanding of people's attitudes to everyday data holding and people's wants from that data), this work suggests that people struggle to develop the meaningful relationship with their data that they desire because of the difficulties faced in seeing, accessing and understanding it. They are aware that within data is the potential for value to themselves, but cannot access that value, which in turn causes feelings of resignation, concern, distrust or suspicion towards data holders. What they seek most are two things: sufficient understanding to better judge the value exchange they have signed up for with providers (see goals in top half of [Table 5.4](#table-5.4)), and good quality insights from data that would allow them to understand themselves better, learn from the past, set personal goals, and harness personal data for their individual benefit (see goals in lower half of [Table 5.4](#table-5.4)). This duality of needs around data interaction is expanded upon in [@bowyer2021twopurposes].
 
