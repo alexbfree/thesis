@@ -89,8 +89,7 @@ Overview of Activities for this Context{#5.2}
 
 As mentioned in the [introduction to Section II](#section-ii-research-contexts), a core motivation for this thesis was to conduct research into the power imbalance around personal data from the _everyday life_ perspective–to explore our relationship with and through the data that we hold, use or live with as we go about our lives, online and in person. This power imbalance seems to touch everyone, and therefore for my second research context I chose not to focus on a particular community or group but to look at these problems at the level of ordinary day-to-day digital life. In 2018, during this PhD, the European Union's GDPR regulations came into force, enabling people to obtain copies of their own data. This provided a means by which to examine any individual's data-driven service provider relationships (including my own), as data access requests could be executed which would return copies of held data that could be examined (in my own case) or used as stimulus for discussion (in participants' cases); the core everyday digital life context could now be researched in a grounded way.
 
-To serve research in this context, I carried out formative research activities [[5.2.1](#5.2.1)] between 2016 and 2019, leading to a major participatory study [[5.2.2](#5.2.2)] which ran from December 2019 to June 2020. After the participatory study concluded, I continued to make my own GDPR requests throughout the period of this PhD running up to submission in late 2022, both as researcher sensitisation for the thesis, and also in the context of my embedded project work with BBC R&D and with Hestia.ai [see [Section IV Introduction](#section-iv-embedded-project-settings)], which also contributed to insights presented in Section IV and V.
-
+To serve research in this context, I carried out formative research activities [[5.2.1](#5.2.1)] between 2016 and 2019, leading to a major participatory study [[5.2.2](#5.2.2)] which ran from December 2019 to June 2020. After the participatory study concluded, I continued to make my own GDPR requests throughout the period of this PhD running up to submission in late 2022, both as researcher sensitisation for the thesis, and also in the context of my embedded project work with BBC R&D and with Hestia.ai [see [Section IV Introduction](#section-iv-embedded-project-settings)], which also contributed to insights presented in Sections IV and V.
 
 ### Formative Research in Personal Data and Digital Life{#5.2.1}
 
@@ -98,7 +97,7 @@ In late 2016, during the MRes programme, I conducted qualitative research in ord
 
 Then, from November 2017 to February 2018, In order to dig deeper into data attitudes and trial methodological approaches, I conducted 5 two-hour interviews with individuals about their digital lives, looking at how they mentally segment their lives, and the roles and functions of different technologies, and especially of data, across those different parts of their lives. I began to explore participants' perceptions of their relationships with service providers, identifying potential disempowerment or pain points. The interviews were conducted using the Sketching Dialogue [@hwang2021] technique, which uses collaborative sketches as a basis for a semi-structured interview. A light analysis of the recordings and data was carried out. This trial investigation helped to inform the main study, both in study design and in interpretation, but findings were not formally documented or published.
 
-To sensitise myself as researcher within this context it was vital to become well-versed in the GDPR. Since 2018, I have practiced obtaining my own data from companies and organisations in my life. This has entailed making over 70 GDPR requests to a variety of organisations including retailers, device manufacturers, online service providers, local and health authorities, banks and leisure services. Additionally, I have experimented with self-service download dashboards and third-party 'get my data' tools. In some cases, I have engaged providers in communication to try and get better data or ask questions about my data. These activities have provided multiple benefits:
+To sensitise myself as researcher within this context, it was vital to become well-versed in the GDPR. Since 2018, I have practiced obtaining my own data from companies and organisations in my life. This has entailed making over 70 GDPR requests to a variety of organisations including retailers, device manufacturers, online service providers, local and health authorities, banks and leisure services. Additionally, I have experimented with self-service download dashboards and third-party 'get my data' tools. In some cases, I have engaged providers in communication to try and get better data or ask questions about my data. These activities have provided multiple benefits:
 
 - they have enabled me develop a detailed understanding of what actual stored personal data looks like [[Figure 3.7](#figure-3.7)];
 - they have given me an awareness of the evolving response to GDPR from data-holding organisations and an understanding of the limits of what is and is not possible with GDPR.
@@ -106,13 +105,13 @@ To sensitise myself as researcher within this context it was vital to become wel
 
 ### Case Study Two: The Human Experience of GDPR{#5.2.2}
 
-The major study for this context was to guide participants through the process of GDPR and retrieving their own personal data, to enable a conversation that included not only attitudes to personal data and the use of data within service relationships, but discussion of how those attitudes were changed by the experience as it happened and how well expectations and hopes were met by the process. Similarly to the approach [[4.2.3](#4.2.3)] used in designing Case Study One, the general methodological elements described in [3.4](#3.4) informed the design of a five-stage approach, working with participants on an individual basis to obtain and subsequently review their own personal data, which would become the stimulus for discussion [[3.4.2](#3.4.2)]:
+The major study for this context was to guide participants through the process of GDPR and retrieving their own personal data, to enable a conversation that included not only attitudes to personal data and the use of data within service relationships, but discussion of how those attitudes were changed by the experience as it happened and how well expectations and hopes were met by the process. Similarly to the approach [[4.2.3](#4.2.3)] used in designing Case Study One, the general methodological elements described in [3.4](#3.4) informed the study design. I planned to work with participants on an individual basis to help them obtain and subsequently review their own personal data, which would become the stimulus for discussion [[3.4.2](#3.4.2)]. This would be done in five stages:
 
 1. Sensitisation using wall posters about data holding organisations, types of personal data, GDPR rights and possible uses for your retrieved data [[Figure 3.4](#figure-3.4); [3.4.1](#3.4.1)];
 2. A life mapping exercise, using the _Sketching Dialogue_ [@hwang2021] technique, enabling target companies to be selected for GDPR [[Figure 5.2](#figure-5.2); [5.2.1](#5.2.1)];
-3. A discussion and guided walkthrough of the target organisations' privacy policies, in particular their stated data collection practices [[3.4.2](#3.4.2)];
-4. Guidance and support in making and seeing to conclusion a GDPR request to each of target organisation; and
-5. An individual interview where the participant would be guided through the reviewing their data and be asked about their experiences and reactions to the data and the GDPR process [[3.4.2](#3.4.2)].
+3. A discussion and guided walkthrough of the target organisations' privacy policies, in particular their stated data collection and usage practices [[3.4.2](#3.4.2)];
+4. Guidance and support in making and seeing to conclusion a GDPR request from the individual to each target organisation; and
+5. An individual interview where the participant would be guided through reviewing their data and be asked about their experiences and reactions to the data and the GDPR process [[3.4.2](#3.4.2)].
 
 Through these stages the objectives were to understand how people view the data that exists about them as they go about their everyday life and what they would ideally want from it (in service of RQ1 [[3.3.1](#RQ1)]), as well as what role data plays in their relationships with companies and other data-holding organisations in their lives, and what they would ideally want from those relationships with respect to data (in service of RQ2 [[3.3.2](#RQ2)]).
 
@@ -121,28 +120,96 @@ All interviews would be recorded, transcribed and analysed to produced both qual
 Methodology for the Case Study Interviews{#5.3}
 -----------------------------------------
 
-<span class="editnote">Review this and check for overlap with previous and check flow in and out. ensure scraps from last section included.</span>
-
-31 qualitative interviews were conducted, with a convenience sample of 11 individuals from a population of researchers and students at (or connected with) Newcastle University, aged 20-40 years; identifying as 5 females and 6 males. Participants were not data experts (only 1 had previously made a GDPR request), but were computer-literate, educated to degree level, and used to reflecting critically on their own behaviours and opinions. Participants were compensated for their time with Amazon vouchers worth £20.
+Between December 2019 and April 2020, 31 qualitative interviews were conducted, with a convenience sample of 11 individuals from a population of researchers and students at (or connected with) Newcastle University, aged 20-40 years and identifying as 5 females and 6 males. Participants were not data experts (only 1 had previously made a GDPR request), but were computer-literate, educated to degree level, and used to reflecting critically on their own behaviours and opinions. Participants were compensated for their time with Amazon vouchers worth £20.
 
 ![Figure 5.1: A Journey Map of Each Participant's Study Progression](./src/figs/fig5.1-gdpr-interview-flow.png){#figure-5.1}
 
-Each participant's journey progressed at its own pace [[Figure 5.1](#figure-5.1)] with participants invited to three separate 1-on-1 interviews between December 2019 and April 2020. The scope and purpose of each interview was as follows:
+Each participant's journey progressed at its own pace [[Figure 5.1](#figure-5.1)] with participants invited to three separate 1-on-1 interviews totalling 4 to 5 hours each, over a period of around three months. The scope and purpose of each interview was as follows:
 
-1.	**Interview 1: Sensitisation, Life Exploration and Company Selection** [1 hour, in person]. Participants were sensitised to the research context using an interactive tour of a poster display on the topics of GDPR rights, potential data-holding organisations, potential types of data and potential uses for GDPR-obtained data. Baseline data was collected on participants' hopes and motivations, their current understanding of personal data, data access, data control, and power as it relates to data. Using a sketch interviewing [@hwang2021] technique, participants mapped out their 'data lives' (e.g. [Figure 5.2](#figure-5.2)), annotating key organisations that they have relationships with, types of data those companies might hold, and feelings about such data use and storage by each holder. Each participant selected 3-5 candidate companies to target with GDPR requests.
+1.	**Interview 1: Sensitisation, Life Exploration and Company Selection** [1 hour, in person]. The participant was sensitised to the research context using an interactive tour of a poster display on the topics of GDPR rights, potential data-holding organisations, potential types of data and potential uses for GDPR-obtained data. Baseline data was collected on the participant's hopes and motivations, their current understanding of personal data, data access, data control, and power as it relates to data. Using a sketch interviewing [@hwang2021] technique, the participant mapped out their 'data life' (e.g. [Figure 5.2](#figure-5.2)), annotating key organisations that they have relationships with, types of data those companies might hold, and feelings about such data use and storage by each holder. The participant then selected 3-5 candidate companies to target with GDPR requests.
 
-2.	**Interview 2: Privacy Policy Reviewing, Goal Setting and GDPR Request Initiation** [1 hour, in person]. To stimulate reflective thinking and measure impacts, participants were asked to discuss and score their initial feelings of trust and power with each company. Participants then viewed key sections of privacy policies on a screen with the researcher, to identify each company's statements on collection and use of personal data. Participants then initiated an email GDPR request for each company, which had been prepared using a tried-and-tested template generated by personaldata.io [@personaldataio2021wiki]. Interview 2 took place in person, except for P10 & P11 whose interviews took place over Zoom due to the COVID-19 pandemic.
+2.	**Interview 2: Privacy Policy Reviewing, Goal Setting and GDPR Request Initiation** [1 hour, in person]. To stimulate reflective thinking and measure impacts, the participant was asked to discuss and score their initial feelings of trust and power with each company. They then viewed key sections of privacy policies on a screen with the researcher, to identify each company's statements on collection and use of personal data. The participant then initiated an email GDPR request for each company, which had been prepared for them using a tried-and-tested template generated by personaldata.io [@personaldataio2021wiki]. Interview 2 took place in person, except for P10 & P11 whose interviews took place over Zoom, due to face-to-face meetings not being possible during the COVID-19 pandemic.
 
-3.	**Interview 3: Detailed GDPR Response Review** [2 hours, online video call] Having allowed sufficient time for GDPR requests to conclude (there is a legal duty to reply within 30 days), a deep dive into the specifics of each GDPR experience took place. Participants' personal data was not collected by the researcher, only described verbally by the participant; screen sharing was used to show excerpts to the researcher where the participant wished to do so. Participants were asked a structured set of questions about the completeness and value of any data returned, as well as to provide new evaluations of trust and power, whether their hopes had been met, and any general feelings about the experience. Answers were recorded in a screen-shared spreadsheet, which was also used to structure the discussion (for a sample see the supplemental materials of [@bowyer2022gdpr]).
+3.	**Interview 3: Detailed GDPR Response Review** [2 hours, online video call] Having allowed sufficient time for GDPR requests to conclude (there is a legal duty to reply within 30 days), a deep dive into the specifics of each GDPR experience took place. The participant's personal data was not collected by the researcher, only described verbally by the participant; screen sharing was used to show excerpts to the researcher where the participant wished to do so. The participant was asked a structured set of questions about the completeness and value of any data returned, as well as to provide new evaluations of trust and power, whether their hopes had been met, and any general feelings about the experience. Answers were recorded in a screen-shared spreadsheet, which was also used to structure the discussion (for a sample, see the supplemental materials of [@bowyer2022gdpr]).
 
 ![Figure 5.2: An Example Life Sketch from Interview 1, with Data Handling Companies in Red, Data Types in Blue, and Feelings in Green](./src/figs/fig5.2-sketch-interview.png){#figure-5.2}
 
-Interviews were audio and video recorded, then auto-transcribed using Google Recorder/Zoom, producing a 370,000-word corpus. Transcripts were split up and recombined across participants into six topic areas–digital life, company-specific discussions, general discussions, power, trust, and hopes/goals. These transcript topics were then analysed through reductive coding cycles to produce thematic findings [[5.5](#5.5)]. Quantitative data from interview spreadsheets was also summarised and analysed [[5.4](#5.4)]. Sketches, recordings, screenshots and field notes were referenced throughout thematic analysis to aid interpretation of the transcripts. The processes described here are further detailed in [ARI5.1](#ari-gdpr-data-analysis).
+All 31 interviews were audio and video recorded, then auto-transcribed using Google Recorder/Zoom, producing a 370,000-word corpus. Transcripts were split up and recombined across all participants into six topic areas–digital life, company-specific discussions, general discussions, power, trust, and hopes/goals. These transcript topics were then analysed through reductive coding cycles to produce thematic findings [[5.5](#5.5)]. Quantitative data from interview spreadsheets was also summarised and analysed [[5.4](#5.4)]. Sketches, recordings, screenshots and field notes were referenced throughout thematic analysis to aid interpretation of the transcripts. The processes described here are further detailed in [ARI5.1](#ari-gdpr-data-analysis).
 
-<span class="editnote">Takeaway, need to go into a bit more detail in C5 about how we looked at data together (expand it to not just be paper-level summary). Notes: More detail on sensemaking in Chapter 5. In chapter 5, provide a few sentences in your methods to describe how the data that were received by GDPR requests were further explored / made sense from your participants. E.g. as you say in your thesis, your participants received their data in various forms and formats. How was the process of interview to allow them to reflect and understand their data? What were participants asked to do with that data after they received them?</span>
+Interviews included the following questions, steps and areas of exploration:
+
+Interview 1 (Sensitisation, Life Exploration and Company Selection):
+
+1. Researcher explains, using posters, different types of companies, types of data, GDPR rights, and possible data uses, while participant asks questions and shares opinions.
+2. What is your motivation for taking part?
+3. What do you understand by, or how would you define, each of the following terms?
+  - a) personal data;
+  - b) access to data;
+  - c) control of data; and
+  - d) power (as it relates to data).
+4. Sketch (in black) and explain the different parts of your life.
+5. Label your sketch (in red) to name companies that have data in each area of life.
+6. Label your sketch (in blue) with types of data each company might have.
+7. Label your sketch (in green) to show your feelings about combinations of company/type of data/area of life.
+8. Select the 3 to 6 companies you are most interested in requesting.
+9. Review each target company and consider:
+  - Who has the power (you or them)? Provide a score for where the power lies with respect to data (-5 = fully with them, 0 = balanced, +5 = with you)
+  - How much do you trust the company? Provide a score for how much you trust the company (from 0 to 10)
+  - What things do you hope to find out?
+  - What things could you do with that data?
+
+Interview 2 (Privacy Policy Reviewing, Goal Setting and GDPR Request Initiation):
+
+1. For each target company:
+  - a) provide a current score for how much you trust the company.
+  - b) provide a current score for where the power lies with respect to data.
+  - c) researcher presents and explains key information from the privacy policy (prepared in between interviews)
+  - d) discussion about privacy policy: researcher answers questions and collects participant viewpoints.
+  - e) having reviewed and discussed the privacy policy, revisit and, if desired, update your trust score.
+  - f) having reviewed and discussed the privacy policy, revisit and, if desired, update your power score.
+  - g) Researcher provides participant with a generated GDPR request e-mail to send to the target company.
+
+Interview 3 (Detailed GDPR Response Review):
+
+1. For each target company, provide a current score for how much you trust the company.
+2. For each target company, provide a current score for where the power lies with respect to data.
+3. For each company:
+   - a) describe (or optionally show via screen-share) returned data to the researcher
+   - b) answer detailed questions (where possible/applicable) around each of the five types of data (volunteered, observed, derived, acquired, and metadata) [[Table 5.2](#table-5.2)]:
+     - i) Is the data complete?
+     - ii) Is it accurate?
+     - iii) Is it understandable?
+     - iv) Is it meaningful?
+     - v) Is it useable?
+     - vi) Is it useful?
+     - vii) How do you feel about this kind of data w.r.t. this company?
+     - viii) For each subtype of data here (e.g. location data, web history data, address data, financial data, etc.):
+       - has it been provided?
+       - is it (or would it be) valuable to you?
+  - c) In general, for your GDPR interaction with each company,
+    - i) Was there anything surprising?
+    - ii) Are there any causes for concern?
+    - iii) what benefit, if any, have you got from doing this?
+    - iv) What one thing would you do differently in the future?
+    - v) Any other comments?
+  - d) Having reviewed and discussed the response and any returned data from this company, revisit and, if desired, update your previous trust score for said company.
+  - e) Having reviewed and discussed the response and any returned data from this company, revisit and, if desired, update your power score for said company.
+4. Across all companies targeted, for each of your previously stated general hopes:
+  - a) how well has it been met?
+  - b) how do you feel about this?
+5. Across all companies targeted, for each of your previously stated specific desired data uses:
+  - a) is this now possible?
+  - b) is this now practical for you to do?
+6. Across all companies and GDPR requests made:
+  - How do you now feel about your data being stored by organisations?
+  - What would you like to do next regarding these companies and your data (if anything)?
+  - How has the experience of GDPR been for you?
+7. How has the experience of this study been for you?
 
 GDPR Request Outcomes{#5.4}
 ---------------------
+
+In this section, a largely numerical summary and quantitative analysis of the interview data is presented, before qualitiative findings are presented in [5.5](#5.5).
 
 ### Interview 1: GDPR Target Selection{#5.4.1}
 
