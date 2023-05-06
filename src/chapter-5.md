@@ -92,15 +92,36 @@ As mentioned in the [introduction to Section II](#section-ii-research-contexts),
 To serve research in this context, I carried out formative research activities [[5.2.1](#5.2.1)] between 2016 and 2019, leading to a major participatory study [[5.2.2](#5.2.2)] which ran from December 2019 to June 2020. After the participatory study concluded, I continued to make my own GDPR requests throughout the period of this PhD running up to submission in late 2022, both as researcher sensitisation for the thesis, and also in the context of my embedded project work with BBC R&D and with Hestia.ai [see [Section IV Introduction](#section-iv-embedded-project-settings)], which also contributed to insights presented in Section IV and V.
 
 
+### Formative Research in Personal Data and Digital Life{#5.2.1}
 
-XXXXX ADD DETAILS HERE
+In late 2016, during the MRes programme, I conducted qualitative research in order to validate my own prior perspectives on useability<sup>[11](#fn11)</sup> and to explore attitudes to everyday technology use. I interviewed three participants about smartphone use, with particular attention to perceived usefulness or barriers. I sought to understand what motivates people as users of technology, an important consideration when looking at disempowerment. Findings from this pilot [@bowyer2016] contribute to some of the interpretations expressed through [Chapter 5](#chapter-5) and [Chapter 7](#chapter-7).
 
+Then, from November 2017 to February 2018, In order to dig deeper into data attitudes and trial methodological approaches, I conducted 5 two-hour interviews with individuals about their digital lives, looking at how they mentally segment their lives, and the roles and functions of different technologies, and especially of data, across those different parts of their lives. I began to explore participants' perceptions of their relationships with service providers, identifying potential disempowerment or pain points. The interviews were conducted using the Sketching Dialogue [@hwang2021] technique, which uses collaborative sketches as a basis for a semi-structured interview. A light analysis of the recordings and data was carried out. This trial investigation helped to inform the main study, both in study design and in interpretation, but findings were not formally documented or published.
 
+To sensitise myself as researcher within this context it was vital to become well-versed in the GDPR. Since 2018, I have practiced obtaining my own data from companies and organisations in my life. This has entailed making over 70 GDPR requests to a variety of organisations including retailers, device manufacturers, online service providers, local and health authorities, banks and leisure services. Additionally, I have experimented with self-service download dashboards and third-party 'get my data' tools. In some cases, I have engaged providers in communication to try and get better data or ask questions about my data. These activities have provided multiple benefits:
 
-The next section goes into more detail into how the participatory GDPR case study was structured and the methods used.
+- they have enabled me develop a detailed understanding of what actual stored personal data looks like [[Figure 3.7](#figure-3.7)];
+- they have given me an awareness of the evolving response to GDPR from data-holding organisations and an understanding of the limits of what is and is not possible with GDPR.
+- These investigations also contribute to the activist research strand of Section IV, and one particular self GDPR experience with Spotify is used to illustrate how an individual can influence a provider using GDPR [[Principle 9](#principle-9)].
 
-Case Study Design and Methodology{#5.3}
---------------------------------
+### Case Study Two: The Human Experience of GDPR{#5.2.2}
+
+The major study for this context was to guide participants through the process of GDPR and retrieving their own personal data, to enable a conversation that included not only attitudes to personal data and the use of data within service relationships, but discussion of how those attitudes were changed by the experience as it happened and how well expectations and hopes were met by the process. Similarly to the approach [[4.2.3](#4.2.3)] used in designing Case Study One, the general methodological elements described in [3.4](#3.4) informed the design of a five-stage approach, working with participants on an individual basis to obtain and subsequently review their own personal data, which would become the stimulus for discussion [[3.4.2](#3.4.2)]:
+
+1. Sensitisation using wall posters about data holding organisations, types of personal data, GDPR rights and possible uses for your retrieved data [[Figure 3.4](#figure-3.4); [3.4.1](#3.4.1)];
+2. A life mapping exercise, using the _Sketching Dialogue_ [@hwang2021] technique, enabling target companies to be selected for GDPR [[Figure 5.2](#figure-5.2); [5.2.1](#5.2.1)];
+3. A discussion and guided walkthrough of the target organisations' privacy policies, in particular their stated data collection practices [[3.4.2](#3.4.2)];
+4. Guidance and support in making and seeing to conclusion a GDPR request to each of target organisation; and
+5. An individual interview where the participant would be guided through the reviewing their data and be asked about their experiences and reactions to the data and the GDPR process [[3.4.2](#3.4.2)].
+
+Through these stages the objectives were to understand how people view the data that exists about them as they go about their everyday life and what they would ideally want from it (in service of RQ1 [[3.3.1](#RQ1)]), as well as what role data plays in their relationships with companies and other data-holding organisations in their lives, and what they would ideally want from those relationships with respect to data (in service of RQ2 [[3.3.2](#RQ2)]).
+
+All interviews would be recorded, transcribed and analysed to produced both qualitative and quantitative data for later analysis. The next section goes into more detail into the actual execution of these interviews.
+
+Methodology for the Case Study Interviews{#5.3}
+-----------------------------------------
+
+<span class="editnote">Review this and check for overlap with previous and check flow in and out. ensure scraps from last section included.</span>
 
 31 qualitative interviews were conducted, with a convenience sample of 11 individuals from a population of researchers and students at (or connected with) Newcastle University, aged 20-40 years; identifying as 5 females and 6 males. Participants were not data experts (only 1 had previously made a GDPR request), but were computer-literate, educated to degree level, and used to reflecting critically on their own behaviours and opinions. Participants were compensated for their time with Amazon vouchers worth £20.
 
