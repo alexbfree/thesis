@@ -43,7 +43,7 @@ ARI4. Additional Reference Information for Chapter 4 {#ari-chapter-4 .unnumbered
 ARI4.1 Family Civic Data Categories{#ari-fcd-types .unnumbered}
 ----------------------------
 
-The table below illustrates the types of _family civic data_ identified in the pilot study [[3.4.1OLD](#3.4.1.OLD); @bowyer2018family; [Appendix A](#appendix-A)], and referenced in Case Study One [[4.3.1](#4.3.1)].
+The table below illustrates the types of _family civic data_ identified in the pilot study [[4.2.2](#4.2.2); @bowyer2018family; [Appendix A](#appendix-A)], and referenced in Case Study One [[4.3.1](#4.3.1)].
 
 | <a name="table-ari4.1">Category</a>  | Type of data | Examples/Details |
 |---------|---------|--------------------------------------|
@@ -136,7 +136,7 @@ Drawing from the world of film production, storyboarding is a well-established t
 
 ![Figure ARI4.1: Extract of Sample Scenario Storyboarding Exercise walkthrough](./src/figs/figARI4.1-storyboarding-cards.png){#figure-ari4.1}
 
-Based on the accumulated knowledge of Early Help processes amongst myself and SILVER colleagues, enhanced for this purpose through consultation with a former social worker, I developed a total of 43 different cards to represent the suite of possible actions that would be interesting to track. These are grouped into eight different types of card:
+Based on the accumulated knowledge of Early Help processes amongst myself and SILVER project colleagues, enhanced for this purpose through consultation with a former social worker, I developed a total of 43 different cards to represent the suite of possible actions that would be interesting to track. These are grouped into eight different types of card:
 
   - **Conversation Cards** – representing actions relating to exchanges of information in a conversation as well as discussions, decisions, and questions;
   - **Consent Cards** – representing actions relating to acquiring, revoking or changing family consent to data sharing or storage;

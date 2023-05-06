@@ -309,7 +309,7 @@ This section serves as a quick-reference glossary to explain abbreviations and e
 - **Recursive Public** - a community of people who are attempting to reconfigure society for the better
 - **SAR - Subject Access Request** - a request to a DPO of an organisation for a copy of held personal data
 - **SI - Self Informatics** - an umbrella term for Personal Informatics and the Quantified Self Movement, where people track their activity in data and reflect   - upon it, setting goals and tracking progress
-- **SILVER** - the project working in the Early Help space that I worked with for Case Study One
+- **SILVER** - the project working in the Early Help space that I worked with as a researcher, informing Case Study One, and as a developer, serving as an embedded project setting informing Section IV.
 - **Sitra** - Finnish non-profit research organisation for which the digipower investigation was conducted
 - **Scraping** - the process of programmatically extracting information from interfaces such as websites that were intended for human browsing.
 - **Seams** - the 'edges' of products and services, at which service providers can exert restrictions and at which users can find new ways to adapt their product   - usage and data access
