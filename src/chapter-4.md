@@ -116,7 +116,7 @@ Within the workshops, the following activities were carried out:
 
 **Phase 1: Co-Designing Civic Data Access for Early Help**
 
-Workshop A (Co-designing with Families):
+_Workshop A (Co-designing with Families):_
 
 - Data Card Sorting [[3.4.2](#3.4.2)]
 - Sentence Ranking [[3.4.1](#3.4.1), [4.3.5](#4.3.5)]
@@ -124,7 +124,7 @@ Workshop A (Co-designing with Families):
 - Poster Design [[3.4.3](#3.4.3)]
 - Scenario Discussions [[3.4.2](#3.4.2)]
 
-Workshops B1 and B2 (Co-designing with Staff):
+_Workshops B1 and B2 (Co-designing with Staff):_
 
 - Sentence Ranking [[3.4.1](#3.4.1), [4.3.5](#4.3.5)]
 - Ideation Decks [[3.4.3](#3.4.3)]
@@ -134,7 +134,7 @@ Workshops B1 and B2 (Co-designing with Staff):
 
 **Phase 2: Exploring Shared Data Interaction**
 
-Workshop C (Combined Parent/Staff Workshop):
+_Workshop C (Combined Parent/Staff Workshop):_
 
 - Sentence Ranking [[3.4.1](#3.4.1), [4.3.5](#4.3.5)]
 - Storyboarding Training [[ARI4.3](#ari-4.3)]

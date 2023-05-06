@@ -120,6 +120,8 @@ All interviews would be recorded, transcribed and analysed to produced both qual
 Methodology for the Case Study Interviews{#5.3}
 -----------------------------------------
 
+### Interview Timeline and Stages{#5.3.1}
+
 Between December 2019 and April 2020, 31 qualitative interviews were conducted, with a convenience sample of 11 individuals from a population of researchers and students at (or connected with) Newcastle University, aged 20-40 years and identifying as 5 females and 6 males. Participants were not data experts (only 1 had previously made a GDPR request), but were computer-literate, educated to degree level, and used to reflecting critically on their own behaviours and opinions. Participants were compensated for their time with Amazon vouchers worth £20.
 
 ![Figure 5.1: A Journey Map of Each Participant's Study Progression](./src/figs/fig5.1-gdpr-interview-flow.png){#figure-5.1}
@@ -136,9 +138,11 @@ Each participant's journey progressed at its own pace [[Figure 5.1](#figure-5.1)
 
 All 31 interviews were audio and video recorded, then auto-transcribed using Google Recorder/Zoom, producing a 370,000-word corpus. Transcripts were split up and recombined across all participants into six topic areas–digital life, company-specific discussions, general discussions, power, trust, and hopes/goals. These transcript topics were then analysed through reductive coding cycles to produce thematic findings [[5.5](#5.5)]. Quantitative data from interview spreadsheets was also summarised and analysed [[5.4](#5.4)]. Sketches, recordings, screenshots and field notes were referenced throughout thematic analysis to aid interpretation of the transcripts. The processes described here are further detailed in [ARI5.1](#ari-gdpr-data-analysis).
 
+### Interview Structure and Questions Asked{#5.3.2}
+
 Interviews included the following questions, steps and areas of exploration:
 
-Interview 1 (Sensitisation, Life Exploration and Company Selection):
+**Interview 1 (Sensitisation, Life Exploration and Company Selection):**
 
 1. Researcher explains, using posters, different types of companies, types of data, GDPR rights, and possible data uses, while participant asks questions and shares opinions.
 2. What is your motivation for taking part?
@@ -151,14 +155,14 @@ Interview 1 (Sensitisation, Life Exploration and Company Selection):
 5. Label your sketch (in red) to name companies that have data in each area of life.
 6. Label your sketch (in blue) with types of data each company might have.
 7. Label your sketch (in green) to show your feelings about combinations of company/type of data/area of life.
-8. Select the 3 to 6 companies you are most interested in requesting.
-9. Review each target company and consider:
-  - Who has the power (you or them)? Provide a score for where the power lies with respect to data (-5 = fully with them, 0 = balanced, +5 = with you)
-  - How much do you trust the company? Provide a score for how much you trust the company (from 0 to 10)
+8. Select 4 or 5 companies you are most interested in making GDPR data access requests to.
+9. Review each target company and tell me:
+  - Who has the power (you or them)? Provide a score for where the power lies with respect to data, where -5 = fully with them, 0 = balanced/equal, and +5 = fully with you.
+  - How much do you trust the company? Provide a score for how much you trust the company, from 0 ('I wouldn't tell them anything') to 10 ('They can know whatever they like about me')
   - What things do you hope to find out?
   - What things could you do with that data?
 
-Interview 2 (Privacy Policy Reviewing, Goal Setting and GDPR Request Initiation):
+**Interview 2 (Privacy Policy Reviewing, Goal Setting and GDPR Request Initiation):**
 
 1. For each target company:
   - a) provide a current score for how much you trust the company.
@@ -169,13 +173,13 @@ Interview 2 (Privacy Policy Reviewing, Goal Setting and GDPR Request Initiation)
   - f) having reviewed and discussed the privacy policy, revisit and, if desired, update your power score.
   - g) Researcher provides participant with a generated GDPR request e-mail to send to the target company.
 
-Interview 3 (Detailed GDPR Response Review):
+**Interview 3 (Detailed GDPR Response Review):**
 
-1. For each target company, provide a current score for how much you trust the company.
-2. For each target company, provide a current score for where the power lies with respect to data.
-3. For each company:
-   - a) describe (or optionally show via screen-share) returned data to the researcher
-   - b) answer detailed questions (where possible/applicable) around each of the five types of data (volunteered, observed, derived, acquired, and metadata) [[Table 5.2](#table-5.2)]:
+1. For each company:
+   - a) provide a current score for how much you trust the company.
+   - b) provide a current score for where the power lies with respect to data.
+   - c) describe (or optionally show via screen-share) returned data to the researcher
+   - d) answer detailed questions (where possible/applicable) around each of the five types of data (volunteered, observed, derived, acquired, and metadata) [[Table 5.2](#table-5.2)]:
      - i) Is the data complete?
      - ii) Is it accurate?
      - iii) Is it understandable?
@@ -194,17 +198,17 @@ Interview 3 (Detailed GDPR Response Review):
     - v) Any other comments?
   - d) Having reviewed and discussed the response and any returned data from this company, revisit and, if desired, update your previous trust score for said company.
   - e) Having reviewed and discussed the response and any returned data from this company, revisit and, if desired, update your power score for said company.
-4. Across all companies targeted, for each of your previously stated general hopes:
+2. Across all companies targeted, for each of your previously stated general hopes:
   - a) how well has it been met?
   - b) how do you feel about this?
-5. Across all companies targeted, for each of your previously stated specific desired data uses:
+3. Across all companies targeted, for each of your previously stated specific desired data uses:
   - a) is this now possible?
   - b) is this now practical for you to do?
-6. Across all companies and GDPR requests made:
+4. Across all companies and GDPR requests made:
   - How do you now feel about your data being stored by organisations?
   - What would you like to do next regarding these companies and your data (if anything)?
   - How has the experience of GDPR been for you?
-7. How has the experience of this study been for you?
+5. How has the experience of this study been for you?
 
 GDPR Request Outcomes{#5.4}
 ---------------------
