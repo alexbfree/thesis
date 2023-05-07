@@ -16,10 +16,7 @@ Case Study Two: The Human Experience of GDPR {#chapter-5}
 > (computer programmer and science fiction writer)
 
 <span class="editnote">add callbacks early on, making clear how it relates back to my lit review chapter esp wrt HDR and HCI</span>
-<span class="editnote">add callbacks to methodology</span>
-<span class="editnote">other changes per notes</span>
 <span class="editnote">add forward refs where useful</span>
-<span class="editnote">to consider: moving some methods. Examiner notes: Also consider moving some of the methodological, contextual details and framing from the initial chapters of the thesis (I think this was chapter 2) to each one of the case studies. This is particularly important for methods of data collection and analysis as it is hard to understand what you did and how (for both chapters 4 and 5) – i.e your findings are interesting, but can be questioned without clear description of methods of data collection and analysis.</span>
 <span class="movenote">move one or two images into case study?</span>
 <span class="editnote">make stronger references to Design, and talk about what is feasible / implementable</span>
 
@@ -160,7 +157,7 @@ Interviews included the following questions, steps and areas of exploration:
   - Who has the power (you or them)? Provide a score for where the power lies with respect to data, where -5 = fully with them, 0 = balanced/equal, and +5 = fully with you.
   - How much do you trust the company? Provide a score for how much you trust the company, from 0 ('I wouldn't tell them anything') to 10 ('They can know whatever they like about me')
   - What things do you hope to find out?
-  - What things could you do with that data?
+  - What things could you do with the data you get back from this company?
 
 **Interview 2 (Privacy Policy Reviewing, Goal Setting and GDPR Request Initiation):**
 
@@ -210,21 +207,30 @@ Interviews included the following questions, steps and areas of exploration:
   - How has the experience of GDPR been for you?
 5. How has the experience of this study been for you?
 
+Before Interview 3, participants were not given any training or instructions in advance about how to examine or assess their data returns, other than to check they could open and read the data (in some cases data was password protected or needed to be downloaded from provided links). Within interview 3, some help was provided in viewing data, if the participant struggled or asked for help. Other than this, the only structure to the examination of the data was the question schedule above.
+
 GDPR Request Outcomes{#5.4}
 ---------------------
 
-In this section, a largely numerical summary and quantitative analysis of the interview data is presented, before qualitiative findings are presented in [5.5](#5.5).
+In this section, outcomes from each interview stage are summarised, and a basic quantitative analysis of the interview data is presented, before qualitative findings are presented in [5.5](#5.5).
 
 ### Interview 1: GDPR Target Selection{#5.4.1}
 
-Initially eight participants chose 5 target companies and three chose 4 to request data from. One participant (P9) withdrew from the study due to COVID-19 after Interview 1. Five participants withdrew a chosen company upon further consideration. Reasons for withdrawing chosen targets included having one's personal data mixed with other household members (Netflix), the account being in someone else's name (Morrisons), not wishing to impact active customer support matters (LNER), and inability to contact the provider by email (ifun.tv, see below). One participant selected Newcastle University, which was vetoed by the research team to avoid conflicts of interest. Hence, 41 out of a possible 52 GDPR subject access requests were made (to 28 distinct data holders) as shown in Table 5.1:
+Initially eight participants chose 5 target companies and three chose 4 to request data from. One participant (P9) withdrew from the study due to COVID-19 after Interview 1. Five participants withdrew a chosen company upon further consideration. Reasons for withdrawing chosen targets included:
+
+- having one's personal data mixed with other household members (Netflix),
+- the account being in someone else's name (Morrisons),
+- not wishing to impact active customer support matters (LNER), and
+- inability to contact the provider by email (ifun.tv, see below).
+
+One participant selected Newcastle University, which was vetoed by the research team to avoid conflicts of interest. Hence, 41 out of a possible 52 GDPR subject access requests were made (to 28 distinct data holders) as shown in Table 5.1:
 
 <a name="table-5.1"></a>
 ![](./src/figs/table8-targets.png)
 
 Table: Table 5.1 - Types of Data Holding Organisation Targeted for GDPR Requests by Study Participants<sup>a</sup>
 
-To ensure fairness and consistency, the aim was that all GDPR requests be sent by e-mail by the participant to the data-holder's identified Data Protection Officer, requesting both a subject access request [@ico2021sar] and a data portability request [@ico2021dp] be initiated, and specifically enumerating and asking for all those datapoints that the company stated in its privacy policy, as well as others which the GDPR entitles individuals to obtain. To identify these datapoints, company privacy policies were analysed and the necessary information was compiled in personaldata.io's semantic wiki [@personaldataio2021list]. This has a feature to generate bespoke GDPR request emails, which were adapted then provided to participants [@bowyer2022gdpr, supplemental materials]. Facebook, Apple, Huawei and Philips Hue do not offer a contact e-mail address, so the email text (shortened where length restrictions applied) was pasted into a contact form. In one case, entertainment website ifun.tv, the only available means of contact was via WeChat, resulting in the participant (a Chinese citizen) choosing not to contact ifun.tv due to fear of Chinese government surveillance. Through analysis of companies' privacy policies and with reference to GDPR rights, a taxonomy of the types of personal data that could be returned was constructed, using terms from those privacy policies and GDPR legislation. There are five types of personal data, as shown in Table 5.2:
+To ensure fairness and consistency, the aim was that all GDPR requests be sent by e-mail by the participant to the data holder's identified Data Protection Officer, requesting both a subject access request [@ico2021sar] and a data portability request [@ico2021dp] be initiated, and specifically enumerating and asking for all those datapoints that the company stated in its privacy policy, as well as others which the GDPR entitles individuals to obtain. To identify these datapoints, company privacy policies were analysed and the necessary information was compiled in personaldata.io's semantic wiki [@personaldataio2021list]. This has a feature to generate bespoke GDPR request emails, which were adapted then provided to participants [@bowyer2022gdpr, supplemental materials]. Facebook, Apple, Huawei and Philips Hue do not offer a contact e-mail address, so the email text (shortened where length restrictions applied) was pasted into a contact form. In one case, entertainment website ifun.tv, the only available means of contact was via WeChat, resulting in the participant (a Chinese citizen) choosing not to contact ifun.tv due to fear of Chinese government surveillance. Through analysis of companies' privacy policies and with reference to GDPR rights, a taxonomy of the types of personal data that could be returned was constructed, using terms from those privacy policies and GDPR legislation. There are five types of personal data, as shown in Table 5.2:
 
 <a name="table-5.2"></a>
 ![](./src/figs/table9-data-types.png)
@@ -233,11 +239,11 @@ Table: Table 5.2 - Types of Personal Data Potentially Accessible from Data Holde
 
 ### Interview 2: Privacy Policy Review and Goal Setting{#5.4.2}
 
-Participants reviewed and discussed privacy policies for their chosen target companies and were asked to define hopes and expectations for each GDPR request (see [Table 5.4](#table-5.4)). 74% of goals expresses related to participants wanting to have greater insight and control into their personal data ecosystems; most commonly a desire to see the breadth and depth of data collection by companies, to understand what was being inferred and how personal data was used, and to use such information to better assess trustworthiness of those companies. Such goals were often motivated by curiosity or suspicion, or a desire to shed light on specific incidents or answer specific questions. In some cases participants wanted not just to learn and acquire knowledge but to take control of or delete held data. In contrast, 26% of goals related to gaining personal benefit from one's obtained data: motivators included the desire to reflect on past data to gain self-insight, as well as goals relating creativity, fun, and nostalgia.
+In Interview 2, participants had reviewed and discussed privacy policies for their chosen target companies and been asked to define hopes and expectations for each GDPR request (see [Table 5.4](#table-5.4)). 74% of goals expressed related to participants wanting to have greater insight and control into their personal data ecosystems; most commonly a desire to see the breadth and depth of data collection by companies, to understand what was being inferred and how personal data was used, and to use such information to better assess trustworthiness of those companies. Such goals were often motivated by curiosity or suspicion, or a desire to shed light on specific incidents or answer specific questions. In some cases participants wanted not just to learn and acquire knowledge but to take control of or delete held data. In contrast, 26% of goals related to gaining personal benefit from one's obtained data: motivators included the desire to reflect on past data to gain self-insight, as well as goals relating creativity, fun, and nostalgia.
 
 ![Figure 5.3: Sankey Overview of Participants' GDPR Requests](./src/figs/fig5.3-gdpr-sankey.png){#figure-5.3}
 
-At the conclusion of interview 2, participants were provided with the emails and instructions to start their GDPR requests, which progressed as illustrated in [Figure 5.3](#figure-5.3). Eight requests resulted in no data being obtained, due to either data holder non-responsiveness, inability to access the right account or satisfy ID requirements, or confirmation being received that there was no data to supply. 32 requests (80%) resulted in at least some data being returned; 10 of these directed the participant to use a publicly-available download dashboard such as Google Takeout, and the rest resulted in data being made individually available. Of these, one was mailed as printouts, another was mailed on CD-R, and the rest were delivered by e-mail (sometimes involving a secured online website to download). While 22 companies supplied bespoke data packages, 4 did not return it within the 30 days the legislation specifies. Please note that requests took place within the context of a global pandemic so response rates may not be typical. Following discussion, participants judged that all 32 requests receiving data had failed to return all requested data (across all five of the categories in [Table 5.2](#table-5.2)).
+At the conclusion of interview 2, participants had been provided with the emails and instructions to start their GDPR requests, which progressed as illustrated in [Figure 5.3](#figure-5.3). Eight requests resulted in no data being obtained, due to either data holder non-responsiveness, inability to access the right account or satisfy ID requirements, or confirmation being received that there was no data to supply. 32 requests (80%) resulted in at least some data being returned; 10 of these directed the participant to use a publicly-available download dashboard such as Google Takeout, and the rest resulted in data being made individually available. Of these, one was mailed as printouts, another was mailed on CD-R, and the rest were delivered by e-mail (sometimes involving a secured online website to download). While 22 companies supplied bespoke data packages, 4 did not return it within the 30 days the legislation specifies. Please note that requests took place within the context of a global pandemic so response rates may not be typical. Following discussion in Interview 3 (see below), participants judged that all 32 requests receiving data had failed to return all requested data (across all five of the categories in [Table 5.2](#table-5.2)).
 
 ### Interview 3: Reviewing the GDPR Response{#5.4.3}
 
@@ -249,7 +255,7 @@ Once each participant's GPDR requests had concluded (as described above), they w
 
 Table: Table 5.3 - Presence and Quality Assessments of GDPR Responses by Data Type (as Percentages<sup>a</sup>)
 
-Table 5.3 shows quality assessments for each data type, with rows descending by subjective value. Notably, the kinds of data participants value most (derived, acquired and metadata) were less frequently returned, especially metadata (returned in 4% of cases). Where data was returned in these categories, it suffered from poor data quality, often judged as incomplete, inaccurate, unuseable and not useful (although acquired data was largely understandable). At 53%, even the most returned category, volunteered data, was lacking. Where it was returned, accuracy (92%), meaningfulness (72%) and understandability (72%) were high. Observed data was least valued and also rarely returned or complete (yet judged to be of moderate quality). From the perspective of individual data categories, data was only judged to be complete in 22% of cases. In 62% of cases, personal data specified in privacy policies to be collected was not returned, despite the legal obligation.
+Table 5.3 shows quality assessments for each data type, with rows descending by subjective value. Notably, the kinds of data participants value most (derived, acquired and metadata) were less frequently returned, especially metadata (returned in 4% of cases). Where data was returned in these categories, it suffered from poor data quality, often judged as incomplete, inaccurate, unuseable<sup><a href="#fn11">11</a></sup> and not useful (although acquired data was largely understandable). At 53%, even the most returned category, volunteered data, was lacking. Where it was returned, accuracy (92%), meaningfulness (72%) and understandability (72%) were high. Observed data was least valued and also rarely returned or complete (yet judged to be of moderate quality). From the perspective of individual data categories, data was only judged to be complete in 22% of cases. In 62% of cases, personal data specified in privacy policies to be collected was not returned, despite the legal obligation.
 
 Data collected in these interviews also allowed comparison of different companies. This analysis is included in [ARI5.2](#ari-bestworst).
 
