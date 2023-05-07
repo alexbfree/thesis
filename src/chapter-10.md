@@ -72,6 +72,8 @@ Principles for Generative Action{#10.1}
 
 ### Principle 3: Data must be Transformed into a Versatile Material
 
+<span class="editnote">contrast to https://www.cambridge.org/core/journals/proceedings-of-the-international-conference-on-engineering-design/article/data-materialisation-a-new-undergraduate-course-for-a-data-driven-society/ACC92B9D4D5D97D5F418B95605BC1ED9</span>
+
 | **<a name="insight-3">INSIGHT 3</a>: Data Must Be Transformed into a Versatile Material** |
 |:-------------------------------------------------|
 | In Case Study Two [[Table 5.4](#table-5.4); @bowyer2022gdpr, supplemental materials], participants expressed diverse goals for personal data, including reflection, pattern-finding, goal-tracking, and creative use. In the PIM space [[2.2.2](#2.2.2)] relevant innovations include associative exploration, spatial arrangement, and embodied interaction for different contexts) Drawing on all of these, allows me to infer that unified data must be transformed into a **versatile material**. Individuals need to be able to use data—represented as facts or assertions about one's life by performing manipulations such as: |
@@ -348,7 +350,7 @@ to The Future of Human Data Relations
 
 This thesis offers a detailed understanding of individual needs around data interaction and data-centric service relationships [[Chapter 6](#chapter-6)], backed by participatory action research in both public sector and private sector Case Studies [[Chapter 4](#chapter-4); [Chapter 5](#chapter-5)], providing a clear answer to the two primary research questions RQ1 [[3.3.1](#RQ1)] and RQ2 [[3.3.2](#RQ2)]: People want visible, understandable and useable<sup>[11](#fn11)</sup> data, process transparency, individual oversight capabilities and involvement in decision making.
 
-Furthermore, based on a solid grounding in existing literature, policy and innovation around Data Access, Personal Information Management, Human Data Interaction and Human-centric Innovation [[Chapter 2](#chapter-2)], these needs are synthesised into a clearly-defined new field for future research and innovation, _Human Data Relations (HDR)_ [[7.3](#7.3)], encompassing four clear objectives [[Chapter 8](#chapter-8)] for improving individual agency and societal power imbalances around data:
+Furthermore, based on a solid grounding in existing literature, policy and innovation around Data Access, Personal Information Management, Human Data Interaction and Human-centric Innovation [[Chapter 2](#chapter-2)], these needs are synthesised into a clearly-defined new agenda for future research and innovation, _Human Data Relations (HDR)_ [[7.3](#7.3)], encompassing four clear objectives [[Chapter 8](#chapter-8)] for improving individual agency and societal power imbalances around data:
 
   (i) data awareness & understanding, <br/>
   (ii) data useability<sup>[11](#fn11)</sup>, <br/>

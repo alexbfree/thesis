@@ -102,9 +102,11 @@ The four approaches are collectively summarised in [9.6](#9.6), and explained an
 
 ### Thesis Contributions {.unnumbered .unlisted}
 
+<span class="editnote">Update this list based on updates to Chapter 1</span>
+
 - [Contribution C1](#c1) - An understanding of What People Want in Direct Data Relations
 - [Contribution C2](#c2) - An Understanding of What People Want in Indirect Data Relations
-- [Contribution C3](#c3) - The Synthesis and Formulation of the Field of Human Data Relations (HDR)
+- [Contribution C3](#c3) - The Synthesis and Formulation of the Research Agenda of Human Data Relations (HDR)
 - [Contribution C4](#c4) - A clear delineation of two primary motivators for individuals seeking better HDR
 - [Contribution C5](#c5) - A map of the HDR landscape, identifying obstacles and insights
 - [Contribution C6](#c6) - Four identified trajectories for advancing Human Data Relations
@@ -183,8 +185,8 @@ This section serves as a quick-reference glossary to explain abbreviations and e
 - **Civic Hacking** - technologists or enthusiasts working to reconfigure the way society works
 - **Civil Libertarianism** - argues for the supremacy of individual rights and personal freedoms over imposition by authority
 - **Collection (stage of Personal Informatics)** - see SI
-- **Consent, Dynamic** - ongoing and changeable expression of preference
-- **Consent, Informed** - initial one-time expression of preference
+- **Consent, Dynamic** - ongoing and changeable expression of one's preferences
+- **Consent, Informed** - initial one-time expression of one's preferences
 - **Constructivism** - a belief that new knowledge is formed by developing one's own mental models in order to explain new experiences
 - **Conceptual Anchors** - the mental scaffolds which we use to organise our thinking and human information
 - **Context-aware Computing** - designing systems that take account of the user's situation and varying needs
@@ -241,7 +243,7 @@ This section serves as a quick-reference glossary to explain abbreviations and e
 - **GDPR** - General Data Protection Regulation - the EU's 2018 regulations that give users rights over the collection and use of their personal data
 - **Gatekeeper** - One who controls the flow of data or information between an organisation and an individual
 - **HCI - Human Computer Interaction** - research and practice that explores how people relate to and use computer systems
-- **HDI - Human Data Interaction** - a subdiscipline of HCI that focuses on people's relationship with data, rather than with the system
+- **HDI - Human Data Interaction** - a sub-discipline of HCI that focuses on people's relationship with data, rather than with the system
 - **Hestia.ai** - Swiss company working in the data access and understanding services space, which I currently work for
 - **HII - Human Information Interaction** - a discipline in library sciences that considers how humans relate to information regardless of technology used
 - **Humane Technology** - a movement focused on making technology that is more sensitive to people's lives and needs
@@ -325,4 +327,4 @@ This section serves as a quick-reference glossary to explain abbreviations and e
 - **Web Augmentation** - the process of modifying a web page to provide new functionality or access data after it has been downloaded to a user's we browser
 - **Web Extensions** - pieces of user code that are loaded into a web browser to modify or programmatically interrogate web pages
 - **Wisdom Curve** - the process of converting data, to information, to knowledge, to wisdom
-- **world2vec** - a system in Facebook that attempts to understand the world through analysis of social media content
+- **world2vec** - an internal system in Meta (Facebook) that attempts to understand the world through analysis of social media content, for commercial advantage

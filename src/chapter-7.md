@@ -4,28 +4,52 @@ Defining a New Research Agenda: Human Data Relations {#chapter-7}
 > _"What drives and drags the world are not machines, but ideas."_
 >—Victor Hugo (19th century poet)
 
-<span class="editnote">update chapter, make it more differentiated from HDI, etc, setting the objectives. notes: Making clearer the relationship between HDI and HDR where you see HDI as end goal, and HDR as roadmap for getting there.
-Also stressing the novelty of HDR as being practice orientated, and appreciative of the design implications of law and also industrial context of design (your USP). Key is to highlight what HDR does that HDI doesn’t. HDR can help surface problems (as GDPR studies shows), but also needs to be able to help address these (hence need to consider design recommendations in concluding chapter, or at very least lessons from the design interventions presented in Part B). Another point raised was HDI did not differentiate between information and data, which you do. It defines a direction of travel we are aiming towards – but HDR looks at reality of situation we are in (legally/organisational practice)... nevertheless, good to engage with HDI literature since 2014 paper to see how it has developed. </span>
-<span class="editnote">research agenda not a field</span>
-<span class="editnote">remove refs to part two</span>
+Foundations for Practical Exploration of Data Wants{#7.1}
+------------------------------------------------------------
 
-Introduction to Part Two{#7.1}
-------------------------
+The participatory research track of this PhD research [[3.2.2](#3.2.2)], which has been the focus of this thesis so far, sought to discover what people want from data, and from relations that involve or use their data. We now know, from findings common to both Case Studies, six 'wants' that people have in their relationships with data: _visible_, _understandable_ and _useable data_; _process transparency_, _individual oversight_ and _decision-making involvement_ [[Chapter 6](#chapter-6)].
 
-<span class="editnote">collapse/remove this section into section 3 intro</span>
-<span class="editnote">replace this with a different intro leading into the definition from last chapter</span>
-<span class="editnote">setting the scene on HDR: Now shift to operationalising HDR and the how
-detail. A big contribution is formulating the research agenda of HDR (human-data relations). How do HDR concepts of understandable, visible and usable differ from HDI tenets of legibility, negotiability and agency? Why do we need new field of HDR, what is wrong with HDI can't be further adapted (e.g. by adding new tenets alongside agency, negotiability, legibility)? What does HDR do that HDI cannot? make a much more clear statement of what HDR is and how it differs/relates to HDI.</span>
+It is clear, given the complex sociotechnical and power-imbalanced reality of today's data-centric world [[2.1.2](#2.1.2); [2.3.3](#2.3.3)], that if positive change towards these wants is to be pursued, there is more to understand. We need to learn how people can design pragmatic, viable approaches to effect change. There is an opportunity to move from qualitative research into activist research and adversarial design [[3.2](#3.2); @disalvo2012]. This has been the focus of the parallel, embedded research track of this PhD—to go beyond the RQs [[3.3.3](#3.3.3)] and explore how people's relationships with data might be changed in practice.
 
-[Chapter 6](#chapter-6) concluded the academic inquiry part of this thesis. We now know, backed up by the insights from the Case Studies' participants, what people want from direct RQ1 [[3.3.1](#RQ1)] and indirect RQ2 [[3.3.2](#RQ2)] data relations. That is, however, not the end of the story. Bringing to bear my experience as a designer and software developer, I can advance the exploration of this problem space further, turning from theory to practice, from what is needed to what is possible. It has been my good fortune to have been involved throughout the duration of this PhD with peripheral activities that also can be seen, in the context of this thesis' findings, to relate very much to the pursuit of personal empowerment and human-centric data use. For Part Two, therefore, I expand the original research question, going beyond the initial RQ [[2.4](#RQ)] which asks what relationship people want with their personal data, and explore how those desires could be met in practice:
+The Case Studies prioritised a participatory and investigatory approach, but there is a need for specialist design innovation that cannot always arise from working with everyday users. The approach for this track, therefore, is more UCD than PD [[3.2.1](#3.2.1)]. The established findings become material for myself as an activist research and adversarial designer, informing ideas for technical and societal changes that can bring about better data relations. Bringing to bear my experience as a designer and software developer, I can advance the exploration of this problem space farther than a participatory researcher could. It has been my good fortune to have been embedded, over the duration of this PhD, in various research, design and development capacities, on four practical project, that can be seen to relate very much to the pursuit of personal empowerment and human-centric data that I and the participants have envisaged.
+
+Before explaining the different projects undertaken (which will be done in [Section IV](#section-iv), it is important to establish a more precise framing for this track of the research. In short, the RQ for the practical track of the PhD can be considered as:
 
 > <a name="exRQ"></a>**"Having understood what relationship people want with their personal data, how might these better data relations be achieved?"**
 
-Methodologically, Part Two is distinct from the main academic enquiry. The Case Studies prioritised a participatory and investigatory approach, but there is a need for specialist design innovation that cannot always arise from working with everyday users. The approach now, therefore, is more UCD than PD [[3.2.1](#3.2.1)]. Part One's findings become material for myself as an adversarial designer, informing ideas for technical and societal changes that can bring about better data relations. [7.2OLD](#7.2OLD) describes the peripheral R&D activities I undertook, which form the basis of learning for Part Two.
+When looking for an existing discipline around which to frame the exploration of this question, Mortier <em>et al.</em>'s Human-Data Interaction (HDI) [@mortier2013; @mortier2014] is an obvious place to start; its principles relate closely to the wants uncovered in Chapter 6:
 
-The wide-reaching objective of achieving better data relations in practice has many facets: technical, design, commercial, legal, moral, social and political. These will not all be covered. Collectively, Chapter 7, 8 and 9 present an understanding of the multi-faceted realities of today's PDE landscape _sufficient to inform the design_ of PDE processes and systems in pursuit of better relationships with data. This understanding is synthesised from my real-world practical designs and insights, as well as from the work of other innovators and activists, and is contextualised relative to existing literature and the thesis's earlier contributions. As such, it will be necessary to introduce some new literature and external references throughout Part Two,. This is because it is only through reflection upon the findings of Part One from this new perspective that the particular practical and activist avenues that Part Two will need to explore become evident.
+- HDI's _legibility_ is very similar to the want for _understandable data_, and encompasses at least part of the want for _process transparency_.
+- HDI's _negotiability_ could be seen to imply both the want for _individual oversight_ and _decision making involvement_
+- Along with that want for involvement, the want for _useable data_ could also be mapped onto HDI's concept of _agency_ (and to Gurstein's _effective access_ as well)
 
-In this chapter, I position the topic of this thesis as a field of study in its own right, _Human Data Relations (HDR)_, formally defined in [7.3](#7.3). Additional insights into how people relate to data are identified [[7.4](#7.4)], as well an important dichotomy of people's needs for better relations with their data [[7.6](#7.6)]. The six wants [[Chapter 6](#chapter-6)] are repurposed as four core objectives for a landscape of better HDR [[7.7](#7.7)]. I conceptualise those who pursue these objectives as _HDR reformers_ and reflect on the researcher-turned-activist stance that drives this chapter, recognising a nascent _recursive public_ [[7.8](#7.8)].
+While HDI is clearly a foundational school of thought that underpins this work [[2.3.2](#2.3.2)] and aligns with its findings about what people need from data, its value in finding out how we might pursue those goals is limited. To explain why this is the case, it is useful to consider again the perspective of information theory introduced in 2.1.1, specifically the difference between data and information.
+
+HDI focuses on the way people interact with data, in a very general sense. Mortier _et al._ defined the field of HDI without making the important distinction between data (the digital artefact stored on computer) and information (the facts or assertions available by interpreting that data, or facts about the artefact of data), and their conception of data interaction seems to encompass both. This was an significant oversight. As further evidence for the importance of making that distinction, it should be noted that _Human Information Interaction (HII)_ originated in library sciences to consider how humans relate to information without regard to the technologies involved [@marchionini2008]. Coincidentally, Jones _et al._ had around the same time called for a new sub-field of HII in an HCI context[^12], highlighting the need to focus on information interaction:
+
+> _"_[HCI can] _unduly focus attention on the computer when, for most people, the computer is a means to an end—the effective use of information."_—@jones2006
+
+[^12]: The HCI panelists involved (excepting Fidel) were seemingly unaware of the existing HII field in library sciences, as they positioned the publication as a call for a 'new field'.
+
+DIKW theory [[2.1.1](#2.1.1)] highlights that interpretation of data to obtain information is a discrete activity. This was borne out in the findings of Case Study Two, where it became clear that participants have distinct wants from data, and from information [[5.5.4.2](#5.5.4.2)]. Access to data _and_ information is critical to both understanding and useability [[6.1.2](#6.1.2); [6.1.3](#6.1.3)].
+
+Drawing on DIKW theory with consideration to these findings allows the identification of three distinct artefacts people can have relations with:
+
+  1. **data** - the stored digital artefacts held by organisations for algorithmic processing and human reference, copies of some of which can be obtained using data rights;
+  2. **information about individuals** (which we will call _life information_) - facts and assertions about the individual and their life, obtained through human or algorithmic interpretation of stored data or analytical inference; and
+  3. **information about data** (a.k.a. _metadata_ [[Table 5.2](#table-5.2); [5.4.1](#5.4.1)] or what we will call _ecosystem information_) - stored facts about data, such as storage location, access history, means of collection, contextual meaning, or sharing records.
+
+These new terms introduced here of _life information_ (information within the data, that says something about the individual) and _ecoystem information_ (information _about_ the data, where it is held and how it is used) are critical to the subsequent sections of this thesis, as each must be considered separately. These concepts are unpacked more in [ADD FORWARD REF].
+
+These distinct concepts around the different artefacts data wants or HDI tenets should be applied to show that the findings of this thesis enrich existing understandings of HDI. There is however another aspect of HDI that makes it insufficient for our needs: it offers understanding of the problems of today's data relations, but it does not go far enough in exploring, accepting and confronting the real-world barriers to agency, legibility and negotiability that exist. A number of researchers within the HDI field have identified the need to develop HDI into something broader: Crabtree and Mortier wrote about the need to examine HDI in a relational sense in 2015 [@crabtree2015], and in 2016 identified the need to examine the issues of diminishing user control as being worthy of multidisciplinary study [@crabtree2016]. Deborah Lupton acknowledges the social entangled nature of personal data in [@lupton2016] which begins to explore HDI more through a societal lens [@lupton2016]. Sailaja _et al._ outlined the need to embrace HDI from a practical and grounded designerly stance, asserting that _"the emergent nature of [HDI] calls for refinement of the theoretical tenets [of legibility, agency and negotiability] to help them translate into practical and tangible responses that are embedded in the technologies we create"_ [@sailaja2021workshop].
+
+The new research agenda proposed below can be seen as a response to and a formalisation of these calls to extend HDI. It takes the theoretical individual data needs of HDI and of the Case Studies and defines a clear, actionable framing against which efforts to operationalise HDI and other data wants can be aligned. It advances the field of HDI to the sociotechnical level, by providing a framing that embraces and confronts the practical realities of pursuing better data interaction capabilities and better relationships that involve data.
+
+
+
+UP TO HERE
+
+
 
 'Human Data Relations': A Definition{#7.3}
 ------------------------------------
@@ -40,7 +64,7 @@ HDR builds upon HDI but takes a broader sociotechnical stance. HDR encompasses a
 
 | <a name="hdr-definition">A Definition of Human Data Relations (HDR)</a> |
 | :---------------------------------- |
-| The field of HDR encompasses all the ways in which humans and human organisations relate to, and with, data, specifically: |
+| The research agenda for better HDR encompasses all the ways in which humans and human organisations relate to, and with, data, specifically: |
 |   1. _Human-Data Relations_: users' direct interaction with data to understand and use it, similar to HDI, in service of the direct data wants [[6.1](#6.1)] of visible, understandable and useable data. |
 |   2. _Human "Data Relations"_: individuals' relationships with organisations that hold data about them, in service of the indirect data wants [[6.2](#6.2)] of transparency, individual oversight and involvement. |
 |   3. _Human/Data Relations_: how organisations manage their customers with respect to personal data. Similar to _public relations_ or _customer relations_, organisations choose how present their data practices (so as to build trust), and whether they will involve users with data, and provide support to understand data to their users. Organisations can empower individuals and build more effective customer relationships through HDR [[4.5.1](#4.5.1); [5.6.2](#5.6.2); [6.1.2](#6.1.2)]. |
@@ -74,22 +98,6 @@ People may think of their personal data through any or all of these _lenses_ [@k
 3. Data has a role as **a useable<sup>[11](#fn11)</sup> material with which to effect change** in your life;
 4. Data has a role as **a means to monitor changes** in data holders' behaviours, in digital influences upon you, or within your life.
 
-Human Data Interaction or Human Information Interaction?{#7.5}
---------------------------------------------------------
-
-To unpack HDR further, we must differentiate between humans relating to data, and humans relating to information. HDI concerns the way people interact with data. Mortier _et al._ [@mortier2013; @mortier2014] defined the field of HDI without making the important distinction between data (the digital artefact stored on computer) and information (the facts or assertions available from that data). This is an important distinction. _Human Information Interaction (HII)_ originated in library sciences to consider how humans relate to information without regard to the technologies involved [@marchionini2008]. Jones _et al._ called for a new sub-field of HII in an HCI context[^12], highlighting the need to focus on information interaction:
-
-> _"_[HCI can] _unduly focus attention on the computer when, for most people, the computer is a means to an end—the effective use of information."_—@jones2006
-
-DIKW theory [[2.1.1](#2.1.1)] highlights that interpretation of data to obtain information is a discrete activity. This was borne out in the findings of Case Study Two, where it became clear that participants have distinct wants from data, and from information [[5.5.3](#5.5.4.2)]. Access to data _and_ information is critical to both understanding and useability [[6.1.2](#6.1.2); [6.1.3](#6.1.3)].
-
-[^12]: The HCI panelists involved (excepting Fidel) were seemingly unaware of the existing HII field in library sciences, as they positioned the publication as a call for a 'new field'.
-
-Drawing on DIKW theory, allows the identification of three distinct artefacts people can have relations with:
-
-  1. **data** - the stored digital artefacts held by organisations for algorithmic processing and human reference, copies of some of which can be obtained using data rights;
-  2. **information about individuals** (a.k.a. _life information_) - facts and assertions about the individual and their life, obtained through human or algorithmic interpretation of stored data or analytical inference; and
-  3. **information about data** (a.k.a. _metadata_ [[Table 5.2](#table-5.2); [5.4.1](#5.4.1)] or _ecosystem information_) - stored facts about data, such as storage location, access history, means of collection, contextual meaning, or sharing records.
 
 The Two Distinct Motivations for Better Data Relations{#7.6}
 ------------------------------------------------------
@@ -134,7 +142,7 @@ To offer future value to future researchers, activists and innovators, this chap
 
 [^15]: To avoid overly cumbersome wording, subsequent sections will drop the 'Data' prefix from 'Data Ecosystem Awareness & Understanding' and 'Data Ecosystem Negotiability'.
 
-As [Figure 7.2](#figure-7.2) shows, the need for data to be understandable, visible and useable applies to all types of data, whether that data is interpretable as _life information_ (information within the data, that says something about the individual) or _ecosystem information_ (information _about_ the data, where it is held and how it is used). These two types of information will collectively be referred to as **human information**. These terms are used in subsequent sections.
+As [Figure 7.2](#figure-7.2) shows, the need for data to be understandable, visible and useable applies to all types of data, whether it is interpretable as _life information_ or _ecosystem information_.
 
 Better Human Data Relations as a Recursive Public{#7.8}
 -------------------------------------------------
@@ -162,8 +170,10 @@ This idea of reconfiguring society in this way has been conceived as _civic hack
 - critical algorithm studies [@gillespie2016];
 - adversarial interoperability [@doctorow2019];
 - 'makers' [@altsitsiadis2021];
-- humane technology [@harris2013]; and
-- explainable AI [@explainableAI].
+- humane technology [@harris2013];
+- user liberation [@edwards2004];
+- explainable AI [@explainableAI]; and
+- responsible AI [@osullivan2021].
 
 <span class="editnote">make a better relationship/positioning HDR vs adversarial design. notes: Better situate the relationship between HDR and adversarial design. is it an activist orientation to data relations (adversarial design) – not necessarily? It can flag inadequacies in governance and call for systemic change by getting copy of data – exercise rights but also, it needs to attend to what design can achieve and role of designers. Need to better orientate relationship between HDI and adversarial design. </span>
 
