@@ -589,4 +589,6 @@ With respect to RQ2 [[3.3.2](#3.3.2)] (the pursuit of a better understanding of 
 
 The general principles of earning trust through transparency, and rethinking data access as a means to involve users in decision making, could be applied in a wide range of service endeavours that are currently very data-centric.
 
+In the next section, the findings from this Case Study will be examined and discussed together with those from Case Study One, in order to look for commonalities that might validate each Case Study's findings against each other and enable more general answers to RQ1 and RQ2 to be formulated.
+
 ---
