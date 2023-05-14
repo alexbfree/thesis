@@ -184,9 +184,9 @@ This idea of reconfiguring society in this way has been conceived as _civic hack
 - critical algorithm studies [@gillespie2016];
 - adversarial interoperability [@doctorow2019];
 - the 'right to repair' movement [@svensson2018];
-- 'makers' [@altsitsiadis2021];
+- 'makers' and digital DIY enthusiasts [@altsitsiadis2021; @gauntlett2015];
 - humane technology [@harris2013];
-- self-sovereign identity [@wef2021ssi];
+- self-sovereign identity [@satoru2021];
 - user liberation [@edwards2004];
 - explainable AI [@explainableAI]; and
 - responsible AI [@osullivan2021].
