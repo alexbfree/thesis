@@ -40,7 +40,7 @@ Indirect Data Relations:
 
 ### HDR Objectives {.unnumbered .unlisted}
 
-The objectives are introduced in [7.7](#7.7). They are explored in [Chapter 8](#chapter-8)]:
+The objectives are introduced in [7.5](#7.5). They are explored in [Chapter 8](#chapter-8)]:
 
 - Objective 1 - Data Awareness & Understanding - [8.1](#8.1)
 - Objective 2 - Data Useability<sup>[11](#fn11)</sup> - [8.2](#8.2)
@@ -132,9 +132,9 @@ The four approaches are collectively summarised in [9.6](#9.6), and explained an
 - **Data Relations, Indirect** - [6.2](#6.2)
 - **Digital Self Curation** - [4.5.3](#4.5.3), [5.6.2](#5.6.2), [6.3](#6.3)
 - **Ecosystem Detection** - [Principle 4](#principle-4)
-- **Ecosystem Information** - [7.7](#7.7), [Principle 4](#principle-4)
+- **Ecosystem Information** - [7.4.2](#7.4.2), [Principle 4](#principle-4)
 - **Ecosystem Information Display** - [Principle 4](#principle-4)
-- **Ecosystem Negotiability** - [7.7](#7.7), [8.4](#8.4)
+- **Ecosystem Negotiability** - [7.5](#7.5), [8.4](#8.4)
 - **Empowerment (in the context of data wants)** - [6.3](#6.3)
 - **Free Data Interfaces** - @bowyer2018freedata
 - **Hacking the Seams** - [Principle 12](#principle-12)
@@ -146,15 +146,15 @@ The four approaches are collectively summarised in [9.6](#9.6), and explained an
 - **Information Standards** - [5.6.1](#5.6.1), [8.5](#8.5)
 - **Landscape of HDR Opportunity** - [Figure 8.1](#figure-8.1), [9](#9), **[Figure 9.23](#figure-9.23)
 - **Life Concepts** - [8.1.1](#8.1.1)
-- **Life Information Utilisation** - [7.6](#7.6.1), [Figure 7.1](#figure-7.1)
-- **Life Information** - [Principle 1](#principle-1)
+- **Life Information Utilisation** - [7.4.1](#7.4.1), [Figure 7.1](#figure-7.1)
+- **Life Information** - [7.4.1](#7.4.1), [Principle 1](#principle-1)
 - **Life Interface Design** - [9.3.1](#9.3.1)
 - **Life Partitioning** - [9.3.2](#9.3.2)
 - **Locus of Decision Making (LDM)** - [4.5.3](#4.5.3)
 - **Meaning in Data** - [Figure 2.1](#figure-2.1), [4.4.2](#4.4.2), [5.5.2](#5.5.2), [6.1.2](#6.1.2), [Principle 1](#principle-1)
 - **Perceived Individual Power** - [5.4.4](#5.4.4)
 - **Personal Data Diaspora, the** - [8.1.2](#8.1.2)
-- **Personal Data Ecosystem Control** - [7.6](#7.6.2), [Figure 7.1](#figure-7.1)
+- **Personal Data Ecosystem Control** - [7.4.2](#7.4.2), [Figure 7.1](#figure-7.1)
 - **Personal Data as a Proxy for Involvement** - [5.5.4](#5.5.4.1), @bowyer2018family
 - **Personal Data Stewardship** - [4.4.3](4.3.3.4), [5.7](#5.7)
 - **Proxy Representations of Immobile Data** - [Principle 4](#principle-4)

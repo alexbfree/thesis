@@ -45,7 +45,7 @@ By differentiating and highlighting the different wants around these concepts, t
 
 As a response to and a formalisation of these calls to extend HDI, this thesis proposes a new research agenda to elevate HDI to the sociotechnical level. From the individual data needs of HDI and of the Case Studies it defines a clear, actionable model against which efforts to operationalise HDI and other data wants can be aligned. It advances the field of HDI to the sociotechnical level, by providing a framing that embraces and confronts the practical realities of pursuing better data interaction capabilities and better relationships that involve data. This new research agenda is named _Human Data Relations (HDR)_ and is explained below.
 
-'Human Data Relations': A Definition{#7.3}
+'Human Data Relations': A Definition{#7.2}
 ------------------------------------
 
 The section above shows there is a need to distinguish this wider focus from HDI as conceived such that design and research work can be appropriately focused. The world of humans and machines can in effect be designed for at three levels, each with a broader and more human focus than the last:
@@ -54,7 +54,7 @@ The section above shows there is a need to distinguish this wider focus from HDI
 2. _Human-Data Interaction (HDI)_ focuses on the interaction between people and the data stored within those machines.
 3. _Human Data Relations (HDR)_ focuses on the _relationships_ that people have with data and the relationships people have with those who hold data about them.
 
-Building upon HDI but embracing the sociotechnical, HDR encompasses all the ways people and organisations can and should relate to and through data, not just direct data interaction. Through its greater focus on relationships and ecosystems, and approaches that address today's data-centric power-imbalanced reality, it offers a more actionable research agenda for the world of the 2020s. This different focus also highlights why HDI cannot just be expanded by adding new tenets; the tenets are quite similar, but the lens through which we view them, is different, being as it is more practical and more sociotechnical, making HDR something fundamentally different than HDI.
+Building upon HDI but embracing the sociotechnical, HDR encompasses all the ways people and organisations can and should relate to and through data, not just direct data interaction. Through its greater focus on relationships and ecosystems, and approaches that address today's data-centric power-imbalanced reality, it offers a more actionable research agenda for the world of the 2020s. This different focus also highlights why HDI cannot just be expanded by adding new tenets; the tenets are quite similar to the data wants identified in this thesis, but the lens through which we view them is different, being as it is more practical and more sociotechnical. This makes HDR something fundamentally different than HDI, and justifies the expression of a new named research agenda.
 
 In naming this new research agenda, concepts of 'human-technology relations' and later 'human-data relations' which have been the subject of some minor study in the contexts of philosophy, embodied interaction and the performing arts [@ihde1990; @hogan2012; @windeyer2021] were repurposed, to produce the name of **Human Data Relations** (without a hyphen), or **HDR** for short.
 
@@ -69,7 +69,7 @@ HDR's definition draws upon three distinct connotations or readings of its name:
 
 Having scoped HDR, we see that 'better' HDR can be achieved by working to empower individuals [[6.3](#6.3)] through pursuit of the identified six wants for data relations. However, as the next section will explain, HDR is motivated in two distinct ways, to which those wants apply differently. As background understanding, let us examine more closely what role data plays in people's lives.
 
-The Role of Personal Data {#7.4}
+The Role of Personal Data {#7.3}
 -------------------------
 
 Today, almost anything can be encoded as data. Many previously analogue objects and activities now have digital equivalents, so the concept of data has become broad and hard to pin down. Underlying HDR is a need to recognise what roles data can play in people's lives—what it _is_ to people. This research has identified eight distinct lenses to explain how people might relate to data—including as property, as memory and as creative work. These are modelled in [Table 7.1](#table-7.1).
@@ -94,7 +94,7 @@ People may think of their personal data through any or all of these _lenses_ [@k
 3. Data has a role as **a useable<sup>[11](#fn11)</sup> material with which to effect change** in your life;
 4. Data has a role as **a means to monitor changes** in data holders' behaviours, in digital influences upon you, or within your life.
 
-The Two Distinct Motivations for Better Data Relations{#7.6}
+The Two Distinct Motivations for Better Data Relations{#7.4}
 ------------------------------------------------------
 
 Considering these two types of information in the context of the six wants [[Chapter 6](#chapter-6)] reveals two very different reasons why people might want better data relations:
@@ -111,19 +111,19 @@ Considering these two types of information in the context of the six wants [[Cha
 
 [^14]: The illustrated processes incorporate existing data access processes such as GDPR, where the only access is through provision of a copy of one's data. This is _not_ ideal, as it creates divergent versions and will quickly become out-of-sync, however for the sake of simplicity that inefficiency is ignored [see [5.6.1](#5.6.1) for improvements to copy-based access].
 
-### Life Information Utilisation (LIU){#7.6.1}
+### Life Information Utilisation (LIU){#7.4.1}
 
 _Life Information Utilisation_ is a superset of _Self Informatics (SI)_ [[2.2.3](#2.2.3)], including all purposes relating to self-monitoring and self-improvement through personal data, but also other uses including creative expression, evidence gathering, nostalgia, keeping, and sharing. Many such desires were expressed in Case Study Two [[Table 5.4](#table-5.4)], and also hinted at in the Early Help context [[4.5.1](#4.5.1)]. While the existence of digitally-encoded information clearly unlocks new possibilities, LIU has existed in some form throughout human civilisation, as seen through analogue processes such as storytelling, journaling and scrapbooking.
 
 The most relevant of the six wants to LIU are _data understandability_ [[6.1.2](#6.1.2)] and _data useability<sup>[11](#fn11)</sup>_ [[6.1.3](#6.1.3)], which relate closely to the HDI concepts of _legibility_ and _agency_ respectively.
 
-### Personal Data Ecosystem Control (PDEC){#7.6.2}
+### Personal Data Ecosystem Control (PDEC){#7.4.2}
 
 Unlike LIU, _Personal Data Ecosystem Control_ is a _new_ individual need, arising as a result of the emergence of the data-centric world [[2.1](#2.1); [2.2.4](#2.2.4)]. Only when organisations began to collect and store facts about people as a substitute for direct communication and involvement did it become necessary. The more data is collected about individuals, and the more parties doing so, the greater the need for individuals to understand these acts so that they might influence them (or risk their lives being affected in unexpected or unfair ways). PDEC is a direct response to the power imbalance between data holders and individuals [@wef2014lens; [2.1.2](#2.1.2)].
 
 Several of the six wants are important to PDEC: visible data and transparent processes (referred to collectively as _data ecosystem transparency_), and individual oversight and involvement (referred to collectively as _data ecosystem negotiability_, drawing on the HDI concept of _negotiability_). These grouped terms are used below.
 
-Four Objectives for Human Data Relations{#7.7}
+Four Objectives for Human Data Relations{#7.5}
 ----------------------------------------
 
 ![Figure 7.2: Mapping the Six Wants into Objectives for the HDR Opportunity Landscape](./src/figs/fig7.2-landscape-objectives.jpg){#figure-7.2}
@@ -139,7 +139,7 @@ To offer future value to future researchers, activists and innovators, this chap
 
 As [Figure 7.2](#figure-7.2) shows, the need for data to be understandable, visible and useable applies to all types of data, whether it is interpretable as _life information_ or _ecosystem information_.
 
-Better Human Data Relations as a Recursive Public{#7.8}
+Better Human Data Relations as a Recursive Public{#7.6}
 -------------------------------------------------
 
 Let us revisit the stance from which we approach the goals of better HDR. This PhD is grounded in participatory action research and experience-centred design [[3.2](#3.2)]. Using a _Digital Civics_ [@vlachokyriakos2016] approach to understand people's unmet needs, we can model how the world should change. Such research is political [[3.2.1](#3.2.1)], seeking to correct an imbalance in the world through _adversarial design_ [@disalvo2012]. Where the Case Studies' track embraced participatory investigation, the embedded research track moves forward from the perspective of an activist researcher, exploring how individuals and groups can actually change their world to meet the established understanding of what should change. By taking this role, we can consider ourselves (those who pursue better HDR, or _HDR reformers_ as a shorthand) as a nascent _recursive public_ [@p2pwikiRecursivePublic]. This term originates in the free software movement to describe:
@@ -167,10 +167,10 @@ This idea of reconfiguring society in this way has been conceived as _civic hack
 - explainable AI [@explainableAI]; and
 - responsible AI [@osullivan2021].
 
-Summation: HDR—A Landscape Ready to Explore{#7.9}
+Summation: HDR—A Landscape Ready to Explore{#7.7}
 ---------------------------------
 
-The commonality to so many groups [[7.8](#7.8)] suggests HDR reform is an emergent cultural phenomenon, whether or not a single identifiable public coalesces. Time will tell whether _Human Data Relations_ as laid out in this thesis is sufficient to give form to that phenomenon. At the least, HDR offers a descriptive umbrella term. The breadth of research, innovation and activism validates the need _and_ the desire for such a recursive public around HDR reform to exist. In fact, it already does exist, whether named and unified or not. There is a growing desire to take back control of technology for the betterment of humankind. Therefore, in the next chapters this thesis takes an unashamedly critical view of the status quo, favouring the disruptive societal changes these movements seek. The HDR research agenda poses (from a data-oriented design standpoint) an important question of society:
+The commonality to so many groups [[7.6](#7.6)] suggests HDR reform is an emergent cultural phenomenon, whether or not a single identifiable public coalesces. Time will tell whether _Human Data Relations_ as laid out in this thesis is sufficient to give form to that phenomenon. At the least, HDR offers a descriptive umbrella term. The breadth of research, innovation and activism validates the need _and_ the desire for such a recursive public around HDR reform to exist. In fact, it already does exist, whether named and unified or not. There is a growing desire to take back control of technology for the betterment of humankind. Therefore, in the next chapters this thesis takes an unashamedly critical view of the status quo, favouring the disruptive societal changes these movements seek. The HDR research agenda poses (from a data-oriented design standpoint) an important question of society:
 
 > **_"How can we change the world into the one we want?"_**
 
