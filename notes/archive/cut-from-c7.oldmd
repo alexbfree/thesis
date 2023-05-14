@@ -15,11 +15,17 @@ detail. A big contribution is formulating the research agenda of HDR (human-data
 [Chapter 6](#chapter-6) concluded the academic inquiry part of this thesis.
 
 
- That is, however, not the end of the story. Bringing to bear my experience as a designer and software developer, I can advance the exploration of this problem space further, turning from theory to practice, from what is needed to what is possible. It has been my good fortune to have been involved throughout the duration of this PhD with peripheral activities that also can be seen, in the context of this thesis' findings, to relate very much to the pursuit of personal empowerment and human-centric data use. For Part Two, therefore, I expand the original research question, going beyond the initial RQ [[2.4](#RQ)] which asks what relationship people want with their personal data, and explore how those desires could be met in practice:
+ That is, however, not the end of the story.
 
-> <a name="exRQ"></a>**"Having understood what relationship people want with their personal data, how might these better data relations be achieved?"**
 
-Methodologically, Part Two is distinct from the main academic enquiry. The Case Studies prioritised a participatory and investigatory approach, but there is a need for specialist design innovation that cannot always arise from working with everyday users. The approach now, therefore, is more UCD than PD [[3.2.1](#3.2.1)]. Part One's findings become material for myself as an adversarial designer, informing ideas for technical and societal changes that can bring about better data relations. [7.2OLD](#7.2OLD) describes the peripheral R&D activities I undertook, which form the basis of learning for Part Two.
+ turning from theory to practice, from what is needed to what is possible.
+
+
+
+Methodologically, Part Two is distinct from the main academic enquiry.
+
+
+ [7.2OLD](#7.2OLD) describes the peripheral R&D activities I undertook, which form the basis of learning for Part Two.
 
 The wide-reaching objective of achieving better data relations in practice has many facets: technical, design, commercial, legal, moral, social and political. These will not all be covered. Collectively, Chapter 7, 8 and 9 present an understanding of the multi-faceted realities of today's PDE landscape _sufficient to inform the design_ of PDE processes and systems in pursuit of better relationships with data. This understanding is synthesised from my real-world practical designs and insights, as well as from the work of other innovators and activists, and is contextualised relative to existing literature and the thesis's earlier contributions. As such, it will be necessary to introduce some new literature and external references throughout Part Two,. This is because it is only through reflection upon the findings of Part One from this new perspective that the particular practical and activist avenues that Part Two will need to explore become evident.
 
@@ -30,16 +36,7 @@ In this chapter, I position the topic of this thesis as a agenda of study in its
 Human Data Interaction or Human Information Interaction?{#7.5}
 --------------------------------------------------------
 
-To unpack HDR further, we must differentiate between humans relating to data, and humans relating to information. HDI concerns the way people interact with data. Mortier _et al._ [@mortier2013; @mortier2014] defined the field of HDI without making the important distinction between data (the digital artefact stored on computer) and information (the facts or assertions available from that data). This is an important distinction. _Human Information Interaction (HII)_ originated in library sciences to consider how humans relate to information without regard to the technologies involved [@marchionini2008]. Jones _et al._ called for a new sub-field of HII in an HCI context[^12], highlighting the need to focus on information interaction:
+To unpack HDR further, we must differentiate between humans relating to data, and humans relating to information. HDI concerns the way people interact with data.
 
-> _"_[HCI can] _unduly focus attention on the computer when, for most people, the computer is a means to an end—the effective use of information."_—@jones2006
-
-DIKW theory [[2.1.1](#2.1.1)] highlights that interpretation of data to obtain information is a discrete activity. This was borne out in the findings of Case Study Two, where it became clear that participants have distinct wants from data, and from information [[5.5.3](#5.5.4.2)]. Access to data _and_ information is critical to both understanding and useability [[6.1.2](#6.1.2); [6.1.3](#6.1.3)].
 
 [^12]: The HCI panelists involved (excepting Fidel) were seemingly unaware of the existing HII field in library sciences, as they positioned the publication as a call for a 'new field'.
-
-Drawing on DIKW theory, allows the identification of three distinct artefacts people can have relations with:
-
-  1. **data** - the stored digital artefacts held by organisations for algorithmic processing and human reference, copies of some of which can be obtained using data rights;
-  2. **information about individuals** (a.k.a. _life information_) - facts and assertions about the individual and their life, obtained through human or algorithmic interpretation of stored data or analytical inference; and
-  3. **information about data** (a.k.a. _metadata_ [[Table 5.2](#table-5.2); [5.4.1](#5.4.1)] or _ecosystem information_) - stored facts about data, such as storage location, access history, means of collection, contextual meaning, or sharing records.

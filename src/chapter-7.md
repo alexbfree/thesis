@@ -1,6 +1,19 @@
 Defining a New Research Agenda: Human Data Relations {#chapter-7}
 =======================================================
 
+<span class="editnote">update chapter, make it more differentiated from HDI, etc, setting the objectives. notes: Making clearer the relationship between HDI and HDR where you see HDI as end goal, and HDR as roadmap for getting there.
+Also stressing the novelty of HDR as being practice orientated, and appreciative of the design implications of law and also industrial context of design (your USP). Key is to highlight what HDR does that HDI doesn’t. HDR can help surface problems (as GDPR studies shows), but also needs to be able to help address these (hence need to consider design recommendations in concluding chapter, or at very least lessons from the design interventions presented in Part B). Another point raised was HDI did not differentiate between information and data, which you do. It defines a direction of travel we are aiming towards – but HDR looks at reality of situation we are in (legally/organisational practice)... nevertheless, good to engage with HDI literature since 2014 paper to see how it has developed. </span>
+<span class="editnote">research agenda not a field</span>
+<span class="editnote">remove refs to part two</span>
+
+
+<span class="editnote">collapse/remove this section 7.1 into section 3 intro</span>
+<span class="editnote">replace this with a different intro leading into the definition from last chapter</span>
+<span class="editnote">setting the scene on HDR: Now shift to operationalising HDR and the how
+detail. A big contribution is formulating the research agenda of HDR (human-data relations). How do HDR concepts of understandable, visible and usable differ from HDI tenets of legibility, negotiability and agency? Why do we need new research agenda of HDR, what is wrong with HDI can't be further adapted (e.g. by adding new tenets alongside agency, negotiability, legibility)? What does HDR do that HDI cannot? make a much more clear statement of what HDR is and how it differs/relates to HDI.</span>
+
+
+
 > _"What drives and drags the world are not machines, but ideas."_
 >—Victor Hugo (19th century poet)
 
@@ -47,12 +60,13 @@ The new research agenda proposed below can be seen as a response to and a formal
 
 
 
-UP TO HERE
-
-
-
 'Human Data Relations': A Definition{#7.3}
 ------------------------------------
+
+
+
+UP TO HERE - need to outline the three levels.. HCI... HDI... HDR
+
 
 <span class="editnote">renumber this and subsequent</span>
 
@@ -169,8 +183,10 @@ This idea of reconfiguring society in this way has been conceived as _civic hack
 - data justice [@taylor2017; @crivellaro2019];
 - critical algorithm studies [@gillespie2016];
 - adversarial interoperability [@doctorow2019];
+- the 'right to repair' movement [@svensson2018];
 - 'makers' [@altsitsiadis2021];
 - humane technology [@harris2013];
+- self-sovereign identity [@wef2021ssi];
 - user liberation [@edwards2004];
 - explainable AI [@explainableAI]; and
 - responsible AI [@osullivan2021].
