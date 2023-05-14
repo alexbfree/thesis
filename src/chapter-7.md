@@ -36,8 +36,8 @@ DIKW theory [[2.1.1](#2.1.1)] highlights that interpretation of data to obtain i
 Drawing on DIKW theory with consideration to these findings allows the identification of three distinct things that people can have relations with:
 
   1. **data** - the stored digital artefacts held by organisations for algorithmic processing and human reference, copies of some of which can be obtained using data rights;
-  2. **information about individuals** (which we will call _life information_) - facts and assertions about the individual and their life, obtained through human or algorithmic interpretation of stored data or analytical inference; and
-  3. **information about data** (a.k.a. _metadata_ [[Table 5.2](#table-5.2); [5.4.1](#5.4.1)] or what we will call _ecosystem information_) - stored facts about data, such as storage location, access history, means of collection, contextual meaning, or sharing records.
+  2. **information about individuals** (which I will call _life information_) - facts and assertions about the individual and their life, obtained through human or algorithmic interpretation of stored data or analytical inference; and
+  3. **information about data** (a.k.a. _metadata_ [[Table 5.2](#table-5.2); [5.4.1](#5.4.1)] or what I will call _ecosystem information_) - stored facts about data, such as storage location, access history, means of collection, contextual meaning, or sharing records.
 
 These new terms introduced here of _life information_ (information within the data, that says something about the individual) and _ecoystem information_ (information _about_ the data, where it is held and how it is used) are critical to the subsequent sections of this thesis, as each must be considered separately. These concepts are unpacked more in [ADD FORWARD REF].
 
@@ -63,7 +63,7 @@ HDR's definition draws upon three distinct connotations or readings of its name:
 | <a name="hdr-definition">A Definition of Human Data Relations (HDR)</a> |
 | :---------------------------------- |
 | The research agenda for better data relations encompasses all the ways in which humans and human organisations relate to, and with, data, specifically: |
-|   1. _Human-Data Relations_: users' direct interaction with data to understand and use it, similar to HDI, in service of the direct data wants [[6.1](#6.1)] of visible, understandable and useable data. |
+|   1. _Human-Data Relations_: users' direct relationships with data, interacting with it to understand and use it, similar to HDI, in service of the direct data wants [[6.1](#6.1)] of visible, understandable and useable data. |
 |   2. _Human "Data Relations"_: individuals' relationships with organisations that hold data about them, in service of the indirect data wants [[6.2](#6.2)] of transparency, individual oversight and involvement. |
 |   3. _Human/Data Relations_: how organisations manage their customers with respect to personal data. Similar to _public relations_ or _customer relations_, organisations choose how present their data practices (so as to build trust), and whether they will involve users with data, and provide support to understand data to their users. Organisations can empower individuals and build more effective customer relationships through HDR [[4.5.1](#4.5.1); [5.6.2](#5.6.2); [6.1.2](#6.1.2)]. |
 
