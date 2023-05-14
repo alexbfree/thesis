@@ -307,6 +307,8 @@ Limitations and Future Work{#10.3}
 <span class="editnote">Further work, acknowledge limitations of Human Centric Futures – what about ‘more than human design’ here? Going beyond the individual, human centric approach – what about groups, environment and data in its ecosystem of processing/collection/storage/management and wider social context? Flag for further work section literature from Paul Coulton; Elisa Giacardi; Ron Wakkary.</span>
 <span class="editnote">Acknowledging the limitations of feedback loop not closed with PD done in Part A with Part B. Flagging that Part B is derived from industry/internships, has different value to if this was just another study as part of more conventional structure that may have followed from Part A.</span>
 <span class="editnote">add additional text about 'data processor'. Appreciate desire in thesis to avoid terms of legal art such as data subject, processor and controller for individuals and data holders – worth reflecting on what is lost in not using these? For example, specific obligations faced by controller’s vs processors in GDPR? Limits in the use of terminology like personal data/controllers which highlight gaps in protection cf domestic data controllers and impacts for individuals who may be subject to GDPR responsibilities running IOT in their homes link </span>
+<span class="editnote">Relatedly, with framing of the activist led nature of this work – given nascent nature of this potential community, need to flag engagement had been done with these groups more overtly as a movement (not just as research – as the author makes this division). add something reflexive, about having had contact with/been part of activist movements (esp Hestia I suppose)</span>
+
 
 
 Personal Reflection{#10.OLD1}

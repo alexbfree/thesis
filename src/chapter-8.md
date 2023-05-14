@@ -6,7 +6,7 @@
 <span class="movenote">integrate pasted subsections from ARI7</span>
 <span class="editnote">add a subsection about SILVER development</span>
 <span class="editnote">include something more thesis-structure based, looking ahead to what we will do in C8 and C9 and Why</span>
-
+<span class="editnote">highlight what HDR does that HDI doesn’t. HDR can help surface problems (as GDPR studies shows), but also needs to be able to help address these (hence need to consider design recommendations in concluding chapter, or at very least lessons from the design interventions presented in Part B). It defines a direction of travel we are aiming towards – but HDR looks at reality of situation we are in (legally/organisational practice)... </span>
 
 7.2.OLD -> #section-iv-embedded-project-settings
 
