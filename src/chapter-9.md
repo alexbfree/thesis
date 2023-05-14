@@ -4,18 +4,20 @@ Practical Approaches to Improve HDR {#chapter-9}
 > _"The world is working exactly as designed. And it's not working very well. Which means we need to do a better job of designing it."_
 >—Mike Monteiro, author of _Ruined by Design: How Designers Destroyed the World, and What We Can Do to Fix It_
 
-Having established a baseline understanding of key obstacles to the pursuit of HDR in the last chapter, Chapter 9 describes what I have learnt about how the HDR agenda might be operationalised in practice, bearing those established obstacles in mind and building upon the design insights and principles theorised in [Figure 8.1](#figure-8.1) and detailed in [10.1](#10.1). In developing and modelling these approaches I have drawn upon multiple sources:
+The objective for Chapter 9 is to expand further on the map of the HDR landscape in Chapter 8 so that we might chart a course towards the desired goal of improving HDR in society. Unlike its predecessor, this chapter is solution-focused, and considers the nuts and bolts of _how_ we might begin to pursue HDR's objectives [[7.5](#7.5)] of data and ecosystem awareness, understanding and negotiability.
+
+Having established a baseline understanding of key obstacles to the pursuit of HDR in the last chapter, Chapter 9 describes what I have learnt about how the HDR agenda [[Chapter 7](#chapter-7)] might be operationalised in practice, bearing those established obstacles in mind and building upon the design insights and principles theorised in [Figure 8.1](#figure-8.1) and detailed in [10.1](#10.1). In developing and modelling specific approaches to the operationalisation of HDR, through the discussion in this chapter, I draw from multiple sources:
 
  - the findings from the participatory track [[Chapter 6](#chapter-6)];
- - self-experimentation, background research and explorations in the Case Study contexts;
- - prior design, modelling and innovation work on understanding changes and diminishing agency in the digital landscape;
+ - self-experimentation, background research and explorations in the Case Study contexts (SILVER and GDPR);
+ - prior design, modelling and innovation work on understanding and changes and diminishing agency in the digital landscape;
  - my practical experiences from the embedded projects [see [Section IV Introduction](#section-iv-embedded-project-settings)];
  - the theoretical framing and research agenda of HDR laid out in [Chapter 7](#chapter-7); and
- - the established understanding of key obstacles and proposed strategies to tackle them from [Chapter 8](#chapter-8).
+ - the established understanding of key obstacles and proposed principles to tackle them from [Chapter 8](#chapter-8) and [10.1](#10.1).
 
-Across these different activities I have informally adopted numerous stances, role of power user, challenging customer, policy analyst, adversarial designer, social activist, technical strategist, prototype developer, information architect and user experience designer.
+Across these different activities, I have informally adopted numerous stances, including but not limited to: power user, challenging customer, policy analyst, adversarial designer, legal rights tester, social activist, technical strategist, prototype developer, social commentator, information architect and user experience designer. Of course, my expertise and knowledge varies in these different capacities. Thus, the work leading to the approaches suggested below can be see as multi-disciplinary, speculative work, rather than an empirical or deterministically-reproducible output. Nonetheless, as much as possible I have attempted to ground the approaches in the practical experiences of the projects or other activities I have been involved in and convey examples from my own or others' work to the reader so that the approaches are well-justified.
 
-The objective for Chapter 9 is to expand further on the map of the HDR landscape in [Figure 8.1](#figure-8.1) so that we might chart a course towards the desired goal of improving HDR in society. Unlike Chapter 8, this chapter is solution-focused, and considers the nuts and bolts of _how_ we might begin to tackle HDR obstacles in pursuit of the objectives [[7.5](#7.5)] of data and ecosystem awareness, understanding and negotiability. In the following sections, I present four different 'flavours' of HDR reform which I have observed:
+In the following sections, I present four different 'flavours' or approaches to HDR reform which I have observed:
 
 1. **Discovery-Driven Activism** - see [9.3](#9.3); informed by: Hestia.ai & Sitra's [digipower project](#IV.1)
 2. **Building the Human-centric Future** - see [9.4](#9.4); informed by: BBC R&D's [Cornmarket project](#IV.2), prior design & innovation work, and networking with PDE companies like ethi, CitizenMe, and digi.me.
