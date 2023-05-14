@@ -293,6 +293,8 @@ Pragmatic Reflections on Pursuing Better HDR{#10.2}
 
 <span class="editnote">risk of people having to sacrifice data, no choice. (ref to C5?)</span>
 <span class="editnote">individual data being lost in a big data whole, and how that doesn't absolve the company of responsibility, or the individual of having an interest (maybe use an example like car traffic data... or CCTV.. how could it be accountable / providence?). Notes: Related to this, with the uncertainty, opacity etc around how data is consumed/used in organisations (training data for models etc) - how does this implicate the model of human data relations? how do we have relations when the data may be a mere weighted variable in a larger decision making process? Does this lead to apathy for direct relations and concern around indirect relations and what does HDR offer in dealing with this?</span>
+<span class="editnote">Notes on operationalising: Reframing that this is not PAR, due to lack of feedback loop from AR interventions. There is iterative process. Actually your approach can be justified as something novel in its own right due to your placements helping you understand how to operationalise HDR. Need to unpack the lessons around operationalising. </span>
+
 
 
 Limitations and Future Work{#10.3}

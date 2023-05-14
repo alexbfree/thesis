@@ -4,20 +4,29 @@ Practical Approaches to Improve HDR {#chapter-9}
 > _"The world is working exactly as designed. And it's not working very well. Which means we need to do a better job of designing it."_
 >—Mike Monteiro, author of _Ruined by Design: How Designers Destroyed the World, and What We Can Do to Fix It_
 
-<span class="editnote">UPDATE THIS TO REFER MORE EXPLICITLY BACK TO PLACEMENTS FROM SECTION IV INTRO</span>
-<span class="editnote">Make sure it makes sense without the insights, edit as needed</span>
-<span class="editnote">c9 framing: Ch 9 operationalises the HDR agenda. Proposes a series of focal domains but is less coherent than some of the earlier chapters in clearly mapping out how all of the elements of the HDR agenda fit together. Highlights emerging domain of work, and figuring out how to operationalise the principles and objectives will take time (and does provide some nice examples). I need to add some more HDR framing stuff showing how these different parts in Chap 9 fit together overall and relate to the agenda  (refer back to section III)</span>
-<span class="editnote">Notes on operationalising: Reframing that this is not PAR, due to lack of feedback loop from AR interventions. There is iterative process. Actually your approach can be justified as something novel in its own right due to your placements helping you understand how to operationalise HDR. Need to unpack the lessons around operationalising. </span>
-<span class="editnote">Explain adversarial design properly at the approach where I talk about this. make a better relationship/positioning HDR vs adversarial design. notes: Better situate the relationship between HDR and adversarial design. is it an activist orientation to data relations (adversarial design) – not necessarily? It can flag inadequacies in governance and call for systemic change by getting copy of data – exercise rights but also, it needs to attend to what design can achieve and role of designers. Need to better orientate relationship between HDI and adversarial design. </span>
+Having established a baseline understanding of key obstacles to the pursuit of HDR in the last chapter, Chapter 9 describes what I have learnt about how the HDR agenda might be operationalised in practice, bearing those established obstacles in mind and building upon the design insights and principles theorised in [Figure 8.1](#figure-8.1) and detailed in [10.1](#10.1). In developing and modelling these approaches I have drawn upon multiple sources:
 
-In this chapter, I take on the roles of adversarial designer, social activist and technical strategist, drawing upon:
-
- - the findings of Part One [[Chapter 6](#chapter-6)];
- - my practical experiences from peripheral projects [[7.2OLD](#7.2OLD)];
+ - the findings from the participatory track [[Chapter 6](#chapter-6)];
+ - self-experimentation, background research and explorations in the Case Study contexts;
+ - prior design, modelling and innovation work on understanding changes and diminishing agency in the digital landscape;
+ - my practical experiences from the embedded projects [see [Section IV Introduction](#section-iv-embedded-project-settings)];
  - the theoretical framing and research agenda of HDR laid out in [Chapter 7](#chapter-7); and
  - the established understanding of key obstacles and proposed strategies to tackle them from [Chapter 8](#chapter-8).
 
-The objective here is to expand further on the map of the HDR landscape in [Figure 8.1](#figure-8.1) so that we might chart a course towards the desired change. This chapter is solution-focused, and considers the nuts and bolts of _how_ we might begin to tackle those obstacles in pursuit of the HDR objectives [[7.5](#7.5)] of data and ecosystem awareness, understanding and negotiability. In the following sections, I present four different 'flavours' of HDR reform which I have observed. Each section begins with a diagrammatic representation of that approach as a trajectory of change. These diagrams use a model known as _Theories of Change (ToC)_ which is explained in [9.1](#9.1) below.
+Across these different activities I have informally adopted numerous stances, role of power user, challenging customer, policy analyst, adversarial designer, social activist, technical strategist, prototype developer, information architect and user experience designer.
+
+The objective for Chapter 9 is to expand further on the map of the HDR landscape in [Figure 8.1](#figure-8.1) so that we might chart a course towards the desired goal of improving HDR in society. Unlike Chapter 8, this chapter is solution-focused, and considers the nuts and bolts of _how_ we might begin to tackle HDR obstacles in pursuit of the objectives [[7.5](#7.5)] of data and ecosystem awareness, understanding and negotiability. In the following sections, I present four different 'flavours' of HDR reform which I have observed:
+
+1. **Discovery-Driven Activism** - see [9.3](#9.3); informed by: Hestia.ai & Sitra's [digipower project](#IV.1)
+2. **Building the Human-centric Future** - see [9.4](#9.4); informed by: BBC R&D's [Cornmarket project](#IV.2), prior design & innovation work, and networking with PDE companies like ethi, CitizenMe, and digi.me.
+3. **Defending User Autonomy and Hacking the Information Landscape** - see [9.5](#9.5); informed by: self-experiments, DERC's Healthy Eating Web Augmentation Project, and prior personal research.
+4. **Teaching, Championing and Selling the HDR Vision** - see [9.6](#9.6); informed by: all four embedded projects, Case Study Two, past software industry experience and prior personal research.
+
+As stated in the conclusion of Chapter 7 [[7.7](#7.7)], the approaches listed here are not intended to be definitive, exhaustive or prescriptive. Instead they serve only as examples of what could be done in the pursuit of better HDR. The approaches are not mutually exclusive; elements of them could be combined and many other approaches might exist. Approaches 1 and 3 are more activist and grassroots-based, while approaches 2 and 4 are more conformist and work within established patterns for pursuing organisation and social change.
+
+These approaches, and their underlying principles [[10.1](#10.1)], are documented in sufficient detail such that they, or variants of them, could be subsequently exploited or used as a starting point for action planning by HDR reformers and practitioners, and as such Chapters 7 to 10 provide a rich, clearly-defined and actionable research agenda to drive future research and innovation for a better, more human-centric digital world.
+
+The four approaches are described in sections 9.3 to 9.6. Each of these sections begins with a diagrammatic representation of that approach as a trajectory of change. These diagrams use a model known as _Theories of Change (ToC)_ which is explained in [9.1](#9.1) below. Also provided [[9.2](#9.2)] is some additional background information about the Databox project, which is relevant to Approach 2.
 
 Additional Background: Theories of Change (ToC){#9.1}
 -----------------------------------------
@@ -267,6 +276,8 @@ It is bad enough when a particular technology blocks you from doing what you wan
 ### The Battle at The Seams {#9.4.2}
 
 We can also take this idea further through the idea of _adversarial design_ [@disalvo2012] which advocated using design processes to challenge the status quo. To understand how to gain traction here and carry out _design after design_ [@storni2014], it is important to understand the concept of _**seams**_, how they can be exploited, and the risks of losing them. This concept is explained in Principle 12.
+
+<span class="editnote">Explain adversarial design properly at the approach where I talk about this. make a better relationship/positioning HDR vs adversarial design. notes: Better situate the relationship between HDR and adversarial design. is it an activist orientation to data relations (adversarial design) – not necessarily? It can flag inadequacies in governance and call for systemic change by getting copy of data – exercise rights but also, it needs to attend to what design can achieve and role of designers. Need to better orientate relationship between HDI and adversarial design. reference design after design, designing for appropriation and right to fair programs. Add Just Eat project with students as example of adversarial design.</span>
 
 <span class="editnote">Add ref to Principle 12 here</span>
 
