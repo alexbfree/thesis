@@ -23,7 +23,6 @@ Case Study One: Access to Civic Data in Early Help {#chapter-4}
 >—Ken Wyatt (Australian politician, teacher and equal rights campaigner)
 
 <span class="editnote">add callbacks to early on, making clear how it relates back to my lit review chapter esp wrt HDR and HCI</span>
-<span class="editnote">add reflections on process of feedback between industrial experiences, development of HDR framework as that is why you approached problems the way you did. </span>
 <span class="editnote">other changes per notes</span>
 <span class="editnote">add forward refs where useful</span>
 <span class="editnote">make stronger references to Design, and talk about what is feasible / implementable</span>

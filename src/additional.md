@@ -693,7 +693,7 @@ ARI9 Additional Reference Information for Chapter 9 {#ari-chapter-9 .unnumbered}
 ARI9.1 How I compelled Spotify to improve their GDPR return {#ari-9.1 .unnumbered}
 ------------------------------------------------
 
-In this section, I will provide additional details of my mini-case study where I was able to get Spotify to improve the quality of their GDPR returns, as referenced in [Principle 9](#principle-9) within section [9.2.1](#9.2.1).
+In this section, I will provide additional details of my mini-case study where I was able to get Spotify to improve the quality of their GDPR returns, as referenced in [Principle 9](#principle-9) and within Section [9.3.1](#9.3.1).
 
 As an avid user for several years of the music streaming service Spotify who has built up a large library of playlists, I have made a number of GDPR requests to get copies of my personal data.
 

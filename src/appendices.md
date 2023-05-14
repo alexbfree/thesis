@@ -93,12 +93,12 @@ Insights in [Chapter 9](#chapter-9):
 
 ### HDR Approaches {.unnumbered .unlisted}
 
-The four approaches are collectively summarised in [9.6](#9.6), and explained and illustrated as follows:
+The four approaches are collectively summarised in [9.7](#9.7), and explained and illustrated as follows:
 
-- [Approach 1](#9.2) - Discovery-Driven Activism - [9.2](#9.2), [Figure 9.2](#figure-9.2)
-- [Approach 2](#9.3) - Building the Human-centric Future - [9.3](#9.3), [Figure 9.3](#figure-9.3)
-- [Approach 3](#9.4) - Defending User Autonomy and Hacking the Information Landscape - [9.4](#9.4), [Figure 9.19](#figure-9.19)
-- [Approach 4](#9.5) - Teaching, Championing and Selling the HDR Vision - [9.5](#9.5), [Figure 9.21](#figure-9.21)
+- [Approach 1](#9.3) - Discovery-Driven Activism - [9.3](#9.3), [Figure 9.2](#figure-9.2)
+- [Approach 2](#9.4) - Building the Human-centric Future - [9.4](#9.4), [Figure 9.3](#figure-9.3)
+- [Approach 3](#9.5) - Defending User Autonomy and Hacking the Information Landscape - [9.5](#9.5), [Figure 9.19](#figure-9.19)
+- [Approach 4](#9.6) - Teaching, Championing and Selling the HDR Vision - [9.6](#9.6), [Figure 9.21](#figure-9.21)
 
 ### Thesis Contributions {.unnumbered .unlisted}
 
@@ -139,17 +139,17 @@ The four approaches are collectively summarised in [9.6](#9.6), and explained an
 - **Free Data Interfaces** - @bowyer2018freedata
 - **Hacking the Seams** - [Principle 12](#principle-12)
 - **Human Data Relations (HDR)** - [7.2OLD](#7.2OLD)
-- **HDR Literacy** - [9.5.1](#9.5.1)
+- **HDR Literacy** - [9.6.1](#9.6.1)
 - **Human Information Operating System** - [8.2](#info-os)
 - **Human Information** - see Life Information and Ecosystem Information
-- **Inclusive Data Flows** - [9.3.5](#9.3.5)
+- **Inclusive Data Flows** - [4.5](#9.4.5)
 - **Information Standards** - [5.6.1](#5.6.1), [8.5](#8.5)
 - **Landscape of HDR Opportunity** - [Figure 8.1](#figure-8.1), [9](#9), **[Figure 9.23](#figure-9.23)
 - **Life Concepts** - [8.1.1](#8.1.1)
 - **Life Information Utilisation** - [7.4.1](#7.4.1), [Figure 7.1](#figure-7.1)
 - **Life Information** - [7.4.1](#7.4.1), [Principle 1](#principle-1)
-- **Life Interface Design** - [9.3.1](#9.3.1)
-- **Life Partitioning** - [9.3.2](#9.3.2)
+- **Life Interface Design** - [9.4.1](#9.4.1)
+- **Life Partitioning** - [9.4.2](#9.4.2)
 - **Locus of Decision Making (LDM)** - [4.5.3](#4.5.3)
 - **Meaning in Data** - [Figure 2.1](#figure-2.1), [4.4.2](#4.4.2), [5.5.2](#5.5.2), [6.1.2](#6.1.2), [Principle 1](#principle-1)
 - **Perceived Individual Power** - [5.4.4](#5.4.4)
@@ -159,7 +159,7 @@ The four approaches are collectively summarised in [9.6](#9.6), and explained an
 - **Personal Data Stewardship** - [4.4.3](4.3.3.4), [5.7](#5.7)
 - **Proxy Representations of Immobile Data** - [Principle 4](#principle-4)
 - **Shared Data Interaction** - [4.3.4](#4.3.4)
-- **Surface Information Injustices** - [9.5.1](#9.5.1), [Principle 12](#principle-12)
+- **Surface Information Injustices** - [9.6.1](#9.6.1), [Principle 12](#principle-12)
 - **Storyboarding Action Cards** - [ARI4.3](#ari-storyboarding)
 - **Trust - [4.4.4](#4.4.4), [4.5.1](#4.5.1.1), [5.4.4](#5.4.4), [5.5.4](#5.5.4.1), [6.2.1](#want-i1), [Principle 13](#principle-13)
 - **Types of Personal Data (by origin)** - [Table 5.2](#table-5.2)
