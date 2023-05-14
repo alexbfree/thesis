@@ -671,6 +671,20 @@ Companies producing responses with good coverage and good quality included Niant
 
 Table: Table ARI5.1 - Best and Worst Data Holders for GDPR, according to Participants' Judgements<sup>a</sup>
 
+
+ARI7 Additional Reference Information for Chapter 7 {#ari-chapter-7 .unnumbered}
+=====================================================
+
+ARI7.1 A Prototype Entity Extractor and Time-Event Extractor {#ari-7.1 .unnumbered}
+------------------------------------------------
+
+<span class="editnote">Check all Refs to this</span>
+
+An additional Figure from my time on Cornmarket [See [Section IV Introduction](#IV.1)] that was not featured in the main body of the thesis is shown in Figure ARI7.1 below. This shows a screenshot from a functional prototype I produced during a hack week that allows the user to upload data retreived via GDPR or download portal from a few specific companites. It proved the concept of programmatically identifying key entities [9.4.3](#9.4.3) and identifying time-labelled events [[2.2.2](#2.2.2.4); [Principle 8](#principle-8)] for display as life information [[7.4.1](#7.4.1)] to users as part of a life interface [[9.4.1](#9.4.1)].
+
+![Figure ARI7.1: Prototype Entity Extractor and Time-Event Extractor](./src/figs/figARI7.1-prototype-gdpr-interface.png){#figure-ari7.1}
+
+
 ARI9 Additional Reference Information for Chapter 9 {#ari-chapter-9 .unnumbered}
 =====================================================
 

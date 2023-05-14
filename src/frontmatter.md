@@ -154,6 +154,10 @@ Lists of Figures by Chapter {.unnumbered .unlisted}
 - [7.1](#figure-7.1) - The Two Motivations for HDR: Controlling Your Personal Data Ecosystem and Utilising Your Information About Your Life
 - [7.2OLD](#figure-7.2) - Mapping the Six Wants into Objectives for the HDR Opportunity Landscape
 
+### Figures in Section IV {.unnumbered}
+
+- [IV.1](#figure-IV.1) - Screenshot from a Web Augmented version of the _Just Eat_ Website
+
 ### Figures in Chapter 8 {.unnumbered}
 
 - [8. 1](#figure-8.1) - Obstacles and Resulting Insights in the HDR Opportunity Landscape
@@ -202,6 +206,7 @@ Lists of Figures by Chapter {.unnumbered .unlisted}
 - [ARI5.1](#figure-ari5.1) - Screenshot from _Quirkos_ During Coding Process
 - [ARI5.2](#figure-ari5.2) - Screenshot from _Quirkos_ at End of Coding Process
 - [ARI5.3](#figure-ari5.3) - Screenshot from _Workflowy_ During Theme Construction
-- [ARI7.1OLD](#figure-ari7.1) - Screenshot from a Web Augmented version of the _Just Eat_ Website
+- [ARI7.1](#figure-ari7.1) - Prototype Entity Extractor and Time-Event Extractor
+
 
 ---
