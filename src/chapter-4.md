@@ -324,7 +324,7 @@ Key to meaningful involvement is the ability to start a conversation. Groups ima
 
 The second theme  systems and processes currently rely excessively upon the 'facts' within the data record, and they need to be updated to give the family an empowered role within their civic information ecosystem. The purposes of an EH intervention are to obtain more information for a better understanding of the family's situation and to make evidence-based plans and decisions to improve the situation. Seeking objective truth is clearly central. Impressions of that truth can be formed either by reading the data or by talking to the family. There are benefits and dangers of relying solely on either source. Families should become agents in the data ecosystem, and this involvement should lead to both greater empowerment and better evidence-based decisions.
 
-<a name="4.3.3.1">**People not Records**</a>
+<a name="4.4.3.1">**People not Records**</a>
 
 It was evident, consistent with literature (@gitelman2013) and the pilot study [@bowyer2018family], that data can never represent absolute truth - it is often biased or incomplete, and this can mislead [SQ59, FQ11A]. For example, a lack of mental health information could make an individual look like a poor parent [SQ12]. Families may be less willing to 'open up' if they feel they may be judged unfairly [SQ14]. Therefore, developing a strong relationship between worker and all family members is key to understanding the full picture [FQ1]; to ensure fairness [SQ77], data must be current and complete [SQ13], but this state can only be achieved with the family's cooperation. Looking at data will never provide support workers with a complete understanding. Yet, workers often _'tend to just trust that everything that has been put down is right'_ [CQ1], allowing the data perspective to dominate. Such assumptions should be avoided [SQ10]; processes must recognise maintaining human face-to-face dialogue as a priority. Data should only provide  supplementary insight: _'You should never make a judgement on data… that data could be wrong. It takes individuality, working with that person as well, doesn't it?'_ [SQ11]. All participants presented with the sentence _'Public sector officials can make good decisions just by looking at a family's data'_ [S18] disagreed with it.
 
@@ -340,7 +340,7 @@ The compromise that participants identified over the use of data is that workers
 
 Many participants concluded that only _'relevant'_ information should be available, to those who _'need to know'_, but the wide range of opinions expressed suggest that this is a highly subjective judgement that would be difficult to determine. A cut-off period before which workers should have no right to look was suggested [Parent, CQ15], but the sentence _'Officials should be able to see historical records about families'_ [S17] was contentious. Some workers feared any restriction in access might mean they miss important background on an individual's past, such as sexual abuse or mental health issues [Worker, SQ76]. The solution to this dilemma is unclear, but transparency about what is in the data would seem to be a critical ingredient [[4.4.4](#4.4.4)].
 
-<a name="4.3.3.2">**Checking Data Together**</a>
+<a name="4.4.3.2">**Checking Data Together**</a>
 
 The idea of families and support workers reviewing data _together_ arose from many participants in workshops A and B, and this motivated an exploration of the concept of shared data interaction in more depth through the storyboarding exercise in workshop C [[4.3.4](#4.3.4)]. Families perceived value in having not just data representations as above, but also a data interface present within their care meeting, so they that they could see actual data and have it explained to them. One practice embodying the concept of transparency that is emerging in some care services is the use of '2-in-1' devices (laptop/tablet hybrids) within the care engagement. Workers can then visibly record data in front of families and then ask them to _'approve'_ the accuracy on screen [FQ12, SQ67]. Participants believed this would help to build trust between the support workers and families; if a family begins to feel powerless, they may disengage [SQ35], but even minor involvement, such as this emergent practice of signing off approval of data records [FQ12] or an imagined process of checking & correcting data records together (see next section) could make families feel more empowered which could make the support relationship more productive.
 
@@ -350,7 +350,7 @@ Family participants imagined going beyond just seeing and getting verbal explana
 
 Shared data interaction carries the potential to bring benefits in accountability, accuracy, simplicity [SQ25, SQ26] and consent.
 
-<a name="4.3.3.3">**Changing Lives Means Changing Data and Changing Consent**</a>
+<a name="4.4.3.3">**Changing Lives Means Changing Data and Changing Consent**</a>
 
 One reason for reviewing historical data and for requiring dialogue with the family to gain an up-to-date picture, is that the truth changes over time. People are not static, and families' lives are always changing; given marriages, divorce, birth, death, house moves and other changes, data can become out-of-date simply through inaction. Given this, asking consent once at the start was considered insufficient [S3]. Data is inherently static – it does not change, but people do [SQ61, SQ63]. This was the basis for participants' desired practice that not only the content of the data, but the family's consent over what happens to that data that both need to be reviewed regularly [CQ16]. A process of regular reviews around data use could prevent unwelcome surprises about how family data is handled [CQ2, CQ17] which could damage trust and hinder co-operation. Participants imagined data systems issuing notifications or update feeds for families and support workers showing significant events or data updates [SQ64]. Support workers currently get notified of police incidents, safeguarding concerns and hospital admissions, but alerts of data changes across the care ecosystem could provide useful triggers for reviews or discussions:
 
@@ -360,7 +360,7 @@ One reason for reviewing historical data and for requiring dialogue with the fam
 
 Regardless of the particular mechanism, it was ultimately felt that both data systems and support processes need to do a better job of supporting change.
 
-<a name="4.3.3.4">**Individual Agency & Family-sourced Data**</a>
+<a name="4.4.3.4">**Individual Agency & Family-sourced Data**</a>
 
 The idea of families reviewing data has significance not just for how it can help within the support interaction, but because it can give families an independent role in their data ecosystem. Both families and support workers imagined the family being able to interact with their civic data on their own, something that is currently not possible. This is a vital step for empowerment: if something goes wrong, families must be able to discover this and must be able to do something about it. Without a cycle of feedback involving individuals as stakeholders having the ability to review and correct data, data will quickly become inaccurate (Pollock, 2011). Thinking about data interaction at home unlocked additional thinking, such as families helping to fill gaps in data [SQ57] or contribute new data that may not otherwise be recorded [SQ58]. Giving families the ability to contribute new data would empower them to _'tell their own story'_ [FQ10]. Many participants saw this as-yet-unavailable capability as expected common sense:
 
@@ -372,7 +372,7 @@ Rather than solely relying on dialogue, families could provide new data more dir
 
 With new ways for self-expression, families could add context for support workers [FQ9, SQ55], unlocking new support topics [SQ56]. The overriding sense from both groups was that families having the ability to annotate or explain their data would allow them to hold authorities to account, and empower them to tell their story and _'show the real me'_, as illustrated in [FQ10, shown in [Table 4.3](#table-4.3) above].
 
-<a name="4.3.3.5">**Granular Access Controls**</a>
+<a name="4.4.3.5">**Granular Access Controls**</a>
 
 Participants identified that it is important to consider that different individuals within the family would have different roles, access and summaries, in order to respect individual privacy [SQ52, SQ48]. Psychological harm could be caused through information leakage, for example an adopted child finding out their true parentage (@bowyer2018family). To avoid this, data should be managed carefully with consent being less binary and more fine-grained access controls being offered:
 
