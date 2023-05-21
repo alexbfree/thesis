@@ -69,6 +69,8 @@ HDR's definition draws upon three distinct connotations or readings of its name:
 |   2. _Human "Data Relations"_: individuals' relationships with organisations that hold data about them, in service of the indirect data wants [[6.2](#6.2)] of transparency, individual oversight and involvement. |
 |   3. _Human/Data Relations_: how organisations manage their customers with respect to personal data. Similar to _public relations_ or _customer relations_, organisations choose how present their data practices (so as to build trust), and whether they will involve users with data, and provide support to understand data to their users. Organisations can empower individuals and build more effective customer relationships through HDR [[4.5.1](#4.5.1); [5.6.2](#5.6.2); [6.1.2](#6.1.2)]. |
 
+<span class="editnote">add ref to https://dl.acm.org/doi/fullHtml/10.1145/2751314 Verbeek unpacking the nature of relations such as hybridity, influence, points of contact.</span>
+
 Having scoped HDR, we see that 'better' HDR can be achieved by working to empower individuals [[6.3](#6.3)] through pursuit of the identified six wants for data relations. However, as the next section will explain, HDR is motivated in two distinct ways, to which those wants apply differently. As background understanding, let us examine more closely what role data plays in people's lives.
 
 The Role of Personal Data {#7.3}
