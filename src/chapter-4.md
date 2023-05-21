@@ -390,7 +390,7 @@ Theme 2 shows see that giving families a role in the creation and stewardship of
 
 The third theme looks at these imagined new data access capabilities and empowered role for data subjects in the wider sociotechnical context of how they could affect the support relationship. The topic of trust arose directly or indirectly in almost all participant conversations, and the findings show that transparent and open data handling and decision-making processes are key to support workers to earn the trust of supported families. Currently, families are mostly unaware of what data is held about them and what discussions about them are being had and have no choice but to trust both the support workers, and all the parties and technologies involved in the surrounding care ecosystem, which is very hard to do when they have little to no visibility of it. Without visibility, any error or surprise can be very damaging to this fragile trust and can harm the relationship, and conversely, increase transparency and explanation can avoid surprises and increase trust, improving the relationship.
 
-<a name="4.3.4.1">**Transparent, Respectful Data Handling**</a>
+<a name="4.4.4.1">**Transparent, Respectful Data Handling**</a>
 
 The findings in Themes 1 and 2 above clearly suggest that in seeking the best possible understanding, families must be engaged in a fact-centric way, which requires trust in the support worker (to interpret and record data fairly and accurately) and in the system (to keep data safe and prevent misuse). A good relationship with the support worker is critical [FQ1] to the family's care. Workers recognise the importance of being transparent with families:
 
@@ -417,7 +417,7 @@ An open and respectful approach is rooted not just in decency but in practicalit
 
 In current practice, data handling *is* generally respectful - data mishandling and unexpected uses of data are currently mostly avoided; but transparency is low, making the perception of respectful handling quite fragile and entirely based upon trust rather than direct experience.
 
-<a name="4.3.4.2">**Always Seek and Demonstrate Greater Understanding**</a>
+<a name="4.4.4.2">**Always Seek and Demonstrate Greater Understanding**</a>
 
 In order to earn, build and maintain trust, support workers must always be seeking to form a more complete and up-to-date picture of the family, in line with the finding in [4.4.3](#4.4.3.1) that individuals are more than what is stored in their records. This requires human interaction to uncover. Demonstrating a deep understanding of the family, and that a family's lived reality has greater priority than what a database says can be a critical to trust-building:
 
@@ -430,7 +430,7 @@ It is important that families understand workers' good intentions when accessing
 
 Participants also indicated that families' desire for transparency (as mentioned in the previous section) does not just imply reporting data usage, they need dialogue and human engagement to give them reassurance; trust and reassurance can is best achieved through a conversation [FQ1], not a data interface. Support processes need to change to better recognise the role of dialogue, rather than just consultation of a database, as the best way to achieve a rich and nuanced understanding.
 
-<a name="4.3.4.3">**Pro-actively Challenge Data-centric Norms**</a>
+<a name="4.4.4.3">**Pro-actively Challenge Data-centric Norms**</a>
 
 Exploring this need for reassuring dialogue in more depth, it is clear that to avoid damaging negative spirals of emotion, deliberate openness is needed from support workers (and the entire care system) [SQ18] as to what information is held, and how it will be used and shared, in order to alleviate fears of data being used _'against'_ families that can arise without that transparency—giving them instead confidence that their interests are being protected, thus putting them at ease [SQ20]. Data handling processes appear to be only explained once in very loose terms during initial engagement, for the purposes of collecting informed consent, and are rarely revisited. Workers could easily imagine explaining data practices in greater detail than they currently do [SQ41] and clearly there is a need for proactive action by workers to counter the inherent knowledge imbalance of data being collected into systems that they are gatekeepers for.
 
@@ -466,7 +466,7 @@ Data about supported individuals is integral to current care practice, improving
 
 Families' lack of awareness of held data and its use leads to false expectations and surprises, and in the worst cases, fear and distrust which can harm the care relationship. Family civic data currently serves a _proxy for family involvement in decision making_. Families are cut out of the loop. They should be able to take a role in relation to their data [@bowyer2018family]. A lack of such involvement removes any possibility for data checking, increasing the chance that data can contain inaccuracies or errors of judgement due to out-of-date or missing data, which can cause harm [@bowyer2018family; @crossley2022].
 
-<a name="4.4.1.1">**Trust**</a>
+<a name="4.5.1.1">**Trust**</a>
 
 Participants' responses confirm prior findings [@vandijck2014] that trust in the independence and integrity of data holders is critical to an effective support relationship. Yet trust in EH is currently fragile, resting upon feelings and impressions.  The findings suggest that a support worker can build trust by continually striving to develop and show a deep understanding of the family as individuals, beyond 'what the computer says'. Trust—in the system and the worker—can be earned by treating them as people, not _'objects to be administered'_ [@cornford2013; S4], leading to more effective support.
 
@@ -478,7 +478,7 @@ A health innovation project in South Africa echoes these findings on the importa
 
 > _'The user must feel or experience trust, […] feel that they can control and increase their own access to a system. Their uptake and use are essential for such a [digital ecosystem] to work or be regarded as a sustainable solution.'_—[@herselman2016]
 
-<a name="4.4.1.2">**Consent**</a>
+<a name="4.5.1.2">**Consent**</a>
 
 Viewing data as a shared resource to be curated together could provide an effective alternative to EH's currently ineffective consent model [[4.3.2](#4.3.2)]. Currently consent collected as part of the EHA serves as a a _point of severance_ [@luger2013] that hands authorities _carte blanche_ powers to collect and use families' data. Ongoing access and direct use of data by families would offer practical _dynamic consent_ [@kaye2015; @williams2015].
 If families were regularly 'talked through' their data, consent would become more reliable and less bureaucratic. Consent could shift from being seen as a formal permission to be certified and tracked, relying instead on the natural human instinct to speak up when you are shown something that seems amiss.
@@ -490,13 +490,13 @@ Giving the user a role in understanding and influencing the life of their own da
 
 > _'If, instead of disempowering users in the name of simplicity and ease of use, we acted to empower them and ourselves through increased literacy in the technologies employed, and constructed systems where data about behaviour can be more easily quantified and controlled by the user, then we would have the tools at our disposal for a more equitable negotiation with commercial and governmental forms of power.'_—[@bridle2016]
 
-<a name="4.4.1.3">**Families as Agents of Self-Care**</a>
+<a name="4.5.1.3">**Families as Agents of Self-Care**</a>
 
 Shared data interaction could make supported families stakeholders in their own case. The care worker need take less of a position of authority, instead becoming an ally to the family member(s), now empowered as an agent in their own self-care. Individuals would be more able to act and improve their situation than previously [[4.4.3](#4.4.3)], approaching the HDI concept of _agency_ [@mortier2014]. Such a shift could serve as an antidote to data-centrism in the system and society at large [[2.1.2](#2.1.2)]. With control over and input into their _'data self'_—the representation of them that is seen by the state—families would have greater trust that their interests are being served. Through data, they could take part in informed decisions to could improve their own lives.
 
 ### Effective Data Access Requires Human Interaction{#4.5.2}
 
-<a name="4.4.2.1">**The Need for Support**</a>
+<a name="4.5.2.1">**The Need for Support**</a>
 
 The findings shows that current data inequalities will not be solved simply by opening up databases to families and giving them access. They must be able to meaningfully comprehend the data and effect change based on what they learn. This involves the translation of raw data into meaningful information [[2.1.1](#2.1.1)]—through summaries, visualisations and explanations.
 
@@ -504,7 +504,7 @@ It is not clear who would have the access, skills and mandate to create such inf
 
 It is the human-to-human interaction that can make data access meaningful. Data use necessitates an ongoing conversation. Systems need a human face or point of contact that individuals may put their trust in and to whom they can address questions. Access only to raw data would be inadequate and limiting [@cornford2013].
 
-<a name="4.4.2.2">**Working Together**</a>
+<a name="4.5.2.2">**Working Together**</a>
 
 Explorations of human interactions around data within the support relationship suggest that shared data interaction could lead to more effective discussions.
 The use of printouts, tablets or 2-in-1 devices to show data rather than verbally report it, can provide a focal point, optimising the discussion. The data representations would function as a _boundary object_ [@bowker2016; @star1989; @star2010], just as the data cards did [@bowyer2018family].
@@ -513,9 +513,9 @@ families to 'open up'. Many participants talked about how looking at data could 
 
 Shared data interaction would also enable support workers to be less adversarial. They could position themselves as equals (_'Let's make sure this data is right.'_) and avoid appearing to side with the data (_'Our records say that you have…'_). As we see in this study, data representations serve as _'things to think with'_ [@bowyer2018family; [3.4.2](#3.4.2)]. Shared data interaction—played out in abstract through the use of storyboarding cards in Workshop C—helped participants to navigate scenarios and quickly imagine possible actions together.
 
-<a name="4.4.2.3">**Agency & Negotiability**</a>
+<a name="4.5.2.3">**Agency & Negotiability**</a>
 
-Yellow-bordered cards (for families) and blue-bordered cards (for staff) triggered both parties to take ownership of their piece of the puzzle, placing their 'own' actions without any direction having been given as to who should place which cards. Parents and staff had each taken a role in the scenario and felt ownership over the choice of options available to them. Similarly, green-bordered cards (actions involving both parties) usually resulted in both parties discussing and agreeing a view before the card was placed, showing that the way data is presented is key to how people respond to it. This gives some insight into how the dynamics of shared data interaction might work if implemented in practice. Feeling able to perfom actions such as commenting or correcting data would provide some _agency_ [@mortier2014] for family members;
+Yellow-bordered cards (for families) and blue-bordered cards (for staff) triggered both parties to take ownership of their piece of the puzzle, placing their 'own' actions without any direction having been given as to who should place which cards. Parents and staff had each taken a role in the scenario and felt ownership over the choice of options available to them. Similarly, green-bordered cards (actions involving both parties) usually resulted in both parties discussing and agreeing a view before the card was placed, showing that the way data is presented is key to how people respond to it. This gives some insight into how the dynamics of shared data interaction might work if implemented in practice. Feeling able to perform actions such as commenting or correcting data would provide some _agency_ [@mortier2014] for family members;
 The availability of capabilities over data, including the ability to raise a question or start a conversation would satisfy the second HDI requirement of _negotiability_. Conversely, an inability to act upon or influence shown data and its use would indicate a lack of negotiability, reinforcing the idea that simply viewing data is insufficient.
 
 Efforts to deliver effective HDI capabilities in future should therefore focus upon the role of the human in the information system, as a data interface is limited by its operational context as to its ability to truly offer meaningful actions to users.
@@ -534,7 +534,7 @@ In pursuit of RQ2 [[3.3.2](#RQ2)], the workshops explored the role of data withi
 
 ![Figure 4.2: Current Model of Data Interaction, <br/>and Proposed Model of Shared Data Interaction](./src/figs/fig4.2-shifting-locus.png)
 
-<a name="4.4.3.1">**Removing the Gatekeeper**</a>
+<a name="4.5.3.1">**Removing the Gatekeeper**</a>
 
 The current and imagined approaches are represented in [Figure 4.2](#figure-4.2).
 
@@ -546,7 +546,7 @@ The removal of the gatekeeper role redistributes the power to interpret, select 
 
 Support for shifting the LDM through shared data interaction is seen in the findings: Both families and staff said they would value a shared data interaction approach. Multiple participants independently imagined benefits of reviewing data and consent together [[4.4.2](#4.4.2.2); [4.4.3](#4.4.3.2); [4.4.3](#4.4.3.3)]. Participants perceive shared data interaction as an improvement, but it has not been tested in practice, so the remainder of this subsection will consider the benefits and implications of such a shift.
 
-<a name="4.4.3.2">**Individual/Family Benefits**</a>
+<a name="4.5.3.2">**Individual/Family Benefits**</a>
 
 Shared data interaction could empower families by giving them a role to play as agents in the life of their data, and a new ability to create and curate their own _data self_ so that it is as fair, accurate and representative as possible [@bowyer2018family; [4.5.1](#4.5.1.3)]. They would be further empowered by having access to view metrics by which their progress is judged, as they could
 take steps to influence any poorer metrics, and then use the improved metrics as confidence-building evidence of growth—a positive feedback cycle that is hardly possible at present.
@@ -559,7 +559,7 @@ Benefits to supported individuals can be seen as benefits to the EH practitioner
 
 Provided the individual remains engaged, informed and understands the data and processes that exist, the scope for breaches of consent by workers is reduced because at every meeting (and, with personal data interfaces, outside those meetings) supported families are involved in a conversation that directly enables them to voice their approval or concerns for the ways their data is being used.
 
-<a name="4.4.3.4">**Practical Challenges**</a>
+<a name="4.5.3.4">**Practical Challenges**</a>
 
 <span class="editnote">add forward refs to limitations?</span>
 
