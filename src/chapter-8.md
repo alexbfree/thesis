@@ -91,6 +91,8 @@ Due to these collaborations and the ongoing and parallel nature of many of these
 Mapping the Human Data Relations Landscape {#chapter-8}
 ==========================================
 
+<span class="editnote">Clarify Data/Information labelling in 7.5 and chapter 8)</span>
+
 > _"There are certain things you do not in good conscience do to humans. To data, you can do whatever you like."_
 >—Nikhil Sonnad (data journalist and technology commentator)
 
@@ -126,7 +128,7 @@ Data is **immobile** in that is very difficult to move it out of its environment
 
 People need to be able to ask questions of their data [[Table 5.4](#table-5.4); [4.4.2](#4.4.2.4)]. But data is **not interrogable**. It must stand for itself, yet there is no obvious way to ask a question about the meaning of the data or its ability to answer a particular question. To ask questions of data requires either the co-operation of the data holder or advanced technical skills in data querying and analysis (assuming the data is complete and contextualised). Data needs to be **malleable**—capable of being broken down, looked at from different perspectives, and reconstituted in different ways. This goes beyond visually representing the data, and implies an ability to interact with the data to produce new interpretations and insights to investigate specific questions.
 
-To overcome these obstacles, data must be freed from its current constraints and moved into environments where it can be freely examined and reconstituted without restriction. This leads to Principles [2](#principle-2)—that data should be united and unified so that it can be interrogated holistically and without artificial constraints of device, format or platform.
+To overcome these obstacles, data must be freed from its current constraints and moved into environments where it can be freely examined and reconstituted without restriction. This leads to Principle [2](#principle-2)—that data should be united and unified so that it can be interrogated holistically and without artificial constraints of device, format or platform.
 
 Furthermore as [Principle 3](#principle-3) explains, data will only become useable once we change its nature. Since the 1970s, drawing on the then-common metaphor of a filing cabinet, computers have considered _files_ as the basic material that users will interact with; largely static objects which are optimised for reference rather than use. Where we do interact with data as information instead of files, that information is typically presented in limited contexts within certain products or apps [[Principle 1](#principle-1)]. To move up the DIKW pyramid [[2.1](#2.1)], we need smarter computer systems, that move beyond files [@bowyer2011filesdie]. We need systems whose basic material is not files, but pieces of human information.
 

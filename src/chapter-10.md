@@ -12,14 +12,21 @@ Thesis Conclusion {#chapter-10}
 
 This Digital Civics PhD has explored, from an constructivist, individualist, and pragmatist point of view, the nature of the power imbalance between individuals and those who hold data about them. It has built upon literary bodies of work in multiple disciplines including information theory, data rights legislation, surveillance capitalism, Personal Information Management, Human-Computer Interaction, Human-Data Interaction, Personal Data Ecosystems and Human-centered Design. In doing so, it identified a research gap around the lived experience of today's data-centric world, recognising that there was a need to explore the role that personal data should play in people's lives, and how the current power imbalance over personal data [[2.1.2](#2.1.2)] affects people's attitudes and capabilities.
 
-Through the Case Studies in Section [II](#section-ii) it explored the this research gap, reaching in [Chapter 6](#chapter-6) within Section III a clear answer to the [[2.4](#RQ)] in terms of six wants that people have in their direct and indirect data relations; people want:
+Through the Case Studies in Section [II](#section-ii) it explored this research gap, reaching in [Chapter 6](#chapter-6) within Section III a clear answer to its research question [[2.4](#RQ)] in terms of six wants that people have in their direct and indirect data relations; people want:
 
   - visible, understandable and useable data, as well as
   - process transparency, individual oversight and involvement in decision making.
 
 These six wants provided a basis for envisioning a world where people become empowered digital citizens with mastery of their own personal data.
 
-Through its unique two-track approach of real-world project placements taking place alongside the participatory research, as described in [Section IV](#section-iv), this evolving vision for better relations with and through data was tested, refined and scrutinised through a practical, sociotechnical lens that began consideration of a further question, of how the world might be changed towards this new vision. The result of this hybrid learning is presented as a new research agenda, _Human Data Relations (HDR)_, with four clear objectives, which is detailed in [Chapter 7](#chapter-7) within Section III. Through [Section IV](#section-iv), this new research agenda was given flesh, by mapping out the understood obstacles to progress and providing four strategic trajectories for pursuing societal change towards better HDR:
+Through its unique two-track approach of real-world project placements taking place alongside the participatory research, as described in [Section IV](#section-iv), this evolving vision for better relations with and through data was tested, refined and scrutinised through a practical, sociotechnical lens that began consideration of a further question, of how the world might be changed towards this new vision. The result of this hybrid learning was presented as a new research agenda, _Human Data Relations (HDR)_. HDR was defined in [Chapter 7](#chapter-7) within Section III, culminating in the expression of four clear objectives:
+
+1. data & information awareness and understanding;
+2. data & information useability<sup>[11](#fn11)</sup>;
+3. data ecosystem awareness and understanding; and
+4. data ecosystem negotiability.
+
+Through [Section IV](#section-iv), this new research agenda was given flesh, by mapping out the understood obstacles to progress when pursuing these objectives, and providing four strategic trajectories for pursuing societal change towards better HDR:
 
   - discovery-driven activism,
   - building human-centric life interfaces,
@@ -31,46 +38,33 @@ What remains for this chapter to address, is to distil the learnings of what peo
 Principles for Generative Action{#10.1}
 ------------------------------------------
 
-<span class="editnote">WRITE INTRO AND ENDING TO THIS SECTION ON DESIGN INSIGHTS. Notes: New conclusion chapter for the entire PhD which consolidates and draws out takeaways from the work to link together the HDR framework, insights from studies 1 and 2 and the interventions developed in Part B. This includes reorganising existing content, as opposed to substantial rewriting e.g. moving content from ‘Insights’/’Contributions’ and seeking to formulate recommendations for design using the HDR framework.</span>
-<span class="editnote">include the idea that we are not talking just about interface design or interaction design, but also the design of sociotechnical actions, interactions and relationships.</span>
-<span class="editnote">DE TABLIFY ALL THESE INSIGHTS</span>
-<span class="editnote">Notes on having insights here: Need to pull out lessons from the insights in Ch 9 – which will be presented in Ch 10. This PhD has been very well signposted and documented throughout – however, the conclusion felt very short by comparison to levels of detail in chapter summaries. There are so many fascinating takeaways from this work. Need to move some of that detail into the conclusion, to really help guide the reader on the key takeaways. The intro already did this to an extent but good to reiterate at the end of the journey too.This is reorganisation by pulling from ‘Insights’, ‘Contributions’, other domains of PhD – it is a reordering of existing material you have. </span>
+In line with this researcher's objectives [[1.1.1](#1.1.1)], this PhD set out to have an impact upon the world with regard to tackling the power imbalance over personal data. Indeed, through publications, methodological contributions and industry adoption [[1.2](#1.2); [1.3](#1.3)] it already has. In order to maximise potential impact, this thesis will conclude not by providing a prescriptive roadmap for HDR, but by sharing a versatile set of principles that can be applied by all who wish to pursue this research agenda.
+
+The principles are framed as principles for _generative action_, which refers to the idea of producing solutions that themselves stimulate further solutions, in line with the concept of _generativity_, that in psychology refers to the creation of something novel, valuable and meaningful [@mcadams1996], and in sociology refers to a stage of adult development focused on productivity, creativity and contributing to society [@slater2003].
+
+In recognition of the fact that the power imbalance over personal data is a sociotechnical problem, these principles are broader than just design insights for influencing UI design or software system specifications; they could also be applied at a societal level to influence funding and policy decisions, social interventions, business strategy, grassroots activism and more. As such, they are a tangible and actionable output of this research, routed in human-centric philosophy, participatory findings and sociotechnical reality.
 
 ### Principle 1: Life Information makes Data Relatable
 
-| **<a name="insight-1">INSIGHT 1</a>: Life Information makes Data Relatable** |
-|:---------------------------------------|
-| In the pilot study and Case Study One, data cards were used to represent civic data [[Figure 3.7](#figure-3.7)]. In Case Study Two [[Figure 3.8](#figure-3.8)] and in Hestia.ai's _digipower_ investigation [[ARI7.2OLD](#ari-digipower-OLD)], a categorisation of provider-held data was displayed. In my BBC research report [@bowyer2020bbcreport], the use of **relatable examples** was identified as an important way to help people understand what a piece of data represents. Recalling that to make data meaningful, we must be able to interpret it as information [[2.1.1](#2.1.1)], this can be refined further: |
+In the pilot study and Case Study One, data cards were used to represent civic data [[Figure 3.7](#figure-3.7)]. In Case Study Two and in Hestia.ai's _digipower_ investigation [See [Section IV Introduction](#IV.2)], a categorisation of provider-held data was displayed [[Figure 3.8](#figure-3.8)]. In my BBC research report [@bowyer2020bbcreport], the use of **relatable examples** was identified as an important way to help people understand what a piece of data represents. Recalling that to make data meaningful, we must be able to interpret it as information [[2.1.1](#2.1.1)], this can be refined further:
 
 > **To make data meaningful, it needs to be expressed as information about your life**.
 
-|(continues…)|
-|:--|
-| Spreadsheets and 'big data' sound dry and (to many) dauntingly technical, but once those same datapoints are expressed as 'facts about your life', the hurdle of relatability is overcome [[4.3.1](#4.3.1)]. The effectiveness of applying this principle is evident in successful online services like Netflix, Spotify and Strava, and in social media platforms like Facebook: these interfaces show understandable everyday concepts like Friends, Events, Movies and Playlists, not files, records, folders or database rows. They have successfully _'pushed the technology into the background'_, in line with Weiser's vision [@weiser1991] and Rogers' _calm computing_. While exploring this idea of representing **life concepts** further at BBC R&D, I produced [Figure 8.2](#figure-8.2), which shows a near-exhaustive overview of the many different informational concepts in an individual's life that providers might hold as data:|
+Spreadsheets and 'big data' sound dry and (to many) dauntingly technical, but once those same datapoints are expressed as 'facts about your life', the hurdle of relatability is overcome [[4.3.1](#4.3.1)]. The effectiveness of applying this principle is evident in successful online services like Netflix, Spotify and Strava, and in social media platforms like Facebook: these interfaces show understandable everyday concepts like Friends, Events, Movies and Playlists, not files, records, folders or database rows. They have successfully _'pushed the technology into the background'_, in line with Weiser's vision [@weiser1991] and Rogers' _calm computing_. While exploring this idea of representing **life concepts** further at BBC R&D, I produced [Figure 10.1](#figure-10.1), which shows a near-exhaustive overview of the many different informational concepts in an individual's life that providers might hold as data:
 
-<span class="editnote">RENUMBER FIgure 8.2</span>
+![Figure 10.1: Life Concept Modelling](./src/figs/fig10.1-life-concepts.png){#figure-10.1}
 
-![Figure 8.2: Life Concept Modelling](./src/figs/fig8.2-life-concepts.png){#figure-8.2}
-
-|(continues…)|
-|:--|
-| This diagram shows how most common personal data types handled today can be mapped to more relatable _life information_ concepts. These life concepts (exemplified where possible) can make data meaningful to individuals, and can help them find value in their data [[5.5.3](#5.5.4.1)].|
+This diagram shows how most common personal data types handled today can be mapped to more relatable _life information_ [[7.1](#7.1)] concepts. These life concepts (exemplified where possible) can make data meaningful to individuals, and can help them find value in their data [[5.5.3](#5.5.3.1)].
 
 ### Principle 2: Personal Data Needs to be United and Unified
 
-| **<a name="insight-2">INSIGHT 2</a>: Data Needs to be United and Unified** |
-|:-------------------------------------------------|
-| It is clear that better HDR involves recognising this splintered reality [@lemley2021] and moving beyond it. To make data useable for individuals, the diaspora must be united. This means that data from different sources must first be **united**—brought together—and then **unified**, which means making it into a collection of data about the individual and their life, rather than scattered slices of company data that may have secondary value to the individual. This is a multi-faceted sociotechnical problem of access, interpretation and _integration_ [@li2010; [2.2.3](#2.2.3)]]. Negotiability remains important; we can only unite data that we can access, and only data holders can fully explain it [see [8.3](#8.3) and [8.4](#8.4)]. Setting that aspect aside, the pragmatic way forward begins with creating a space where data can be held, combined, controlled and **owned** by the individual - _'a place for your personal data'_ [@jones2011pim,[[2.2.4](#2.2.4)]]. This can form the seed of their new human-centric personal data ecosystem. This follows Bergman's _subjective classification principle_: |
+It is clear that better HDR involves recognising the splintered and scattered reality of where our data is [@lemley2021; [[8.2.1](#8.2.1)]] and moving beyond it. To make data useable<sup>[11](#fn11)</sup> for individuals, the diaspora must be united. This means that data from different sources must first be **united**—brought together—and then **unified**, which means making it into a collection of data about the individual and their life, rather than scattered slices of company data that may have secondary value to the individual. This is a multi-faceted sociotechnical problem of access, interpretation and _integration_ [@li2010; [2.2.3](#2.2.3)]]. Negotiability remains important; we can only unite data that we can access, and only data holders can fully explain it [see [8.3](#8.3) and [8.4](#8.4)]. Setting that aspect aside, the pragmatic way forward begins with creating a space where data can be held, combined, controlled and **owned** by the individual - _'a place for your personal data'_ [@jones2011pim; [[2.2.4](#2.2.4)]]. This can form the seed of their new human-centric personal data ecosystem. This follows Bergman's _subjective classification principle_, as mentioned in [2.2.2](#2.2.2.6):
 
 > _'All related items should be classified together regardless of technological format'_—@bergman2003
 
-| (continues…)|
-|:--|
-| We could add: _'regardless of where they are held'_. This vision is embodied in the **Personal Data Stores** (PDS) concept [[2.3.4](#2.3.4)]. A PDS can brings together personal data from multiple sources that has never co-existed before. This enables the provision of new capabilities over one's digital life.  The BBC R&D Cornmarket project [[ARI7.1OLD](#ari-bbc-OLD)] examines how to build PDSs. In [Chapter 9.2](#9.2) I explore possible design approaches. At this stage, only the _concept_ is important. Once data is united and unified, PDSs enable the creation of new views of data that were not previously possible, because code can execute across data that was previously dispersed. For example, today each separate TV app, device or streaming service maintains separate records of what you have watched. Once unified in a PDS, it would be possible to present you with a unified view of all the past content you had viewed, across all channels, as this mock-up I made during my BBC internship shows:|
+We could add: _'regardless of where they are held'_. This vision is embodied in the **Personal Data Stores** (PDS) concept [[2.3.4](#2.3.4)]. A PDS can brings together personal data from multiple sources that has never co-existed before. This enables the provision of new capabilities over one's digital life.  The BBC R&D Cornmarket project [See [Section IV Introduction](#IV.2)] examines how to build PDSs. In [9.4](#9.4) I explored possible design approaches. At this stage, only the _concept_ is important. Once data is united and unified, PDSs enable the creation of new views of data that were not previously possible, because code can execute across data that was previously dispersed. For example, today each separate TV app, device or streaming service maintains separate records of what you have watched. Once unified in a PDS, it would be possible to present you with a unified view of all the past content you had viewed, across all channels, as this mock-up I made during my BBC internship shows:
 
-<span class="editnote">RENUMBER FIgure 8.3</span>
-
-![Figure 8.3: Mock-up of a Unified TV Viewing History Interface](./src/figs/fig8.3-unified-watch-history.png){#figure-8.3}
+![Figure 10.2: Mock-up of a Unified TV Viewing History Interface](./src/figs/fig10.2-unified-watch-history.png){#figure-10.2}
 
 ### Principle 3: Data must be Transformed into a Versatile Material
 
@@ -349,6 +343,7 @@ Legacy of This Thesis{#10.OLD2}
 
 to The Future of Human Data Relations
 
+<span class="editnote">REITERATE THE CONTRIBUTIONS - the conclusion felt very short by comparison to levels of detail in chapter summaries. There are so many fascinating takeaways from this work. Need to move some of that detail into the conclusion, to really help guide the reader on the key takeaways. The intro already did this to an extent but good to reiterate at the end of the journey too.This is reorganisation by pulling from ‘Insights’, ‘Contributions’, other domains of PhD – it is a reordering of existing material you have. </span>
 <span class="movenote">MOVE SOME DETAILS OF CONTRIBUTIONS ETC HERE FROM C1</span>
 <span class="editnote">UPDATE THIS SECTION TO INCLUDE SOME DETAIL AS WELL AS HIGH LEVEL</span>
 <span class="editnote">REMOVE REF TO PAR - REFERENCE my hybrid method instead</span>

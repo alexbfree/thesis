@@ -109,6 +109,8 @@ Lists of Tables by Chapter {.unnumbered .unlisted}
 Lists of Figures by Chapter {.unnumbered .unlisted}
 ---------------------------
 
+<span class="editnote">Check all Figure Numbers</span>
+
 ### Figures in Chapter 1 {.unnumbered}
 
 - [1.1](#figure-1.1) - Poster Presentation of Case Study One at CHI 2019
@@ -161,8 +163,8 @@ Lists of Figures by Chapter {.unnumbered .unlisted}
 ### Figures in Chapter 8 {.unnumbered}
 
 - [8. 1](#figure-8.1) - Obstacles and Resulting Insights in the HDR Opportunity Landscape
-- [8. 2](#figure-8.2) - Life Concept Modelling
-- [8. 3](#figure-8.3) - Mock-up of a Unified TV Viewing History Interface
+
+
 - [8. 4](#figure-8.4) - SubsCrab: An Example Application for Ecosystem Detection and Visualisation
 - [8. 5](#figure-8.5) - Some of the Many Aspects of Metadata that Might Exist About a Datapoint or Dataset
 - [8. 6](#figure-8.6) - The Panopticon Structure of the Illinois State Penitentiary
@@ -197,6 +199,12 @@ Lists of Figures by Chapter {.unnumbered .unlisted}
 - [9.21](#figure-9.21) - HDR Approach 4: Winning Hearts and Minds: Teaching, Championing and Selling the Vision
 - [9.22](#figure-9.22) - SILVER Health Data Viewing Interface
 - [9.23](#figure-9.23) - Summary of Generalised Change Strategies for Pursuing Better HDR, Using the ToC Model
+
+### Figures in Chapter 10 {.unnumbered}
+
+- [10. 1](#figure-10.1) - Life Concept Modelling
+- [10. 2](#figure-10.2) - Mock-up of a Unified TV Viewing History Interface
+
 
 ### Figures in 'Additional Reference Information' {.unnumbered}
 

@@ -1,6 +1,8 @@
 Defining a New Research Agenda: Human Data Relations {#chapter-7}
 =======================================================
 
+<span class="editnote">Clarify Data/Information labelling in 7.5 and chapter 8)</span>
+
 > _"What drives and drags the world are not machines, but ideas."_
 >—Victor Hugo (19th century poet)
 
