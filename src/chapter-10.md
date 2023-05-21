@@ -2,7 +2,7 @@
 
 <h2>Introduction to Section V</h2><a name='#section-v-intro'/>
 
-<span class="editnote">ADD NEW SUBSECTION INTRODUCING chapter 10 inc new parts here</span>
+The purpose of Section V is to reflect upon the learnings of this research and make them actionable and well-contextualised to future designers, researchers and innovators. [Chapter 10](#chapter-10) reflects back upon the thesis to produce a set of clear and actionable principles for better Human Data Relations as well as pragmatic and personal reflections on this body of work and the agenda it advocates, as well as positioning the PhD in terms of its potential legacy and limitations.
 
 Thesis Conclusion {#chapter-10}
 =================
@@ -10,21 +10,23 @@ Thesis Conclusion {#chapter-10}
 > _"Our research should transform, not just inform, society."_
 >—Kingsley ofosu-Ampong (researcher & lecturer in digital transformation)
 
-<span class="editnote">update C10 intro to account for the new sections and no longer part A and part B</span>
+This Digital Civics PhD has explored, from an constructivist, individualist, and pragmatist point of view, the nature of the power imbalance between individuals and those who hold data about them. It has built upon literary bodies of work in multiple disciplines including information theory, data rights legislation, surveillance capitalism, Personal Information Management, Human-Computer Interaction, Human-Data Interaction, Personal Data Ecosystems and Human-centered Design. In doing so, it identified a research gap around the lived experience of today's data-centric world, recognising that there was a need to explore the role that personal data should play in people's lives, and how the current power imbalance over personal data [[2.1.2](#2.1.2)] affects people's attitudes and capabilities.
 
-Section [6.3](#6.3) concluded Part One's academic enquiry with a clear answer to the question [[2.4](#RQ)] of what relationship people want with their personal data in order to be empowered. They want:
+Through the Case Studies in Section [II](#section-ii) it explored the this research gap, reaching in [Chapter 6](#chapter-6) within Section III a clear answer to the [[2.4](#RQ)] in terms of six wants that people have in their direct and indirect data relations; people want:
 
   - visible, understandable and useable data, as well as
   - process transparency, individual oversight and involvement in decision making.
 
-Section IV concluded it exploratory design discussions in [9.7](#9.7) by summarising the outlook for improving Human Data Relations, through four strategic trajectories for producing change in the HDR landscape:
+These six wants provided a basis for envisioning a world where people become empowered digital citizens with mastery of their own personal data.
+
+Through its unique two-track approach of real-world project placements taking place alongside the participatory research, as described in [Section IV](#section-iv), this evolving vision for better relations with and through data was tested, refined and scrutinised through a practical, sociotechnical lens that began consideration of a further question, of how the world might be changed towards this new vision. The result of this hybrid learning is presented as a new research agenda, _Human Data Relations (HDR)_, with four clear objectives, which is detailed in [Chapter 7](#chapter-7) within Section III. Through [Section IV](#section-iv), this new research agenda was given flesh, by mapping out the understood obstacles to progress and providing four strategic trajectories for pursuing societal change towards better HDR:
 
   - discovery-driven activism,
   - building human-centric life interfaces,
   - defending and exploiting the seams of the information landscape, and
   - championing and teaching the HDR vision.
 
-In this brief concluding chapter, I will bring the two parts of the thesis together, reflecting on my journey as a researcher, activist and innovator through this work, and contextualising the contributions of the thesis in terms of their legacy and future value.
+What remains for this chapter to address, is to distil the learnings of what people want from data in their lives (and how their wants might be met) into a set of principles from which future researchers, designers and activists might be able to generate new research projects, social interventions, policies, or other initiatives [[10.1](#10.1)], before reflecting critically on the research agenda [[10.2](#10.2)] and upon this body of research in terms of its limitations [[10.3](#10.3)], personal impact upon the researcher [[10.4](#10.4)] and potential legacy [[10.5](#10.5)].
 
 Principles for Generative Action{#10.1}
 ------------------------------------------
