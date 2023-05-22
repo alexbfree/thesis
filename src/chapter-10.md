@@ -293,17 +293,7 @@ Extrapolating this problem more generally, it is clear that (particularly in the
 
 The pursuit of better HDR is fundamentally a design problem. The designs it demands, however, may not always be implementable in practice. For example, some companies simply do not provide APIs to access the data that people want to access, nor are they compelled to do so. As experiences with Cornmarket's PDS prototype showed, building user experiences that enabled people to obtain data via GDPR requests and download portals and then upload them into the PDS proved not only technically difficult and hard to design, but these user experiences were very complex and unsatisfactory to users, and worse still would need to be repeated whenever an up-to-date view of data was required. As Case Study Two suggests [[5.6.1](#5.6.1)], something that would help greatly here is a recognition by policymakers and data holders, that one-off, manual access to data is inadequate, and that really what people need (both programmatically as data and in human-readable form as information), is a live view or feed of their data. This could be integrated into Human-centric life interfaces and ecosystem viewers, which would become easier to design, build and use. This would represent a far less cumbersome user experience. Interestingly the desire for a feed of data changes also surfaced in Case Study One [[4.4.3](#4.4.3.3)] as something that would be valuable to both parties, validating the need to view data as dynamic and changing rather than static. It is clear that to build workable solutions in these areas that meet user needs will require multiple specialisations: in data rights law, in user experience design, and in specific domains such as commercial data holding or social care, and it is hard to see how these changes could be co-ordinated by any one party. It will be especially difficult for activist researchers, especially when efforts to build alternative ways to access platform-held data feeds can carry costly personal penalties, as in Louis Barclay's case [[Principle 12](#principle-12); @barclay2021].
 
-
-
-
-
-
-
-
-
-
-
-
+The technical and design challenge of building human information interfaces is a 'grand challenge' [@lufkin2017] level of problem. To build what is in essence an operating system that deals in life information and ecosystem information concepts rather than files and data records is, to put it mildly, non-trivial. That does not mean that is not necessary or worthwhile to engage in this endeavour though. Information modelling, such as that described in [9.4](#9.4), could help, as could semantic information standards [8.5.4](#8.5.4). Since a key part of such interfaces relate to both human and machine having a greater understanding of information with data, past guidelines on legibility [[2.3.2](#2.3.2)] and effective access [[2.1.4](#2.1.4)], as well as all the lessons from the PIM space [[2.2.2](#2.2.2)] about how people need to interact with personal information, are also important. It may also be possible to take lessons from the explainable AI space, where a report has identified four principles: Explanation, Meaningful, Explanation Accuracy and Knowledge Limits [@phillips2020]. However, explanations should not require expertise. As with explainable AI, being able to explain a highly complex technological construct is not useful to an individual if it requires them to gain expertise and interest in the technology itself. As Mark Weiser envisioned [@weiser1996], technology should ideally recede into the background of our lives. Thus, explainability and understandability should also be very much be anchored in the human side of human data relations, rather than in the technology and the data.
 
 
 
