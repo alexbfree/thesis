@@ -146,7 +146,7 @@ As [Figure 7.2](#figure-7.2) shows, the need for data to be understandable, visi
 Better Human Data Relations as a Recursive Public{#7.6}
 -------------------------------------------------
 
-Let us revisit the stance from which we approach the goals of better HDR. This PhD is grounded in participatory action research and experience-centred design [[3.2](#3.2)]. Using a _Digital Civics_ [@vlachokyriakos2016] approach to understand people's unmet needs, we can model how the world should change. Such research is political [[3.2.1](#3.2.1)], seeking to correct an imbalance in the world through _adversarial design_ [@disalvo2012]. Where the Case Studies' track embraced participatory investigation, the embedded research track moves forward from the perspective of an activist researcher, exploring how individuals and groups can actually change their world to meet the established understanding of what should change. By taking this role, we can consider ourselves (those who pursue better HDR, or _HDR reformers_ as a shorthand) as a nascent _recursive public_ [@p2pwikiRecursivePublic]. This term originates in the free software movement to describe:
+Let us revisit the stance from which we approach the goals of better HDR. This PhD is grounded in participatory research and experience-centred design [[3.2](#3.2)]. Using a _Digital Civics_ [@vlachokyriakos2016] approach to understand people's unmet needs, we can model how the world should change. Such research is political [[3.2.1](#3.2.1)], seeking to correct an imbalance in the world through _adversarial design_ [@disalvo2012]. Where the Case Studies' track embraced participatory investigation, the embedded research track moves forward from the perspective of an activist researcher, exploring how individuals and groups can actually change their world to meet the established understanding of what should change. By taking this role, we can consider ourselves (those who pursue better HDR, or _HDR reformers_ as a shorthand) as a nascent _recursive public_ [@p2pwikiRecursivePublic]. This term originates in the free software movement to describe:
 
 > _'a collective, independent of other forms of constituted power, capable of speaking to existing forms of power through the production of actually existing alternatives'_–@kelty2008
 
@@ -166,6 +166,7 @@ This idea of reconfiguring society in this way has been conceived as _civic hack
 - the 'right to repair' movement [@svensson2018];
 - 'makers' and digital DIY enthusiasts [@altsitsiadis2021; @gauntlett2015];
 - humane technology [@harris2013];
+- design justice [@costanzaChock2020];
 - self-sovereign identity [@satoru2021];
 - user liberation [@edwards2004];
 - explainable AI [@explainableAI]; and
