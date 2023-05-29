@@ -56,13 +56,35 @@ These two splits produce four dimensions of change, and form four quadrants repr
 - _**Collective/Internal (CI)**_: This bottom-left quadrant represents changes in the shared knowledge of groups of people or to the collective identity or values of social groups.
 - _**Collective/External (CE)**_: This bottom-right quadrant represents changes to the structures and procedures within which people operate, including technology, law, societal norms and communications.
 
-Key to ToC thinking is the idea that making changes in one quadrant can stimulate change in others; for example, collective learning about data attitudes and practices, such as the research conducted in this PhD (lower left quadrant), could inform the design of new technologies, interfaces or processes (lower right quadrant), which if built could make new structures available to have an impact on improving individual-provider relationships (upper-right quadrant). The changes to those relationships could then in turn lead to individuals thinking and feeling differently (upper left quadrant), for example feeling more empowered or having greater awareness of data practices. The diagram at the start of each of the following four subsections illustrate that approach's trajectory of change through the ToC quadrants.
+Key to ToC thinking is the idea that making changes in one quadrant can stimulate change in others; for example, collective learning about data attitudes and practices, such as the research conducted in this PhD (lower left quadrant), could inform the design of new technologies, interfaces or processes (lower right quadrant), which if built could make new structures available to have an impact on improving individual-provider relationships (upper-right quadrant). The changes to those relationships could then in turn lead to individuals thinking and feeling differently (upper left quadrant), for example feeling more empowered or having greater awareness of data practices. The diagram at the start of each of the following subsections 9.3 to 9.6 illustrate that approach's trajectory of change through the ToC quadrants.
 
-## Additional Background: Databox{#9.2}
+## Additional Background on Personal Data Stores: Databox, Solid and the Hub-of-All-Things{#9.2}
 
-<span class="editnote">add links and text about databox, and links to the EDPS report</span>
-<span class="editnote">number this section and everything else accordingly</span>
-<span class="editnote">notes: https://workflowy.com/#/193639c56821</span>
+Before explaining the four approaches, and in particular Approach 2 ['Building the Human-centric Future'–[9.4](#9.4)] it is important to acknowledge some additional developments in the personal data economy space beyond those outlined in [2.3.4](#2.3.4). Building upon common ideals of personal data ecosystems to control one's personal data and influence how and when it is used, three notable initiatives have emerged and developed over the last decade in academic and entrepreneurial contexts:
+
+1. The _Hub-of-All Things (HAT)_ project, which aims to provide an online 'Personal Data Account' PDS into which individuals can store their personal data.
+2. The _Databox_ project, which is based around a PDS software that could store users' personal data at home for secure processing and personal use.
+3. The _Solid_ project, which offers _Solid Pods_, open-source personal data store software which allows users to keep and harness their personal data.
+
+The importance of these efforts and others in this space such as Mydex and NextCloud, has been acknowledged by the European Union's Data Protection Supervisor, which names these (confusingly in light of the earlier use of this same term [2.2.2](#2.2.2)) as Personal Information Management Systems or PIMS [@attoresi2020].
+
+The Hub-of-All-Things project was founded by Professor Irine C.L. Ng of the University of Warwick [@ng2018] and collaborators. A proof of concept was built in 2016 and the initiative continues to offer an online service today at hubofallthings.com through a private-public collaboration between a commercial entity called Dataswyft and the non-profit HAT Community Foundation which acts as a regulator. The HAT project includes a consent and data sharing framework and an app ecosystem designed to encourage the emergence of new services and apps based upon the platform. The HAT project has produced a set of 11 principles [@ng2018]:
+
+1. Co-production access rights without lien;
+2. Alienable rights;
+3. Non-rivalrous consumption;
+4. Expansibility;
+5. Excludability;
+6. Data Derivatives;
+7. Data as Store of Value;
+8. Data as Medium of Exchange;
+9. Transparency;
+10. Trust Anchoring; and
+11. Market Design
+
+The Databox project was founded in 2015 by a consortium of researchers from the Universities of Cambridge and Nottingham as well as Imperial College London, including two of the authors of the original Human Data Interaction vision paper [@haddadi2015]. The premise was to pursue the HDI ideals of agency, legibility and negotiability by creating a physical box that could serve as a trusted platform from which individuals could control, manage,  explore and query their personal data [@haddadi2016databox]. The design of the Databox emphasised privacy-preserving data processing, and secure data sharing using cryptographic techniques. Like HAT, it developed an ecosystem to encourage app development, and sought wider collaborations across academia and industry to drive adoption of the technology. BBC R&D ran a project as part of their 'Living Room of the Future' study, where they developed Databox into a physical consumer-friendly hardware device called the _BBC Box_ [@bbcbox2019]. The Databox has also been positioned as a tangible embodiment of the data protection and accountability principles that the GDPR seeks to embody, including data portability and data access, that could be especially applied in the Internet of Things (IoT) space [@urquhart2018; @urquhart2019]. In this IoT context the Databox project has also been examined in terms of its potential to yield economic value for individuals who might wish to sell their own data [@perera2017].
+
+The Solid project was founded by Sir Tim Berners-Lee, creator of the World Wide Web, and is operationalised through his company Inrupt [@bernersLee2022inruptSolid; @lohr2021]. By establishing protocols and standards for personal datastores, known as Solid PODs (Personal Online Data Stores), users can be empowered to choose different providers of PDS hosting services. As with Databox and HAT, the goal is to create an ecosystem of apps, services and providers. The decentralised approach of Solid aims to create a healthy ecosystem where users have agency and negotiability to change data service providers and move data freely as their needs evolve [@mansour2016; @sambra2016; @solanki2021].
 
 Approach 1 to Improving HDR: Discovery-Driven Activism{#9.3}
 ------------------------------------------------------
