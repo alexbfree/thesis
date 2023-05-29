@@ -86,6 +86,8 @@ The Databox project was founded in 2015 by a consortium of researchers from the 
 
 The Solid project was founded by Sir Tim Berners-Lee, creator of the World Wide Web, and is operationalised through his company Inrupt [@bernersLee2022inruptSolid; @lohr2021]. By establishing protocols and standards for personal datastores, known as Solid PODs (Personal Online Data Stores), users can be empowered to choose different providers of PDS hosting services. As with Databox and HAT, the goal is to create an ecosystem of apps, services and providers. The decentralised approach of Solid aims to create a healthy ecosystem where users have agency and negotiability to change data service providers and move data freely as their needs evolve [@mansour2016; @sambra2016; @solanki2021].
 
+Taken together, these initiative align well with the MyData ideology for a more human-centric personal data landscape, and can be seen as attempts to operationalise the call for 'an ecosystem of data trusts' working through public and private initiatives in order to rebalance digital power [@delacroix2019].
+
 Approach 1 to Improving HDR: Discovery-Driven Activism{#9.3}
 ------------------------------------------------------
 
