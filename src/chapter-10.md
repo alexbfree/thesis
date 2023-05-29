@@ -68,11 +68,7 @@ We could add: _'regardless of where they are held'_. This vision is embodied in 
 
 ### Principle 3: Data must be Transformed into a Versatile Material
 
-<span class="editnote">contrast to https://www.cambridge.org/core/journals/proceedings-of-the-international-conference-on-engineering-design/article/data-materialisation-a-new-undergraduate-course-for-a-data-driven-society/ACC92B9D4D5D97D5F418B95605BC1ED9</span>
-
-| **<a name="insight-3">INSIGHT 3</a>: Data Must Be Transformed into a Versatile Material** |
-|:-------------------------------------------------|
-| In Case Study Two [[Table 5.4](#table-5.4); @bowyer2022gdpr, supplemental materials], participants expressed diverse goals for personal data, including reflection, pattern-finding, goal-tracking, and creative use. In the PIM space [[2.2.2](#2.2.2)] relevant innovations include associative exploration, spatial arrangement, and embodied interaction for different contexts) Drawing on all of these, allows me to infer that unified data must be transformed into a **versatile material**. Individuals need to be able to use data—represented as facts or assertions about one's life by performing manipulations such as: |
+In Case Study Two [[Table 5.4](#table-5.4); @bowyer2022gdpr, supplemental materials], participants expressed diverse goals for personal data, including reflection, pattern-finding, goal-tracking, and creative use. In the PIM space [[2.2.2](#2.2.2)] relevant innovations include associative exploration, spatial arrangement, and embodied interaction for different contexts) Drawing on all of these, allows me to infer that unified data must be transformed into a **versatile material**. Individuals need to be able to use data—represented as facts or assertions about one's life by performing manipulations such as:
 
   - creating,
   - deleting,
@@ -86,15 +82,11 @@ We could add: _'regardless of where they are held'_. This vision is embodied in 
   - organising, and
   - separating.
 
-| (continues…)|
-|:--|
-| _Data as material_ will be new to most except data scientists. This is novel not just for end users but for designers too. Eva Deckers, in her work on _data-enabled design_, an approach to design which also calls for data to become a material, notes (and we could expand this to laypeople too): |
+_Data as material_ will be new to most except data scientists. This is novel not just for end users but for designers too. Eva Deckers, in her work on _data-enabled design_, an approach to design which also calls for data to become a material, notes (and we could expand this to laypeople too):
 
 > _"Designers are in general not trained and prepared to work with data. They're not equipped with the right tools. Data manipulation is not part of the schools' curriculum and designers are rarely interested in understanding data."_—[@deckers2018].
 
-| (continues…)|
-|:--|
-| Her work with colleagues on the 'connected baby bottle' illustrates how treating data as a design material creates a novel iterative user-centred development of new capabilities [@bogers2016]. In HDR terms, I theorise that what this material should _be_ is _human information_ - life information and ecosystem information [[7.2OLD](#7.2OLD)]. Data useability therefore calls for the creation of systems that enable **human information to be treated as a material**.|
+Her work with colleagues on the 'connected baby bottle' illustrates how treating data as a design material creates a novel iterative user-centred development of new capabilities [@bogers2016]. The HDR principle of data as versatile material is distinct from prior conceptualisations of _data materialisation_ as the making of physical objects that manifest data [@beghelli2019], but rather refers to the realisation of human information of a pliable digital substance which users can manipulate for themselves in order to gain new insights and exercise new capabilities. In HDR terms, I theorise that what the material should _be_ is _human information_ - life information and ecosystem information [[7.4](#7.4)]. To achieve data useability [[6.1.3](#6.1.3)] therefore implies a call for the creation of systems that enable **human information to be treated as a material**.
 
 ### Principle 4: Ecosystem Information is an Antidote to Digital Life Complexity
 

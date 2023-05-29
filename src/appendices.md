@@ -1,8 +1,6 @@
 Appendices {.unnumbered}
 ===========
 
-<span class="goodnote">good</span>
-
 A The Pilot Study: Published CHI 2018 Paper {#appendix-a .unnumbered}
 -------------------------------------------
 

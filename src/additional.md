@@ -4,8 +4,6 @@ Additional Reference Information {.unnumbered .unlisted}
 ARI2 Additional Reference Information for Chapter 2 {#ari-chapter-2 .unnumbered}
 ===========
 
-<span class="goodnote">good</span>
-
 ARI2.1 Data Protection Terminology and a Legal Definition of Personal Data {#ari-data-terms .unnumbered}
 --------------------------------------------------------------------
 
@@ -26,8 +24,6 @@ For simplicity, this thesis uses everyday layperson-friendly terms rather than t
 ARI3 Additional Reference Information for Chapter 3 {#ari-chapter-3 .unnumbered}
 ===========
 
-<span class="goodnote">good</span>
-
 ARI3.1 The Private Data Viewing Monitor {#ari-monitor .unnumbered}
 ---------------------------------------
 
@@ -37,8 +33,6 @@ By removing the filter layer on an old monitor and modifying cinema IMAX glasses
 
 ARI4. Additional Reference Information for Chapter 4 {#ari-chapter-4 .unnumbered}
 ===========
-
-<span class="goodnote">good</span>
 
 ARI4.1 Family Civic Data Categories{#ari-fcd-types .unnumbered}
 ----------------------------
@@ -687,8 +681,6 @@ An additional Figure from my time on Cornmarket [See [Section IV Introduction](#
 
 ARI9 Additional Reference Information for Chapter 9 {#ari-chapter-9 .unnumbered}
 =====================================================
-
-<span class="goodnote">good</span>
 
 ARI9.1 How I compelled Spotify to improve their GDPR return {#ari-9.1 .unnumbered}
 ------------------------------------------------
