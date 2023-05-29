@@ -186,6 +186,8 @@ foreignaffairs.com/articles/140741/craig-mundie/privacy-pragmatism .</span>
 
 ![Figure 8.10: Mock-up of a Unified Interface for a Vacation](./src/figs/fig8.10-holiday-interface.jpg){#figure-8.10}
 
+The practice of value-sensitive design is well-established, and a valuable reference for any designer wishing to adopt this approach can be found in the work of Batya Friedman [@friedman2019].
+
 ### Principle 8: We Need to Teach Computers To Understand Human Information
 
 | **<a name="insight-8">INSIGHT 8</a>: We Need to Teach Computers To Understand Human Information** |
