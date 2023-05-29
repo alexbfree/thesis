@@ -65,7 +65,7 @@ Social science researchers have highlighted the critical role that law must play
 
 Following the Snowden revelations [@gellman2013] in 2013, attention and concern over personal data use has grown year on year. In 2018, the Cambridge Analytica scandal [@chang2018; @wikipedia2018cambAna] broke; the personal data of 87 million people, acquired from Facebook, was exploited with the apparent intent of influencing voting outcomes including the UK's 2016 Brexit referendum and the USA's 2017 election of Donald Trump. This, combined with widespread public information campaigns about GDPR, have led to a heightened awareness of personal data rights [@EUAFR2020]. At the time of writing in 2023, personal data protection laws and individual digital rights remain a rapidly evolving area.
 
-The summary of data protection legislation provided in this section does not attempt to be exhaustive. For additional context on data protection law, how it has evolved and how it applies to today's digital landscape, the publications of David Erdos are recommended [@erdos2015; @erdos2016; @erdos2022].
+The summary of data protection legislation provided in this section does not attempt to be exhaustive. For additional context and critique on data protection law, how it has evolved and how it applies to today's digital landscape, the publications of David Erdos are recommended [@erdos2015; @erdos2016; @erdos2019; @erdos2022].
 
 ### The Need for Practical and Effective Personal Data Access{#2.1.4}
 
@@ -230,8 +230,6 @@ An Alternative to Data-centrism: Human-centricity{#2.3}
 -------------------------------------------------
 
 ### Human-Computer Interaction (HCI) Foundations{#2.3.1}
-
-<span class="editnote">add more HCI refs per suggestions</span>
 
 Up until the 1980s, the only reasons to consider the relationship between a human and the computer they were using were ergonomics, comfort and efficiency. People were shielded from the complexities of the machines they were using—the machine did the work (usually a single task) and the human was just the _operator_. In the 1990s, the 'first wave' of what is now known as _Human-Computer Interaction (HCI)_ recognised humans as _actors_, often operating in groups, who had tasks to perform either using or assisted by technology [@bannon1995]. People were now _users_ of technology. Design thinking shifted from machine-centric to _user-centric design (UCD)_, motivated by the goal of helping the user to perform their tasks better. In the personal computer revolution of the 1990s, people began to work in complex and varied multi-user situations, and observation and understanding of a user's working environment and _context_ provided empathy that enabled better design.
 
