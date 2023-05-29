@@ -376,7 +376,7 @@ _'Some companies make it dead easy to get, but then the data is not massively us
 
 ### Theme 2: People Struggle to Understand, Use and Control Their Data{#5.5.3}
 
-<a name="5.5.4.1">**The Search for Personal Value in Data**</a>
+<a name="5.5.3.1">**The Search for Personal Value in Data**</a>
 
 Prior to receiving data, participants had anticipated discovering insights about their own lives by browsing and reflecting on their personal data, consistent with personal informatics literature [@li2010]. However, there was a comprehension gap between the useful information they imagined and the actual data returned; data was typically delivered as a bundle of technical files, which were hard to understand and often delivered without explanation. Some felt (in line with _effective access_ [[2.1.4](#2.1.4)]) that they lacked the necessary skills or tools to make the data understandable or useable _'for a non-techie person'_ (P11). When the researcher guided P7 to _jsonlint.com_, an online formatter, she found her JSON-formatted data more understandable. P2 made the point that data holders must be using tools themselves to make sense of people's data: _'**They're** not just looking at a JSON file, so I would like to have the same visualisation [as them]_.'
 
@@ -398,7 +398,7 @@ P6 saw the data accumulated by service providers as potentially forming part of 
 
 He described some of his data as _'a kind of personal history that has been quantified and sort of datafied'_.
 
-<a name="5.5.4.2">**Unuseable Data Formats**</a>
+<a name="5.5.3.2">**Unuseable Data Formats**</a>
 
 This personal value that captured data has the potential to offer shows that it is all the more important that participants be able to understand and make use of their data. Our participants found that the format in which data was returned often meant that it was not only difficult to understand, but difficult to use as well. Using data meant different things to different participants, with imagined uses including budgeting, record-keeping/archiving, or using the data for creative or fun purposes. Some participants (e.g. P5) saw value in potentially combining data from multiple sources, though this did not turn out to be practical. Participants did not know what data to expect, and generally imagined returned data being more useful than it turned out to be:
 
@@ -418,7 +418,7 @@ P11 highlighted a problem with his Tesco shopping data that was not just a matte
 
 On the face of it [this finding](#5.5.4.2) seems to contradict [the previous one](#5.5.4.1)—i.e. demands for both more technical and less technical data might seem contradictory. However, what we can infer is that participants collectively need _both_ useable technical data _and_ easy-to-read information summaries - and that those summaries should cover both the relatable life information encoded within the data _and_ the information _about_ the data, what it means and how to use it. This idea is explored further in [@bowyer2021twopurposes].
 
-<a name="5.5.4.3">**The Liability of Data You Can't Delete or Control**</a>
+<a name="5.5.3.3">**The Liability of Data You Can't Delete or Control**</a>
 
 Having recognised that potential value of data relating to their lives, before or during this research, several participants were concerned about personal data being held. P10 for example said with reference to dating site Bumble: _'Since I found my partner [and therefore no longer need a dating site] I deleted my account and I've been wondering, "Are they still keeping my data at the back?"'_ and with reference to both Instagram and Bumble, expressed a desire to have her data deleted and expected GDPR to play a role in the enforcement or verification of that deletion, something she could not otherwise be sure of. P8 considered the holding of sensitive data to be a liability that she was only willing to tolerate while she was actively using a service, and this was part of her motivation for targeting Natural Cycles:
 

@@ -9,7 +9,7 @@ The objective for Chapter 9 is to expand further on the map of the HDR landscape
 Having established a baseline understanding of key obstacles to the pursuit of HDR in the last chapter, Chapter 9 describes what I have learnt about how the HDR agenda [[Chapter 7](#chapter-7)] might be operationalised in practice, bearing those established obstacles in mind and building upon the design insights and Principles theorised in [Figure 8.1](#figure-8.1) and detailed in [10.1](#10.1). In developing and modelling specific approaches to the operationalisation of HDR, through the discussion in this chapter, I draw from multiple sources:
 
  - the findings from the participatory track [[Chapter 6](#chapter-6)];
- - self-experimentation, background research and explorations in the Case Study contexts ([SILVER](#IV.2) and [GDPR](#section-ii-research-contexts));
+ - self-experimentation, background research and explorations in the Case Study contexts ([SILVER](#IV.3) and [GDPR](#section-ii-research-contexts));
  - prior design, modelling and innovation work on understanding and changes and diminishing agency in the digital landscape;
  - my practical experiences from the embedded projects [see [Section IV Introduction](#section-iv-embedded-project-settings)];
  - the theoretical framing and research agenda of HDR laid out in [Chapter 7](#chapter-7); and
@@ -19,8 +19,8 @@ Across these different activities, I have informally adopted numerous stances, i
 
 In the following sections, I present four different 'flavours' or approaches to HDR reform which I have observed:
 
-1. **Discovery-Driven Activism** - see [9.3](#9.3); informed by: Hestia.ai & Sitra's [digipower project](#IV.1)
-2. **Building the Human-centric Future** - see [9.4](#9.4); informed by: BBC R&D's [Cornmarket project](#IV.2), prior design & innovation work, and networking with PDE companies like ethi, CitizenMe, and digi.me.
+1. **Discovery-Driven Activism** - see [9.3](#9.3); informed by: Hestia.ai & Sitra's [digipower project](#IV.2)
+2. **Building the Human-centric Future** - see [9.4](#9.4); informed by: BBC R&D's [Cornmarket project](#IV.1), prior design & innovation work, and networking with PDE companies like ethi, CitizenMe, and digi.me.
 3. **Defending User Autonomy and Hacking the Information Landscape** - see [9.5](#9.5); informed by: self-experiments, DERC's [Healthy Eating Web Augmentation Project](#IV.4), and prior personal research.
 4. **Teaching, Championing and Selling the HDR Vision** - see [9.6](#9.6); informed by: all four embedded projects, Case Study Two, past software industry experience and prior personal research.
 
@@ -106,7 +106,7 @@ I describe this approach as **Discovery-Driven Activism**. The discovery phase, 
 
 **_Subject Access Requests_** and **_Data Portability Requests_** [@ico2018] are two of the most powerful tools for this kind of investigation. Freedom of Information Requests have previously been used to obtain otherwise hidden data and information from governments and public sector organisations [@bbc2014foi]. Similarly, these new data access rights are beginning to be used to force commercial organisations to release personal data or information about data processing. There are challenges in non-compliance, as discussed in [5.5.2](#5.5.2.2) and [5.6.1](#5.6.1), but the ability for the individual to ask very broad or very precisely targeted questions and to be able to threaten a complaint to a Data Protection Authority (backed by a potential fine if their question is not answered) is a significant new power that HDR reformers can exploit. This new power is summarised by [Principle 9](#principle-9) in [10.1](#10.1): Individual GDPR requests can compel companies to change data practices.
 
-Facebook's _Download Your Information (DYI)_ tool, mentioned in Principle 9, represents a useful class of tool in the arsenal of the activist HDR reformer. Along with Google Takeout, it is one of number of _**data download portals**_ that allow users to download their own data. Since GDPR's introduction in 2018, an increasing number of large online platforms including Facebook, Google, Apple, Netflix, Twitter, Spotify, Uber, Instagram and Strava, faced with the need to reduce the cost impact of GDPR request handling for their large user bases, have developed and augmented online self-service portals available where users can download a copy of their personal data. This has some advantages over Subject Access Requests in that data can usually be obtained within minutes or hours rather than taking up to 30 days, but has some disadvantages in that the data returned is a voluntary offering by the company, that may not cover the data that the individual is seeking or entitled to and does not provide any ability to ask follow-up questions. This technique was sometimes used as a fallback means to obtain data in Case Study Two, and was used more strategically in the digipower project [See [Section IV Introduction](#IV.1)], which also examined its merits and limitations [@bowyer2022hestia].
+Facebook's _Download Your Information (DYI)_ tool, mentioned in Principle 9, represents a useful class of tool in the arsenal of the activist HDR reformer. Along with Google Takeout, it is one of number of _**data download portals**_ that allow users to download their own data. Since GDPR's introduction in 2018, an increasing number of large online platforms including Facebook, Google, Apple, Netflix, Twitter, Spotify, Uber, Instagram and Strava, faced with the need to reduce the cost impact of GDPR request handling for their large user bases, have developed and augmented online self-service portals available where users can download a copy of their personal data. This has some advantages over Subject Access Requests in that data can usually be obtained within minutes or hours rather than taking up to 30 days, but has some disadvantages in that the data returned is a voluntary offering by the company, that may not cover the data that the individual is seeking or entitled to and does not provide any ability to ask follow-up questions. This technique was sometimes used as a fallback means to obtain data in Case Study Two, and was used more strategically in the digipower project [See [Section IV Introduction](#IV.2)], which also examined its merits and limitations [@bowyer2022hestia].
 
 ### Data Flow Auditing{#9.3.2}
 
@@ -158,13 +158,9 @@ Then, considering the earlier observation by myself [@bowyer2011filesdie] and pr
 
 In modelling data as life information using the concepts shown in [Figure 9.5](#figure-9.5) and [Figure 9.6](#figure-9.6), it is important to come up with as simple a model as possible, so that the **_life interface_** is not overwhelmingly complex and unmanageable. Over several iterations, I was able to reduce the modelling of life information in a PDS down to the following four types - _activities_, _interactions_, _transactions_ and _datapoints_ [[Figure 9.7](#figure-9.7)]. These could correspond to four views or lenses within the user interface.
 
-<span class="editnote">renumber this figure</span>
-
 ![Figure 9.7: A Simple PDS Life Information Presentation Model](./src/figs/fig9.7-simple-data-model.jpg){#figure-9.7}
 
 Having decided upon models for the information within a PDS, it becomes much easier to design visual presentations of that information. [Figure 9.8](#figure-9.8) shows a design mock-up designed by Alex Ballantyne of BBC R&D of some of the views of life information that one could offer within a PDS:
-
-<span class="editnote">renumber this figure</span>
 
 ![Figure 9.8: Mock-up of Life Information Presented in a PDS Interface](./src/figs/fig9.8-dashboard-concept.png){#figure-9.8}
 
@@ -188,27 +184,21 @@ We then produced a mock-up app workflow for assigning different elements of your
 
 ![Figure 9.10: Mock-up: Browsing by Areas of Life](./src/figs/fig9.10-browse-by-areas-of-life.png){#figure-9.10}
 
-During a Cornmarket hack week, I coded a proof of concept: a functional prototype entity extractor, which is detailed in [ARI7.1OLD](#ari-bbc-OLD) and shown in [Figure ARI7.1](#figure-ari7.1).
+During a Cornmarket hack week, I coded a proof of concept for how users might be able to partition their digital life. This is detailed in [ARI7.1](#ari-7.1) and shown in [Figure ARI7.1](#figure-ari7.1).
 
 ### Entity Extraction From Pooled Life Data{#9.4.3}
 
-[Principle 11](#principle-11) offers a practical, theory-informed approach as to how we might start to build systems that are more able to understand the meaning of human information [[Principle 8](#principle-8)]: by building automatic entity identification systems. This is a technique that is already being used by corporations, both in products (such as semantic text analysis in the enterprise content analytics space) and for the interpretation of personal data. As an example of the latter, Facebook has developed an internal system called _world2vec_, shown in [Figure 9.12](#figure-9.12), through which it mines information about the world from the data that people generate through social media posts, messages and interactions. This information is exploited for commercial benefit (better targeting of social network users with personalised ads). It is about time similar techniques were used for individual benefit and personal data empowerment.
+[Principle 11](#principle-11) offers a practical, theory-informed approach as to how we might start to build systems that are more able to understand the meaning of human information [[Principle 8](#principle-8)]: by building automatic entity identification systems. This is a technique that is already being used by corporations, both in products (such as semantic text analysis in the enterprise content analytics space) and for the interpretation of personal data. As an example of the latter, Facebook has developed an internal system called _world2vec_, shown in [Figure 9.11](#figure-9.11), through which it mines information about the world from the data that people generate through social media posts, messages and interactions. This information is exploited for commercial benefit (better targeting of social network users with personalised ads). It is about time similar techniques were used for individual benefit and personal data empowerment.
 
-<span class="editnote">renumber this figure</span>
+![Figure 9.11: Facebook's World2vec Model, Semantically Modelling Human Information from Social Media Posts on Facebook [@peyshakhovic2020]](./src/figs/fig9.11-facebook-world2vec.png){#figure-9.11}
 
-![Figure 9.12: Facebook's World2vec Model, Semantically Modelling Human Information from Social Media Posts on Facebook [@peyshakhovic2020]](./src/figs/fig9.12-facebook-world2vec.png){#figure-9.12}
+Automatic 'best guess' attempts to arrange personal data in a PDS can go further than just association of related entities. In many cases, it is possible to programmatically determine the nature of a piece of data. [Figure 9.12](#figure-9.12) shows a detailed approach for identifying and classifying data automatically in a PDS, drawing on the previously identified data types in [Figure 9.5](#figure-9.5), the data attributes in [Figure 9.14](#figure-9.14), and the entities identified in [Figure 10.10](#figure-10.10). In [Figure 9.13](#figure-9.13), a more abstracted approach is shown looking at how data could be classified according to the four different life information concepts in [Figure 9.7](#figure-9.7).
 
-Automatic 'best guess' attempts to arrange personal data in a PDS can go further than just association of related entities. In many cases, it is possible to programmatically determine the nature of a piece of data. [Figure 9.13](#figure-9.13) shows a detailed approach for identifying and classifying data automatically in a PDS, drawing on the previously identified data types in [Figure 9.5](#figure-9.5), the data attributes in [Figure 9.15](#figure-9.15), and the entities identified in [Figure 9.11](#figure-9.11). In [Figure 9.14](#figure-9.14), a more abstracted approach is shown looking at how data could be classified according to the four different life information concepts in [Figure 9.7](#figure-9.7).
+![Figure 9.12: Identifying the Attributes of Data](./src/figs/fig9.12-interpreting-data-as-information.jpg){#figure-9.12}
 
-<span class="editnote">renumber this figure</span>
+![Figure 9.13: Determining the Nature of a Piece of Data](./src/figs/fig9.13-determining-nature-of-data.jpg){#figure-9.13}
 
-![Figure 9.13: Identifying the Attributes of Data](./src/figs/fig9.13-interpreting-data-as-information.jpg){#figure-9.13}
-
-<span class="editnote">renumber this figure</span>
-
-![Figure 9.14: Determining the Nature of a Piece of Data](./src/figs/fig9.14-determining-nature-of-data.jpg){#figure-9.14}
-
-As part of a hack week while at BBC R&D, I build a working prototype performing basic entity identification within GDPR personal data returns. See [ARI7.1](#ari-7.1) for further details.
+As part of a hack week while at BBC R&D, I built a working prototype performing basic entity identification within GDPR personal data returns. See [ARI7.1](#ari-7.1) for further details.
 
 ### Life Information Manipulation Capabilities {#9.4.4}
 
@@ -216,11 +206,9 @@ Moving beyond the initial challenge of classifying and arranging human informati
 
 There are two ways to consider this problem - one starting with the data, and another starting with the user.
 
-Starting with the data, and considering the different types of data that a user might be able to gather from a across their digital life, I identified that each datapoint or dataset is likely to have properties which determine _what can be done with it_. A number of possibilities are shown in [Figure 9.15](#figure-9.15):
+Starting with the data, and considering the different types of data that a user might be able to gather from a across their digital life, I identified that each datapoint or dataset is likely to have properties which determine _what can be done with it_. A number of possibilities are shown in [Figure 9.14](#figure-9.14):
 
-<span class="editnote">renumber this figure</span>
-
-![Figure 9.15: Attributes of Data](./src/figs/fig9.15-data-attributes.jpg){#figure-9.15}
+![Figure 9.14: Attributes of Data](./src/figs/fig9.14-data-attributes.jpg){#figure-9.14}
 
 These attributes could then be used to determine which datapoints would be eligible for inclusion in different views (or _lenses_ [@karger2005]) of the data, such as tables, graphs, maps, lists, media thumbnail views, etc.
 
@@ -231,25 +219,19 @@ If we consider capabilities from the user's perspective, it is useful to recogni
   - actions needed for effective access [[2.1.4](#2.1.4)] such as filtering, zooming, getting detail on demand; and
   - actions inspired by the eight lenses of how people think of data [[Table 7.1](#table-7.1)] such as summarising, deriving or remixing.
 
-Having developed a large set of initial design ideas for possible actions, I worked with my BBC colleague Chris Gameson to distil this information design thinking into a 12 _data card_ designs that could encapsulate some of the most common _actions a user might want to perform_ upon personal data in a PDS. These are shown in [Figure 9.16](#figure-9.16). These had a similar purpose to the cards in my pilot study [[1.3.1](#1.3.1)] and Case Study One [[4.3.1](#4.3.1)], acting as _'things to think with'_ [@bowyer2018family].
+Having developed a large set of initial design ideas for possible actions, I worked with my BBC colleague Chris Gameson to distil this information design thinking into a 12 _data card_ designs that could encapsulate some of the most common _actions a user might want to perform_ upon personal data in a PDS. These are shown in [Figure 9.15](#figure-9.15). These had a similar purpose to the cards in my pilot study [[1.3.1](#1.3.1)] and Case Study One [[4.3.1](#4.3.1)], acting as _'things to think with'_ [@bowyer2018family].
 
-<span class="editnote">renumber this figure</span>
+![Figure 9.15: Actions One Might Perform on Life Information](./src/figs/fig9.15-data-actions.jpg){#figure-9.15}
 
-![Figure 9.16: Actions One Might Perform on Life Information](./src/figs/fig9.16-data-actions.jpg){#figure-9.16}
+As identified in chapter 5 [[5.4.3](#5.4.3); [5.5.2](#5.5.2.3)] and explored further in [6.1.3](#6.1.3), being able to ask questions of data is important to individuals. Addressing this need for interrogability in a similar approach, we produced 10 data card designs to encapsulate some of the different common questions that users might want to ask of their data, as shown in [Figure 9.16](#figure-9.16).
 
-As identified in chapter 5 [[5.4.3](#5.4.3); [5.5.2](#5.5.2.3)] and explored further in [6.1.3](#6.1.3), being able to ask questions of data is important to individuals. Addressing this need for interrogability in a similar approach, we produced 10 data card designs to encapsulate some of the different common questions that users might want to ask of their data, as shown in [Figure 9.17](#figure-9.17).
-
-<span class="editnote">renumber this figure</span>
-
-![Figure 9.17: Questions One Might Ask of Life Information](./src/figs/fig9.17-data-questions.jpg){#figure-9.17}
+![Figure 9.16: Questions One Might Ask of Life Information](./src/figs/fig9.16-data-questions.jpg){#figure-9.16}
 
 These actions and questions act as a design building blocks, a precursor that can inform the design of features for a life interface that could provide the user with new capabilities to interrogate and manipulate the data in a much more interactive way. The cards were refined and subsequently used in a Cornmarket BBC research engagement with young adults.
 
-Once information has been correctly identified semantically (using approaches such as those in [Figure 9.13](#figure-9.13) and [Figure 9.14](#figure-9.14)), and associated to entities, it then becomes possible to enrich users' search and browse capabilities by enabling the use of _**facets**_ [@televiciute2020] to allow users to precisely target a set of data points or a particular data item. An example of how this could be done is shown in [Figure 9.18](#figure-9.18), another design artefact from my work at BBC R&D. This is not a user interface mock-up but rather a three-stage _strategy_, with examples, for the different types of facets that one could offer a user to help them explore their data in powerful ways:
+Once information has been correctly identified semantically (using approaches such as those in [Figure 9.12](#figure-9.12) and [Figure 9.13](#figure-9.13)), and associated to entities, it then becomes possible to enrich users' search and browse capabilities by enabling the use of _**facets**_ [@televiciute2020] to allow users to precisely target a set of data points or a particular data item. An example of how this could be done is shown in [Figure 9.17](#figure-9.17), another design artefact from my work at BBC R&D. This is not a user interface mock-up but rather a three-stage _strategy_, with examples, for the different types of facets that one could offer a user to help them explore their data in powerful ways:
 
-<span class="editnote">renumber this figure</span>
-
-![Figure 9.18: Example Taxonomies for Life Information Navigation](./src/figs/fig9.18-taxonomies-for-navigation.png){#figure-9.18}
+![Figure 9.17: Example Taxonomies for Life Information Navigation](./src/figs/fig9.17-taxonomies-for-navigation.png){#figure-9.17}
 
 ### Digital Self Curation & Inclusive Data Flows{#9.4.5}
 
@@ -264,17 +246,13 @@ The future-centric designs and insights[^20] I have presented as part of Approac
 Approach 3 to Improving HDR: Defending User Autonomy and Hacking the Information Landscape{#9.5}
 ------------------------------------------------------
 
-<span class="editnote">renumber this figure</span>
-
-![Figure 9.19: HDR Approach 3: Defending User Autonomy and Hacking the Information Landscape](./src/figs/fig9.19-hdr-approach-3.jpg){#figure-9.19}
+![Figure 9.18: HDR Approach 3: Defending User Autonomy and Hacking the Information Landscape](./src/figs/fig9.18-hdr-approach-3.jpg){#figure-9.18}
 
 ### A Deceptive Landscape {#9.5.1}
 
-While Approach 2 [[9.3](#9.3)] focuses on designing a better future, and Approach 1 [[9.2](#9.2)] focuses on identifying and campaigning for positive changes in provider practices, there is a need for a more direct approach to tackle an urgent and evident problem head on: the active diminishing of users' agency [[8.4](#8.4.2)]. In pursuit of mass market appeal and cost reduction, there is a trend towards the _dumbing down_ of technology, which invariably leads to fewer features and less agency. Increasingly, companies encourage users to think of technology as a black box, which you cannot and should not look inside, as depicted in [Figure 9.20](#figure-9.20), and discourage users from varying their usage, digging deeper or challenging the normal way of using a product:
+While Approach 2 [[9.3](#9.3)] focuses on designing a better future, and Approach 1 [[9.2](#9.2)] focuses on identifying and campaigning for positive changes in provider practices, there is a need for a more direct approach to tackle an urgent and evident problem head on: the active diminishing of users' agency [[8.4](#8.4.2)]. In pursuit of mass market appeal and cost reduction, there is a trend towards the _dumbing down_ of technology, which invariably leads to fewer features and less agency. Increasingly, companies encourage users to think of technology as a black box, which you cannot and should not look inside, as depicted in [Figure 9.19](#figure-9.19), and discourage users from varying their usage, digging deeper or challenging the normal way of using a product:
 
-<span class="editnote">renumber this figure</span>
-
-![Figure 9.20: The Modern 'Black Box' View of Technology](./src/figs/fig9.20-black-box.png){#figure-9.20}
+![Figure 9.19: The Modern 'Black Box' View of Technology](./src/figs/fig9.19-black-box.png){#figure-9.19}
 
 This disempowering trend is seen across hardware, software and service industries, where providers attempt to **restrict the ways in which technology can be used** even after it has been purchased, for example:
 
@@ -290,7 +268,7 @@ Apple, for example, encourages users to consider technology as _magical_, rather
 
 > _"Magical design prioritises pleasing and surprising a passive user who can only use the solution as authorised."_—Cristiano Storni [@storni2014]
 
-In order to challenge this trend towards disempowered, compliant users and _protect individual autonomy_ as well as our ability to make sound judgements and hold organisations to account, direct activism and grassroots civic action is called for. This forms the core objective of this approach, which is represented in [Figure 9.19](#figure-9.19) above: to _identify_ ways in which agency is being diminished, and to find ways to _circumvent_ the new barriers in order to maintain existing levels of capability.
+In order to challenge this trend towards disempowered, compliant users and _protect individual autonomy_ as well as our ability to make sound judgements and hold organisations to account, direct activism and grassroots civic action is called for. This forms the core objective of this approach, which is represented in [Figure 9.18](#figure-9.18) above: to _identify_ ways in which agency is being diminished, and to find ways to _circumvent_ the new barriers in order to maintain existing levels of capability.
 
 It is bad enough when a particular technology blocks you from doing what you want to do, but the trend is even worse when viewed at a broader level: As the _digipower_ investigation highlighted [[Principle 6](#principle-6)], the information landscape that we inhabit as digital citizens is being manipulated to **change what we see, what we understand of the world, and what we can do, in order to manipulate our behaviour**, which can have harmful effects on democracy, agency and individual autonomy. Therefore a further goal here is to protect our ability to **experience unbiased and unmanipulated information landscapes**. A recent US Congress investigation shows how the big five use their dominant positions as device manufacturers, search engines or major Internet platforms to promote their own interests [@sisco2022]. In a paper looking at the growing manipulation of search results, Shah and Bender consider how this landscape could be protected and accountability preserved. They describe their approach as establishing _**'guardrails for the status quo'**_, and I find this phrase to be an excellent summary of what Approach 3 is trying to do [@shah2022]. At the time of concluding this thesis, August 2022, this issue of the unreliability of the social media landscape has again come to public attention, as former Twitter head of security Peiter 'Mudge' Zatko revealed his grave concerns for the security of our information infrastructure and landscape:
 
@@ -321,13 +299,11 @@ In this approach, I have highlighted how important it is for HDR reformers to **
 Approach 4 to Improving HDR: Winning Hearts and Minds: Teaching, Championing and Selling the Vision{#9.6}
 ------------------------------------------------------
 
-<span class="editnote">renumber this figure</span>
-
-![Figure 9.21: HDR Approach 4: Winning Hearts and Minds: Teaching, Championing and Selling the Vision](./src/figs/fig9.21-hdr-approach-4.jpg){#figure-9.21}
+![Figure 9.20: HDR Approach 4: Winning Hearts and Minds: Teaching, Championing and Selling the Vision](./src/figs/fig9.20-hdr-approach-4.jpg){#figure-9.20}
 
 Approach 1, the investigative activist approach [[9.3](#9.3)], and Approach 3, the digital freedom fighter approach [[9.5](#9.5)], can help with users' ecosystem understanding [Objective 3 [[8.3](#8.3)]] and ecosystem negotiability [Objective 4 [[8.4](#8.4)]]. Meanwhile, Approach 2, the disruptive interaction designer approach [[9.3](#9.3)], can help with user's direct understanding [Objective 1 [[8.1](#8.1)]] and capabilities [[Objective 2](#8.2)] over their data. But what of Objective 5 [[8.5](#8.5)]? These approaches may not have sufficient impact until and unless the goals of HDR reform become widely accepted among business leaders, citizens, journalists and politicians. And for that to be truly accepted, **better HDR must be proven to work**.
 
-The call for better Human Data Relations is a call for a radical reconfiguration of today's data world. As [Objective 5 [[8.5](#8.5)]] outlines, where new systems are needed, system builders must invest in and _see the value_ of HDR ideals (not just to individuals but to their organisations). Where new policies are needed, politicians must be persuaded that HDR's ideals are worthwhile and have public support. And most importantly for any change to occur, there must be a demand for change, and an engagement and appreciation of new HDR approaches once they become available. These are the goals of Approach 4, as illustrated in [Figure 9.21](#figure-9.21) above.
+The call for better Human Data Relations is a call for a radical reconfiguration of today's data world. As [Objective 5 [[8.5](#8.5)]] outlines, where new systems are needed, system builders must invest in and _see the value_ of HDR ideals (not just to individuals but to their organisations). Where new policies are needed, politicians must be persuaded that HDR's ideals are worthwhile and have public support. And most importantly for any change to occur, there must be a demand for change, and an engagement and appreciation of new HDR approaches once they become available. These are the goals of Approach 4, as illustrated in [Figure 9.20](#figure-9.20) above.
 
 Therefore, there is a complementary parallel trajectory of HDR reformer effort that is needed if the disruptive potential of HDR is to be realised. Across society, we must find ways to **demonstrate**, **persuade** and **prove the value** of better HDR. Collectively, we could call this **motivational work** in support of HDR reform. I have identified three aspects to this motivational work, which are explored below:
 
@@ -364,11 +340,9 @@ There are two aspects to the motivational problem of generating demand. One is m
 
 The third aspect of the motivational work in Approach 4 is that work must be done not just to create new systems and technologies that meet the HDR objectives [[7.5](#7.5)], but to **prove that human-centric HDR approaches work**. This involves both developing functional technical **proofs of concept** to test HDR design concepts such as those in Approach 2 [[9.3](#9.3)] in practice, as well as starting businesses which can explore new business models to discover which forms of value in the PDE / HDR space can be sufficient to drive the space and its players–which after all will be the engines of change in pursuing HDR–forward.
 
-As an example, development work I undertook with Stuart Wheater as part of my role in the SILVER project [@ConnectedHealthCities2017silver] was successful in building a working system to extract citizens' health data from EMIS, the medical system used by NHS GPs, and make it available as understandable and explorable timeline-based information that could be understood by support workers, drawing on the ideas of temporal PIM systems [2.2.2](#2.2.2.4). The system was extremely difficult to construct due the closed and insular nature of the different parts of the health and social care sector [[8.5.2](#8.5.2)], resistance to change, and the fragmented nature of public sector systems [@pollock2011]. Nonetheless, it was successfully trialled with support workers (using test data) and received positive feedback. It proved that silos can be broken down and life information presented in new ways. A screenshot of the interface I developed is shown in [Figure 9.22](#figure-9.22), and example videos have been published online [@bowyer2019silvervideo].
+As an example, development work I undertook with Stuart Wheater as part of my role in the SILVER project [@ConnectedHealthCities2017silver] was successful in building a working system to extract citizens' health data from EMIS, the medical system used by NHS GPs, and make it available as understandable and explorable timeline-based information that could be understood by support workers, drawing on the ideas of temporal PIM systems [2.2.2](#2.2.2.4). The system was extremely difficult to construct due the closed and insular nature of the different parts of the health and social care sector [[8.5.2](#8.5.2)], resistance to change, and the fragmented nature of public sector systems [@pollock2011]. Nonetheless, it was successfully trialled with support workers (using test data) and received positive feedback. It proved that silos can be broken down and life information presented in new ways. A screenshot of the interface I developed is shown in [Figure 9.21](#figure-9.21), and example videos have been published online [@bowyer2019silvervideo].
 
-<span class="editnote">renumber this figure</span>
-
-![Figure 9.22: SILVER Health Data Viewing Interface](./src/figs/fig9.22-silver-data-interface.png){#figure-9.22}
+![Figure 9.21: SILVER Health Data Viewing Interface](./src/figs/fig9.21-silver-data-interface.png){#figure-9.21}
 
 Across the _MyData_ and PDE / HDR space, many small businesses have been established which have demonstrated successes in different elements of pursuing the visions of MyData and HDR. For example:
 
@@ -382,18 +356,16 @@ Looking at Approach 4 as a whole, this section has shown that pursuing HDR is no
 Summation of Chapter 9, and of Section IV{#9.7}
 -----------------------------------------
 
-<span class="editnote">renumber this figure</span>
+![Figure 9.22: Summary of Generalised Change Strategies for Pursuing Better HDR, Using the ToC Model](./src/figs/fig9.22-summary-change-trajectories.jpg){#figure-9.22}
 
-![Figure 9.23: Summary of Generalised Change Strategies for Pursuing Better HDR, Using the ToC Model](./src/figs/fig9.23-summary-change-trajectories.jpg){#figure-9.23}
-
-This chapter examined the expanded research question [[7.1](#exRQ)] of how better Human Data Relations might be achieved in practice. Through detailed practical examples drawn from the peripheral research settings [[7.2OLD](#7.2OLD)] and elsewhere, and building upon the 13 [[Insights](#inset-boxes)] introduced throughout Chapters [8](#chapter-8) and [9](#chapter-9), I have illustrated and described four distinct trajectories for improving HDR. These provide practical strategies for HDR reform that could bring about better HDR.
+This chapter examined the expanded research question [[7.1](#exRQ)] of how better Human Data Relations might be achieved in practice. Through detailed practical examples drawn from the peripheral research settings [See [Section IV Introduction](#section-iv-introduction)] and elsewhere, and building upon the 13 [[Insights](#inset-boxes)] introduced throughout Chapters [8](#chapter-8) and [9](#chapter-9), I have illustrated and described four distinct trajectories for improving HDR. These provide practical strategies for HDR reform that could bring about better HDR.
 
   1. **Discovery-Driven Activism** [[9.2](#9.2); [Figure 9.2](#figure-9.2)]
   2. **Building the Human-Centric Future**  [[9.3](#9.3); [Figure 9.3](#figure-9.3)]
-  3. **Defending User Autonomy and Hacking the Information Landscape** [[9.4](#9.4); [Figure 9.19](#figure-9.19)]
-  4. **Teaching, Championing and Selling the HDR Vision** [[9.5](#9.5); [Figure 9.21](#figure-9.21)]
+  3. **Defending User Autonomy and Hacking the Information Landscape** [[9.4](#9.4); [Figure 9.18](#figure-9.18)]
+  4. **Teaching, Championing and Selling the HDR Vision** [[9.5](#9.5); [Figure 9.20](#figure-9.20)]
 
-The common elements of these four approaches are summarised in abstract in [Figure 9.23](#figure-9.23) above, which is best understood with reference to [Figure 9.1](#figure-9.1)). These common elements are positioned in the four ToC quadrants:
+The common elements of these four approaches are summarised in abstract in [Figure 9.22](#figure-9.22) above, which is best understood with reference to [Figure 9.1](#figure-9.1)). These common elements are positioned in the four ToC quadrants:
 
 - _**Learn & Discover**_ (CI): In this quadrant, individuals, researchers, activists and other stakeholders work in groups to understand data attitudes and user needs, and to gain collective knowledge of data collection and usage practices which are sometimes hidden.
 - _**Defend & Create**_ (CE): In this quadrant, activists work to ensure current HDR capabilities are not eroded, while researchers, designers, technologists and social innovators design and create new technologies, operating models, organisations and interface designs, the structures enabling a world with better HDR.

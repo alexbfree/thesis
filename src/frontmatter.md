@@ -1,8 +1,6 @@
 Abstract {#abstract .unnumbered}
 ===========
 
-<span class="editnote">review at end after changes</span>
-
 PCs, smartphones, and cloud computing have transformed the world: In our daily lives, we interact with many businesses and public services who (often to reduce costs) rely on data collection and processing rather than face-to-face user interactions to inform their decisions. This creates an _imbalance of power_ between those who hold personal data and the individuals about whom data is stored, who cannot easily see their data or examine how it is used. This _Digital Civics_ PhD research explores, from an individualist perspective, the lived experience of this imbalanced and data-centric world. Through two qualitative case studies across public and private sectors, it discovers desires for visible, understandable and useable data, and for transparent relations with data holders that enable oversight and involvement. Case Study One focuses on _Early Help_ social care: Through four workshops with supported families and social workers, perspectives on civic data use are understood. _Shared data interaction_ is explored as a means to empower individuals while maintaining an effective care relationship. Case Study Two is a three-month study exploring 10 participants' experience of using _GDPR data access rights_ to view their own data, resulting in insights into individual needs and the challenges of data-centric service relationships, and recommendations for improvement of policies and practices. Expanding upon prior work in _Personal Information Management_, _Human Data Interaction_ and _MyData_ personal data ecosystems, and informed by parallel industrial experience, a new research agenda for improving _**Human Data Relations (HDR)**_ is established. The thesis then explores the _practical pursuit_ of this agenda from an technologist's adversarial design stance. Drawing on first-hand knowledge acquired from the author's expert participation in research projects at BBC R&D and Hestia.ai/Sitra, _the landscape for future research and innovation_ is mapped out in terms of obstacles, designerly insights and activist strategies.
 
 Dedication {.unnumbered}
@@ -17,8 +15,6 @@ _In memory of my auntie Jenny Arnott (1938-2021) &mdash; a passionate traveller,
 
 Acknowledgements {.unnumbered}
 ================
-
-<span class="editnote">review at end after changes</span>
 
 No-one really knows how hard a PhD is until they are already well beyond the point of no return. It is demanding, challenging and often thankless and lonely work. You spend countless hours striving to find meaning among masses of data or iterating endlessly to concisely express complex, nebulous and elusive ideas. This endeavour is made even harder when you are a mature student with financial and parental responsibilities. At times, especially during the final unfunded writing-up period, the impacts upon my life and those around me were huge and unreasonable. For this reason, the greatest thanks of all go to my wife Joni Bowyer, who stood by me throughout, picking up the slack again and again where I could not. She endured the uncertainties and impacts upon income, time, and divided attention that this unforgiving work thrust upon our family. She also provided practical help on countless occasions with everything from poster layout to time management to editing and grammatical advice. I love you forever, Joni. Thank you.
 
@@ -52,7 +48,7 @@ I would also like to thank, in no particular order:
   - Louis Goffe, Debbie Smart, Kat Jackson, Liam Spencer, Ruth McGovern and Kyle Montague for giving their time to help run workshops with participants in the pilot study and in Case Study One;
   - Paul-Olivier Dehaye, Mike Martin, Soheil Human, Jasmine Cox, Peter Wells, Ian Forrester, Rhianne Jones, Tim Broom, Suzanne Clarke, Hannes Ricklefs, Max Leonard, Chris Gameson, Euijin Hwang, Louis Goffe, Toby Lowe, James Nicholson, Alan Mitchell, Iain Henderson, StJohn Deakins, Dalia Al-Shahrabi, Anna Scott, Sarah Knowles, and Michael Jelly, all of whom I have had the pleasure to work with, ruminate with or learn from;
   - Chris Lintott and everyone in the Oxford University/Zooniverse team for giving me the smoothest possible start in postgraduate academia before I joined Open Lab;
-  - Kellie Morrissey, Aare Puussaar, Andy Dow, Anja McCarthy, Zander Wilson, Raghda Zahran, Michael Jelly, Jay Rainey, David Williams, Paula Williams, Ben Wright, Paul Whittles, Jon Bowyer, and all the other lovely people who encouraged me and supported me along the way on this journey; and
+  - Kellie Morrissey, Aare Puussaar, Andy Dow, Anja McCarthy, Zander Wilson, Raghda Zahran, Michael Jelly, Jay Rainey, David Williams, Paula Williams, Ben Wright, Paul Whittles, Jon Bowyer, and all the other lovely people who encouraged me and supported me and my family along the way on this journey; and
   - the research participants themselves, who shall remain nameless but without which this work could not exist.
 
 Finally, I would like to thank my parents, Jim and Rosi Bowyer. You have always been there for me, whenever I needed you. Thank you for your unquestioning love and support in an ever-changing world.
@@ -65,8 +61,6 @@ This PhD was funded by the Engineering and Physical Sciences Research Council (E
 
 Lists of Tables and Figures{.unnumbered}
 ===========================
-
-<span class="editnote">review at end after changes</span>
 
 Lists of Tables by Chapter {.unnumbered .unlisted}
 --------------------------
@@ -105,8 +99,6 @@ Lists of Tables by Chapter {.unnumbered .unlisted}
 Lists of Figures by Chapter {.unnumbered .unlisted}
 ---------------------------
 
-<span class="editnote">Check all Figure Numbers</span>
-
 ### Figures in Chapter 1 {.unnumbered}
 
 - [1.1](#figure-1.1) - Poster Presentation of Case Study One at CHI 2019
@@ -137,7 +129,7 @@ Lists of Figures by Chapter {.unnumbered .unlisted}
 ### Figures in Chapter 4 {.unnumbered}
 
 - [4.1](#figure-4.1) - Participants' Shared Values Deduced from Sentence Rankings Data
-- [4.3](#figure-4.2) - Current Model of Data Interaction, and Proposed Model of Shared Data Interaction
+- [4.2](#figure-4.2) - Current Model of Data Interaction, and Proposed Model of Shared Data Interaction
 
 ### Figures in Chapter 5 {.unnumbered}
 
@@ -150,7 +142,7 @@ Lists of Figures by Chapter {.unnumbered .unlisted}
 ### Figures in Chapter 7 {.unnumbered}
 
 - [7.1](#figure-7.1) - The Two Motivations for HDR: Controlling Your Personal Data Ecosystem and Utilising Your Information About Your Life
-- [7.2OLD](#figure-7.2) - Mapping the Six Wants into Objectives for the HDR Opportunity Landscape
+- [7.2](#figure-7.2) - Mapping the Six Wants into Objectives for the HDR Opportunity Landscape
 
 ### Figures in Section IV {.unnumbered}
 
@@ -159,48 +151,48 @@ Lists of Figures by Chapter {.unnumbered .unlisted}
 ### Figures in Chapter 8 {.unnumbered}
 
 - [8. 1](#figure-8.1) - Obstacles and Resulting Insights in the HDR Opportunity Landscape
-
-
-- [8. 4](#figure-8.4) - SubsCrab: An Example Application for Ecosystem Detection and Visualisation
-- [8. 5](#figure-8.5) - Some of the Many Aspects of Metadata that Might Exist About a Datapoint or Dataset
-- [8. 6](#figure-8.6) - The Panopticon Structure of the Illinois State Penitentiary
-- [8. 7](#figure-8.7) - Human Values (from BBC R&D research)
-- [8. 8](#figure-8.8) - A Contact-and-Calendar-centric PDS Approach
-- [8. 9](#figure-8.9) - The Scattered Data Relating to a Vacation
-- [8.10](#figure-8.10) - Mock-up of a Unified Interface for a Vacation
-- [8.11](#figure-8.11) - Annotating Data with Semantic Context
+- [8. 2](#figure-8.2) - Some of the Many Aspects of Metadata that Might Exist About a Datapoint or Dataset
+- [8. 3](#figure-8.3) - The Panopticon Structure of the Illinois State Penitentiary
 
 ### Figures in Chapter 9 {.unnumbered}
 
-- [9. 1](#figure-9.1) - Theory of Change [ToC]\: The Four Dimensions of Change
-- [9. 2](#figure-9.2) - HDR Approach 1: Discovery-Driven Activism
-- [9. 3](#figure-9.3) - HDR Approach 2: Building the Human-centric Future
-- [9. 4](#figure-9.4) - Conceptual Model for a Personal Data Store System
-- [9. 5](#figure-9.5) - High Level Data Types
-- [9. 6](#figure-9.6) - Life Information Modelled as Happenings
-- [9. 7](#figure-9.7) - A Simple PDS Life Information Presentation Model
-- [9. 8](#figure-9.8) - Mock-up of Life Information Presented in a PDS Interface
-- [9. 9](#figure-9.9) - Life Partitioning Analogy using a Cluedo™ board
+- [9. 1](#figure-9.1)  - Theory of Change [ToC]\: The Four Dimensions of Change
+- [9. 2](#figure-9.2)  - HDR Approach 1: Discovery-Driven Activism
+- [9. 3](#figure-9.3)  - HDR Approach 2: Building the Human-centric Future
+- [9. 4](#figure-9.4)  - Conceptual Model for a Personal Data Store System
+- [9. 5](#figure-9.5)  - High Level Data Types
+- [9. 6](#figure-9.6)  - Life Information Modelled as Happenings
+- [9. 7](#figure-9.7)  - A Simple PDS Life Information Presentation Model
+- [9. 8](#figure-9.8)  - Mock-up of Life Information Presented in a PDS Interface
+- [9. 9](#figure-9.9)  - Life Partitioning Analogy using a Cluedo™ board
 - [9.10](#figure-9.10) - Mock-up: Browsing by Areas of Life
-- [9.11](#figure-9.11) - Identifying Entity Associations in Data
-- [9.12](#figure-9.12) - Facebook's _world2vec_ Model, Semantically Modelling Human Information from Social Media Posts on Facebook
-- [9.13](#figure-9.13) - Identifying the Attributes of Data
-- [9.14](#figure-9.14) - Determining the Nature of a Piece of Data
-- [9.15](#figure-9.15) - Attributes of Data
-- [9.16](#figure-9.16) - Actions One Might Perform on Life Information
-- [9.17](#figure-9.17) - Questions One Might Ask of Life Information
-- [9.18](#figure-9.18) - Example Taxonomies for Life Information Navigation
-- [9.19](#figure-9.19) - HDR Approach 3: Defending User Autonomy and Hacking the Information Landscape
-- [9.20](#figure-9.20) - The Modern 'Black Box' View of Technology
-- [9.21](#figure-9.21) - HDR Approach 4: Winning Hearts and Minds: Teaching, Championing and Selling the Vision
-- [9.22](#figure-9.22) - SILVER Health Data Viewing Interface
-- [9.23](#figure-9.23) - Summary of Generalised Change Strategies for Pursuing Better HDR, Using the ToC Model
+- [9.11](#figure-9.11) - Facebook's _world2vec_ Model, Semantically Modelling Human Information from Social Media Posts on Facebook
+- [9.12](#figure-9.12) - Identifying the Attributes of Data
+- [9.13](#figure-9.13) - Determining the Nature of a Piece of Data
+- [9.14](#figure-9.14) - Attributes of Data
+- [9.15](#figure-9.15) - Actions One Might Perform on Life Information
+- [9.16](#figure-9.16) - Questions One Might Ask of Life Information
+- [9.17](#figure-9.17) - Example Taxonomies for Life Information Navigation
+- [9.18](#figure-9.18) - HDR Approach 3: Defending User Autonomy and Hacking the Information Landscape
+- [9.19](#figure-9.19) - The Modern 'Black Box' View of Technology
+- [9.20](#figure-9.20) - HDR Approach 4: Winning Hearts and Minds: Teaching, Championing and Selling the Vision
+- [9.21](#figure-9.21) - SILVER Health Data Viewing Interface
+- [9.22](#figure-9.22) - Summary of Generalised Change Strategies for Pursuing Better HDR, Using the ToC Model
+
+
 
 ### Figures in Chapter 10 {.unnumbered}
 
-- [10. 1](#figure-10.1) - Life Concept Modelling
-- [10. 2](#figure-10.2) - Mock-up of a Unified TV Viewing History Interface
-
+- [10. 1](#figure-10.1)  - Life Concept Modelling
+- [10. 2](#figure-10.2)  - Mock-up of a Unified TV Viewing History Interface
+- [10. 3](#figure-10.3)  - SubsCrab: An Example Application for Ecosystem Detection and
+- [10. 4](#figure-10.4)  - The Four Levers of Infrastructural Power
+- [10. 5](#figure-10.5)  - Human Values (from BBC R&D research)
+- [10. 6](#figure-10.6)  - A Contact-and-Calendar-centric PDS Approach
+- [10. 7](#figure-10.7)  - The Scattered Data Relating to a Vacation
+- [10. 8](#figure-10.8)  - Mock-up of a Unified Interface for a Vacation
+- [10. 9](#figure-10.9)  - Annotating Data with Semantic Context
+- [10.10](#figure-10.10) - Identifying Entity Associations in Data
 
 ### Figures in 'Additional Reference Information' {.unnumbered}
 

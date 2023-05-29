@@ -9,7 +9,7 @@ For additional context, see [1.3.1](#1.3.1). The paper is on the following 13 pa
 B Ethics Approvals {#appendix-b .unnumbered}
 ------------------
 
-The following 8 pages include three different ethical approvals
+The following 8 pages include three different ethical approvals:
 
   – the original ethics approval focused on Case Study One,
   - the original ethics approval for Case Study Two, and
@@ -18,9 +18,7 @@ The following 8 pages include three different ethical approvals
 Index of Key Ideas, Insights and Contributions {#hdr-index .unnumbered}
 ===============================================
 
-<span class="editnote">check all refs once finished</span>
-
-This section serves as an index to easily locate key HDR-related concepts, ideas and contributions that this thesis contributes.
+This section serves as an index to easily locate key HDR-related concepts, ideas and contributions that this thesis contains.
 
 ### The Six Wants in Data Relations {.unnumbered .unlisted}
 
@@ -38,7 +36,7 @@ Indirect Data Relations:
 
 ### HDR Objectives {.unnumbered .unlisted}
 
-The objectives are introduced in [7.5](#7.5). They are explored in [Chapter 8](#chapter-8)]:
+The objectives are introduced in [7.5](#7.5). Their obstacles are explored in [Chapter 8](#chapter-8)], and their opportunities in [Chapter 9](#chapter-9) and in [10.1](#10.1)
 
 - Objective 1 - Data Awareness & Understanding - [8.1](#8.1)
 - Objective 2 - Data Useability<sup>[11](#fn11)</sup> - [8.2](#8.2)
@@ -68,9 +66,7 @@ The obstacles are collectively shown in [Figure 8.1](#figure-8.1) and are explai
 - Unmalleable Data - [8.2.1](#8.2.1)
 - Unrelatable Data - [8.1.1](#8.1.1)
 
-### HDR Insights {#hdr-glossary-insights .unnumbered .unlisted}
-
-Insights in [Chapter 8](#chapter-8):
+### The HDR Principles for Generative Action {#hdr-glossary-principles .unnumbered .unlisted}
 
 - [Principle 1](#principle-1) - Life Information Makes Data Relatable.
 - [Principle 2](#principle-2) - Data Needs to be United and Unified.
@@ -80,9 +76,6 @@ Insights in [Chapter 8](#chapter-8):
 - [Principle 6](#principle-6) - Data Holders use Four Levers of Infrastructural Power.
 - [Principle 7](#principle-7) - Human-centred Information Systems Must Serve Human Values, Relieve Pain and Deliver New Life Capabilities.
 - [Principle 8](#principle-8) - We Need to Teach Computers to Understand Human Information.
-
-Insights in [Chapter 9](#chapter-9):
-
 - [Principle 9](#principle-9) - Individual GDPR Requests can Compel Companies to Change Data Practices.
 - [Principle 10](#principle-10) - Collectives can Compare and Unify their Data and Use it to Demand Change.
 - [Principle 11](#principle-11) - Automating the Identification of Entities can enhance Machine Understanding and Unburden Life Interface Users.
@@ -95,27 +88,43 @@ The four approaches are collectively summarised in [9.7](#9.7), and explained an
 
 - [Approach 1](#9.3) - Discovery-Driven Activism - [9.3](#9.3), [Figure 9.2](#figure-9.2)
 - [Approach 2](#9.4) - Building the Human-centric Future - [9.4](#9.4), [Figure 9.3](#figure-9.3)
-- [Approach 3](#9.5) - Defending User Autonomy and Hacking the Information Landscape - [9.5](#9.5), [Figure 9.19](#figure-9.19)
-- [Approach 4](#9.6) - Teaching, Championing and Selling the HDR Vision - [9.6](#9.6), [Figure 9.21](#figure-9.21)
+- [Approach 3](#9.5) - Defending User Autonomy and Hacking the Information Landscape - [9.5](#9.5), [Figure 9.18](#figure-9.18)
+- [Approach 4](#9.6) - Teaching, Championing and Selling the HDR Vision - [9.6](#9.6), [Figure 9.20](#figure-9.20)
 
-### Thesis Contributions {.unnumbered .unlisted}
+### Thesis Contributions {#hdr-glossary-contributions .unnumbered .unlisted}
 
-<span class="editnote">Update this list based on updates to Chapter 1</span>
+**An Understanding of what People want from Personal Data**
 
-- [Contribution C1](#c1) - An understanding of What People Want in Direct Data Relations
-- [Contribution C2](#c2) - An Understanding of What People Want in Indirect Data Relations
-- [Contribution C3](#c3) - The Synthesis and Formulation of the Research Agenda of Human Data Relations (HDR)
-- [Contribution C4](#c4) - A clear delineation of two primary motivators for individuals seeking better HDR
-- [Contribution C5](#c5) - A map of the HDR landscape, identifying obstacles and insights
-- [Contribution C6](#c6) - Four identified trajectories for advancing Human Data Relations
-- [Contribution C7](#c7) - A reframing of data literacy for the HDR space
-- [Contribution C8](#c8) - Validation and enumeration of supported families' attitudes and needs around civic data
-- [Contribution C9](#c9) - _Shared Data Interaction_ - A proposed model for more efficient and empowering social support relationships that embraces human-centricity
-- [Contribution C10](#c10) - A model to understand the five different origins of held personal data
-- [Contribution C11](#c11) - A rich understanding of the lived experience of accessing data using GDPR rights and of motivations for GDPR data access
-- [Contribution C12](#c12) - Evidence for the impact of knowledge about data handling practices on provider trust and perceived individual power
-- [Contribution C13](#c13) - Guidance for policymakers, data holders and individuals on how to improve HDR
-- [Contribution C14](#c14) - A proto-methodology for educating individuals about held data, data access and the data ecosystem
+- [6.1](#6.1) - An understanding of What People Want in Direct Data Relations
+- [6.2](#6.2) - An Understanding of What People Want in Indirect Data Relations
+- [1.2.1](#1.2.1) and [Figure 4.1](#figure-4.1) - Enumeration of supported families’ and support workers attitudes and needs around civic data
+- [1.2.1](#1.2.1) and [Table 5.4](#table-5.4) - An Understanding of What People Want in Data relations in a commercial / GDPR context
+- [ARI4.1](#ari-fcd-types) - A model to understand family civic data
+- [5.4.4](#5.4.4) - Evidence for the impact of knowledge about data handling practices on provider trust and perceived individual power
+- [Table 5.2](#table-5.2) - A model to understand the five different origins of held personal data
+
+**Methodologies for Participatory Work around Personal Data**
+
+- [Figure 3.6](#figure-3.6) and [@bowyer2018family; [Appendix A](#appendix-a)] - Data Cards and Family Design Games
+- [1.2.2](#1.2.2) and [ARI4.3](#ari-4.3) - Storyboarding Action Cards
+- [5.2.2](#5.2.2) - A Methodology for Qualitative Interviews that Explore a User’s Personal Data (and see also the digipower report [@bowyer2022hestia])
+
+**Best Practices and Design Guidelines for Systems and Processes involving Personal Data**
+
+- [4.3.4](#4.3.4) and [4.5.3](#4.5.3) - _Shared Data Interaction_ - A proposed model for more efficient and empowering social support relationships that embraces human-centricity
+- [5.6](#5.6) - Recommendations for Policymakers, Service Providers and Individuals on Data Use
+- [1.2.3](#1.2.3) and [9.6.1](#9.6.1) - A Reframing of Data Literacy for the Sociotechnical Context
+
+**Principles for Generative Action towards Better Data Relations**
+
+See [above](#hdr-glossary-principles).
+
+**A Detailed and Actionable Research Agenda and Strategy for Empowerment and Systemic Change**
+
+- [Chapter 7](#chapter-7) - The Synthesis and Formulation of the Research Agenda of Human Data Relations (HDR)
+- [7.4](#7.4) - A clear delineation of two primary motivators for individuals seeking better HDR
+- [Figure 8.1](#figure-8.1) - A map of the HDR landscape, identifying obstacles and insights
+- [9.3](#9.3), [9.4](#9.4), [9.5](#9.5) and [9.6](#9.6) - Four identified trajectories for advancing Human Data Relations
 
 ### Major Concepts of This Thesis {.unnumbered .unlisted}
 
@@ -136,7 +145,7 @@ The four approaches are collectively summarised in [9.7](#9.7), and explained an
 - **Empowerment (in the context of data wants)** - [6.3](#6.3)
 - **Free Data Interfaces** - @bowyer2018freedata
 - **Hacking the Seams** - [Principle 12](#principle-12)
-- **Human Data Relations (HDR)** - [7.2OLD](#7.2OLD)
+- **Human Data Relations (HDR)** - [7.2](#7.2)
 - **HDR Literacy** - [9.6.1](#9.6.1)
 - **Human Information Operating System** - [8.2](#info-os)
 - **Human Information** - see Life Information and Ecosystem Information
@@ -165,8 +174,6 @@ The four approaches are collectively summarised in [9.7](#9.7), and explained an
 
 Glossary of Pre-Existing Abbreviations, Names and Terms {#glossary .unnumbered}
 ========================================================
-
-<span class="editnote">check all refs once finished</span>
 
 This section serves as a quick-reference glossary to explain abbreviations and existing terms used.
 
