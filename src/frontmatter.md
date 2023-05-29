@@ -8,14 +8,10 @@ PCs, smartphones, and cloud computing have transformed the world: In our daily l
 Dedication {.unnumbered}
 ==========
 
-<span class="goodnote">good</span>
-
 _For my children Rosie, Joey, and Zach; my nephew Elliott; and my nieces Amy and Lyla. My wish is that that you and your generation might soon experience a future where technology can truly help people and empower them to thrive, and where personal data drives human flourishing more than corporate profit. I hope that this research can contribute to a better future for you all._
 
 In memoriam {.unnumbered}
 ===========
-
-<span class="goodnote">good</span>
 
 _In memory of my auntie Jenny Arnott (1938-2021) &mdash; a passionate traveller, art & history enthusiast and kind-hearted lady who always strived to share her passions and bring happiness to others._
 
