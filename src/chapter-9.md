@@ -382,7 +382,6 @@ Looking at Approach 4 as a whole, this section has shown that pursuing HDR is no
 Summation of Chapter 9, and of Section IV{#9.7}
 -----------------------------------------
 
-<span class="editnote">rework this section so it wraps Section IV rather than Part Two</span>
 <span class="editnote">renumber this figure</span>
 
 ![Figure 9.23: Summary of Generalised Change Strategies for Pursuing Better HDR, Using the ToC Model](./src/figs/fig9.23-summary-change-trajectories.jpg){#figure-9.23}
@@ -399,7 +398,7 @@ The common elements of these four approaches are summarised in abstract in [Figu
 - _**Learn & Discover**_ (CI): In this quadrant, individuals, researchers, activists and other stakeholders work in groups to understand data attitudes and user needs, and to gain collective knowledge of data collection and usage practices which are sometimes hidden.
 - _**Defend & Create**_ (CE): In this quadrant, activists work to ensure current HDR capabilities are not eroded, while researchers, designers, technologists and social innovators design and create new technologies, operating models, organisations and interface designs, the structures enabling a world with better HDR.
 - _**Influence & Motivate**_ (IE): In this quadrant, individuals' relationships with data and with data holders, as well as data holders and policymakers' relationships, can be improved. For us, as external actors seeking change, the task is to influence the many parties by showcasing and facilitating newly created structures and capabilities, and to harness our new collective knowledge to advocate the benefits of changing data-related behaviours.
-- _**Educate & Empower**_ (II): In this quadrant, individuals' ways of thinking about data and data holders grow and evolve towards a state we could call _feeling empowered_ [[6.3](#6.3)]. This would constitute definitive progress in delivering the better HDR that I and Part One's participants called for. This change is driven through education, improving HDR literacy, and through the experience of new capabilities and changed relationships with data and with data holders. Such changed relations would empower individuals to hold a more aware and equitable position in every aspect of their digital life.
+- _**Educate & Empower**_ (II): In this quadrant, individuals' ways of thinking about data and data holders grow and evolve towards a state we could call _feeling empowered_ [[6.3](#6.3)]. This would constitute definitive progress in delivering the better HDR that I and the Case Studies' participants called for. This change is driven through education, improving HDR literacy, and through the experience of new capabilities and changed relationships with data and with data holders. Such changed relations would empower individuals to hold a more aware and equitable position in every aspect of their digital life.
 
 Taken together, these multi-pronged efforts show **how HDR could be improved in practice**, even despite the identified obstacles. The [HDR Index](#hdr-index) included at the back of this thesis provides a convenient way for future researchers, innovators, activities and other HDR reformers to quickly locate insights and designs of value within this the thesis, so that others can build on this research to pursue improved Human Data Relations.
 
@@ -418,6 +417,6 @@ Those who wish to pursue these approaches need not be technical or experts. The 
   - participation in open data, PDE, civic hacking or _MyData_ communities; or even
   - individual self-experimentation with HDR tools, rights and capabilities
 
-This concludes Part Two of the thesis. In the next and final chapter [[Chapter 10](#chapter-10)], I reflect upon the legacy and contributions of the whole thesis.
+This concludes Section IV of the thesis. In the final section, [Section V](#section-v)], the core principles of Human Data Relations are explained, followed by detailed reflections upon the viability, legacy and contributions of the HDR research agenda and of this thesis.
 
 -----

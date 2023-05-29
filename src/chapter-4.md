@@ -22,11 +22,6 @@ Case Study One: Access to Civic Data in Early Help {#chapter-4}
 > _"If you can see the invisible, then you can see the possible and provide the opportunities for trust, commitment and ways of empowering others to manage their past, present and future."_
 >—Ken Wyatt (Australian politician, teacher and equal rights campaigner)
 
-<span class="editnote">add callbacks to early on, making clear how it relates back to my lit review chapter esp wrt HDR and HCI</span>
-<span class="editnote">other changes per notes</span>
-<span class="editnote">add forward refs where useful</span>
-<span class="editnote">make stronger references to Design, and talk about what is feasible / implementable</span>
-
 This chapter describes Case Study One, which involved four 2-hour participatory co-design workshops with local authority support workers, parents and children from supported families involved with _Early Help (EH)_ programmes [see [Section II Introduction](#section-ii-research-contexts)]. Its objectives were to understand family and staff attitudes to civic data holding (RQ1 [[3.3.1](#RQ1)]) and to explore the role of data within the support relationship (per RQ2 [[3.3.2](#RQ2)]). A model of _shared data interaction_, was explored, where supported families would interact with data together with their support workers.
 
 Section [4.1](#4.1) explains the EH context in England. [4.3](#4.3) brings together prior findings from the pilot study [[4.2.2](#4.2.2)] and SILVER [see [Section II Introduction](#section-ii-research-contexts)], and explains how these understandings were used in sensitisation to establish a common ground for participants. [4.4](#4.4) reports qualitative thematic findings: that families want to be given a voice [[4.4.1](#4.4.1)], that trust can be earned through data and process transparency [[4.4.2](#4.4.2)], and that families need _meaningful_ data interaction [[4.4.3](#4.4.3)]. [[4.5](#4.5)] discusses these findings in the context of prior literature, focusing on the value of data involvement [[4.5.1](#4.5.1)], the need for human interaction [[4.5.2](#4.5.2)], and the pros and cons of the shifting of the _Locus of Decision Making (LDM)_ towards the family [[4.5.3](#4.5.3)].
@@ -561,8 +556,6 @@ Provided the individual remains engaged, informed and understands the data and p
 
 <a name="4.5.3.4">**Practical Challenges**</a>
 
-<span class="editnote">add forward refs to limitations?</span>
-
 Implementing shared data interaction would be challenging. Costs could be incurred if new equipment such as 2-in-1 devices were needed. New software interfaces would need to be commissioned, developed and purchased. Such interfaces would be technically difficult, given the fragmented care sector infrastructure [[4.1.2](#4.1.2); @copeland2015]. Identity management in this context is already challenging [@wilson2011], and child involvement requires special care [@tregeagle2008]. Support workers would need additional training both on software and hardware, this is already a current issue in the UK [@honeyman2016] and a critical one in Poland [@soja2015]. Training becomes particularly important in a system where the care workers must take on an educational role as sensemakers of digital records.
 
 Involving individual members of the public as actors within systems previously targeted to staff would likely carry fresh considerations for access control, technical support and public liability insurance. Providing personal data interfaces to the public, and new communication channels for asking questions would carry a large human resource support cost.
@@ -575,14 +568,12 @@ It would be fair to criticise human-centred state interaction as something that 
 
 > _'_[Data-centric citizen interaction] _is no longer a technological necessity, but it has become a political intention.'_—[@bridle2016]
 
-There is a need to reverse this trend, not only in practice but in political ambition, if people's interests are to be best served, and if a welfare state is to be truly _enabling_ [@miettinen2013]. By taking a more innovative approach to digital policy, it is possible that governments could be more effective in helping to involve those citizens that have become disadvantaged by the current system. A more human-centred approach could help to combat the digital divide [@kalvet2008; @steyaert2009].
+There is a need to reverse this trend, not only in practice but in political ambition, if people's interests are to be best served, and if a welfare state is to be truly _enabling_ [@miettinen2013]. By taking a more innovative approach to digital policy, it is possible that governments could be more effective in helping to involve those citizens that have become disadvantaged by the current system. A more human-centred approach could help to combat the digital divide [@kalvet2008; @steyaert2009]. Pragmatic considerations for organisations wishing to explore new more human-centric models for service user data relations are explored further in [10.2](#10.2).
 
 My proposal for shifting the LDM is theoretical; it does not provide an implementable solution that could be rolled out at scale. Instead, it can serve as a mental model to stimulate discussions about potential change. Its value is in shining a light on the positive and negative impacts upon relationship effectiveness of current data practice in EH. These findings offer imagined practices that could be more efficient, and serve as a challenge to the status quo that should encourage EH providers to question their priorities when it comes to the use of people's civic data. The primary goal of EH is to empower families to help themselves as effectively as possible, and EH's focus on data arguably works against this.
 
 Summation of Case Study One{#4.6}
 ---------------------------
-
-<span class="editnote">make stronger references to Design in intro and elsewhere, and talk about what is feasible / implementable (maybe leading into that being explored in part two)</span>
 
 Through four participatory co-design workshops with supported families and support workers in North-East England, this study highlighted five problem areas which participants perceive with current personal data practices:
 
@@ -600,7 +591,7 @@ These explorations of shared data interaction and personal data interaction show
 
 Data visualisations and summaries could serve as conversation starters and as boundary objects, enabling more effective conversations. A shift from verbal reporting to 'looking at data together' would change the dynamic of the support interaction away from 'us and them' towards an ally-based approach. Data accuracy should improve, given that for a full picture both data and dialogue is needed [@bowyer2018family]. Given the opportunity, individuals could contribute explanations, fill gaps or correct mistakes. Decision making would naturally improve through a greater focus on discussions around accurate evidence.
 
-This chapter establishes that giving the family a role could be very powerful, because visible data processing would provide them with direct evidence that they are being listened to and that their perspective is seen to matter more than 'what the computer says'. The ability to ask questions about data treats the family with greater respect. Personal data interfaces, enabling families to act independently in their own time and in contexts outside of the support interaction, would allow individuals to alleviate concerns quickly and maintain confidence that their data selves remain fair and accurate. At the same time, new opportunities could arise for use of one's own data. The adoption of such measures could facilitate the emergence of a human-centred personal data ecosystem [[2.3.4](#2.3.4)] in a civic context.
+This chapter establishes that designing new service relations that give the family a role could be very powerful, because visible data processing would provide them with direct evidence that they are being listened to and that their perspective is seen to matter more than 'what the computer says'. The ability to ask questions about data treats the family with greater respect. Personal data interfaces, enabling families to act independently in their own time and in contexts outside of the support interaction, would allow individuals to alleviate concerns quickly and maintain confidence that their data selves remain fair and accurate. At the same time, new opportunities could arise for use of one's own data. The adoption of such measures could facilitate the emergence of a human-centred personal data ecosystem [[2.3.4](#2.3.4)] in a civic context.
 
 Capabilities – or their absence – matter more than the on-screen technicalities of the data interaction. Data interfaces are limited by their operating context as to how much they can offer, but in this chapter data interaction is examined as a sociotechnical process [[2.3.3](#2.3.3)], looking beyond interface interaction to the human relationship between the individual and the state, which allows more holistic and human-centric solutions to be imagined, in line with the objectives of this thesis [[2.4](#2.4)].
 

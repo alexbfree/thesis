@@ -91,8 +91,6 @@ Due to these collaborations and the ongoing and parallel nature of many of these
 Mapping the Human Data Relations Landscape {#chapter-8}
 ==========================================
 
-<span class="editnote">Clarify Data/Information labelling in 7.5 and chapter 8)</span>
-
 > _"There are certain things you do not in good conscience do to humans. To data, you can do whatever you like."_
 >—Nikhil Sonnad (data journalist and technology commentator)
 
