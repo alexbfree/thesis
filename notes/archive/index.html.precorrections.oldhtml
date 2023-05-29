@@ -1,0 +1,395 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://unpkg.com/purecss@2.0.3/build/pure-min.css" integrity="sha384-4ZPLezkTZTsojWFhpdFembdzFudphhoOzIunR1wH6g1WQDzCAiPvDyitaK67mp0+" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://unpkg.com/purecss@2.0.3/build/buttons-min.css">
+    <script src="https://kit.fontawesome.com/cbcaa8d8ee.js" crossorigin="anonymous"></script>
+    <!--<link rel="stylesheet" href="https://use.fontawesome.com/releases/v6.1.2/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">-->
+    <link rel="stylesheet" href="styles.css">
+    <title>Understanding and Improving Human Data Relations | Alex Bowyer</title>
+  </head>
+  <body>
+
+    <div class="pure-g">
+      <div class="pure-u-1 pure-u-sm-1">
+        <div id="header">
+
+        <h2>Understanding and Improving Human Data Relations</h2>
+        <h4 class="author">A PhD thesis by Alex Bowyer
+          <a title="Twitter" class="twitter" href="https://twitter.com/alexbfree"><i class="fab fa-twitter"></i></a>
+          <a title="Google Scholar" class="scholar" href="https://scholar.google.com/citations?user=HYIqUJEAAAAJ"><i class="fa-solid fa-book"></i></a>
+          <a title="Research Website" class="mywebsite" href="http://research.alexbowyer.com"><i class="fa-solid fa-earth-europe"></i></a>
+          <a title="LinkedIn" class="linkedin" href="http://linkedin.alexbowyer.com"><i class="fa-brands fa-linkedin"></i></a>
+          <br/>
+          <span class='smallrow'><a href="https://openlab.ncl.ac.uk">Open Lab</a>, Newcastle University. 2016-2022</span>
+        </h4>
+
+        </div>
+      </div>
+    </div>
+
+    <div class="pure-g">
+      <div class="pure-u-1 pure-u-sm-1">
+        <div class="download-links margins-top">
+          <p class="centre">
+            My PhD thesis is available to read here.<br/>This is the submitted-for-viva version, and is subject to future corrections.<br/>
+            <!-- If sharing, only share the link <a href="http://thesis.alexbowyer.com/">http://thesis.alexbowyer.com/</a>-->
+            Since this has not yet been examined, please do not share it with anyone.
+          </p>
+          <p class="centre">
+            <a class="pure-button pure-button-primary" href="./html/thesis.html"><i class="fa-solid fa-earth-europe"></i> Read Online</a>
+            <!--<a class="pure-button pure-button-primary" href="./docx/thesis.docx"><i class="fas fa-download"></i> Download</a>-->
+            <a class="pure-button pure-button-primary" href="./submitted/2022-08-25-1347.docx"><i class="fas fa-file-word"></i> Download (DOCX)</a>
+            <a class="pure-button pure-button-primary" href="./submitted/2022-08-25-1347.pdf"><i class="fas fa-file-pdf"></i> Download (PDF)</a>
+          </p>
+          <p class="centre">
+            <a href="https://github.com/alexbfree/thesis/tree/master/src" class="pure-button"><i class="fab fa-github"></i> Source</a>
+          </p>
+        </div>
+      </div>
+    </div>
+
+    <div class="pure-g">
+      <div class="pure-u-1 pure-u-sm-1">
+        <div id="chapter-table">
+          <table class="pure-table">
+            <thead>
+              <tr>
+                <th>Web (click to read in browser)</th>
+
+                <th>docx</th>
+
+                <th>pdf</th>
+
+                <th>epub</th>
+
+              </tr>
+            </thead>
+
+            <tbody>
+
+              <tr>
+                <td>
+                  <a href="./html/thesis.html">Full Thesis</a>
+                </td>
+
+
+                <td>
+
+                    <a href="./submitted/2022-08-25-1347.docx">thesis.docx</a>
+
+
+
+                </td>
+
+                <td>
+
+
+                    <a href="./submitted/2022-08-25-1347.pdf">thesis.pdf</a>
+
+
+                </td>
+
+                <td>
+
+
+
+                    <a href="./epub/thesis.epub">thesis.epub</a>
+
+                </td>
+
+
+              </tr>
+
+              <tr>
+                <td>
+                  <a href="./html/frontmatter.html">Abstract, Dedication & Acknowledgements</a>
+                </td>
+
+
+                <td>
+                  <a href="./docx/frontmatter.docx">frontmatter.docx</a>
+                </td>
+
+                <td>
+                  <a href="./pdf/frontmatter.pdf">frontmatter.pdf</a>
+                </td>
+
+                <td>
+                  <a href="./epub/frontmatter.epub">frontmatter.epub</a>
+                </td>
+
+              </tr>
+
+
+              <tr>
+                <td>
+                  <a href="./html/chapter-1.html">1 Introduction</a>
+                </td>
+
+
+                <td>
+                  <a href="./docx/chapter-1.docx">chapter-1.docx</a>
+                </td>
+
+                <td>
+                  <a href="./pdf/chapter-1.pdf">chapter-1.pdf</a>
+                </td>
+
+                <td>
+                  <a href="./epub/chapter-1.epub">chapter-1.epub</a>
+                </td>
+
+
+              </tr>
+
+              <tr>
+                <td>
+                  <a href="./html/chapter-2.html">2 Literature Review</a>
+                </td>
+
+
+                <td>
+                  <a href="./docx/chapter-2.docx">chapter-2.docx</a>
+                </td>
+
+                <td>
+                  <a href="./pdf/chapter-2.pdf">chapter-2.pdf</a>
+                </td>
+
+                <td>
+                  <a href="./epub/chapter-2.epub">chapter-2.epub</a>
+                </td>
+
+
+              </tr>
+
+              <tr>
+                <td>
+                  <a href="./html/chapter-3.html">3 Methodology</a>
+                </td>
+
+
+                <td>
+                  <a href="./docx/chapter-3.docx">chapter-3.docx</a>
+                </td>
+
+                <td>
+                  <a href="./pdf/chapter-3.pdf">chapter-3.pdf</a>
+                </td>
+
+                <td>
+                  <a href="./epub/chapter-3.epub">chapter-3.epub</a>
+                </td>
+
+
+              </tr>
+
+              <tr>
+                <td>
+                  <a href="./html/chapter-4.html">4 Case Study One: Accessing and Using Civic Data in Early Help</a>
+                </td>
+
+
+                <td>
+                  <a href="./docx/chapter-4.docx">chapter-4.docx</a>
+                </td>
+
+                <td>
+                  <a href="./pdf/chapter-4.pdf">chapter-4.pdf</a>
+                </td>
+
+                <td>
+                  <a href="./epub/chapter-4.epub">chapter-4.epub</a>
+                </td>
+
+
+              </tr>
+
+              <tr>
+                <td>
+                  <a href="./html/chapter-5.html">5 Case Study Two: The Human Experience of GDPR</a>
+                </td>
+
+
+                <td>
+                  <a href="./docx/chapter-5.docx">chapter-5.docx</a>
+                </td>
+
+                <td>
+                  <a href="./pdf/chapter-5.pdf">chapter-5.pdf</a>
+                </td>
+
+                <td>
+                  <a href="./epub/chapter-5.epub">chapter-5.epub</a>
+                </td>
+
+
+              </tr>
+
+              <tr>
+                <td>
+                  <a href="./html/chapter-6.html">6 Discussion: An Understanding of Human Data Relations</a>
+                </td>
+
+
+                <td>
+                  <a href="./docx/chapter-6.docx">chapter-6.docx</a>
+                </td>
+
+                <td>
+                  <a href="./pdf/chapter-6.pdf">chapter-6.pdf</a>
+                </td>
+
+                <td>
+                  <a href="./epub/chapter-6.epub">chapter-6.epub</a>
+                </td>
+
+
+              </tr>
+
+              <tr>
+                <td>
+                  <a href="./html/chapter-7.html">7 Defining a New Field: Human Data Relations</a>
+                </td>
+
+
+                <td>
+                  <a href="./docx/chapter-7.docx">chapter-7.docx</a>
+                </td>
+
+                <td>
+                  <a href="./pdf/chapter-7.pdf">chapter-7.pdf</a>
+                </td>
+
+                <td>
+                  <a href="./epub/chapter-7.epub">chapter-7.epub</a>
+                </td>
+
+
+              </tr>
+
+              <tr>
+                <td>
+                  <a href="./html/chapter-8.html">8 Mapping the Human Data Relations Landscape</a>
+                </td>
+
+
+                <td>
+                  <a href="./docx/chapter-8.docx">chapter-8.docx</a>
+                </td>
+
+                <td>
+                  <a href="./pdf/chapter-8.pdf">chapter-8.pdf</a>
+                </td>
+
+                <td>
+                  <a href="./epub/chapter-8.epub">chapter-8.epub</a>
+                </td>
+
+
+              </tr>
+
+              <tr>
+                <td>
+                  <a href="./html/chapter-9.html">9 Practical Approaches to Improve HDR</a>
+                </td>
+
+
+                <td>
+                  <a href="./docx/chapter-9.docx">chapter-9.docx</a>
+                </td>
+
+                <td>
+                  <a href="./pdf/chapter-9.pdf">chapter-9.pdf</a>
+                </td>
+
+                <td>
+                  <a href="./epub/chapter-9.epub">chapter-9.epub</a>
+                </td>
+
+
+              </tr>
+
+              <tr>
+                <td>
+                  <a href="./html/chapter-10.html">10 Conclusion</a>
+                </td>
+
+
+                <td>
+                  <a href="./docx/chapter-10.docx">chapter-10.docx</a>
+                </td>
+
+                <td>
+                  <a href="./pdf/chapter-10.pdf">chapter-10.pdf</a>
+                </td>
+
+                <td>
+                  <a href="./epub/chapter-10.epub">chapter-10.epub</a>
+                </td>
+
+
+              </tr>
+
+
+              <tr>
+                <td>
+                  <a href="./html/additional.html">Additional Reference Information</a>
+                </td>
+
+
+                <td>
+                  <a href="./docx/additional.docx">additional.docx</a>
+                </td>
+
+                <td>
+                  <a href="./pdf/additional.pdf">additional.pdf</a>
+                </td>
+
+                <td>
+                  <a href="./epub/additional.epub">additional.epub</a>
+                </td>
+
+              </tr>
+
+              <tr>
+                <td>
+                  <a href="./html/appendices.html">Appendices & Glossary</a>
+                </td>
+
+
+                <td>
+                  <a href="./docx/appendices.docx">appendices.docx</a>
+                </td>
+
+                <td>
+                  <a href="./pdf/appendices.pdf">appendices.pdf</a>
+                </td>
+
+                <td>
+                  <a href="./epub/appendices.epub">appendices.epub</a>
+                </td>
+
+              </tr>
+
+            </tbody>
+          </table>
+
+        </div>
+      </div>
+    </div>
+
+    <div class="pure-g">
+      <div class="pure-u-1 pure-u-sm-1">
+        <h4>Last Updated: <span id="last_updated_date">Friday 26 August 2022 at 12:24</span></h4>
+        <p>
+          To load the newest version, hard refresh with Ctrl &#43; R (Windows) or ⌘ &#43; R (Mac).
+        </p>
+      </div>
+    </div>
+
+  </body>
+</html>
